@@ -105,8 +105,10 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/553
 #EXTINF:-1,TSN 3 HD
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/552
 
+#EXTINF:-1,TSN 
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/551
 
+#EXTINF:-1,TSN 
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/553
 
 #EXTINF:-1,Z_TELE
