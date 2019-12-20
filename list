@@ -31,10 +31,10 @@ http://beastiptv.tv:25461/live/q9UGpGpD5L/DzVItMvkFb/6457.ts
 
 #EXTINF:-1,V-Tele
 https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
-##EXTINF:-1,V-Tele MONTREAL HD
-#http://tv2iptv.com:8000/live/Janel/janel123/37759.m3u8
-##EXTINF:-1,V-Tele MONTREAL SD
-#http://tv2iptv.com:8000/live/Janel/janel123/25184.m3u8
+#EXTINF:-1,V-Tele MONTREAL HD
+http://tv2iptv.com:8000/live/Janel/janel123/37759.m3u8
+#EXTINF:-1,V-Tele MONTREAL SD
+http://tv2iptv.com:8000/live/Janel/janel123/25184.m3u8
 
 #EXTINF:-1,TVA OTTAWA
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/622
@@ -111,11 +111,30 @@ http://beastiptv.tv:25461/live/q9UGpGpD5L/DzVItMvkFb/6451.ts
 #EXTINF:-1,PRISE 2 (FR) | SD
 http://beastiptv.tv:25461/live/q9UGpGpD5L/DzVItMvkFb/6463.ts
 
-#EXTINF:-1,TELETOON (FR) (EAST) | HD
+#EXTINF:-1,TELETOON (EAST) | HD
 http://beastiptv.tv:25461/live/q9UGpGpD5L/DzVItMvkFb/6474.ts
-
+#EXTINF:-1,KIDS CA: TELETOON
+http://beastiptv.tv:25461/live/wally/wally123/6448.ts
 #EXTINF:-1,TELETOON
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/629
+#EXTINF:-1,FR:_Teletoon+
+http://tv2iptv.com:8000/Majid/majid123/30504
+#EXTINF:-1,FR:_Teletoon+
+http://tv2iptv.com:8000/Moyo/moyo123/30504
+#EXTINF:-1,CA: Teletoon HD
+http://abolamaster.ddns.net:25461/3w00sF13Uv/bEOCBQZODK/17592
+#EXTINF:-1,FR:_Teletoon+
+http://tv2iptv.com:8000/Dylan/Dylan123/30504
+#EXTINF:-1 tvg-ID="I75456.labs.zap2it.com" tvg-name="TELETOON HD" tvg-logo="https://s3.amazonaws.com/ok2logo/teletoon.png" group-title="CHILDREN",TELETOON HD
+http://ok2.se:8000/ClDRWBtUNJ/UEJbdB1PaE/2422
+#EXTINF:-1 tvg-ID="I17564.labs.zap2it.com" tvg-name="TELETOON HD (FR) - NOUVEAU" tvg-logo="https://s3.amazonaws.com/ok2logo/FRENCH/TELETOON.png" group-title="FRENCH",TELETOON HD (FR) - NOUVEAU
+http://ok2.se:8000/ClDRWBtUNJ/UEJbdB1PaE/46743
+
+#EXTINF:-1,FR:_Cartoon_Network
+http://tv2iptv.com:8000/Dylan/Dylan123/30503
+#EXTINF:-1,FR:_CHASSE&PECHE
+http://tv2iptv.com:8000/Dylan/Dylan123/30547
+
 
 #EXTINF:-1,Historia FR 
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/672
