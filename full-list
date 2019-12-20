@@ -1,8 +1,11 @@
 #EXTM3U
 
-#EXTINF:-1,ICI Tele Montreal (Geo)
-https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_5000.m3u8
+##EXTINF:-1,ICI Tele Montreal (Geo)
+##https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_5000.m3u8
+##EXTINF:-1,ICI Tele Ottawa-Gatineau (Geo)
+#https://rcavlive.akamaized.net/hls/live/664046/cancboft/master_2500.m3u8
 
+#EXTINF:-1, -----Francais-----
 #EXTINF:-1, ICI Montreal HD
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/641
 
@@ -14,9 +17,6 @@ http://tv2iptv.com:8000/live/Janel/janel123/37763.m3u8
 
 #EXTINF:-1,ICI TELE FHD
 http://tv2iptv.com:8000/live/Janel/janel123/37762.m3u8
-
-#EXTINF:-1,ICI Tele Ottawa-Gatineau (Geo)
-https://rcavlive.akamaized.net/hls/live/664046/cancboft/master_2500.m3u8
 
 #EXTINF:-1,ICI RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
@@ -264,8 +264,8 @@ https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:nbc.smil/playlist.m3u8
 #EXTINF:-1,CNN
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/706
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/PlutoTV_500x500.png","Adult" Eye Candy (18+)
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/53b1c003eded29524e1deb97/3063648/master.m3u8?terminate=false&deviceId=f326520d-7599-402b-adc7-3b65e7a93a7d&deviceVersion=63.0.3368.71&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceType=web&deviceMake=Opera&sid=315c3556-332a-4996-806f-765ee9db752b&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&deviceDNT=0&deviceModel=Opera&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=
+##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/PlutoTV_500x500.png","Adult" Eye Candy (18+)
+#http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/53b1c003eded29524e1deb97/3063648/master.m3u8?terminate=false&deviceId=f326520d-7599-402b-adc7-3b65e7a93a7d&deviceVersion=63.0.3368.71&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceType=web&deviceMake=Opera&sid=315c3556-332a-4996-806f-765ee9db752b&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&deviceDNT=0&deviceModel=Opera&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D0WeMID.png",Private HD
 https://fluxustv.blogspot.com@bit.ly/PrivateHD?.m3u8
