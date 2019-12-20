@@ -112,18 +112,10 @@ http://beastiptv.tv:25461/live/q9UGpGpD5L/DzVItMvkFb/6451.ts
 http://beastiptv.tv:25461/live/q9UGpGpD5L/DzVItMvkFb/6463.ts
 
 #EXTINF:-1,CA: TELETOON FRENCH
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/629
-#EXTINF:-1,FR:Teletoon
-http://tv.lavanatv.net:30003/gZs7m3xqoj/amn0gIcKhk/945
-#EXTINF:-1,PL:TeleToon  HD
-http://tv.lavanatv.net:30003/gZs7m3xqoj/amn0gIcKhk/2497
-
+#http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/629
 #EXTINF:-1,TELETOON (EAST) | HD
 http://beastiptv.tv:25461/live/q9UGpGpD5L/DzVItMvkFb/6474.ts
-#EXTINF:-1,KIDS CA: TELETOON
-http://beastiptv.tv:25461/live/wally/wally123/6448.ts
-#EXTINF:-1,FR:_Teletoon+
-http://tv2iptv.com:8000/Majid/majid123/30504
+
 #EXTINF:-1,CA:Teletoon HD
 http://tv.lavanatv.net:30003/gZs7m3xqoj/amn0gIcKhk/3058
 #EXTINF:-1,FR:_Teletoon+
