@@ -5,8 +5,8 @@
 ##EXTINF:-1,ICI Tele Ottawa-Gatineau (Geo)
 #https://rcavlive.akamaized.net/hls/live/664046/cancboft/master_2500.m3u8
 
-#EXTINF:-1, -----Francais-----
-#EXTINF:-1, ICI Montreal HD
+#EXTINF:-1,-----Francais-----
+#EXTINF:-1,ICI Montreal HD
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/641
 
 #EXTINF:-1,ICI_MONTREAL
@@ -33,35 +33,28 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/666
 #EXTINF:-1,V-Tele
 https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
 
-#EXTINF:-1,V-Tele MONTREAL HD
-http://tv2iptv.com:8000/live/Janel/janel123/37759.m3u8
-
-#EXTINF:-1,V-Tele MONTREAL SD
-http://tv2iptv.com:8000/live/Janel/janel123/25184.m3u8
+##EXTINF:-1,V-Tele MONTREAL HD
+#http://tv2iptv.com:8000/live/Janel/janel123/37759.m3u8
+##EXTINF:-1,V-Tele MONTREAL SD
+#http://tv2iptv.com:8000/live/Janel/janel123/25184.m3u8
 
 #EXTINF:-1,TVA OTTAWA
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/622
 
-#EXTINF:-1,TVA FHD
-http://tv2iptv.com:8000/live/Janel/janel123/37761.m3u8
-
-#EXTINF:-1,LCN
-http://tv2iptv.com:8000/live/Janel/janel123/25273.m3u8
-
+##EXTINF:-1,LCN
+#http://tv2iptv.com:8000/live/Janel/janel123/25273.m3u8
 #EXTINF:-1,LCN
 http://tv2iptv.com:8000/Moyo/moyo123/25273
 
 #EXTINF:-1,TVA SPORTS
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/620
 
-#EXTINF:-1,TVA SPORTS SD
-http://tv2iptv.com:8000/live/Janel/janel123/25189.m3u8
-
-#EXTINF:-1,TVA SPORTS HD
-http://tv2iptv.com:8000/live/Janel/janel123/25187.m3u8
-
-#EXTINF:-1,TVA SPORTS
-http://tv2iptv.com:8000/Moyo/moyo123/25187
+##EXTINF:-1,TVA SPORTS SD
+#http://tv2iptv.com:8000/live/Janel/janel123/25189.m3u8
+##EXTINF:-1,TVA SPORTS HD
+#http://tv2iptv.com:8000/live/Janel/janel123/25187.m3u8
+##EXTINF:-1,TVA SPORTS
+#http://tv2iptv.com:8000/Moyo/moyo123/25187
 
 #EXTINF:-1,RDS
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/640
@@ -105,13 +98,13 @@ http://tv2iptv.com:8000/live/Janel/janel123/25365.m3u8
 #EXTINF:-1,CANAL_D
 http://tv2iptv.com:8000/Moyo/moyo123/25365
 
-#EXTINF:-1,TELETOON FRENCH
+#EXTINF:-1,TELETOON
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/629
 
-#EXTINF:-1 tvg-name="CA: CARTOON NETWORK" tvg-logo="",CA: CARTOON NETWORK
+#EXTINF:-1,CARTOON NETWORK
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/715
 
-#EXTINF:-1, Historia FR 
+#EXTINF:-1,Historia FR 
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/672
 
 #EXTINF:-1,SUPER ECRAN 1
@@ -135,13 +128,13 @@ http://tv2iptv.com:8000/live/Janel/janel123/57392.m3u8
 #EXTINF:-1,SUPER_ECRAN_4
 http://tv2iptv.com:8000/live/Janel/janel123/25213.m3u8
 
-#EXTINF:-1 tvg-name="CA: FIGHT NETWORK" tvg-logo="",CA: FIGHT NETWORK
+#EXTINF:-1,FIGHT NETWORK
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/682
 
-#EXTINF:-1 tvg-name="CA: HISTORY 2" tvg-logo="",CA: HISTORY 2
+#EXTINF:-1,HISTORY 2
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/672
 
-#EXTINF:-1 tvg-name="CA: HISTORY CHANNEL" tvg-logo="",CA: HISTORY CHANNEL
+#EXTINF:-1,HISTORY CHANNEL
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/669
 
 #EXTINF:-1,SPORTSNET 360 HD
@@ -174,22 +167,22 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/564
 #EXTINF:-1,HBO 2
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/671
 
-#EXTINF:-1 tvg-name="CA: TMN 1" tvg-logo="",CA: TMN 1
+#EXTINF:-1,TMN 1
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/627
-#EXTINF:-1 tvg-name="CA: TMN 2" tvg-logo="",CA: TMN 2
+#EXTINF:-1,TMN 2
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/626
-#EXTINF:-1 tvg-name="CA: TMN 3" tvg-logo="",CA: TMN 3
+#EXTINF:-1,TMN 3
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/625
-#EXTINF:-1 tvg-name="CA: TMN 4" tvg-logo="",CA: TMN 4
+#EXTINF:-1,TMN 4
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/624
 
-#EXTINF:-1 tvg-name="CA: WILD TV" tvg-logo="",CA: WILD TV
+#EXTINF:-1,WILD TV
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/746
 
-#EXTINF:-1 tvg-name="CA: DISNEY FRENCH" tvg-logo="",CA: DISNEY FRENCH
+#EXTINF:-1,DISNEY FRENCH
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/690
 
-#EXTINF:-1 tvg-name="CA: DISNEY JUNIOR" tvg-logo="",CA: DISNEY JUNIOR
+#EXTINF:-1,DISNEY JUNIOR
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/689
 
 #EXTINF:-1,FOX EAST
@@ -249,10 +242,7 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png",Red Bull TV (Opt-1)
 https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png",CBC Montreal (Geo)
-https://cbclivedai3-i.akamaihd.net/hls/live/566976/event2/CBMT/master5.m3u8
-
-#EXTINF:-1,CBC OTTAWA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png",CBC OTTAWA
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/712
 
 #EXTINF:-1,CBS EAST
@@ -263,9 +253,6 @@ https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:nbc.smil/playlist.m3u8
 
 #EXTINF:-1,CNN
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/706
-
-##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/PlutoTV_500x500.png","Adult" Eye Candy (18+)
-#http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/53b1c003eded29524e1deb97/3063648/master.m3u8?terminate=false&deviceId=f326520d-7599-402b-adc7-3b65e7a93a7d&deviceVersion=63.0.3368.71&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceType=web&deviceMake=Opera&sid=315c3556-332a-4996-806f-765ee9db752b&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&deviceDNT=0&deviceModel=Opera&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D0WeMID.png",Private HD
 https://fluxustv.blogspot.com@bit.ly/PrivateHD?.m3u8
