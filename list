@@ -8,82 +8,82 @@
 http://tv2iptv.com:8000/live/Janel/janel123/25280.m3u8
 #EXTINF:-1 group-title="Quebec FR Base",Ici Radio Canada Montreal HD
 http://tv2iptv.com:8000/live/Janel/janel123/37763.m3u8
-#EXTINF:-1,ICI TELE FHD
+#EXTINF:-1 group-title="Quebec FR Base",ICI TELE FHD
 http://tv2iptv.com:8000/live/Janel/janel123/37762.m3u8
-#EXTINF:-1,ICI MONTREAL
+#EXTINF:-1 group-title="Quebec FR Base",ICI MONTREAL
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/666
-#EXTINF:-1,CA: ICI MONTREAL (FR) | SD
+#EXTINF:-1 group-title="Quebec FR Base",ICI MONTREAL | SD
 http://beastiptv.tv:25461/live/q9UGpGpD5L/DzVItMvkFb/6456.ts
-#EXTINF:-1,ICI RDI
+#EXTINF:-1 group-title="Quebec FR Base",ICI RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
-#EXTINF:-1,RDI
+#EXTINF:-1 group-title="Quebec FR Base",RDI
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/641
-#EXTINF:-1,ICI RDI
+#EXTINF:-1 group-title="Quebec FR Base",ICI RDI
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/665
-#EXTINF:-1,ICI RDI (FR) | SD
+#EXTINF:-1 group-title="Quebec FR Base",ICI RDI | SD
 http://beastiptv.tv:25461/live/q9UGpGpD5L/DzVItMvkFb/6457.ts
-#EXTINF:-1,V-Tele
+#EXTINF:-1 group-title="Quebec FR Base",V-Tele
 https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
-##EXTINF:-1,V-Tele MONTREAL HD
+#EXTINF:-1 group-title="Quebec FR Base",V-Tele MONTREAL | HD
 #http://tv2iptv.com:8000/live/Janel/janel123/37759.m3u8
-##EXTINF:-1,V-Tele MONTREAL SD
+##EXTINF:-1,V-Tele MONTREAL | SD
 #http://tv2iptv.com:8000/live/Janel/janel123/25184.m3u8
-#EXTINF:-1,TVA OTTAWA
+#EXTINF:-1 group-title="Quebec FR Base",TVA Gatinea/OTTAWA
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/622
-#EXTINF:-1,TVA GATINEAU (FR) | HD
+#EXTINF:-1 group-title="Quebec FR Base",TVA GATINEAU | HD
 http://beastiptv.tv:25461/live/q9UGpGpD5L/DzVItMvkFb/6472.ts
-#EXTINF:-1,TVA MONTREAL (FR)
+#EXTINF:-1 group-title="Quebec FR Base",TVA MONTREAL
 http://beastiptv.tv:25461/live/q9UGpGpD5L/DzVItMvkFb/6473.ts
-##EXTINF:-1,LCN
+#EXTINF:-1 group-title="Quebec FR Base",LCN
 #http://tv2iptv.com:8000/live/Janel/janel123/25273.m3u8
-#EXTINF:-1,LCN
+#EXTINF:-1 group-title="Quebec FR Base",LCN
 http://tv2iptv.com:8000/Moyo/moyo123/25273
-#EXTINF:-1,LCN (FR) | SD
+#EXTINF:-1 group-title="Quebec FR Base",LCN | SD
 http://beastiptv.tv:25461/live/q9UGpGpD5L/DzVItMvkFb/6459.ts
-#EXTINF:-1,|CA| ICI MONTREAL
+#EXTINF:-1 group-title="Quebec FR Base",ICI MONTREAL
 http://tv.sigma-iptv.com:7000/45905/13543107/575542807
-#EXTINF:-1,|CA| LCN
+#EXTINF:-1 group-title="Quebec FR Base",LCN
 http://tv.sigma-iptv.com:7000/45905/13543107/575542815
-#EXTINF:-1,|CA| LCN HD
+#EXTINF:-1 group-title="Quebec FR Base",LCN | HD
 http://tv.sigma-iptv.com:7000/45905/13543107/575542816
-#EXTINF:-1,|CA| METEO
+#EXTINF:-1 group-title="Quebec FR Base",METEO
 http://tv.sigma-iptv.com:7000/45905/13543107/575542822
-#EXTINF:-1,|CA| V SD
+#EXTINF:-1 group-title="Quebec FR Base",V | SD
 http://tv.sigma-iptv.com:7000/45905/13543107/575542858
-#EXTINF:-1,|CA| RDI SD 
+#EXTINF:-1 group-title="Quebec FR Base",RDI | SD
 http://tv.sigma-iptv.com:7000/45905/13543107/575542859
-#EXTINF:-1,|CA| MONTREAL 3 / TVA WEST
+#EXTINF:-1 group-title="Quebec FR Base",TVA
 http://tv.sigma-iptv.com:7000/45905/13543107/575542826
 
 
 #EXTINF:-1,== Quebec Avance====================
-#EXTINF:-1 group-title="Quebec Avance", ACTION
+#EXTINF:-1 group-title="Quebec Avance",ACTION
 http://tv.sigma-iptv.com:7000/45905/13543107/575542675
-#EXTINF:-1,|CA| CANAL D HD
+#EXTINF:-1 group-title="Quebec Avance",CANAL D HD
 http://tv.sigma-iptv.com:7000/45905/13543107/575542694
-#EXTINF:-1,|CA| CANAL VIE
+#EXTINF:-1 group-title="Quebec Avance",CANAL VIE
 http://tv.sigma-iptv.com:7000/45905/13543107/575542696
-#EXTINF:-1,Z_TELE
+#EXTINF:-1,#EXTINF:-1 group-title="Quebec Avance",Z_TELE
 http://tv2iptv.com:8000/Moyo/moyo123/25170
-#EXTINF:-1,Z TELE (FR) | SD
+#EXTINF:-1 group-title="Quebec Avance",Z TELE | SD
 http://beastiptv.tv:25461/live/q9UGpGpD5L/DzVItMvkFb/6481.ts
-#EXTINF:-1,CANAL_D
+#EXTINF:-1 group-title="Quebec Avance",CANAL_D
 http://tv2iptv.com:8000/live/Janel/janel123/25365.m3u8
-#EXTINF:-1,CANAL_D
+#EXTINF:-1 group-title="Quebec Avance",CANAL_D
 http://tv2iptv.com:8000/Moyo/moyo123/25365
-#EXTINF:-1,CANAL D (FR) | SD
+#EXTINF:-1 group-title="Quebec Avance",CANAL D | SD
 http://beastiptv.tv:25461/live/q9UGpGpD5L/DzVItMvkFb/6451.ts
-#EXTINF:-1,PRISE 2 (FR) | SD
+#EXTINF:-1 group-title="Quebec Avance",PRISE 2 | SD
 http://beastiptv.tv:25461/live/q9UGpGpD5L/DzVItMvkFb/6463.ts
-#EXTINF:-1,Historia FR 
+#EXTINF:-1 group-title="Quebec Avance",Historia FR 
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/672
-#EXTINF:-1,HISTORIA (FR) |HD
+#EXTINF:-1 group-title="Quebec Avance",HISTORIA FR | HD
 http://beastiptv.tv:25461/live/q9UGpGpD5L/DzVItMvkFb/6455.ts
-#EXTINF:-1,|CA| FRISSON
+#EXTINF:-1 group-title="Quebec Avance",FRISSON
 http://tv.sigma-iptv.com:7000/45905/13543107/575542784
-#EXTINF:-1,|CA| Serie +O
+#EXTINF:-1 group-title="Quebec Avance",Serie +
 http://tv.sigma-iptv.com:7000/45905/13543107/575542864
-#EXTINF:-1,|CA| Z Tele 
+#EXTINF:-1 group-title="Quebec Avance",Z Tele
 http://tv.sigma-iptv.com:7000/45905/13543107/575542948
 
 
@@ -411,3 +411,4 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/641
 ##https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_5000.m3u8
 #EXTINF:-1,Fonctionne Pas:ICI Tele Ottawa-Gatineau (Geo)
 #https://rcavlive.akamaized.net/hls/live/664046/cancboft/master_2500.m3u8
+
