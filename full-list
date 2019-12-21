@@ -33,8 +33,8 @@ http://tv.sigma-iptv.com:7000/45905/13543107/575542675
 http://tv.sigma-iptv.com:7000/45905/13543107/575542694
 #EXTINF:-1 group-title="2 - Quebec Specialise",CANAL VIE
 http://tv.sigma-iptv.com:7000/45905/13543107/575542696
-#EXTINF:-1,#EXTINF:-1 group-title="2 - Quebec Specialise",Z_TELE
-http://tv2iptv.com:8000/Moyo/moyo123/25170
+#EXTINF:-1,#EXTINF:-1 group-title="2 - Quebec Specialise",Z TELE
+http://interlatins.com:48000/astrid/12345/2439
 #EXTINF:-1 group-title="2 - Quebec Specialise",CANAL D - Liens - 1
 http://beastiptv.tv:25461/live/q9UGpGpD5L/DzVItMvkFb/6451.ts
 #EXTINF:-1 group-title="2 - Quebec Specialise",PRISE 2 | SD
@@ -69,6 +69,19 @@ http://tv.sigma-iptv.com:7000/45905/13543107/575542911
 http://tv.sigma-iptv.com:7000/45905/13543107/575542841
 #EXTINF:-1 group-title="3 - Kids",DISNEY JR
 http://tv.sigma-iptv.com:7000/45905/13543107/575542967
+
+#EXTINF:-1 group-title="3 - Kids",CARTOON NETWORK
+http://www.sansat.net:25461/telemak_pllumi/XlJSc8Zded/34678
+#EXTINF:-1 group-title="3 - Kids",DISNEY CANADA
+http://www.sansat.net:25461/telemak_pllumi/XlJSc8Zded/34637
+#EXTINF:-1 group-title="3 - Kids",DISNEY JR
+http://www.sansat.net:25461/telemak_pllumi/XlJSc8Zded/34636
+#EXTINF:-1 group-title="3 - Kids",NICK
+http://www.sansat.net:25461/telemak_pllumi/XlJSc8Zded/34580
+#EXTINF:-1 group-title="3 - Kids",TELE TOON EAST
+http://www.sansat.net:25461/telemak_pllumi/XlJSc8Zded/34546
+#EXTINF:-1 group-title="3 - Kids",TELE TOON WEST
+http://www.sansat.net:25461/telemak_pllumi/XlJSc8Zded/34545
 
 
 #EXTINF:-1 group-title="4 - Sports FR",TVA SPORTS - liens - 1
@@ -397,7 +410,6 @@ http://tv2iptv.com:8000/live/Janel/janel123/25216.m3u8
 http://tv2iptv.com:8000/live/Janel/janel123/25215.m3u8
 #EXTINF:-1 group-title="9 - Ne Fonctionne Pas"SUPER_ECRAN_3
 http://tv2iptv.com:8000/live/Janel/janel123/57392.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D0WeMID.png" group-title="10 - XXX",:Private HD
 https://fluxustv.blogspot.com@bit.ly/PrivateHD?.m3u8
