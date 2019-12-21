@@ -108,40 +108,57 @@ http://tv.sigma-iptv.com:7000/45905/13543107/575542967
 
 #EXTINF:-1,== Sport FR ======================
 
-#EXTINF:-1 group-title="4 - Sports FR",TVA SPORTS1
+#EXTINF:-1 group-title="4 - Sports FR",TVA SPORTS_1
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/620
-#EXTINF:-1 group-title="4 - Sports FR",TVA SPORTS 3| SD
+
+#EXTINF:-1 group-title="4 - Sports FR",TVA SPORTS_2
 #http://tv2iptv.com:8000/live/Janel/janel123/25189.m3u8
-#EXTINF:-1 group-title="4 - Sports FR",TVA SPORTS 4| HD
+
+#EXTINF:-1 group-title="4 - Sports FR",TVA SPORTS | HD
 #http://tv2iptv.com:8000/live/Janel/janel123/25187.m3u8
-#EXTINF:-1 group-title="4 - Sports FR",TVA SPORTS2
+
+#EXTINF:-1 group-title="4 - Sports FR",TVA SPORTS_3
 #http://tv2iptv.com:8000/Moyo/moyo123/25187
-#EXTINF:-1 group-title="4 - Sports FR",RDS | SD5
-http://tv.sigma-iptv.com:7000/45905/13543107/575542860
-#EXTINF:-1 group-title="4 - Sports FR",RDS2 | SD
-http://tv.sigma-iptv.com:7000/45905/13543107/575542861
-#EXTINF:-1 group-title="4 - Sports FR",RDS INFO3
-http://tv.sigma-iptv.com:7000/45905/13543107/575542862
-#EXTINF:-1 group-title="4 - Sports FR",RDS1
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/640
-#EXTINF:-1 group-title="4 - Sports FR",RDS2
-http://tv2iptv.com:8000/Moyo/moyo123/25238
-#EXTINF:-1 group-title="4 - Sports FR",RDS3
-http://tv2iptv.com:8000/live/Janel/janel123/25238.m3u8
-#EXTINF:-1 group-title="4 - Sports FR",RDS 4| SD
-http://beastiptv.tv:25461/live/q9UGpGpD5L/DzVItMvkFb/6464.ts
-#EXTINF:-1 group-title="4 - Sports FR",RDS 2
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/639
-#EXTINF:-1 group-title="4 - Sports FR",RDS 2 | SD
-http://beastiptv.tv:25461/live/q9UGpGpD5L/DzVItMvkFb/6465.ts
-#EXTINF:-1 group-title="4 - Sports FR",RDS_INFO1
-http://tv2iptv.com:8000/live/Janel/janel123/25236.m3u8
-#EXTINF:-1 group-title="4 - Sports FR",RDS INFO 2| SD
-http://beastiptv.tv:25461/live/q9UGpGpD5L/DzVItMvkFb/6466.ts
-#EXTINF:-1 group-title="4 - Sports FR",TVA Sport 1| SD 
+
+#EXTINF:-1 group-title="4 - Sports FR",TVA Sport 4
 http://tv.sigma-iptv.com:7000/45905/13543107/575542930
-#EXTINF:-1 group-title="4 - Sports FR",TVA Sport 2| SD 
+
+#EXTINF:-1 group-title="4 - Sports FR",TVA Sport 5 
 http://tv.sigma-iptv.com:7000/45905/13543107/575542932
+
+#EXTINF:-1 group-title="4 - Sports FR",RDS 1
+http://tv.sigma-iptv.com:7000/45905/13543107/575542860
+
+#EXTINF:-1 group-title="4 - Sports FR",RDS 2
+http://tv.sigma-iptv.com:7000/45905/13543107/575542861
+
+#EXTINF:-1 group-title="4 - Sports FR",RDS 3
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/640
+
+#EXTINF:-1 group-title="4 - Sports FR",RDS 4
+http://tv2iptv.com:8000/Moyo/moyo123/25238
+
+#EXTINF:-1 group-title="4 - Sports FR",RDS 5
+http://tv2iptv.com:8000/live/Janel/janel123/25238.m3u8
+
+#EXTINF:-1 group-title="4 - Sports FR",RDS 6
+http://beastiptv.tv:25461/live/q9UGpGpD5L/DzVItMvkFb/6464.ts
+
+#EXTINF:-1 group-title="4 - Sports FR",RDS 7
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/639
+
+#EXTINF:-1 group-title="4 - Sports FR",RDS 8
+http://beastiptv.tv:25461/live/q9UGpGpD5L/DzVItMvkFb/6465.ts
+
+#EXTINF:-1 group-title="4 - Sports FR",RDS INFO_1
+http://tv.sigma-iptv.com:7000/45905/13543107/575542862
+
+#EXTINF:-1 group-title="4 - Sports FR",RDS_INFO_2
+http://tv2iptv.com:8000/live/Janel/janel123/25236.m3u8
+
+#EXTINF:-1 group-title="4 - Sports FR",RDS INFO_3
+http://beastiptv.tv:25461/live/q9UGpGpD5L/DzVItMvkFb/6466.ts
+
 #EXTINF:-1 group-title="4 - Sports FR",Chasse et Peche
 http://tv.sigma-iptv.com:7000/45905/13543107/575542968
 
