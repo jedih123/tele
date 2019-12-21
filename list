@@ -57,7 +57,7 @@ http://tv.sigma-iptv.com:7000/45905/13543107/575542826
 
 
 #EXTINF:-1,== Quebec Avance====================
-#EXTINF:-1,|CA| ACTION
+#EXTINF:-1 group-title="Quebec Avance", ACTION
 http://tv.sigma-iptv.com:7000/45905/13543107/575542675
 #EXTINF:-1,|CA| CANAL D HD
 http://tv.sigma-iptv.com:7000/45905/13543107/575542694
