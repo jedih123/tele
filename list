@@ -70,6 +70,19 @@ http://tv.sigma-iptv.com:7000/45905/13543107/575542841
 #EXTINF:-1 group-title="3 - Kids",DISNEY JR
 http://tv.sigma-iptv.com:7000/45905/13543107/575542967
 
+#EXTINF:-1 group-title="3 - Kids",CARTOON NETWORK
+http://www.sansat.net:25461/telemak_pllumi/XlJSc8Zded/34678
+#EXTINF:-1 group-title="3 - Kids",DISNEY CANADA
+http://www.sansat.net:25461/telemak_pllumi/XlJSc8Zded/34637
+#EXTINF:-1 group-title="3 - Kids",DISNEY JR
+http://www.sansat.net:25461/telemak_pllumi/XlJSc8Zded/34636
+#EXTINF:-1 group-title="3 - Kids",NICK
+http://www.sansat.net:25461/telemak_pllumi/XlJSc8Zded/34580
+#EXTINF:-1 group-title="3 - Kids",TELE TOON EAST
+http://www.sansat.net:25461/telemak_pllumi/XlJSc8Zded/34546
+#EXTINF:-1 group-title="3 - Kids",TELE TOON WEST
+http://www.sansat.net:25461/telemak_pllumi/XlJSc8Zded/34545
+
 
 #EXTINF:-1 group-title="4 - Sports FR",TVA SPORTS - liens - 1
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/620
