@@ -408,9 +408,9 @@ http://tv.sigma-iptv.com:7000/45905/13543107/575542899
 #EXTINF:-1 group-title="9 - Ne Fonctionne Pas",ICI Montreal | HD
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/641
 #EXTINF:-1 group-title="9 - Ne Fonctionne Pas",ICI Tele Montreal (Geo)
-##https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_5000.m3u8
+https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_5000.m3u8
 #EXTINF:-1 group-title="9 - Ne Fonctionne Pas",ICI Tele Ottawa-Gatineau (Geo)
-#https://rcavlive.akamaized.net/hls/live/664046/cancboft/master_2500.m3u8
+https://rcavlive.akamaized.net/hls/live/664046/cancboft/master_2500.m3u8
 
 
 
