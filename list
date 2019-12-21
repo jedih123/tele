@@ -1,9 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1,== 1 - Quebec Base====================
-
-
 #EXTINF:-1 group-title="1 - Quebec Base",ICI_MONTREAL
 http://tv2iptv.com:8000/live/Janel/janel123/25280.m3u8
 #EXTINF:-1 group-title="1 - Quebec Base",Ici Radio Canada Montreal HD
@@ -56,7 +53,6 @@ http://tv.sigma-iptv.com:7000/45905/13543107/575542859
 http://tv.sigma-iptv.com:7000/45905/13543107/575542826
 
 
-#EXTINF:-1,== Quebec Specialise====================
 #EXTINF:-1 group-title="2 - Quebec Specialise",ACTION
 http://tv.sigma-iptv.com:7000/45905/13543107/575542675
 #EXTINF:-1 group-title="2 - Quebec Specialise",CANAL D HD
@@ -85,7 +81,6 @@ http://tv.sigma-iptv.com:7000/45905/13543107/575542864
 http://tv.sigma-iptv.com:7000/45905/13543107/575542948
 
 
-#EXTINF:-1,== Kids====================
 #EXTINF:-1 group-title="3 - Kids",TELETOON (E)N| HD
 http://beastiptv.tv:25461/live/q9UGpGpD5L/DzVItMvkFb/6474.ts
 #EXTINF:-1 group-title="3 - Kids",CARTOON NETWORK
@@ -105,8 +100,6 @@ http://tv.sigma-iptv.com:7000/45905/13543107/575542841
 #EXTINF:-1 group-title="3 - Kids",DISNEY JR
 http://tv.sigma-iptv.com:7000/45905/13543107/575542967
 
-
-#EXTINF:-1,== Sport FR ======================
 
 #EXTINF:-1 group-title="4 - Sports FR",TVA SPORTS_1
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/620
