@@ -1,12 +1,14 @@
 #EXTM3U
 
+
 #EXTINF:-1,== Quebec De Base====================
 
-#EXTINF:-1,ICI_MONTREAL
+
+#EXTINF:-1 group-title="Quebec FR Base",ICI_MONTREAL
 http://tv2iptv.com:8000/live/Janel/janel123/25280.m3u8
-#EXTINF:-1,(CA) Ici Radio Canada Montreal HD
+#EXTINF:-1 group-title="Quebec FR Base",Ici Radio Canada Montreal HD
 http://tv2iptv.com:8000/live/Janel/janel123/37763.m3u8
-#EXTINF:-1,|FRE| ICI TELE FHD
+#EXTINF:-1,ICI TELE FHD
 http://tv2iptv.com:8000/live/Janel/janel123/37762.m3u8
 #EXTINF:-1,ICI MONTREAL
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/666
@@ -88,9 +90,9 @@ http://tv.sigma-iptv.com:7000/45905/13543107/575542948
 #EXTINF:-1,== Kids====================
 #EXTINF:-1,TELETOON (FR) (EAST) | HD
 http://beastiptv.tv:25461/live/q9UGpGpD5L/DzVItMvkFb/6474.ts
-#EXTINF:-1,TELETOON
+#EXTINF:-1,(FR) TELETOON
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/629
-#EXTINF:-1,DISNEY FRENCH
+#EXTINF:-1,|FRE|DISNEY FRENCH
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/690
 #EXTINF:-1,DISNEY JUNIOR
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/689
