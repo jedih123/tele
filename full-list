@@ -353,7 +353,6 @@ http://tv.sigma-iptv.com:7000/45905/13543107/575542898
 #EXTINF:-1 group-title="8 - English Movies",TMN 2
 http://tv.sigma-iptv.com:7000/45905/13543107/575542899
 
-
 #EXTINF:-1,== Fonctionne Pas======================
 #EXTINF:-1 group-title="9 - Ne Fonctionne Pas",ICI Montreal | HD
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/641
@@ -411,9 +410,9 @@ http://tv2iptv.com:8000/live/Janel/janel123/25215.m3u8
 #EXTINF:-1 group-title="9 - Ne Fonctionne Pas"SUPER_ECRAN_3
 http://tv2iptv.com:8000/live/Janel/janel123/57392.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D0WeMID.png" group-title="10 - XXX",:Private HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D0WeMID.png" group-title="10 - XXX",Private HD
 https://fluxustv.blogspot.com@bit.ly/PrivateHD?.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JbXaM3b.png" group-title="10 - XXX",:Super One HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JbXaM3b.png" group-title="10 - XXX",Super One HD
 https://fluxustv.blogspot.com@bit.ly/SuperOneHD?.m3u8
 #EXTINF:-1 group-title="10 - XXX",ANAL
 http://beastiptv.tv:25461/live/q9UGpGpD5L/DzVItMvkFb/7832.ts
@@ -473,40 +472,10 @@ http://wohuogai.com:37000/live/876iuhiu/asia877kjkjhj/69815.ts
 http://wohuogai.com:37000/live/876iuhiu/asia877kjkjhj/69816.ts
 #EXTINF:-1 group-title="10 - XXX",PENTHOUSE GOLD HD
 http://wohuogai.com:37000/live/876iuhiu/asia877kjkjhj/69818.ts
-#EXTINF:-1 group-title="10 - XXX",PRIVATE_LA14
-http://wohuogai.com:37000/live/876iuhiu/asia877kjkjhj/35718.ts
-#EXTINF:-1 group-title="10 - XXX",PRIVATE_LA13
-http://wohuogai.com:37000/live/876iuhiu/asia877kjkjhj/35717.ts
-#EXTINF:-1 group-title="10 - XXX",PRIVATE_LA12
-http://wohuogai.com:37000/live/876iuhiu/asia877kjkjhj/35716.ts
-#EXTINF:-1 group-title="10 - XXX",PRIVATE_LA11
-http://wohuogai.com:37000/live/876iuhiu/asia877kjkjhj/35715.ts
-#EXTINF:-1 group-title="10 - XXX",PRIVATE_LA10
-http://wohuogai.com:37000/live/876iuhiu/asia877kjkjhj/35714.ts
-#EXTINF:-1 group-title="10 - XXX",PRIVATE_LA9
-http://wohuogai.com:37000/live/876iuhiu/asia877kjkjhj/35713.ts
-#EXTINF:-1 group-title="10 - XXX",PRIVATE_LA8
-http://wohuogai.com:37000/live/876iuhiu/asia877kjkjhj/35712.ts
-#EXTINF:-1 group-title="10 - XXX",PRIVATE_LA7
-http://wohuogai.com:37000/live/876iuhiu/asia877kjkjhj/35711.ts
-#EXTINF:-1 group-title="10 - XXX",PRIVATE_LA6
-http://wohuogai.com:37000/live/876iuhiu/asia877kjkjhj/35710.ts
-#EXTINF:-1 group-title="10 - XXX",PRIVATE_LA5
-http://wohuogai.com:37000/live/876iuhiu/asia877kjkjhj/35709.ts
-#EXTINF:-1 group-title="10 - XXX",PRIVATE_LA4
-http://wohuogai.com:37000/live/876iuhiu/asia877kjkjhj/35708.ts
-#EXTINF:-1 group-title="10 - XXX",PRIVATE_LA3
-http://wohuogai.com:37000/live/876iuhiu/asia877kjkjhj/35707.ts
-#EXTINF:-1 group-title="10 - XXX",PRIVATE_LA2
-http://wohuogai.com:37000/live/876iuhiu/asia877kjkjhj/35706.ts
-#EXTINF:-1 group-title="10 - XXX",EROTIC_4 LA6
-http://wohuogai.com:37000/live/876iuhiu/asia877kjkjhj/35704.ts
 #EXTINF:-1 group-title="10 - XXX",X1 ( 18)
 http://wohuogai.com:37000/live/876iuhiu/asia877kjkjhj/69831.ts
 #EXTINF:-1 group-title="10 - XXX",PINK O TV
 http://wohuogai.com:37000/live/876iuhiu/asia877kjkjhj/69820.ts
-#EXTINF:-1 group-title="10 - XXX",PRIVATE TV HD
-http://wohuogai.com:37000/live/876iuhiu/asia877kjkjhj/69823.ts
 #EXTINF:-1 group-title="10 - XXX",REDLIGHT HD
 http://wohuogai.com:37000/live/876iuhiu/asia877kjkjhj/69824.ts
 #EXTINF:-1 group-title="10 - XXX",STARZ
@@ -519,73 +488,5 @@ http://wohuogai.com:37000/live/876iuhiu/asia877kjkjhj/69830.ts
 http://wohuogai.com:37000/live/876iuhiu/asia877kjkjhj/69797.ts
 #EXTINF:-1 group-title="10 - XXX",REALITY KINGS
 http://wohuogai.com:37000/live/876iuhiu/asia877kjkjhj/69798.ts
-#EXTINF:-1 group-title="10 - XXX",PINK EROTIC 1 (18 )
-http://wohuogai.com:37000/live/876iuhiu/asia877kjkjhj/69799.ts
-#EXTINF:-1 group-title="10 - XXX",PINK EROTIC 2 (18 )
-http://wohuogai.com:37000/live/876iuhiu/asia877kjkjhj/69800.ts
-#EXTINF:-1 group-title="10 - XXX",PINK EROTIC 3 (18 )
-http://wohuogai.com:37000/live/876iuhiu/asia877kjkjhj/69801.ts
-#EXTINF:-1 group-title="10 - XXX",PINK EROTIC 4 (18 )
-http://wohuogai.com:37000/live/876iuhiu/asia877kjkjhj/69802.ts
-#EXTINF:-1 group-title="10 - XXX",PINK EROTIC 5 (18 )
-http://wohuogai.com:37000/live/876iuhiu/asia877kjkjhj/69803.ts
-#EXTINF:-1 group-title="10 - XXX",PINK EROTIC 6 (18 )
-http://wohuogai.com:37000/live/876iuhiu/asia877kjkjhj/69804.ts
-#EXTINF:-1 group-title="10 - XXX",PINK EROTIC 7 (18 )
-http://wohuogai.com:37000/live/876iuhiu/asia877kjkjhj/69805.ts
-#EXTINF:-1 group-title="10 - XXX",PINK EROTIC 8 (18 )
-http://wohuogai.com:37000/live/876iuhiu/asia877kjkjhj/69806.ts
 #EXTINF:-1 group-title="10 - XXX",BLUE HUSTLER
 http://wohuogai.com:37000/live/876iuhiu/asia877kjkjhj/69809.ts
-#EXTINF:-1 group-title="10 - XXX",VENUS_LA5
-http://wohuogai.com:37000/live/876iuhiu/asia877kjkjhj/10878.ts
-#EXTINF:-1 group-title="10 - XXX",VENUS_LA4
-http://wohuogai.com:37000/live/876iuhiu/asia877kjkjhj/10877.ts
-#EXTINF:-1 group-title="10 - XXX",VENUS_LA3
-http://wohuogai.com:37000/live/876iuhiu/asia877kjkjhj/10876.ts
-#EXTINF:-1 group-title="10 - XXX",VENUS_LA2
-http://wohuogai.com:37000/live/876iuhiu/asia877kjkjhj/10875.ts
-#EXTINF:-1 group-title="10 - XXX",VENUS_LA1
-http://wohuogai.com:37000/live/876iuhiu/asia877kjkjhj/10874.ts
-#EXTINF:-1 group-title="10 - XXX",PINKO_LA8
-http://wohuogai.com:37000/live/876iuhiu/asia877kjkjhj/10888.ts
-#EXTINF:-1 group-title="10 - XXX",PINKO_LA6
-http://wohuogai.com:37000/live/876iuhiu/asia877kjkjhj/10886.ts
-#EXTINF:-1 group-title="10 - XXX",PINKO_LA5
-http://wohuogai.com:37000/live/876iuhiu/asia877kjkjhj/10885.ts
-#EXTINF:-1 group-title="10 - XXX",PINKO_LA4
-http://wohuogai.com:37000/live/876iuhiu/asia877kjkjhj/10884.ts
-#EXTINF:-1 group-title="10 - XXX",PINKO_LA3
-http://wohuogai.com:37000/live/876iuhiu/asia877kjkjhj/10883.ts
-#EXTINF:-1 group-title="10 - XXX",PINKO_LA1
-http://wohuogai.com:37000/live/876iuhiu/asia877kjkjhj/10881.ts
-#EXTINF:-1 group-title="10 - XXX",VENUS_LA6
-http://wohuogai.com:37000/live/876iuhiu/asia877kjkjhj/10879.ts
-#EXTINF:-1 group-title="10 - XXX",PINKO_LA10
-http://wohuogai.com:37000/live/876iuhiu/asia877kjkjhj/10890.ts
-#EXTINF:-1 group-title="10 - XXX",PINKO_LA9
-http://wohuogai.com:37000/live/876iuhiu/asia877kjkjhj/10889.ts
-#EXTINF:-1 group-title="10 - XXX",B6
-http://wohuogai.com:37000/live/876iuhiu/asia877kjkjhj/35730.ts
-#EXTINF:-1 group-title="10 - XXX",B5
-http://wohuogai.com:37000/live/876iuhiu/asia877kjkjhj/35729.ts
-#EXTINF:-1 group-title="10 - XXX",B4
-http://wohuogai.com:37000/live/876iuhiu/asia877kjkjhj/35728.ts
-#EXTINF:-1 group-title="10 - XXX",B3
-http://wohuogai.com:37000/live/876iuhiu/asia877kjkjhj/35727.ts
-#EXTINF:-1 group-title="10 - XXX",B2
-http://wohuogai.com:37000/live/876iuhiu/asia877kjkjhj/35726.ts
-#EXTINF:-1 group-title="10 - XXX",B1
-http://wohuogai.com:37000/live/876iuhiu/asia877kjkjhj/35725.ts
-#EXTINF:-1 group-title="10 - XXX",A6
-http://wohuogai.com:37000/live/876iuhiu/asia877kjkjhj/35724.ts
-#EXTINF:-1 group-title="10 - XXX",A5
-http://wohuogai.com:37000/live/876iuhiu/asia877kjkjhj/35723.ts
-#EXTINF:-1 group-title="10 - XXX",A4
-http://wohuogai.com:37000/live/876iuhiu/asia877kjkjhj/35722.ts
-#EXTINF:-1 group-title="10 - XXX",A3
-http://wohuogai.com:37000/live/876iuhiu/asia877kjkjhj/35721.ts
-#EXTINF:-1 group-title="10 - XXX",A2
-http://wohuogai.com:37000/live/876iuhiu/asia877kjkjhj/35720.ts
-#EXTINF:-1 group-title="10 - XXX",A1
-http://wohuogai.com:37000/live/876iuhiu/asia877kjkjhj/35719.ts
