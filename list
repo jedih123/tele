@@ -4,7 +4,7 @@
 http://tv.sigma-iptv.com:7000/45905/13543107/575542807
 #EXTINF:-1 tvg-ID="I105401.labs.zap2it.com" tvg-name="ICI MONTREAL Liens 2" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI MONTREAL Liens 2
 http://beastiptv.tv:25461/live/q9UGpGpD5L/DzVItMvkFb/6456.ts
-#EXTINF:-1 group-title="1 - Quebec Base",V-Tele
+#EXTINF:-1 tvg-ID="I15988.labs.zap2it.com" tvg-name="CANAL V" tvg-logo="https://s3.amazonaws.com/ok2logo/CANALV+TV+logo.png" group-title="1 - Quebec Base",Canal V
 https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
 
 #EXTINF:-1 tvg-ID="I72755.labs.zap2it.com" tvg-name="TVA Lien 1" tvg-logo="https://s3.amazonaws.com/ok2logo/tva.png" group-title="1 - Quebec Base",TVA Lien 1
@@ -43,7 +43,7 @@ http://tv.sigma-iptv.com:7000/45905/13543107/575542864
 http://tv.sigma-iptv.com:7000/45905/13543107/575542948
 
 
-#EXTINF:-1 group-title="3 - Kids",Teletoon EN
+#EXTINF:-1 tvg-ID="I75456.labs.zap2it.com" tvg-name="Teletoon EN" tvg-logo="https://s3.amazonaws.com/ok2logo/teletoon.png" group-title="3 - Kids",Teletoon EN
 http://tv.sigma-iptv.com:7000/45905/13543107/575542911
 #EXTINF:-1 group-title="3 - Kids",CARTOON NETWORK
 http://tv.sigma-iptv.com:7000/45905/13543107/575542698
@@ -57,14 +57,14 @@ http://www.sansat.net:25461/telemak_pllumi/XlJSc8Zded/34637
 http://tv.sigma-iptv.com:7000/45905/13543107/575542763
 #EXTINF:-1 group-title="3 - Kids",DISNEY JR | HD
 http://tv.sigma-iptv.com:7000/45905/13543107/575542764
-#EXTINF:-1 group-title="3 - Kids",NICK EN
-http://tv.sigma-iptv.com:7000/45905/13543107/575542841
 #EXTINF:-1 group-title="3 - Kids",DISNEY JR
 http://tv.sigma-iptv.com:7000/45905/13543107/575542967
 #EXTINF:-1 group-title="3 - Kids",DISNEY JR
 http://www.sansat.net:25461/telemak_pllumi/XlJSc8Zded/34636
-#EXTINF:-1 group-title="3 - Kids",NICK
+#EXTINF:-1 tvg-ID="I59432.labs.zap2it.com" tvg-name="NICKELODEON Lien 1" tvg-logo="https://s3.amazonaws.com/ok2logo/nickelodeon.png" group-title="3 - Kids",NICKELODEON Lien 1
 http://www.sansat.net:25461/telemak_pllumi/XlJSc8Zded/34580
+#EXTINF:-1 tvg-ID="I59432.labs.zap2it.com" tvg-name="NICKELODEON Lien 2" tvg-logo="https://s3.amazonaws.com/ok2logo/nickelodeon.png" group-title="3 - Kids",NICKELODEON Lien 2
+http://tv.sigma-iptv.com:7000/45905/13543107/575542841
 #EXTINF:-1 group-title="3 - Kids",DISNEY FRENCH
 http://tv.sigma-iptv.com:7000/45905/13543107/575542762
 
