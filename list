@@ -45,27 +45,27 @@ http://tv.sigma-iptv.com:7000/45905/13543107/575542948
 
 #EXTINF:-1 tvg-ID="I75456.labs.zap2it.com" tvg-name="Teletoon EN" tvg-logo="https://s3.amazonaws.com/ok2logo/teletoon.png" group-title="3 - Kids",Teletoon EN
 http://tv.sigma-iptv.com:7000/45905/13543107/575542911
-#EXTINF:-1 group-title="3 - Kids",CARTOON NETWORK
+#EXTINF:-1 tvg-ID="I60048.labs.zap2it.com" tvg-name="CARTOON NETWORK Lien 1" tvg-logo="https://s3.amazonaws.com/ok2logo/cartoonnetwork.png" group-title="3 - Kids",CARTOON NETWORK Lien 1
 http://tv.sigma-iptv.com:7000/45905/13543107/575542698
-#EXTINF:-1 group-title="3 - Kids",CARTOON NETWORK
+#EXTINF:-1 tvg-ID="I60048.labs.zap2it.com" tvg-name="CARTOON NETWORK Lien 2" tvg-logo="https://s3.amazonaws.com/ok2logo/cartoonnetwork.png" group-title="3 - Kids",CARTOON NETWORK Lien 2
 http://www.sansat.net:25461/telemak_pllumi/XlJSc8Zded/34678
-#EXTINF:-1 group-title="3 - Kids",DISNEY CANADA
+#EXTINF:-1 tvg-ID="I72270.labs.zap2it.com" tvg-name="DISNEY CANADA Lien 1" tvg-logo="https://s3.amazonaws.com/ok2logo/disneyxd.png" group-title="3 - Kids",DISNEY CANADA Lien 1
 http://tv.sigma-iptv.com:7000/45905/13543107/575542761
-#EXTINF:-1 group-title="3 - Kids",DISNEY CANADA
+#EXTINF:-1 tvg-ID="I72270.labs.zap2it.com" tvg-name="DISNEY CANADA Lien 2" tvg-logo="https://s3.amazonaws.com/ok2logo/disneyxd.png" group-title="3 - Kids",DISNEY CANADA Lien 2
 http://www.sansat.net:25461/telemak_pllumi/XlJSc8Zded/34637
-#EXTINF:-1 group-title="3 - Kids",DISNEY JR
+#EXTINF:-1 tvg-ID="I72270.labs.zap2it.com" tvg-name="DISNEY CANADA Lien 3" tvg-logo="https://s3.amazonaws.com/ok2logo/disneyxd.png" group-title="3 - Kids",DISNEY CANADA Lien 3
 http://tv.sigma-iptv.com:7000/45905/13543107/575542763
-#EXTINF:-1 group-title="3 - Kids",DISNEY JR | HD
+#EXTINF:-1 tvg-ID="I72270.labs.zap2it.com" tvg-name="DISNEY CANADA Lien 4" tvg-logo="https://s3.amazonaws.com/ok2logo/disneyxd.png" group-title="3 - Kids",DISNEY CANADA Lien 4
 http://tv.sigma-iptv.com:7000/45905/13543107/575542764
-#EXTINF:-1 group-title="3 - Kids",DISNEY JR
+#EXTINF:-1 tvg-ID="I72270.labs.zap2it.com" tvg-name="DISNEY CANADA Lien 5" tvg-logo="https://s3.amazonaws.com/ok2logo/disneyxd.png" group-title="3 - Kids",DISNEY CANADA Lien 5
 http://tv.sigma-iptv.com:7000/45905/13543107/575542967
-#EXTINF:-1 group-title="3 - Kids",DISNEY JR
+#EXTINF:-1 tvg-ID="I72270.labs.zap2it.com" tvg-name="DISNEY CANADA Lien 6" tvg-logo="https://s3.amazonaws.com/ok2logo/disneyxd.png" group-title="3 - Kids",DISNEY CANADA Lien 6
 http://www.sansat.net:25461/telemak_pllumi/XlJSc8Zded/34636
 #EXTINF:-1 tvg-ID="I59432.labs.zap2it.com" tvg-name="NICKELODEON Lien 1" tvg-logo="https://s3.amazonaws.com/ok2logo/nickelodeon.png" group-title="3 - Kids",NICKELODEON Lien 1
 http://www.sansat.net:25461/telemak_pllumi/XlJSc8Zded/34580
 #EXTINF:-1 tvg-ID="I59432.labs.zap2it.com" tvg-name="NICKELODEON Lien 2" tvg-logo="https://s3.amazonaws.com/ok2logo/nickelodeon.png" group-title="3 - Kids",NICKELODEON Lien 2
 http://tv.sigma-iptv.com:7000/45905/13543107/575542841
-#EXTINF:-1 group-title="3 - Kids",DISNEY FRENCH
+#EXTINF:-1 tvg-ID="I72270.labs.zap2it.com" tvg-name="DISNEY FRENCH" tvg-logo="https://s3.amazonaws.com/ok2logo/disneyxd.png" group-title="3 - Kids",DISNEY FRENCH
 http://tv.sigma-iptv.com:7000/45905/13543107/575542762
 
 
@@ -77,23 +77,23 @@ http://www.sansat.net:25461/telemak_pllumi/XlJSc8Zded/34733
 http://tv.sigma-iptv.com:7000/45905/13543107/575542930
 #EXTINF:-1 group-title="4 - Sports FR",TVA Sport - liens - 4
 http://tv.sigma-iptv.com:7000/45905/13543107/575542932
-#EXTINF:-1 group-title="4 - Sports FR",RDS - liens - 1
+#EXTINF:-1 tvg-ID="I58592.labs.zap2it.com" tvg-name="RDS lien 1" tvg-logo="https://s3.amazonaws.com/ok2logo/rds.png" group-title="4 - Sports FR",RDS lien 1
 http://tv.sigma-iptv.com:7000/45905/13543107/575542860
-#EXTINF:-1 group-title="4 - Sports FR",RDS - liens - 2
+#EXTINF:-1 tvg-ID="I58592.labs.zap2it.com" tvg-name="RDS lien 2" tvg-logo="https://s3.amazonaws.com/ok2logo/rds.png" group-title="4 - Sports FR",RDS lien 2
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/640
-#EXTINF:-1 group-title="4 - Sports FR",RDS - liens - 3
+#EXTINF:-1 tvg-ID="I58592.labs.zap2it.com" tvg-name="RDS lien 3" tvg-logo="https://s3.amazonaws.com/ok2logo/rds.png" group-title="4 - Sports FR",RDS lien 3
 http://tv2iptv.com:8000/Moyo/moyo123/25238
-#EXTINF:-1 group-title="4 - Sports FR",RDS - liens - 4
+#EXTINF:-1 tvg-ID="I58592.labs.zap2it.com" tvg-name="RDS lien 4" tvg-logo="https://s3.amazonaws.com/ok2logo/rds.png" group-title="4 - Sports FR",RDS lien 4
 http://beastiptv.tv:25461/live/q9UGpGpD5L/DzVItMvkFb/6464.ts
-#EXTINF:-1 group-title="4 - Sports FR",RDS - liens - 5
+#EXTINF:-1 tvg-ID="I58592.labs.zap2it.com" tvg-name="RDS lien 5" tvg-logo="https://s3.amazonaws.com/ok2logo/rds.png" group-title="4 - Sports FR",RDS lien 5
 http://beastiptv.tv:25461/live/q9UGpGpD5L/DzVItMvkFb/6465.ts
-#EXTINF:-1 group-title="4 - Sports FR",RDS 2 - liens - 1
+#EXTINF:-1 tvg-ID="I15676.labs.zap2it.com" tvg-name="RDS 2 lien 1" tvg-logo="https://s3.amazonaws.com/ok2logo/rds2.png" group-title="4 - Sports FR",RDS 2 lien 1
 http://tv.sigma-iptv.com:7000/45905/13543107/575542861
-#EXTINF:-1 group-title="4 - Sports FR",RDS 2 - liens - 2
+#EXTINF:-1 tvg-ID="I15676.labs.zap2it.com" tvg-name="RDS 2 lien 2" tvg-logo="https://s3.amazonaws.com/ok2logo/rds2.png" group-title="4 - Sports FR",RDS 2 lien 2
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/639
-#EXTINF:-1 group-title="4 - Sports FR",RDS INFO - liens - 2
+#EXTINF:-1 tvg-ID="I15676.labs.zap2it.com" tvg-name="RDS 2 lien 3" tvg-logo="https://s3.amazonaws.com/ok2logo/rds2.png" group-title="4 - Sports FR",RDS 2 lien 3
 http://tv.sigma-iptv.com:7000/45905/13543107/575542862
-#EXTINF:-1 group-title="4 - Sports FR",RDS INFO - liens - 1
+#EXTINF:-1 tvg-ID="I15676.labs.zap2it.com" tvg-name="RDS INFO" tvg-logo="https://s3.amazonaws.com/ok2logo/rdsinfo.png" group-title="4 - Sports FR",RDS Info
 http://beastiptv.tv:25461/live/q9UGpGpD5L/DzVItMvkFb/6466.ts
 #EXTINF:-1 group-title="4 - Sports FR",Chasse et Peche
 http://tv.sigma-iptv.com:7000/45905/13543107/575542968
