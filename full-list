@@ -30,8 +30,6 @@ http://tv.sigma-iptv.com:7000/45905/13543107/575542858
 http://tv.sigma-iptv.com:7000/45905/13543107/575542675
 #EXTINF:-1 tvg-ID="I15682.labs.zap2it.com" tvg-name="CANAL D Liens 1" tvg-logo="https://s3.amazonaws.com/ok2logo/CANAL+D.png" group-title="2 - Quebec Specialise",CANAL D Liens 1
 http://tv.sigma-iptv.com:7000/45905/13543107/575542694
-#EXTINF:-1 tvg-ID="I15682.labs.zap2it.com" tvg-name="CANAL D Liens 2" tvg-logo="https://s3.amazonaws.com/ok2logo/CANAL+D.png" group-title="2 - Quebec Specialise",CANAL D Liens 2
-http://beastiptv.tv:25461/live/q9UGpGpD5L/DzVItMvkFb/6451.ts
 #EXTINF:-1 group-title="2 - Quebec Specialise",PRISE 2 | SD
 http://beastiptv.tv:25461/live/q9UGpGpD5L/DzVItMvkFb/6463.ts
 #EXTINF:-1 group-title="2 - Quebec Specialise",Historia FR 
@@ -46,6 +44,8 @@ http://tv.sigma-iptv.com:7000/45905/13543107/575542948
 
 #EXTINF:-1 tvg-ID="I75456.labs.zap2it.com" tvg-name="Teletoon EN" tvg-logo="https://s3.amazonaws.com/ok2logo/teletoon.png" group-title="3 - Kids",Teletoon EN
 http://tv.sigma-iptv.com:7000/45905/13543107/575542911
+#EXTINF:-1 tvg-ID="I75456.labs.zap2it.com" tvg-name="Teletoon EN lien 2" tvg-logo="https://s3.amazonaws.com/ok2logo/teletoon.png" group-title="3 - Kids",Teletoon EN lien 2
+http://beastiptv.tv:25461/live/q9UGpGpD5L/DzVItMvkFb/6474.ts
 #EXTINF:-1 tvg-ID="I60048.labs.zap2it.com" tvg-name="CARTOON NETWORK Lien 1" tvg-logo="https://s3.amazonaws.com/ok2logo/cartoonnetwork.png" group-title="3 - Kids",CARTOON NETWORK Lien 1
 http://tv.sigma-iptv.com:7000/45905/13543107/575542698
 #EXTINF:-1 tvg-ID="I60048.labs.zap2it.com" tvg-name="CARTOON NETWORK Lien 2" tvg-logo="https://s3.amazonaws.com/ok2logo/cartoonnetwork.png" group-title="3 - Kids",CARTOON NETWORK Lien 2
