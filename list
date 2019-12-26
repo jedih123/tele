@@ -127,8 +127,6 @@ http://beastiptv.tv:25461/live/q9UGpGpD5L/DzVItMvkFb/1483.ts
 http://tv.sigma-iptv.com:7000/45905/13543107/575542942
 #EXTINF:-1,== English Channel======================
 #EXTINF:-1 tvg-ID="AMC HD" tvg-name="AMC HD" group-title="7 - English",AMC
-http://beastiptv.tv:25461/live/q9UGpGpD5L/DzVItMvkFb/2651.ts
-#EXTINF:-1 tvg-ID="AMC HD" tvg-name="AMC HD" group-title="7 - English",AMC
 http://tv.sigma-iptv.com:7000/45905/13543107/575542725
 #EXTINF:-1 tvg-ID="AMC HD" tvg-name="AMC HD" group-title="7 - English",AMC
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/722
