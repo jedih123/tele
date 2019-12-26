@@ -1,16 +1,16 @@
 #EXTM3U
 #EXTINF:-1,== Base======================
-#EXTINF:-1 tvg-ID="CBFT" tvg-name="ICI Montreal" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI Montreal
+#EXTINF:-1 tvg-ID="CBFT" tvg-name="ICI" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI
 http://tv.sigma-iptv.com:7000/45905/13543107/575542807
-#EXTINF:-1 tvg-ID="CBFT" tvg-name="ICI Montreal" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI Montreal
+#EXTINF:-1 tvg-ID="CBFT" tvg-name="ICI" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI Montreal
 http://beastiptv.tv:25461/live/q9UGpGpD5L/DzVItMvkFb/6456.ts
-#EXTINF:-1 tvg-ID="CFMT" tvg-name="TVA Montreal" tvg-logo="https://s3.amazonaws.com/ok2logo/tva.png" group-title="1 - Quebec Base",TVA Montreal
+#EXTINF:-1 tvg-ID="CFMT" tvg-name="TVA" tvg-logo="https://s3.amazonaws.com/ok2logo/tva.png" group-title="1 - Quebec Base",TVA
 http://tv.sigma-iptv.com:7000/45905/13543107/575542826
-#EXTINF:-1 tvg-ID="CFMT" tvg-name="TVA Montreal" tvg-logo="https://s3.amazonaws.com/ok2logo/tva.png" group-title="1 - Quebec Base",TVA Montreal
+#EXTINF:-1 tvg-ID="CFMT" tvg-name="TVA" tvg-logo="https://s3.amazonaws.com/ok2logo/tva.png" group-title="1 - Quebec Base",TVA Montreal
 http://beastiptv.tv:25461/live/q9UGpGpD5L/DzVItMvkFb/6473.ts
-#EXTINF:-1 tvg-ID="CHOT" tvg-name="TVA Gatineau" tvg-logo="https://s3.amazonaws.com/ok2logo/tva.png" group-title="1 - Quebec Base",TVA Gatineau
+#EXTINF:-1 tvg-ID="CHOT" tvg-name="TVA" tvg-logo="https://s3.amazonaws.com/ok2logo/tva.png" group-title="1 - Quebec Base",TVA Gatineau
 http://tv.sigma-iptv.com:7000/45905/13543107/575542930
-#EXTINF:-1 tvg-ID="CFJP" tvg-name="V-Tele" tvg-logo="https://s3.amazonaws.com/ok2logo/CANALV+TV+logo.png" group-title="1 - Quebec Base",V-Tele 1
+#EXTINF:-1 tvg-ID="CFJP" tvg-name="V" tvg-logo="https://s3.amazonaws.com/ok2logo/CANALV+TV+logo.png" group-title="1 - Quebec Base",V
 https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
 #EXTINF:-1 tvg-ID="LCN" tvg-name="LCN" tvg-logo="https://s3.amazonaws.com/ok2logo/LCN.gif" group-title="1 - Quebec Base",LCN
 http://tv.sigma-iptv.com:7000/45905/13543107/575542815
