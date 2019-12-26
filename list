@@ -23,6 +23,9 @@ http://tv.sigma-iptv.com:7000/45905/13543107/575542859
 #EXTINF:-1 tvg-ID="RDI" tvg-name="RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="1 - Quebec Base",RDI
 http://beastiptv.tv:25461/live/q9UGpGpD5L/DzVItMvkFb/6457.ts
 #EXTINF:-1,== Special======================
+
+#EXTINF:-1 tvg-ID="ADDIK" tvg-name="ADDIK" tvg-logo="" group-title="2 - Quebec Specialise",Addik TV
+http://tv.sigma-iptv.com:7000/45905/13543107/575542676
 #EXTINF:-1 tvg-ID="D" tvg-name="D" tvg-logo="https://s3.amazonaws.com/ok2logo/CANAL+D.png" group-title="2 - Quebec Specialise",CANAL D
 http://tv.sigma-iptv.com:7000/45905/13543107/575542694
 #EXTINF:-1 tvg-ID="Prise 2" tvg-name="Prise 2" group-title="2 - Quebec Specialise",Prise 2
