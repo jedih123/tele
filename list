@@ -1,13 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-ID="CBFT" tvg-name="ICI MONTREAL" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI MONTREAL
+#EXTINF:-1 tvg-ID="CBFT" tvg-name="ICI MONTREAL" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI Montreal
 http://tv.sigma-iptv.com:7000/45905/13543107/575542807
-#EXTINF:-1 tvg-ID="CBFT" tvg-name="ICI MONTREAL" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI MONTREAL
+#EXTINF:-1 tvg-ID="CBFT" tvg-name="ICI MONTREAL" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI Montreal
 http://beastiptv.tv:25461/live/q9UGpGpD5L/DzVItMvkFb/6456.ts
 
-#EXTINF:-1 tvg-ID="CFMT" tvg-name="CFMT" tvg-logo="https://s3.amazonaws.com/ok2logo/tva.png" group-title="1 - Quebec Base",TVA Lien 1
+#EXTINF:-1 tvg-ID="CFMT" tvg-name="CFMT" tvg-logo="https://s3.amazonaws.com/ok2logo/tva.png" group-title="1 - Quebec Base",TVA
 http://tv.sigma-iptv.com:7000/45905/13543107/575542826
-#EXTINF:-1 tvg-ID="CFMT" tvg-name="CFMT" tvg-logo="https://s3.amazonaws.com/ok2logo/tva.png" group-title="1 - Quebec Base",TVA Lien 2
+#EXTINF:-1 tvg-ID="CFMT" tvg-name="CFMT" tvg-logo="https://s3.amazonaws.com/ok2logo/tva.png" group-title="1 - Quebec Base",TVA
 http://beastiptv.tv:25461/live/q9UGpGpD5L/DzVItMvkFb/6473.ts
 #EXTINF:-1 tvg-ID="CFMT" tvg-name="CFMT" tvg-logo="https://s3.amazonaws.com/ok2logo/tva.png" group-title="1 - Quebec Base",TVA Gatineau
 http://tv.sigma-iptv.com:7000/45905/13543107/575542930
@@ -15,24 +15,24 @@ http://tv.sigma-iptv.com:7000/45905/13543107/575542930
 #EXTINF:-1 tvg-ID="CFJP" tvg-name="V-Tele" tvg-logo="https://s3.amazonaws.com/ok2logo/CANALV+TV+logo.png" group-title="1 - Quebec Base",V-Tele 1
 https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
 
-#EXTINF:-1 tvg-ID="LCN" tvg-name="LCN" tvg-logo="https://s3.amazonaws.com/ok2logo/LCN.gif" group-title="1 - Quebec Base",LCN Lien 1
+#EXTINF:-1 tvg-ID="LCN" tvg-name="LCN" tvg-logo="https://s3.amazonaws.com/ok2logo/LCN.gif" group-title="1 - Quebec Base",LCN
 http://tv.sigma-iptv.com:7000/45905/13543107/575542815
-#EXTINF:-1 tvg-ID="LCN" tvg-name="LCN" tvg-logo="https://s3.amazonaws.com/ok2logo/LCN.gif" group-title="1 - Quebec Base",LCN Lien 2
+#EXTINF:-1 tvg-ID="LCN" tvg-name="LCN" tvg-logo="https://s3.amazonaws.com/ok2logo/LCN.gif" group-title="1 - Quebec Base",LCN
 http://beastiptv.tv:25461/live/q9UGpGpD5L/DzVItMvkFb/6459.ts
 
-#EXTINF:-1 tvg-ID="RDI" tvg-name="RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="1 - Quebec Base",RDI Lien 1
+#EXTINF:-1 tvg-ID="RDI" tvg-name="RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="1 - Quebec Base",RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
-#EXTINF:-1 tvg-ID="RDI" tvg-name="RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="1 - Quebec Base",RDI Lien 2
+#EXTINF:-1 tvg-ID="RDI" tvg-name="RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="1 - Quebec Base",RDI
 http://tv.sigma-iptv.com:7000/45905/13543107/575542859
-#EXTINF:-1 tvg-ID="RDI" tvg-name="RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="1 - Quebec Base",RDI Lien 3
+#EXTINF:-1 tvg-ID="RDI" tvg-name="RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="1 - Quebec Base",RDI
 http://beastiptv.tv:25461/live/q9UGpGpD5L/DzVItMvkFb/6457.ts
 
-#EXTINF:-1 tvg-ID="D" tvg-name="D" tvg-logo="https://s3.amazonaws.com/ok2logo/CANAL+D.png" group-title="2 - Quebec Specialise",CANAL D Liens 1
+#EXTINF:-1 tvg-ID="D" tvg-name="D" tvg-logo="https://s3.amazonaws.com/ok2logo/CANAL+D.png" group-title="2 - Quebec Specialise",CANAL D
 http://tv.sigma-iptv.com:7000/45905/13543107/575542694
 
-#EXTINF:-1 tvg-ID="Prise 2" tvg-name="Prise 2" group-title="2 - Quebec Specialise",Prise 2 Lien 1
+#EXTINF:-1 tvg-ID="Prise 2" tvg-name="Prise 2" group-title="2 - Quebec Specialise",Prise 2
 http://tv.sigma-iptv.com:7000/45905/13543107/575542858
-#EXTINF:-1 tvg-ID="Prise 2" tvg-name="Prise 2" group-title="2 - Quebec Specialise",PRISE 2 Lien 2
+#EXTINF:-1 tvg-ID="Prise 2" tvg-name="Prise 2" group-title="2 - Quebec Specialise",PRISE 2
 http://beastiptv.tv:25461/live/q9UGpGpD5L/DzVItMvkFb/6463.ts
 
 #EXTINF:-1 tvg-ID="Action" tvg-name="Action" group-title="2 - Quebec Specialise",ACTION
@@ -43,57 +43,57 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/672
 #EXTINF:-1 tvg-ID="Historia" tvg-name="Historia" group-title="2 - Quebec Specialise",Historia
 http://tv.sigma-iptv.com:7000/45905/13543107/575542803
 
-#EXTINF:-1 tvg-ID="Frisson" tvg-name="Frisson" group-title="2 - Quebec Specialise",FRISSON
+#EXTINF:-1 tvg-ID="Frisson" tvg-name="Frisson" group-title="2 - Quebec Specialise",Frisson
 http://tv.sigma-iptv.com:7000/45905/13543107/575542784
 
-#EXTINF:-1 tvg-ID="Série Plus" tvg-name="Série Plus"group-title="2 - Quebec Specialise",Serie +
+#EXTINF:-1 tvg-ID="Série Plus" tvg-name="Série Plus"group-title="2 - Quebec Specialise",Serie Plus
 http://tv.sigma-iptv.com:7000/45905/13543107/575542864
 
 #EXTINF:-1 tvg-ID="Z" tvg-name="Z" tvg-logo="https://s3.amazonaws.com/ok2logo/ztele.png" group-title="2 - Quebec Specialise",Z Tele
 http://tv.sigma-iptv.com:7000/45905/13543107/575542948
 
 
-#EXTINF:-1 tvg-ID="TOONA" tvg-name="TOONA" tvg-logo="https://s3.amazonaws.com/ok2logo/teletoon.png" group-title="3 - Kids",Teletoon EN Lien 1
+#EXTINF:-1 tvg-ID="TOONA" tvg-name="TOONA" tvg-logo="https://s3.amazonaws.com/ok2logo/teletoon.png" group-title="3 - Kids",Teletoon EN
 http://tv.sigma-iptv.com:7000/45905/13543107/575542911
-#EXTINF:-1 tvg-ID="TOONA" tvg-name="TOONA" tvg-logo="https://s3.amazonaws.com/ok2logo/teletoon.png" group-title="3 - Kids",Teletoon EN lien 2
+#EXTINF:-1 tvg-ID="TOONA" tvg-name="TOONA" tvg-logo="https://s3.amazonaws.com/ok2logo/teletoon.png" group-title="3 - Kids",Teletoon EN
 http://beastiptv.tv:25461/live/q9UGpGpD5L/DzVItMvkFb/6474.ts
 
-#EXTINF:-1 tvg-ID="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://s3.amazonaws.com/ok2logo/cartoonnetwork.png" group-title="3 - Kids",CARTOON NETWORK Lien 1
+#EXTINF:-1 tvg-ID="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://s3.amazonaws.com/ok2logo/cartoonnetwork.png" group-title="3 - Kids",Cartoon Network
 http://tv.sigma-iptv.com:7000/45905/13543107/575542698
-#EXTINF:-1 tvg-ID="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://s3.amazonaws.com/ok2logo/cartoonnetwork.png" group-title="3 - Kids",CARTOON NETWORK Lien 2
+#EXTINF:-1 tvg-ID="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://s3.amazonaws.com/ok2logo/cartoonnetwork.png" group-title="3 - Kids",Cartoon Network
 http://www.sansat.net:25461/telemak_pllumi/XlJSc8Zded/34678
 
-#EXTINF:-1 tvg-ID="Disney Canada" tvg-name="Disney Canada" tvg-logo="https://s3.amazonaws.com/ok2logo/disneyxd.png" group-title="3 - Kids",DISNEY CANADA
+#EXTINF:-1 tvg-ID="Disney Canada" tvg-name="Disney Canada" tvg-logo="https://s3.amazonaws.com/ok2logo/disneyxd.png" group-title="3 - Kids",Disney Canada
 http://tv.sigma-iptv.com:7000/45905/13543107/575542763
-#EXTINF:-1 tvg-ID="Disney Canada" tvg-name="Disney Canada" tvg-logo="https://s3.amazonaws.com/ok2logo/disneyxd.png" group-title="3 - Kids",DISNEY CANADA East
+#EXTINF:-1 tvg-ID="Disney Canada" tvg-name="Disney Canada" tvg-logo="https://s3.amazonaws.com/ok2logo/disneyxd.png" group-title="3 - Kids",Disney Canada
 http://beastiptv.tv:25461/live/q9UGpGpD5L/DzVItMvkFb/6453.ts
 
-#EXTINF:-1 tvg-ID="Disney Jr" tvg-name="Disney Jr" tvg-logo="https://s3.amazonaws.com/ok2logo/disneyxd.png" group-title="3 - Kids",DISNEY JR
+#EXTINF:-1 tvg-ID="Disney Jr" tvg-name="Disney Jr" tvg-logo="https://s3.amazonaws.com/ok2logo/disneyxd.png" group-title="3 - Kids",Disney Jr
 http://tv.sigma-iptv.com:7000/45905/13543107/575542764
-#EXTINF:-1 tvg-ID="Disney Jr" tvg-name="Disney Jr" tvg-logo="https://s3.amazonaws.com/ok2logo/disneyxd.png" group-title="3 - Kids",DISNEY JR EN
+#EXTINF:-1 tvg-ID="Disney Jr" tvg-name="Disney Jr" tvg-logo="https://s3.amazonaws.com/ok2logo/disneyxd.png" group-title="3 - Kids",Disney Jr EN
 http://tv.sigma-iptv.com:7000/45905/13543107/575542967
 
-#EXTINF:-1 tvg-ID="Nickeldeon" tvg-name="Nickeldeon" tvg-logo="https://s3.amazonaws.com/ok2logo/nickelodeon.png" group-title="3 - Kids",NICKELODEON Lien 2
+#EXTINF:-1 tvg-ID="Nickeldeon" tvg-name="Nickeldeon" tvg-logo="https://s3.amazonaws.com/ok2logo/nickelodeon.png" group-title="3 - Kids",Nickeldeon
 http://tv.sigma-iptv.com:7000/45905/13543107/575542841
 
-#EXTINF:-1 tvg-ID="Disney Fr" tvg-name="Disney Fr" tvg-logo="https://s3.amazonaws.com/ok2logo/disneyxd.png" group-title="3 - Kids",DISNEY FRENCH
+#EXTINF:-1 tvg-ID="Disney Fr" tvg-name="Disney Fr" tvg-logo="https://s3.amazonaws.com/ok2logo/disneyxd.png" group-title="3 - Kids",Disney Fr
 http://tv.sigma-iptv.com:7000/45905/13543107/575542762
 
 
-#EXTINF:-1 tvg-ID="TVA Sports" tvg-name="TVA Sports" group-title="4 - Sports FR",TVA SPORTS lien 1
+#EXTINF:-1 tvg-ID="TVA Sports" tvg-name="TVA Sports" group-title="4 - Sports FR",TVA Sports
 http://tv.sigma-iptv.com:7000/45905/13543107/575542932
-#EXTINF:-1 tvg-ID="TVA Sports" tvg-name="TVA Sports" group-title="4 - Sports FR",TVA SPORTS lien 2
+#EXTINF:-1 tvg-ID="TVA Sports" tvg-name="TVA Sports" group-title="4 - Sports FR",TVA Sports
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/620
 
-#EXTINF:-1 tvg-ID="RDS" tvg-name="RDS" tvg-logo="https://s3.amazonaws.com/ok2logo/rds.png" group-title="4 - Sports FR",RDS lien 1
+#EXTINF:-1 tvg-ID="RDS" tvg-name="RDS" tvg-logo="https://s3.amazonaws.com/ok2logo/rds.png" group-title="4 - Sports FR",RDS
 http://tv.sigma-iptv.com:7000/45905/13543107/575542860
-#EXTINF:-1 tvg-ID="RDS" tvg-name="RDS" tvg-logo="https://s3.amazonaws.com/ok2logo/rds.png" group-title="4 - Sports FR",RDS lien 2
+#EXTINF:-1 tvg-ID="RDS" tvg-name="RDS" tvg-logo="https://s3.amazonaws.com/ok2logo/rds.png" group-title="4 - Sports FR",RDS
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/640
 
-#EXTINF:-1 tvg-ID="RDS2" tvg-name="RDS2" tvg-logo="https://s3.amazonaws.com/ok2logo/rds2.png" group-title="4 - Sports FR",RDS 2 lien 1
-http://tv.sigma-iptv.com:7000/45905/13543107/575542861
-#EXTINF:-1 tvg-ID="RDS2" tvg-name="RDS2" tvg-logo="https://s3.amazonaws.com/ok2logo/rds2.png" group-title="4 - Sports FR",RDS 2 lien 2
+#EXTINF:-1 tvg-ID="RDS2" tvg-name="RDS2" tvg-logo="https://s3.amazonaws.com/ok2logo/rds2.png" group-title="4 - Sports FR",RDS 2
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/639
+#EXTINF:-1 tvg-ID="RDS2" tvg-name="RDS2" tvg-logo="https://s3.amazonaws.com/ok2logo/rds2.png" group-title="4 - Sports FR",RDS 2
+http://tv.sigma-iptv.com:7000/45905/13543107/575542861
 
 #EXTINF:-1 tvg-ID="RDS Info" tvg-name="RDS Info" tvg-logo="https://s3.amazonaws.com/ok2logo/rds2.png" group-title="4 - Sports FR",RDS Info
 http://tv.sigma-iptv.com:7000/45905/13543107/575542862
@@ -103,22 +103,22 @@ http://tv.sigma-iptv.com:7000/45905/13543107/575542968
 
 
 #EXTINF:-1,== Film======================
-#EXTINF:-1 tvg-ID="SE" tvg-name="SE" group-title="5 - Film FR",Super Ecran
+#EXTINF:-1 tvg-ID="SE" tvg-name="SE" group-title="5 - Film FR",SE
 http://tv.sigma-iptv.com:7000/45905/13543107/575542901
-#EXTINF:-1 tvg-ID="SE" tvg-name="SE" group-title="5 - Film FR",Super Ecran
+#EXTINF:-1 tvg-ID="SE" tvg-name="SE" group-title="5 - Film FR",SE
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/634
 
-#EXTINF:-1 tvg-ID="SE+2" tvg-name="SE+2" group-title="5 - Film FR",Super Ecran 2
+#EXTINF:-1 tvg-ID="SE+2" tvg-name="SE+2" group-title="5 - Film FR",SE2
 http://tv.sigma-iptv.com:7000/45905/13543107/575542902
-#EXTINF:-1 tvg-ID="SE+2" tvg-name="SE+2" group-title="5 - Film FR",Super Ecran 2
+#EXTINF:-1 tvg-ID="SE+2" tvg-name="SE+2" group-title="5 - Film FR",SE2
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/633
 
-#EXTINF:-1 tvg-ID="SE+3" tvg-name="SE+3" group-title="5 - Film FR",Super Ecran 3
+#EXTINF:-1 tvg-ID="SE+3" tvg-name="SE+3" group-title="5 - Film FR",SE3
 http://tv.sigma-iptv.com:7000/45905/13543107/575542903
-#EXTINF:-1 tvg-ID="SE+3" tvg-name="SE+3" group-title="5 - Film FR",Super Ecran 3
+#EXTINF:-1 tvg-ID="SE+3" tvg-name="SE+3" group-title="5 - Film FR",SE3
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/632
 
-#EXTINF:-1 tvg-ID="SE+4" tvg-name="SE+4" group-title="5 - Film FR",Super Ecran 4
+#EXTINF:-1 tvg-ID="SE+4" tvg-name="SE+4" group-title="5 - Film FR",SE4
 http://hhhshop.co:83/uk2Qs4du/Joemanie47!/306100
 
 
@@ -131,37 +131,37 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/553
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/552
 #EXTINF:-1 tvg-ID="TSN4" tvg-name="TSN4" group-title="6 - Sports EN",TSN 4 | HD
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/551
-#EXTINF:-1 tvg-ID="TSN" tvg-name="TSN" group-title="6 - Sports EN",TSN 5 | HD
+#EXTINF:-1 tvg-ID="TSN" tvg-name="TSN" group-title="6 - Sports EN",TSN | HD
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/550
-#EXTINF:-1 tvg-ID="TSN" tvg-name="TSN" group-title="6 - Sports EN",TSN 5
+#EXTINF:-1 tvg-ID="TSN" tvg-name="TSN" group-title="6 - Sports EN",TSN
 http://tv.sigma-iptv.com:7000/45905/13543107/575542928
 #EXTINF:-1 tvg-ID="TSN1" tvg-name="TSN1" group-title="6 - Sports EN",TSN
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/652
-#EXTINF:-1 tvg-ID="Sportsnet World" tvg-name="Sportsnet World" group-title="6 - Sports EN",SPORTSNET 360 | HD
+#EXTINF:-1 tvg-ID="Sports Net World" tvg-name="Sports Net World" group-title="6 - Sports EN",Sports Net World | HD
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/549
-#EXTINF:-1 tvg-ID="Sports Net One" tvg-name="Sports Net One" group-title="6 - Sports EN",SPORTSNET ONE | HD
+#EXTINF:-1 tvg-ID="Sports Net One" tvg-name="Sports Net One" group-title="6 - Sports EN",Sports Net One | HD
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/548
-#EXTINF:-1 tvg-ID="Sportnet Est" tvg-name="Sportsnet Est" group-title="6 - Sports EN",Sportnet Est
+#EXTINF:-1 tvg-ID="Sport Net Est" tvg-name="Sports Net Est" group-title="6 - Sports EN",Sports Net Est
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/635
-#EXTINF:-1 tvg-ID="Fight Network" tvg-name="Fight Network" group-title="6 - Sports EN",FIGHT NETWORK
+#EXTINF:-1 tvg-ID="Fight Network" tvg-name="Fight Network" group-title="6 - Sports EN",Fight Network
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/682
-#EXTINF:-1 tvg-ID="Fight Network" tvg-name="Fight Network" group-title="6 - Sports EN",FIGHT NETWORK
+#EXTINF:-1 tvg-ID="Fight Network" tvg-name="Fight Network" group-title="6 - Sports EN",Fight Network
 http://tv.sigma-iptv.com:7000/45905/13543107/575542777
-#EXTINF:-1 tvg-ID="WWE" tvg-name="WWE" group-title="6 - Sports EN",SHOW_WWE lien 1
+#EXTINF:-1 tvg-ID="WWE" tvg-name="WWE" group-title="6 - Sports EN",SHOW WWE
 http://hhhshop.co:83/uk2Qs4du/Joemanie47!/308759
-#EXTINF:-1 tvg-ID="WWE" tvg-name="WWE" group-title="6 - Sports EN",SHOW_WWE lien 2
+#EXTINF:-1 tvg-ID="WWE" tvg-name="WWE" group-title="6 - Sports EN",SHOW WWE
 http://beastiptv.tv:25461/live/q9UGpGpD5L/DzVItMvkFb/1483.ts
 #EXTINF:-1 tvg-name="NXT" group-title="6 - Sports EN",NXT
 http://tv.sigma-iptv.com:7000/45905/13543107/575542942
 
 #EXTINF:-1,== English Channel======================
-#EXTINF:-1 tvg-ID="AMC HD" tvg-name="AMC HD" group-title="7 - English",AMC lien 1
+#EXTINF:-1 tvg-ID="AMC HD" tvg-name="AMC HD" group-title="7 - English",AMC
 http://beastiptv.tv:25461/live/q9UGpGpD5L/DzVItMvkFb/2651.ts
-#EXTINF:-1 tvg-ID="AMC HD" tvg-name="AMC HD" group-title="7 - English",AMC lien 2
+#EXTINF:-1 tvg-ID="AMC HD" tvg-name="AMC HD" group-title="7 - English",AMC
 http://tv.sigma-iptv.com:7000/45905/13543107/575542725
-#EXTINF:-1 tvg-ID="AMC HD" tvg-name="AMC HD" group-title="7 - English",AMC lien 3
+#EXTINF:-1 tvg-ID="AMC HD" tvg-name="AMC HD" group-title="7 - English",AMC
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/722
-#EXTINF:-1 tvg-ID="AMC HD" tvg-name="AMC HD" group-title="7 - English",AMC lien 4
+#EXTINF:-1 tvg-ID="AMC HD" tvg-name="AMC HD" group-title="7 - English",AMC
 http://tv.sigma-iptv.com:7000/45905/13543107/575542680
 
 #EXTINF:-1 tvg-ID="CBVU-TV" tvg-name="CBVU-TV" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png" group-title="7 - English",CBC OTTAWA
