@@ -4,7 +4,7 @@
 http://tv.sigma-iptv.com:7000/45905/13543107/575542807
 #EXTINF:-1 tvg-ID="CBFT" tvg-name="CBFT" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI Montreal
 http://beastiptv.tv:25461/live/q9UGpGpD5L/DzVItMvkFb/6456.ts
-#EXTINF:-1 tvg-ID="CFMT" tvg-name="CFMT" tvg-logo="https://s3.amazonaws.com/ok2logo/tva.png" group-title="1 - Quebec Base",TVA
+#EXTINF:-1 tvg-ID="CFMT" tvg-name="CFMT" tvg-logo="https://s3.amazonaws.com/ok2logo/tva.png" group-title="1 - Quebec Base",TVA Montreal
 http://tv.sigma-iptv.com:7000/45905/13543107/575542826
 #EXTINF:-1 tvg-ID="CFMT" tvg-name="CFMT" tvg-logo="https://s3.amazonaws.com/ok2logo/tva.png" group-title="1 - Quebec Base",TVA Montreal
 http://beastiptv.tv:25461/live/q9UGpGpD5L/DzVItMvkFb/6473.ts
@@ -84,15 +84,15 @@ http://tv.sigma-iptv.com:7000/45905/13543107/575542968
 http://tv.sigma-iptv.com:7000/45905/13543107/575542901
 #EXTINF:-1 tvg-ID="SE" tvg-name="SE" group-title="5 - Film FR",Super Ecran
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/634
-#EXTINF:-1 tvg-ID="SE 2" tvg-name="SE 2" group-title="5 - Film FR",Super Ecran 2
+#EXTINF:-1 tvg-ID="SE+2" tvg-name="SE+2" group-title="5 - Film FR",Super Ecran 2
 http://tv.sigma-iptv.com:7000/45905/13543107/575542902
 #EXTINF:-1 tvg-ID="SE 2" tvg-name="SE 2" group-title="5 - Film FR",Super Ecran 2
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/633
-#EXTINF:-1 tvg-ID="SE 3" tvg-name="SE 3" group-title="5 - Film FR",Super Ecran 3
+#EXTINF:-1 tvg-ID="SE 3" tvg-name="SE+3" group-title="5 - Film FR",Super Ecran 3
 http://tv.sigma-iptv.com:7000/45905/13543107/575542903
-#EXTINF:-1 tvg-ID="SE 3" tvg-name="SE 3" group-title="5 - Film FR",Super Ecran 3
+#EXTINF:-1 tvg-ID="SE3" tvg-name="SE 3" group-title="5 - Film FR",Super Ecran 3
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/632
-#EXTINF:-1 tvg-ID="SE 4" tvg-name="SE 4" group-title="5 - Film FR",Super Ecran 4
+#EXTINF:-1 tvg-ID="SE+4" tvg-name="SE 4" group-title="5 - Film FR",Super Ecran 4
 http://hhhshop.co:83/uk2Qs4du/Joemanie47!/306100
 #EXTINF:-1,== Sport EN======================
 #EXTINF:-1 tvg-ID="TSN1" tvg-name="TSN1" group-title="6 - Sports EN",TSN 1 | HD
