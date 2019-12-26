@@ -84,11 +84,11 @@ http://tv.sigma-iptv.com:7000/45905/13543107/575542968
 http://tv.sigma-iptv.com:7000/45905/13543107/575542901
 #EXTINF:-1 tvg-ID="SE" tvg-name="SE" group-title="5 - Film FR",Super Ecran
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/634
-#EXTINF:-1 tvg-ID="SE+2" tvg-name="SE+2" group-title="5 - Film FR",Super Ecran 2
+#EXTINF:-1 tvg-ID="SE 2" tvg-name="Super Écran 2" group-title="5 - Film FR",Super Ecran 2
 http://tv.sigma-iptv.com:7000/45905/13543107/575542902
 #EXTINF:-1 tvg-ID="SE 2" tvg-name="SE 2" group-title="5 - Film FR",Super Ecran 2
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/633
-#EXTINF:-1 tvg-ID="SE 3" tvg-name="SE+3" group-title="5 - Film FR",Super Ecran 3
+#EXTINF:-1 tvg-ID="SE 3" tvg-name="SE3" group-title="5 - Film FR",Super Ecran 3
 http://tv.sigma-iptv.com:7000/45905/13543107/575542903
 #EXTINF:-1 tvg-ID="SE3" tvg-name="SE 3" group-title="5 - Film FR",Super Ecran 3
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/632
