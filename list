@@ -1,11 +1,11 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-ID="CBFT" tvg-name="ICI MONTREAL" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI MONTREAL Lien 1
+#EXTINF:-1 tvg-ID="CBFT" tvg-name="ICI MONTREAL" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI MONTREAL
 http://tv.sigma-iptv.com:7000/45905/13543107/575542807
-#EXTINF:-1 tvg-ID="CBFT" tvg-name="ICI MONTREAL" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI MONTREAL Lien 2
+#EXTINF:-1 tvg-ID="CBFT" tvg-name="ICI MONTREAL" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI MONTREAL
 http://beastiptv.tv:25461/live/q9UGpGpD5L/DzVItMvkFb/6456.ts
 
-#EXTINF:-1 tvg-ID="CFMT" tvg-name="TVA MONTREAL" tvg-logo="https://s3.amazonaws.com/ok2logo/tva.png" group-title="1 - Quebec Base",TVA Lien 1
+#EXTINF:-1 tvg-ID="CFMT" tvg-name="TVA MONTREAL" tvg-logo="https://s3.amazonaws.com/ok2logo/tva.png" group-title="1 - Quebec Base",TVA
 http://209.222.97.118:25461/live/Dave123/dave123/6472.ts
 #EXTINF:-1 tvg-ID="CFMT" tvg-name="TVA MONTREAL" tvg-logo="https://s3.amazonaws.com/ok2logo/tva.png" group-title="1 - Quebec Base",TVA Lien 2
 http://beastiptv.tv:25461/live/q9UGpGpD5L/DzVItMvkFb/6473.ts
@@ -106,19 +106,19 @@ http://tv.sigma-iptv.com:7000/45905/13543107/575542968
 
 
 #EXTINF:-1,== Film======================
-#EXTINF:-1 tvg-ID="SE" tvg-name="SE" group-title="5 - Film FR",Super Ecran 1 Lien 1
+#EXTINF:-1 tvg-ID="SE" tvg-name="SE" group-title="5 - Film FR",Super Ecran
 http://tv.sigma-iptv.com:7000/45905/13543107/575542901
-#EXTINF:-1 tvg-ID="SE" tvg-name="SE" group-title="5 - Film FR",Super Ecran 1 Lien 2
+#EXTINF:-1 tvg-ID="SE" tvg-name="SE" group-title="5 - Film FR",Super Ecran
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/634
-#EXTINF:-1 tvg-ID="SE 2" tvg-name="SE 2" group-title="5 - Film FR",Super Ecran 2 Lien 1
+#EXTINF:-1 tvg-ID="SE+2" tvg-name="SE 2" group-title="5 - Film FR",Super Ecran 2
 http://tv.sigma-iptv.com:7000/45905/13543107/575542902
-#EXTINF:-1 tvg-ID="SE 2" tvg-name="SE 2" group-title="5 - Film FR",Super Ecran 2 Lien 2
+#EXTINF:-1 tvg-ID="SE+2" tvg-name="SE 2" group-title="5 - Film FR",Super Ecran 2
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/633
-#EXTINF:-1 tvg-ID="SE 3" tvg-name="SE 3" group-title="5 - Film FR",Super Ecran 3 Lien 1
+#EXTINF:-1 tvg-ID="SE+3" tvg-name="SE 3" group-title="5 - Film FR",Super Ecran 3
 http://tv.sigma-iptv.com:7000/45905/13543107/575542903
-#EXTINF:-1 tvg-ID="SE 3" tvg-name="SE 3" group-title="5 - Film FR",Super Ecran 3 Lien 2
+#EXTINF:-1 tvg-ID="SE+3" tvg-name="SE 3" group-title="5 - Film FR",Super Ecran 3
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/632
-#EXTINF:-1 tvg-ID="SE 4" tvg-name="SE 4" group-title="5 - Film FR",Super Ecran 4
+#EXTINF:-1 tvg-ID="SE+4" tvg-name="SE 4" group-title="5 - Film FR",Super Ecran 4
 http://hhhshop.co:83/uk2Qs4du/Joemanie47!/306100
 
 
@@ -131,15 +131,15 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/553
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/552
 #EXTINF:-1 tvg-ID="TSN4" tvg-name="TSN4" group-title="6 - Sports EN",TSN 4 | HD
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/551
-#EXTINF:-1 tvg-ID="TSN5" tvg-name="TSN5" group-title="6 - Sports EN",TSN 5 | HD
+#EXTINF:-1 tvg-ID="TSN" tvg-name="TSN" group-title="6 - Sports EN",TSN 5 | HD
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/550
-#EXTINF:-1 tvg-ID="TSN5" tvg-name="TSN5" group-title="6 - Sports EN",TSN 5
+#EXTINF:-1 tvg-ID="TSN" tvg-name="TSN" group-title="6 - Sports EN",TSN 5
 http://tv.sigma-iptv.com:7000/45905/13543107/575542928
 #EXTINF:-1 tvg-ID="TSN1" tvg-name="TSN1" group-title="6 - Sports EN",TSN
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/652
 #EXTINF:-1 tvg-ID="Sportsnet World" tvg-name="Sportsnet World" group-title="6 - Sports EN",SPORTSNET 360 | HD
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/549
-#EXTINF:-1 tvg-ID="Sportsnet One" tvg-name="Sportsnet One" group-title="6 - Sports EN",SPORTSNET ONE | HD
+#EXTINF:-1 tvg-ID="Sports Net One" tvg-name="Sports Net One" group-title="6 - Sports EN",SPORTSNET ONE | HD
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/548
 #EXTINF:-1 tvg-ID="Sportnet Est" tvg-name="Sportsnet Est" group-title="6 - Sports EN",Sportnet Est
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/635
@@ -155,13 +155,13 @@ http://beastiptv.tv:25461/live/q9UGpGpD5L/DzVItMvkFb/1483.ts
 http://tv.sigma-iptv.com:7000/45905/13543107/575542942
 
 #EXTINF:-1,== English Channel======================
-#EXTINF:-1 tvg-ID="Station AMC" tvg-name="Station AMC" group-title="7 - English",AMC l1
+#EXTINF:-1 tvg-ID="AMC HD" tvg-name="AMC HD" group-title="7 - English",AMC 1
 http://beastiptv.tv:25461/live/q9UGpGpD5L/DzVItMvkFb/2651.ts
-#EXTINF:-1 tvg-ID="Station AMC" tvg-name="Station AMC" group-title="7 - English",AMC l2
+#EXTINF:-1 tvg-ID="AMC HD" tvg-name="AMC HD" group-title="7 - English",AMC 2
 http://beastiptv.tv:25461/live/q9UGpGpD5L/DzVItMvkFb/1258.ts
-#EXTINF:-1 tvg-ID="Station AMC" tvg-name="Station AMC" group-title="7 - English",AMC SD
+#EXTINF:-1 tvg-ID="AMC HD" tvg-name="AMC HD" group-title="7 - English",AMC SD
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/722
-#EXTINF:-1 tvg-ID="Station AMC" tvg-name="Station AMC" group-title="7 - English",AMC HD
+#EXTINF:-1 tvg-ID="AMC HD" tvg-name="AMC HD" group-title="7 - English",AMC HD
 http://tv.sigma-iptv.com:7000/45905/13543107/575542679
 #EXTINF:-1 tvg-ID="Station AMC" tvg-name="Station AMC" group-title="7 - English",AMC | HD
 http://tv.sigma-iptv.com:7000/45905/13543107/575542680
