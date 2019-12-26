@@ -1,35 +1,33 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-ID="I105401.labs.zap2it.com" tvg-name="ICI MONTREAL" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI MONTREAL Lien 1
+#EXTINF:-1 tvg-ID="CBFT" tvg-name="ICI MONTREAL" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI MONTREAL Lien 1
 http://tv.sigma-iptv.com:7000/45905/13543107/575542807
-#EXTINF:-1 tvg-ID="I105401.labs.zap2it.com" tvg-name="ICI MONTREAL" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI MONTREAL Lien 2
+#EXTINF:-1 tvg-ID="CBFT" tvg-name="ICI MONTREAL" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI MONTREAL Lien 2
 http://beastiptv.tv:25461/live/q9UGpGpD5L/DzVItMvkFb/6456.ts
 
-#EXTINF:-1 tvg-ID="I72755.labs.zap2it.com" tvg-name="TVA" tvg-logo="https://s3.amazonaws.com/ok2logo/tva.png" group-title="1 - Quebec Base",TVA Lien 1
+#EXTINF:-1 tvg-ID="CFMT" tvg-name="TVA MONTREAL" tvg-logo="https://s3.amazonaws.com/ok2logo/tva.png" group-title="1 - Quebec Base",TVA Lien 1
 http://209.222.97.118:25461/live/Dave123/dave123/6472.ts
-#EXTINF:-1 tvg-ID="I72755.labs.zap2it.com" tvg-name="TVA" tvg-logo="https://s3.amazonaws.com/ok2logo/tva.png" group-title="1 - Quebec Base",TVA Lien 2
+#EXTINF:-1 tvg-ID="CFMT" tvg-name="TVA MONTREAL" tvg-logo="https://s3.amazonaws.com/ok2logo/tva.png" group-title="1 - Quebec Base",TVA Lien 2
 http://beastiptv.tv:25461/live/q9UGpGpD5L/DzVItMvkFb/6473.ts
 
-#EXTINF:-1 tvg-ID="I15988.labs.zap2it.com" tvg-name="CANAL V" tvg-logo="https://s3.amazonaws.com/ok2logo/CANALV+TV+logo.png" group-title="1 - Quebec Base",V-Tele 1
+#EXTINF:-1 tvg-ID="CFJP" tvg-name="V-Tele" tvg-logo="https://s3.amazonaws.com/ok2logo/CANALV+TV+logo.png" group-title="1 - Quebec Base",V-Tele 1
 https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
 
-#EXTINF:-1 tvg-ID="I17590.labs.zap2it.com" tvg-name="LCN" tvg-logo="https://s3.amazonaws.com/ok2logo/LCN.gif" group-title="1 - Quebec Base",LCN Lien 1
+#EXTINF:-1 tvg-ID="lcn/lcn" tvg-name="LCN" tvg-logo="https://s3.amazonaws.com/ok2logo/LCN.gif" group-title="1 - Quebec Base",LCN Lien 1
 http://beastiptv.tv:25461/live/q9UGpGpD5L/DzVItMvkFb/6459.ts
-#EXTINF:-1 tvg-ID="I17590.labs.zap2it.com" tvg-name="LCN" tvg-logo="https://s3.amazonaws.com/ok2logo/LCN.gif" group-title="1 - Quebec Base",LCN Lien 2
+#EXTINF:-1 tvg-ID="lcn/lcn" tvg-name="LCN" tvg-logo="https://s3.amazonaws.com/ok2logo/LCN.gif" group-title="1 - Quebec Base",LCN Lien 2
 http://beastiptv.tv:25461/live/q9UGpGpD5L/DzVItMvkFb/6459.ts
 
-#EXTINF:-1 tvg-ID="I60327.labs.zap2it.com" tvg-name="RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="1 - Quebec Base",RDI Lien 1
+#EXTINF:-1 tvg-ID="rdi/RDI" tvg-name="RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="1 - Quebec Base",RDI Lien 1
 http://tv.sigma-iptv.com:7000/45905/13543107/575542859
-#EXTINF:-1 tvg-ID="I60327.labs.zap2it.com" tvg-name="RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="1 - Quebec Base",RDI Lien 2
+#EXTINF:-1 tvg-ID="rdi/RDI" tvg-name="RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="1 - Quebec Base",RDI Lien 2
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
-#EXTINF:-1 tvg-ID="I60327.labs.zap2it.com" tvg-name="RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="1 - Quebec Base",RDI Lien 3
+#EXTINF:-1 tvg-ID="rdi/RDI" tvg-name="RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="1 - Quebec Base",RDI Lien 3
 http://beastiptv.tv:25461/live/q9UGpGpD5L/DzVItMvkFb/6457.ts
 
 
-#EXTINF:-1 tvg-ID="I15682.labs.zap2it.com" tvg-name="CANAL D Liens 1" tvg-logo="https://s3.amazonaws.com/ok2logo/CANAL+D.png" group-title="2 - Quebec Specialise",CANAL D Liens 1
+#EXTINF:-1 tvg-ID="d/D" tvg-name="CANAL D Liens 1" tvg-logo="https://s3.amazonaws.com/ok2logo/CANAL+D.png" group-title="2 - Quebec Specialise",CANAL D Liens 1
 http://tv.sigma-iptv.com:7000/45905/13543107/575542694
-#EXTINF:-1 group-title="2 - Quebec Specialise",Crime Investigation FR
-http://hhhshop.co:83/uk2Qs4du/Joemanie47!/306215
 
 #EXTINF:-1 group-title="2 - Quebec Specialise",Prise 2
 http://tv.sigma-iptv.com:7000/45905/13543107/575542858
@@ -174,6 +172,8 @@ http://tv.sigma-iptv.com:7000/45905/13543107/575542679
 http://tv.sigma-iptv.com:7000/45905/13543107/575542680
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png" group-title="7 - English",CBC OTTAWA
 http://tv.sigma-iptv.com:7000/45905/13543107/575542701
+#EXTINF:-1 group-title="7 - English",Crime Investigation
+http://hhhshop.co:83/uk2Qs4du/Joemanie47!/306215
 #EXTINF:-1 group-title="7 - English",CNN
 http://tv.sigma-iptv.com:7000/45905/13543107/575542725
 #EXTINF:-1 group-title="7 - English",CNN | HD
