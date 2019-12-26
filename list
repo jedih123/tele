@@ -13,29 +13,29 @@ http://beastiptv.tv:25461/live/q9UGpGpD5L/DzVItMvkFb/6473.ts
 #EXTINF:-1 tvg-ID="CFJP" tvg-name="V-Tele" tvg-logo="https://s3.amazonaws.com/ok2logo/CANALV+TV+logo.png" group-title="1 - Quebec Base",V-Tele 1
 https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
 
-#EXTINF:-1 tvg-ID="lcn/lcn" tvg-name="LCN" tvg-logo="https://s3.amazonaws.com/ok2logo/LCN.gif" group-title="1 - Quebec Base",LCN Lien 1
+#EXTINF:-1 tvg-ID="LCN" tvg-name="LCN" tvg-logo="https://s3.amazonaws.com/ok2logo/LCN.gif" group-title="1 - Quebec Base",LCN Lien 1
 http://beastiptv.tv:25461/live/q9UGpGpD5L/DzVItMvkFb/6459.ts
-#EXTINF:-1 tvg-ID="lcn/lcn" tvg-name="LCN" tvg-logo="https://s3.amazonaws.com/ok2logo/LCN.gif" group-title="1 - Quebec Base",LCN Lien 2
+#EXTINF:-1 tvg-ID="LCN" tvg-name="LCN" tvg-logo="https://s3.amazonaws.com/ok2logo/LCN.gif" group-title="1 - Quebec Base",LCN Lien 2
 http://beastiptv.tv:25461/live/q9UGpGpD5L/DzVItMvkFb/6459.ts
 
-#EXTINF:-1 tvg-ID="rdi/RDI" tvg-name="RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="1 - Quebec Base",RDI Lien 1
+#EXTINF:-1 tvg-ID="RDI" tvg-name="RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="1 - Quebec Base",RDI Lien 1
 http://tv.sigma-iptv.com:7000/45905/13543107/575542859
-#EXTINF:-1 tvg-ID="rdi/RDI" tvg-name="RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="1 - Quebec Base",RDI Lien 2
+#EXTINF:-1 tvg-ID="RDI" tvg-name="RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="1 - Quebec Base",RDI Lien 2
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
-#EXTINF:-1 tvg-ID="rdi/RDI" tvg-name="RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="1 - Quebec Base",RDI Lien 3
+#EXTINF:-1 tvg-ID="RDI" tvg-name="RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="1 - Quebec Base",RDI Lien 3
 http://beastiptv.tv:25461/live/q9UGpGpD5L/DzVItMvkFb/6457.ts
 
 
-#EXTINF:-1 tvg-ID="d/D" tvg-name="CANAL D Liens 1" tvg-logo="https://s3.amazonaws.com/ok2logo/CANAL+D.png" group-title="2 - Quebec Specialise",CANAL D Liens 1
+#EXTINF:-1 tvg-ID="D" tvg-name="CANAL D" tvg-logo="https://s3.amazonaws.com/ok2logo/CANAL+D.png" group-title="2 - Quebec Specialise",CANAL D Liens 1
 http://tv.sigma-iptv.com:7000/45905/13543107/575542694
 
-#EXTINF:-1 group-title="2 - Quebec Specialise",Prise 2
+#EXTINF:-1 tvg-ID="Prise 2" tvg-name="Prise 2" group-title="2 - Quebec Specialise",Prise 2
 http://tv.sigma-iptv.com:7000/45905/13543107/575542858
-#EXTINF:-1 group-title="2 - Quebec Specialise",ACTION
+#EXTINF:-1 tvg-name="Action" group-title="2 - Quebec Specialise",ACTION
 http://tv.sigma-iptv.com:7000/45905/13543107/575542675
-#EXTINF:-1 group-title="2 - Quebec Specialise",PRISE 2 | SD
+#EXTINF:-1 tvg-name="Prise 2" group-title="2 - Quebec Specialise",PRISE 2 SD
 http://beastiptv.tv:25461/live/q9UGpGpD5L/DzVItMvkFb/6463.ts
-#EXTINF:-1 group-title="2 - Quebec Specialise",Historia FR 
+#EXTINF:-1 tvg-name="History" group-title="2 - Quebec Specialise",Historia
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/672
 #EXTINF:-1 group-title="2 - Quebec Specialise",FRISSON
 http://tv.sigma-iptv.com:7000/45905/13543107/575542784
