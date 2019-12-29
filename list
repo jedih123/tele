@@ -1,11 +1,19 @@
 #EXTM3U
+
 #EXTINF:-1,== Base======================
 #EXTINF:-1 tvg-ID="CBFT" tvg-name="CBFT" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI Radio Canada
+http://209.222.97.118:25461/live/Erik123/Erik123/6456.ts
+#EXTINF:-1 tvg-ID="CBFT" tvg-name="CBFT" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI Radio Canada
+http://209.222.97.118:25461/live/Erik123/Erik123/2750.ts
+#EXTINF:-1 tvg-ID="CBFT" tvg-name="CBFT" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI Radio Canada
 http://tv.sigma-iptv.com:7000/45905/13543107/575542807
-
 #EXTINF:-1 tvg-ID="CBFT" tvg-name="CBFT" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI Montreal
 http://beastiptv.tv:25461/live/q9UGpGpD5L/DzVItMvkFb/6456.ts
 
+#EXTINF:-1 tvg-ID="CFMT" tvg-name="CFMT" tvg-logo="https://s3.amazonaws.com/ok2logo/tva.png" group-title="1 - Quebec Base",TVA Montreal
+http://209.222.97.118:25461/live/Erik123/Erik123/6472.ts
+#EXTINF:-1 tvg-ID="CFMT" tvg-name="CFMT" tvg-logo="https://s3.amazonaws.com/ok2logo/tva.png" group-title="1 - Quebec Base",TVA Montreal
+http://209.222.97.118:25461/live/Erik123/Erik123/6473.ts
 #EXTINF:-1 tvg-ID="CFMT" tvg-name="CFMT" tvg-logo="https://s3.amazonaws.com/ok2logo/tva.png" group-title="1 - Quebec Base",TVA Montreal
 http://ok2.se:8000/qso49oPTx5/aSzNrtLacf/2395
 #EXTINF:-1 tvg-ID="CFMT" tvg-name="CFMT" tvg-logo="https://s3.amazonaws.com/ok2logo/tva.png" group-title="1 - Quebec Base",TVA Montreal
@@ -15,10 +23,16 @@ http://tv.sigma-iptv.com:7000/45905/13543107/575542930
 
 #EXTINF:-1 tvg-ID="CFJP" tvg-name="CFJP" tvg-logo="https://s3.amazonaws.com/ok2logo/CANALV+TV+logo.png" group-title="1 - Quebec Base",V-Tele
 https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
+
+#EXTINF:-1 tvg-ID="LCN" tvg-name="LCN" tvg-logo="https://s3.amazonaws.com/ok2logo/LCN.gif" group-title="1 - Quebec Base",LCN
+http://209.222.97.118:25461/live/Erik123/Erik123/6459.ts
 #EXTINF:-1 tvg-ID="LCN" tvg-name="LCN" tvg-logo="https://s3.amazonaws.com/ok2logo/LCN.gif" group-title="1 - Quebec Base",LCN
 http://tv.sigma-iptv.com:7000/45905/13543107/575542815
 #EXTINF:-1 tvg-ID="LCN" tvg-name="LCN" tvg-logo="https://s3.amazonaws.com/ok2logo/LCN.gif" group-title="1 - Quebec Base",LCN
 http://beastiptv.tv:25461/live/q9UGpGpD5L/DzVItMvkFb/6459.ts
+
+#EXTINF:-1 tvg-ID="RDI" tvg-name="RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="1 - Quebec Base",RDI
+http://209.222.97.118:25461/live/Erik123/Erik123/6457.ts
 #EXTINF:-1 tvg-ID="RDI" tvg-name="RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="1 - Quebec Base",RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
 #EXTINF:-1 tvg-ID="RDI" tvg-name="RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="1 - Quebec Base",RDI
@@ -26,9 +40,15 @@ http://tv.sigma-iptv.com:7000/45905/13543107/575542859
 #EXTINF:-1 tvg-ID="RDI" tvg-name="RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="1 - Quebec Base",RDI
 http://beastiptv.tv:25461/live/q9UGpGpD5L/DzVItMvkFb/6457.ts
 
+
 #EXTINF:-1,== Special======================
 #EXTINF:-1 tvg-ID="ADDIK" tvg-name="ADDIK" tvg-logo="" group-title="2 - Quebec Specialise",Addik TV
+http://209.222.97.118:25461/live/Erik123/Erik123/6449.ts
+#EXTINF:-1 tvg-ID="ADDIK" tvg-name="ADDIK" tvg-logo="" group-title="2 - Quebec Specialise",Addik TV
 http://tv.sigma-iptv.com:7000/45905/13543107/575542676
+
+#EXTINF:-1 tvg-ID="D" tvg-name="D" tvg-logo="https://s3.amazonaws.com/ok2logo/CANAL+D.png" group-title="2 - Quebec Specialise",CANAL D
+http://209.222.97.118:25461/live/Erik123/Erik123/6451.ts
 #EXTINF:-1 tvg-ID="D" tvg-name="D" tvg-logo="https://s3.amazonaws.com/ok2logo/CANAL+D.png" group-title="2 - Quebec Specialise",CANAL D
 http://tv.sigma-iptv.com:7000/45905/13543107/575542694
 #EXTINF:-1 tvg-ID="D" tvg-name="D" tvg-logo="https://s3.amazonaws.com/ok2logo/CANAL+D.png" group-title="2 - Quebec Specialise",CANAL D
@@ -37,63 +57,131 @@ http://ok2.se:8000/ClDRWBtUNJ/UEJbdB1PaE/9633
 http://ok2.se:8000/d19vuGCRMX/uRBpDAwc6I/9633
 
 #EXTINF:-1 tvg-ID="Prise 2" tvg-name="Prise 2" group-title="2 - Quebec Specialise",Prise 2
+http://209.222.97.118:25461/live/Erik123/Erik123/6463.ts
+#EXTINF:-1 tvg-ID="Prise 2" tvg-name="Prise 2" group-title="2 - Quebec Specialise",Prise 2
 http://tv.sigma-iptv.com:7000/45905/13543107/575542858
 #EXTINF:-1 tvg-ID="Prise 2" tvg-name="Prise 2" group-title="2 - Quebec Specialise",Prise 2
 http://beastiptv.tv:25461/live/q9UGpGpD5L/DzVItMvkFb/6463.ts
 #EXTINF:-1 tvg-ID="Action" tvg-name="Action" group-title="2 - Quebec Specialise",Action
 http://tv.sigma-iptv.com:7000/45905/13543107/575542675
+
+#EXTINF:-1 tvg-ID="Historia" tvg-name="Historia" group-title="2 - Quebec Specialise",Historia
+http://209.222.97.118:25461/live/Erik123/Erik123/6455.ts
 #EXTINF:-1 tvg-ID="Historia" tvg-name="Historia" group-title="2 - Quebec Specialise",Historia
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/672
 #EXTINF:-1 tvg-ID="Historia" tvg-name="Historia" group-title="2 - Quebec Specialise",Historia
 http://tv.sigma-iptv.com:7000/45905/13543107/575542803
+
 #EXTINF:-1 tvg-ID="Frisson" tvg-name="Frisson" group-title="2 - Quebec Specialise",Frisson
 http://tv.sigma-iptv.com:7000/45905/13543107/575542784
+
+#EXTINF:-1 tvg-ID="Series +" tvg-name="Series +"group-title="2 - Quebec Specialise",Series +
+http://209.222.97.118:25461/live/Erik123/Erik123/6467.ts
 #EXTINF:-1 tvg-ID="Series +" tvg-name="Series +"group-title="2 - Quebec Specialise",Series +
 http://tv.sigma-iptv.com:7000/45905/13543107/575542864
+
+#EXTINF:-1 tvg-ID="Z" tvg-name="Z" tvg-logo="https://s3.amazonaws.com/ok2logo/ztele.png" group-title="2 - Quebec Specialise",Z-Tele
+http://209.222.97.118:25461/live/Erik123/Erik123/6481.ts
 #EXTINF:-1 tvg-ID="Z" tvg-name="Z" tvg-logo="https://s3.amazonaws.com/ok2logo/ztele.png" group-title="2 - Quebec Specialise",Z-Tele
 http://tv.sigma-iptv.com:7000/45905/13543107/575542948
 #EXTINF:-1 tvg-ID="Z" tvg-name="Z" tvg-logo="https://s3.amazonaws.com/ok2logo/ztele.png" group-title="2 - Quebec Specialise",Z-Tele
 http://hhhshop.co:83/uk2Qs4du/Joemanie47!/306057
 
 #EXTINF:-1,== Kids======================
+#EXTINF:-1 tvg-ID="TOONF" tvg-name="TELETOON FR" tvg-logo="https://s3.amazonaws.com/ok2logo/teletoon.png" group-title="3 - Kids",Teletoon FR
+http://209.222.97.118:25461/live/Erik123/Erik123/6474.ts
+
 #EXTINF:-1 tvg-ID="TOONA" tvg-name="TELETOON EN" tvg-logo="https://s3.amazonaws.com/ok2logo/teletoon.png" group-title="3 - Kids",Teletoon EN
 http://tv.sigma-iptv.com:7000/45905/13543107/575542911
 #EXTINF:-1 tvg-ID="TOONA" tvg-name="TELETOON EN" tvg-logo="https://s3.amazonaws.com/ok2logo/teletoon.png" group-title="3 - Kids",Teletoon EN
 http://beastiptv.tv:25461/live/q9UGpGpD5L/DzVItMvkFb/6474.ts
-#EXTINF:-1 tvg-ID="Cartoon Network Canada" tvg-name="Cartoon Network Canada" tvg-logo="https://s3.amazonaws.com/ok2logo/cartoonnetwork.png" group-title="3 - Kids",Cartoon Network
+#EXTINF:-1 tvg-ID="Carto
+on Network Canada" tvg-name="Cartoon Network Canada" tvg-logo="https://s3.amazonaws.com/ok2logo/cartoonnetwork.png" group-title="3 - Kids",Cartoon Network
 http://tv.sigma-iptv.com:7000/45905/13543107/575542698
 #EXTINF:-1 tvg-ID="Cartoon Network Canada" tvg-name="Cartoon Network Canada" tvg-logo="https://s3.amazonaws.com/ok2logo/cartoonnetwork.png" group-title="3 - Kids",Cartoon Network
 http://www.sansat.net:25461/telemak_pllumi/XlJSc8Zded/34678
+
 #EXTINF:-1 tvg-ID="Disney Jr" tvg-name="Disney Jr" tvg-logo="https://s3.amazonaws.com/ok2logo/disneyxd.png" group-title="3 - Kids",Disney Canada
 http://tv.sigma-iptv.com:7000/45905/13543107/575542763
 #EXTINF:-1 tvg-ID="Disney Jr" tvg-name="Disney Jr" tvg-logo="https://s3.amazonaws.com/ok2logo/disneyxd.png" group-title="3 - Kids",Disney Canada
 http://beastiptv.tv:25461/live/q9UGpGpD5L/DzVItMvkFb/6453.ts
+
+#EXTINF:-1 tvg-ID="Disney Jr" tvg-name="Disney Jr" tvg-logo="https://s3.amazonaws.com/ok2logo/disneyxd.png" group-title="3 - Kids",Disney Jr
+http://209.222.97.118:25461/live/Erik123/Erik123/5982.ts
 #EXTINF:-1 tvg-ID="Disney Jr" tvg-name="Disney Jr" tvg-logo="https://s3.amazonaws.com/ok2logo/disneyxd.png" group-title="3 - Kids",Disney Jr
 http://tv.sigma-iptv.com:7000/45905/13543107/575542764
 #EXTINF:-1 tvg-ID="Disney Jr" tvg-name="Disney Jr" tvg-logo="https://s3.amazonaws.com/ok2logo/disneyxd.png" group-title="3 - Kids",Disney Jr EN
 http://tv.sigma-iptv.com:7000/45905/13543107/575542967
+
+#EXTINF:-1 tvg-ID="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://s3.amazonaws.com/ok2logo/nickelodeon.png" group-title="3 - Kids",Nickeldeon
+http://209.222.97.118:25461/live/Erik123/Erik123/7866.ts
+#EXTINF:-1 tvg-ID="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://s3.amazonaws.com/ok2logo/nickelodeon.png" group-title="3 - Kids",Nickeldeon
+http://209.222.97.118:25461/live/Erik123/Erik123/1477.ts
 #EXTINF:-1 tvg-ID="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://s3.amazonaws.com/ok2logo/nickelodeon.png" group-title="3 - Kids",Nickeldeon
 http://tv.sigma-iptv.com:7000/45905/13543107/575542841
+
+
 #EXTINF:-1 tvg-ID="La Chaine Disney" tvg-name="La Chaine Disney" tvg-logo="https://s3.amazonaws.com/ok2logo/disneyxd.png" group-title="3 - Kids",Disney Fr
 http://tv.sigma-iptv.com:7000/45905/13543107/575542762
+#EXTINF:-1 tvg-ID="La Chaine Disney" tvg-name="La Chaine Disney" tvg-logo="https://s3.amazonaws.com/ok2logo/disneyxd.png" group-title="3 - Kids",Disney Fr
+http://209.222.97.118:25461/live/Erik123/Erik123/6452.ts
+#EXTINF:-1 tvg-ID="La Chaine Disney" tvg-name="La Chaine Disney" tvg-logo="https://s3.amazonaws.com/ok2logo/disneyxd.png" group-title="3 - Kids",Disney Fr
+http://209.222.97.118:25461/live/Erik123/Erik123/6453.ts
+
+#EXTINF:-1,USA SD: DISNEY CHANNEL
+http://209.222.97.118:25461/live/Erik123/Erik123/5981.ts
+#EXTINF:-1,USA SD: DISNEY XD
+http://209.222.97.118:25461/live/Erik123/Erik123/5983.ts
+#EXTINF:-1,KIDS US: CARTOON NETWORK
+http://209.222.97.118:25461/live/Erik123/Erik123/1274.ts
+#EXTINF:-1,KIDS US: CARTOON NETWORK WEST
+http://209.222.97.118:25461/live/Erik123/Erik123/4041.ts
+#EXTINF:-1,KIDS US: DISNEY CHANNEL EAST
+http://209.222.97.118:25461/live/Erik123/Erik123/1472.ts
+#EXTINF:-1,KIDS US: DISNEY CHANNEL WEST
+http://209.222.97.118:25461/live/Erik123/Erik123/1471.ts
+#EXTINF:-1,KIDS US: DISNEY JR EAST
+http://209.222.97.118:25461/live/Erik123/Erik123/1473.ts
+#EXTINF:-1,KIDS US: DISNEY JR WEST
+http://209.222.97.118:25461/live/Erik123/Erik123/1474.ts
+#EXTINF:-1,KIDS US: DISNEY XD EAST
+http://209.222.97.118:25461/live/Erik123/Erik123/1475.ts
+#EXTINF:-1,KIDS US: DISNEY XD WEST
+http://209.222.97.118:25461/live/Erik123/Erik123/1476.ts
+
 
 #EXTINF:-1,== Sport FR======================
+#EXTINF:-1 tvg-ID="TVA Sports" tvg-name="TVA Sports" group-title="4 - Sports FR",TVA Sports
+http://209.222.97.118:25461/live/Erik123/Erik123/6441.ts
 #EXTINF:-1 tvg-ID="TVA Sports" tvg-name="TVA Sports" group-title="4 - Sports FR",TVA Sports
 http://tv.sigma-iptv.com:7000/45905/13543107/575542932
 #EXTINF:-1 tvg-ID="TVA Sports" tvg-name="TVA Sports" group-title="4 - Sports FR",TVA Sports
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/620
+
+#EXTINF:-1 tvg-ID="TVA Sports" tvg-name="TVA Sports" group-title="4 - Sports FR",TVA Sports 2
+http://209.222.97.118:25461/live/Erik123/Erik123/6440.ts
+
+#EXTINF:-1 tvg-ID="RDS" tvg-name="RDS" tvg-logo="https://s3.amazonaws.com/ok2logo/rds.png" group-title="4 - Sports FR",RDS
+http://209.222.97.118:25461/live/Erik123/Erik123/6464.ts
 #EXTINF:-1 tvg-ID="RDS" tvg-name="RDS" tvg-logo="https://s3.amazonaws.com/ok2logo/rds.png" group-title="4 - Sports FR",RDS
 http://tv.sigma-iptv.com:7000/45905/13543107/575542860
 #EXTINF:-1 tvg-ID="RDS" tvg-name="RDS" tvg-logo="https://s3.amazonaws.com/ok2logo/rds.png" group-title="4 - Sports FR",RDS
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/640
+
+#EXTINF:-1 tvg-ID="RDS2" tvg-name="RDS2" tvg-logo="https://s3.amazonaws.com/ok2logo/rds2.png" group-title="4 - Sports FR",RDS2
+http://209.222.97.118:25461/live/Erik123/Erik123/6465.ts
 #EXTINF:-1 tvg-ID="RDS2" tvg-name="RDS2" tvg-logo="https://s3.amazonaws.com/ok2logo/rds2.png" group-title="4 - Sports FR",RDS2
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/639
 #EXTINF:-1 tvg-ID="RDS2" tvg-name="RDS2" tvg-logo="https://s3.amazonaws.com/ok2logo/rds2.png" group-title="4 - Sports FR",RDS2
 http://tv.sigma-iptv.com:7000/45905/13543107/575542861
+
+#EXTINF:-1 tvg-ID="RDS Info" tvg-name="RDS Info" tvg-logo="https://s3.amazonaws.com/ok2logo/rds2.png" group-title="4 - Sports FR",RDS Info
+http://209.222.97.118:25461/live/Erik123/Erik123/6466.ts
 #EXTINF:-1 tvg-ID="RDS Info" tvg-name="RDS Info" tvg-logo="https://s3.amazonaws.com/ok2logo/rds2.png" group-title="4 - Sports FR",RDS Info
 http://tv.sigma-iptv.com:7000/45905/13543107/575542862
 #EXTINF:-1 group-title="4 - Sports FR",Chasse et Peche
 http://tv.sigma-iptv.com:7000/45905/13543107/575542968
+
 #EXTINF:-1,== Film======================
 #EXTINF:-1 tvg-ID="SE" tvg-name="Super Ecran" group-title="5 - Film FR",Super Ecran
 http://tv.sigma-iptv.com:7000/45905/13543107/575542901
@@ -109,27 +197,66 @@ http://tv.sigma-iptv.com:7000/45905/13543107/575542903
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/632
 #EXTINF:-1 tvg-ID="SE+4" tvg-name="Super Ecran4" group-title="5 - Film FR",Super Ecran 4
 http://hhhshop.co:83/uk2Qs4du/Joemanie47!/306100
+
 #EXTINF:-1,== Sport EN======================
+
+#EXTINF:-1 tvg-ID="TSN1" tvg-name="TSN1" group-title="6 - Sports EN",TSN 1 | HD
+http://209.222.97.118:25461/live/Erik123/Erik123/2731.ts
 #EXTINF:-1 tvg-ID="TSN1" tvg-name="TSN1" group-title="6 - Sports EN",TSN 1 | HD
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/554
 #EXTINF:-1 tvg-ID="TSN2" tvg-name="TSN2" group-title="6 - Sports EN",TSN 2 | HD
+http://209.222.97.118:25461/live/Erik123/Erik123/2732.ts
+#EXTINF:-1 tvg-ID="TSN2" tvg-name="TSN2" group-title="6 - Sports EN",TSN 2 | HD
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/553
+#EXTINF:-1 tvg-ID="TSN3" tvg-name="TSN3" group-title="6 - Sports EN",TSN 3 | HD
+http://209.222.97.118:25461/live/Erik123/Erik123/2733.ts
 #EXTINF:-1 tvg-ID="TSN3" tvg-name="TSN3" group-title="6 - Sports EN",TSN 3 | HD
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/552
 #EXTINF:-1 tvg-ID="TSN4" tvg-name="TSN4" group-title="6 - Sports EN",TSN 4 | HD
+http://209.222.97.118:25461/live/Erik123/Erik123/2734.ts
+#EXTINF:-1 tvg-ID="TSN4" tvg-name="TSN4" group-title="6 - Sports EN",TSN 4 | HD
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/551
+#EXTINF:-1 tvg-ID="TSN" tvg-name="TSN" group-title="6 - Sports EN",TSN | HD
+http://209.222.97.118:25461/live/Erik123/Erik123/2735.ts
 #EXTINF:-1 tvg-ID="TSN" tvg-name="TSN" group-title="6 - Sports EN",TSN | HD
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/550
 #EXTINF:-1 tvg-ID="TSN" tvg-name="TSN" group-title="6 - Sports EN",TSN
 http://tv.sigma-iptv.com:7000/45905/13543107/575542928
 #EXTINF:-1 tvg-ID="TSN1" tvg-name="TSN1" group-title="6 - Sports EN",TSN
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/652
+
+#EXTINF:-1,SPORTS US: FOX SPORTS 1 |+|
+http://209.222.97.118:25461/live/Erik123/Erik123/1529.ts
+#EXTINF:-1,SPORTS US: FOX SPORTS 2
+http://209.222.97.118:25461/live/Erik123/Erik123/1528.ts
+#EXTINF:-1,SPORTS CA: FANTASY SPORTS
+http://209.222.97.118:25461/live/Erik123/Erik123/2692.ts
+#EXTINF:-1,SPORTS CA: SPORTSNET 360
+http://209.222.97.118:25461/live/Erik123/Erik123/2723.ts
+#EXTINF:-1,SPORTS CA: SPORTSNET ONTARIO
+http://209.222.97.118:25461/live/Erik123/Erik123/2726.ts
+#EXTINF:-1,SPORTS CA: SPORTSNET WORLD
+http://209.222.97.118:25461/live/Erik123/Erik123/2729.ts
+
+#EXTINF:-1 tvg-ID="Sportsnet (Ontario)" tvg-name="Sportsnet (Ontario)" group-title="6 - Sports EN",Sportsnet (Ontario)
+http://209.222.97.118:25461/live/Erik123/Erik123/2726.ts
 #EXTINF:-1 tvg-ID="Sportsnet (Ontario)" tvg-name="Sportsnet (Ontario)" group-title="6 - Sports EN",Sportsnet (Ontario)
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/549
+
+#EXTINF:-1 tvg-ID="Sports Net One" tvg-name="Sports Net One" group-title="6 - Sports EN",Sports Net One | HD
+http://209.222.97.118:25461/live/Erik123/Erik123/2725.ts
 #EXTINF:-1 tvg-ID="Sports Net One" tvg-name="Sports Net One" group-title="6 - Sports EN",Sports Net One | HD
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/548
+
+#EXTINF:-1 tvg-ID="Sport Net Est" tvg-name="Sports Net Est" group-title="6 - Sports EN",Sports Net Est
+http://209.222.97.118:25461/live/Erik123/Erik123/2724.ts
 #EXTINF:-1 tvg-ID="Sport Net Est" tvg-name="Sports Net Est" group-title="6 - Sports EN",Sports Net Est
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/635
+
+#EXTINF:-1 tvg-ID="Fight Network" tvg-name="Fight Network" group-title="6 - Sports EN",Fight Network
+http://209.222.97.118:25461/live/Erik123/Erik123/2693.ts
+#EXTINF:-1 tvg-ID="Fight Network" tvg-name="Fight Network" group-title="6 - Sports EN",Fight Network
+http://209.222.97.118:25461/live/Erik123/Erik123/1535.ts
 #EXTINF:-1 tvg-ID="Fight Network" tvg-name="Fight Network" group-title="6 - Sports EN",Fight Network
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/682
 #EXTINF:-1 tvg-ID="Fight Network" tvg-name="Fight Network" group-title="6 - Sports EN",Fight Network
@@ -140,21 +267,96 @@ http://hhhshop.co:83/uk2Qs4du/Joemanie47!/308759
 http://beastiptv.tv:25461/live/q9UGpGpD5L/DzVItMvkFb/1483.ts
 #EXTINF:-1 tvg-name="NXT" group-title="6 - Sports EN",NXT
 http://tv.sigma-iptv.com:7000/45905/13543107/575542942
+
+#EXTINF:-1,US: GAMESHOW NETWORK
+http://209.222.97.118:25461/live/Erik123/Erik123/1392.ts
+
+#EXTINF:-1 tvg-ID="FX Networks Canada" group-title="6 - Sports EN",FXX | HD
+http://209.222.97.118:25461/live/Erik123/Erik123/1390.ts
+#EXTINF:-1 tvg-ID="FX Networks Canada" group-title="6 - Sports EN",FXX | HD
+http://tv.sigma-iptv.com:7000/45905/13543107/575542786
+
+
 #EXTINF:-1,== English Channel======================
+#EXTINF:-1 tvg-ID="AMC HD" tvg-name="AMC HD" group-title="7 - English",AMC
+http://209.222.97.118:25461/live/Erik123/Erik123/2651.ts
+#EXTINF:-1 tvg-ID="AMC HD" tvg-name="AMC HD" group-title="7 - English",AMC
+http://209.222.97.118:25461/live/Erik123/Erik123/1258.ts
 #EXTINF:-1 tvg-ID="AMC HD" tvg-name="AMC HD" group-title="7 - English",AMC
 http://tv.sigma-iptv.com:7000/45905/13543107/575542725
 #EXTINF:-1 tvg-ID="AMC HD" tvg-name="AMC HD" group-title="7 - English",AMC
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/722
 #EXTINF:-1 tvg-ID="AMC HD" tvg-name="AMC HD" group-title="7 - English",AMC
 http://tv.sigma-iptv.com:7000/45905/13543107/575542680
+
 #EXTINF:-1 tvg-ID="CBVU-TV" tvg-name="CBVU-TV" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png" group-title="7 - English",CBC OTTAWA
 http://tv.sigma-iptv.com:7000/45905/13543107/575542701
+#EXTINF:-1 tvg-ID="CBVU-TV" tvg-name="CBVU-TV" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png" group-title="7 - English",CBC OTTAWA
+http://209.222.97.118:25461/live/Erik123/Erik123/2657.ts
+#EXTINF:-1 tvg-ID="CBVU-TV" tvg-name="CBVU-TV" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png" group-title="7 - English",CBC OTTAWA
+http://209.222.97.118:25461/live/Erik123/Erik123/2761.ts
+#EXTINF:-1 tvg-ID="CBVU-TV" tvg-name="CBVU-TV" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png" group-title="7 - English",CBC OTTAWA
+http://209.222.97.118:25461/live/Erik123/Erik123/2664.ts
+
+#EXTINF:-1 tvg-ID="Crime + Investigation" tvg-name="Crime + Investigation" group-title="7 - English",Crime Investigation
+http://209.222.97.118:25461/live/Erik123/Erik123/1287.ts
 #EXTINF:-1 tvg-ID="Crime + Investigation" tvg-name="Crime + Investigation" group-title="7 - English",Crime Investigation
 http://tv.sigma-iptv.com:7000/45905/13543107/575542741
+
+#EXTINF:-1 tvg-ID="CNN" group-title="7 - English",CNN | HD
+http://209.222.97.118:25461/live/Erik123/Erik123/2676.ts
 #EXTINF:-1 tvg-ID="CNN" group-title="7 - English",CNN | HD
 http://tv.sigma-iptv.com:7000/45905/13543107/575542726
 #EXTINF:-1 tvg-ID="CNN" group-title="7 - English",CNN
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/706
-#EXTINF:-1 tvg-ID="FX Networks Canada" group-title="6 - Sports EN",FXX | HD
-http://tv.sigma-iptv.com:7000/45905/13543107/575542786
+#EXTINF:-1 tvg-ID="CNN" group-title="7 - English",CNN | HD
+http://209.222.97.118:25461/live/Erik123/Erik123/1279.ts
+#EXTINF:-1 tvg-ID="CNN" group-title="7 - English",CNN Inter
+http://209.222.97.118:25461/live/Erik123/Erik123/7879.ts
 
+#EXTINF:-1,HBO
+http://209.222.97.118:25461/live/Erik123/Erik123/2770.ts
+#EXTINF:-1,HBO 2
+http://209.222.97.118:25461/live/Erik123/Erik123/2772.ts
+#EXTINF:-1,THE MOVIE CHANNEL
+http://209.222.97.118:25461/live/Erik123/Erik123/4061.ts
+
+#EXTINF:-1,US: FOX
+http://209.222.97.118:25461/live/Erik123/Erik123/7886.ts
+#EXTINF:-1,US: FOX NEWS |+|
+http://209.222.97.118:25461/live/Erik123/Erik123/1381.ts
+#EXTINF:-1,US: FX EAST
+http://209.222.97.118:25461/live/Erik123/Erik123/1387.ts
+#EXTINF:-1,USA SD: FX EAST
+http://209.222.97.118:25461/live/Erik123/Erik123/5998.ts
+
+#EXTINF:-1,USA SD: NHL NETWORK
+http://209.222.97.118:25461/live/Erik123/Erik123/6022.ts
+
+#EXTINF:-1,CA: CRAVE 1
+http://209.222.97.118:25461/live/Erik123/Erik123/2680.ts
+#EXTINF:-1,CA: CRAVE 2
+http://209.222.97.118:25461/live/Erik123/Erik123/2681.ts
+#EXTINF:-1,CA: CRAVE 3
+http://209.222.97.118:25461/live/Erik123/Erik123/2682.ts
+#EXTINF:-1,CA: CTV
+http://209.222.97.118:25461/live/Erik123/Erik123/2685.ts
+#EXTINF:-1,CA: CTV OTTAWA
+http://209.222.97.118:25461/live/Erik123/Erik123/6436.ts
+#EXTINF:-1,CA: FOX
+http://209.222.97.118:25461/live/Erik123/Erik123/2695.ts
+#EXTINF:-1,CA: FX
+http://209.222.97.118:25461/live/Erik123/Erik123/2696.ts
+#EXTINF:-1,CA: FXX
+http://209.222.97.118:25461/live/Erik123/Erik123/2697.ts
+#EXTINF:-1,CA: HBO
+http://209.222.97.118:25461/live/Erik123/Erik123/2705.ts
+#EXTINF:-1,CA: HBO 2
+http://209.222.97.118:25461/live/Erik123/Erik123/2704.ts
+#EXTINF:-1,CA: HISTORY
+http://209.222.97.118:25461/live/Erik123/Erik123/2707.ts
+
+#EXTINF:-1,CA: MOVIETIME
+http://209.222.97.118:25461/live/Erik123/Erik123/2711.ts
+#EXTINF:-1,CA: WILD TV 
+http://209.222.97.118:25461/live/Erik123/Erik123/6442.ts
