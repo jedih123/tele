@@ -192,6 +192,9 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/636
 #EXTINF:-1 tvg-ID="Fight Network" tvg-name="Fight Network" group-title="6 - Sports EN",Fight Network
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/682
 
+#EXTINF:-1 tvg-name="WWE" group-title="6 - Sports EN",WWE
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55730.ts
+
 #EXTINF:-1 tvg-name="NXT" group-title="6 - Sports EN",NXT
 
 #EXTINF:-1,CA: GINX ESPORTS TV
