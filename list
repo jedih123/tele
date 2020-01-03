@@ -8,12 +8,13 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/666
 
 #EXTINF:-1 tvg-ID="CFMT" tvg-name="CFMT" tvg-logo="https://s3.amazonaws.com/ok2logo/tva.png" group-title="1 - Quebec Base",TVA Montreal
 
-
 #EXTINF:-1 tvg-ID="CFMT" tvg-name="CFMT" tvg-logo="https://s3.amazonaws.com/ok2logo/tva.png" group-title="1 - Quebec Base",TVA Gatineau
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/622
 
 #EXTINF:-1 tvg-ID="CFJP" tvg-name="CFJP" tvg-logo="https://s3.amazonaws.com/ok2logo/CANALV+TV+logo.png" group-title="1 - Quebec Base",V-Tele
 https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
+
+#EXTINF:-1 tvg-ID="CFJP" tvg-name="CFJP" tvg-logo="https://s3.amazonaws.com/ok2logo/CANALV+TV+logo.png" group-title="1 - Quebec Base",V-Tele
 
 #EXTINF:-1 tvg-ID="LCN" tvg-name="LCN" tvg-logo="https://s3.amazonaws.com/ok2logo/LCN.gif" group-title="1 - Quebec Base",LCN
 
@@ -24,7 +25,8 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
 #EXTINF:-1 tvg-ID="RDI" tvg-name="RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="1 - Quebec Base",RDI
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/641
-
+#EXTINF:-1 tvg-ID="RDI" tvg-name="RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="1 - Quebec Base",RDI
+http://ok2.se:8000/H1RIPkentf/x5sywAzDzd/2396
 
 
 #EXTINF:-1,== Special======================
@@ -40,7 +42,6 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/641
 #EXTINF:-1 tvg-ID="D" tvg-name="D" tvg-logo="https://s3.amazonaws.com/ok2logo/CANAL+D.png" group-title="2 - Quebec Specialise",CANAL D
 
 #EXTINF:-1,CA: CRIME INVESTIGATION
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/700
 
 #EXTINF:-1 tvg-ID="Prise 2" tvg-name="Prise 2" group-title="2 - Quebec Specialise",Prise 2
 
@@ -55,9 +56,9 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/700
 #EXTINF:-1 tvg-ID="Frisson" tvg-name="Frisson" group-title="2 - Quebec Specialise",Frisson
 
 
-#EXTINF:-1 tvg-ID="Series +" tvg-name="Series +"group-title="2 - Quebec Specialise",Series +
+#EXTINF:-1 tvg-ID="Series +" tvg-name="Series +" tvg-logo="https://s3.amazonaws.com/ok2logo/series.png" group-title="2 - Quebec Specialise",Series +
 
-#EXTINF:-1 tvg-ID="Series +" tvg-name="Series +"group-title="2 - Quebec Specialise",Series +
+#EXTINF:-1 tvg-ID="Series +" tvg-name="Series +" tvg-logo="https://s3.amazonaws.com/ok2logo/series.png" group-title="2 - Quebec Specialise",Series +
 
 
 #EXTINF:-1 tvg-ID="Z" tvg-name="Z" tvg-logo="https://s3.amazonaws.com/ok2logo/ztele.png" group-title="2 - Quebec Specialise",Z-Tele
@@ -104,22 +105,23 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/690
 
 
 #EXTINF:-1,== Sport FR======================
-#EXTINF:-1 tvg-ID="TVA Sports" tvg-name="TVA Sports" group-title="4 - Sports FR",TVA Sports
+#EXTINF:-1 tvg-ID="TVA Sports" tvg-name="TVA Sports" tvg-logo="https://s3.amazonaws.com/ok2logo/tva1.png" group-title="4 - Sports FR",TVA Sports
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/620
+#EXTINF:-1 tvg-ID="TVA Sports" tvg-name="TVA Sports" tvg-logo="https://s3.amazonaws.com/ok2logo/tva1.png" group-title="4 - Sports FR",TVA Sports
 
-
-#EXTINF:-1 tvg-ID="TVA Sports" tvg-name="TVA Sports" group-title="4 - Sports FR",TVA Sports 2
+#EXTINF:-1 tvg-ID="TVA Sports" tvg-name="TVA Sports" tvg-logo="https://s3.amazonaws.com/ok2logo/tva2.png" group-title="4 - Sports FR",TVA Sports 2
 
 
 #EXTINF:-1 tvg-ID="RDS" tvg-name="RDS" tvg-logo="https://s3.amazonaws.com/ok2logo/rds.png" group-title="4 - Sports FR",RDS
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/640
+#EXTINF:-1 tvg-ID="RDS" tvg-name="RDS" tvg-logo="https://s3.amazonaws.com/ok2logo/rds.png" group-title="4 - Sports FR",RDS
 
+#EXTINF:-1 tvg-ID="RDS2" tvg-name="RDS2" tvg-logo="https://s3.amazonaws.com/ok2logo/rds2.png" group-title="4 - Sports FR",RDS2
 #EXTINF:-1 tvg-ID="RDS2" tvg-name="RDS2" tvg-logo="https://s3.amazonaws.com/ok2logo/rds2.png" group-title="4 - Sports FR",RDS2
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/639
 
 
 #EXTINF:-1 tvg-ID="RDS Info" tvg-name="RDS Info" tvg-logo="https://s3.amazonaws.com/ok2logo/rds2.png" group-title="4 - Sports FR",RDS Info
-
 
 #EXTINF:-1 group-title="4 - Sports FR",Chasse et Peche
 
@@ -127,19 +129,26 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/639
 
 #EXTINF:-1,== Film======================
 
-#EXTINF:-1 tvg-ID="Cinepop" tvg-name="Cinepop" group-title="5 - Film FR",Cinepop
+#EXTINF:-1 tvg-ID="Cinepop" tvg-name="Cinepop" tvg-logo="https://s3.amazonaws.com/ok2logo/FRENCH/CINEPOP.HD.PNG" group-title="5 - Film FR",Cinepop
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/710
+#EXTINF:-1 tvg-ID="Cinepop" tvg-name="Cinepop" tvg-logo="https://s3.amazonaws.com/ok2logo/FRENCH/CINEPOP.HD.PNG" group-title="5 - Film FR",Cinepop
+http://ok2.se:8000/H1RIPkentf/x5sywAzDzd/46739
 
-#EXTINF:-1 tvg-ID="SE" tvg-name="Super Ecran" group-title="5 - Film FR",Super Ecran
+#EXTINF:-1 tvg-ID="SE" tvg-name="Super Ecran" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran.png" group-title="5 - Film FR",Super Ecran
+
+#EXTINF:-1 tvg-ID="SE" tvg-name="Super Ecran" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran.png" group-title="5 - Film FR",Super Ecran
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/634
 
-#EXTINF:-1 tvg-ID="SE+2" tvg-name="Super Ecran2" group-title="5 - Film FR",Super Ecran 2
+#EXTINF:-1 tvg-ID="SE+2" tvg-name="Super Ecran2" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran2.png" group-title="5 - Film FR",Super Ecran 2
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/633
+#EXTINF:-1 tvg-ID="SE+2" tvg-name="Super Ecran2" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran2.png" group-title="5 - Film FR",Super Ecran 2
 
-#EXTINF:-1 tvg-ID="SE+3" tvg-name="Super Ecran3" group-title="5 - Film FR",Super Ecran 3
+#EXTINF:-1 tvg-ID="SE+3" tvg-name="Super Ecran3" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran3.png" group-title="5 - Film FR",Super Ecran 3
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/632
+#EXTINF:-1 tvg-ID="SE+3" tvg-name="Super Ecran3" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran3.png" group-title="5 - Film FR",Super Ecran 3
 
-#EXTINF:-1 tvg-ID="SE+4" tvg-name="Super Ecran4" group-title="5 - Film FR",Super Ecran 4
+#EXTINF:-1 tvg-ID="SE+4" tvg-name="Super Ecran4" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran4.jpg" group-title="5 - Film FR",Super Ecran 4
+#EXTINF:-1 tvg-ID="SE+4" tvg-name="Super Ecran4" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran4.jpg" group-title="5 - Film FR",Super Ecran 4
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/631
 
 
@@ -218,6 +227,7 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/722
 
 
 #EXTINF:-1 tvg-ID="Crime + Investigation" tvg-name="Crime + Investigation" group-title="7 - English",Crime Investigation
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/700
 
 #EXTINF:-1 tvg-ID="Crime + Investigation" tvg-name="Crime + Investigation" group-title="7 - English",Crime Investigation
 
@@ -250,4 +260,3 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/625
 #EXTINF:-1,CA: TMN 4
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/624
 
-#EXTINF:-1,CA: FXX
