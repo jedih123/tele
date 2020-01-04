@@ -2,15 +2,18 @@
 
 #EXTINF:-1,== Base======================
 
-#EXTINF:-1 tvg-ID="CBFT" tvg-name="CBFT" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI Radio Canada
+#EXTINF:-1 tvg-ID="CBFT" tvg-name="CBFT" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI Montreal CA
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/666
-
-#EXTINF:-1 tvg-ID="CBFT" tvg-name="CBFT" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI Radio Canada
+#EXTINF:-1 tvg-ID="CBFT" tvg-name="CBFT" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI Montreal CA
 http://beastiptv.tv:25461/live/tigerwoods/tigerwoods/6456.ts
+#EXTINF:-1 tvg-ID="CBFT" tvg-name="CBFT" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI Montreal CA
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/17748
+#EXTINF:-1 tvg-ID="CBFT" tvg-name="CBFT" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI Montreal CA
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/37055
 
-#EXTINF:-1 tvg-ID="CFMT" tvg-name="CFMT" tvg-logo="https://s3.amazonaws.com/ok2logo/tva.png" group-title="1 - Quebec Base",TVA Montreal
-http://beastiptv.tv:25461/live/tigerwoods/tigerwoods/6473.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="TVA Quebec CA-FR" tvg-logo="https://s3.amazonaws.com/ok2logo/tva.png" group-title="1 - Quebec Base",TVA Quebec CA
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/53718
 #EXTINF:-1 tvg-ID="CFMT" tvg-name="CFMT" tvg-logo="https://s3.amazonaws.com/ok2logo/tva.png" group-title="1 - Quebec Base",TVA Gatineau
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/622
 #EXTINF:-1 tvg-ID="CFMT" tvg-name="CFMT" tvg-logo="https://s3.amazonaws.com/ok2logo/tva.png" group-title="1 - Quebec Base",TVA Gatineau
@@ -21,21 +24,30 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
 
 #EXTINF:-1 tvg-ID="CFJP" tvg-name="CFJP" tvg-logo="https://s3.amazonaws.com/ok2logo/CANALV+TV+logo.png" group-title="1 - Quebec Base",V-Tele
 
+#EXTINF:-1 tvg-id="LCN" tvg-name="LCN CA" tvg-logo="https://s3.amazonaws.com/ok2logo/LCN.gif" group-title="1 - Quebec Base",LCN
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/632669
 #EXTINF:-1 tvg-ID="LCN" tvg-name="LCN" tvg-logo="https://s3.amazonaws.com/ok2logo/LCN.gif" group-title="1 - Quebec Base",LCN
 http://beastiptv.tv:25461/live/tigerwoods/tigerwoods/6459.ts
 
-#EXTINF:-1 tvg-ID="LCN" tvg-name="LCN" tvg-logo="https://s3.amazonaws.com/ok2logo/LCN.gif" group-title="1 - Quebec Base",LCN
 
 
-#EXTINF:-1 tvg-ID="RDI" tvg-name="RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="1 - Quebec Base",RDI
+#EXTINF:-1 tvg-id="" tvg-name="ICI RDI CA" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="1 - Quebec Base",ICI RDI
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/665603
+#EXTINF:-1 tvg-id="" tvg-name="ICI RDI CA" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="1 - Quebec Base",ICI RDI
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/632647
+#EXTINF:-1 tvg-id="" tvg-name="ICI RDI CA" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="1 - Quebec Base",ICI RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
-#EXTINF:-1 tvg-ID="RDI" tvg-name="RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="1 - Quebec Base",RDI
+#EXTINF:-1 tvg-id="" tvg-name="ICI RDI CA" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="1 - Quebec Base",ICI RDI
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/641
-#EXTINF:-1 tvg-ID="RDI" tvg-name="RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="1 - Quebec Base",RDI
+#EXTINF:-1 tvg-id="" tvg-name="ICI RDI CA" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="1 - Quebec Base",ICI RDI
 http://beastiptv.tv:25461/live/tigerwoods/tigerwoods/6457.ts
-#EXTINF:-1 tvg-ID="RDI" tvg-name="RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="1 - Quebec Base",RDI
+#EXTINF:-1 tvg-id="" tvg-name="ICI RDI CA" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="1 - Quebec Base",ICI RDI
 http://ok2.se:8000/H1RIPkentf/x5sywAzDzd/2396
+#EXTINF:-1 tvg-id="" tvg-name="RDI CA-FR" tvg-logo="" group-title="Canada",RDI CA-FR
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/53731
 
+#EXTINF:-1 tvg-id="" tvg-name="CBC French HD CA" tvg-logo="" group-title="Canada",CBC French HD CA
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/632778
 
 
 
@@ -53,6 +65,12 @@ http://beastiptv.tv:25461/live/tigerwoods/tigerwoods/6451.ts
 
 #EXTINF:-1 tvg-ID="D" tvg-name="D" tvg-logo="https://s3.amazonaws.com/ok2logo/CANAL+D.png" group-title="2 - Quebec Specialise",CANAL D
 
+#EXTINF:-1 tvg-id="canald.ca" tvg-name="Canal D CA" tvg-logo="" group-title="Canada",Canal D CA
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/632740
+#EXTINF:-1 tvg-id="" tvg-name="Series CA-FR" tvg-logo="" group-title="Canada",Series CA-FR
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/53726
+#EXTINF:-1 tvg-id="addiktv.ca" tvg-name="Addik TV CA" tvg-logo="" group-title="Canada",Addik TV CA
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/632750
 #EXTINF:-1,CA: CRIME INVESTIGATION
 
 #EXTINF:-1 tvg-ID="Prise 2" tvg-name="Prise 2" group-title="2 - Quebec Specialise",Prise 2
@@ -78,8 +96,12 @@ http://beastiptv.tv:25461/live/tigerwoods/tigerwoods/6467.ts
 
 #EXTINF:-1 tvg-ID="Z" tvg-name="Z" tvg-logo="https://s3.amazonaws.com/ok2logo/ztele.png" group-title="2 - Quebec Specialise",Z-Tele
 http://beastiptv.tv:25461/live/tigerwoods/tigerwoods/6481.ts
-
-#EXTINF:-1 tvg-ID="Z" tvg-name="Z" tvg-logo="https://s3.amazonaws.com/ok2logo/ztele.png" group-title="2 - Quebec Specialise",Z-Tele
+#EXTINF:-1 tvg-id="" tvg-name="Z Tele CA" tvg-logo="https://s3.amazonaws.com/ok2logo/ztele.png" group-title="2 - Quebec Specialise",Z-Tele
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/632605
+#EXTINF:-1 tvg-id="" tvg-name="Z Tele CA" tvg-logo="https://s3.amazonaws.com/ok2logo/ztele.png" group-title="2 - Quebec Specialise",Z-Tele
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/53699
+#EXTINF:-1 tvg-id="teletoonfrench.ca" tvg-name="Z TELE CA" tvg-logo="" group-title="Canada",Z TELE CA
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/632624
 
 
 #EXTINF:-1,== Kids======================
@@ -104,6 +126,29 @@ http://beastiptv.tv:25461/live/tigerwoods/tigerwoods/6452.ts
 
 #EXTINF:-1 tvg-ID="Disney Jr" tvg-name="Disney Jr" tvg-logo="https://s3.amazonaws.com/ok2logo/disneyxd.png" group-title="3 - Kids",Disney Jr
 http://beastiptv.tv:25461/live/tigerwoods/tigerwoods/6453.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Disney French CA" tvg-logo="" group-title="Canada",Disney French CA
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/632711
+#EXTINF:-1 tvg-id="" tvg-name="Disney HD CA" tvg-logo="" group-title="Canada",Disney HD CA
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/632710
+#EXTINF:-1 tvg-id="" tvg-name="Disney JR CA" tvg-logo="" group-title="Canada",Disney JR CA
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/632709
+#EXTINF:-1 tvg-id="disneyxd.ca" tvg-name="Disney XD HD CA" tvg-logo="" group-title="Canada",Disney XD HD CA
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/632755
+#EXTINF:-1 tvg-id="" tvg-name="Disney JR HD CA" tvg-logo="" group-title="Canada",Disney JR HD CA
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/37072
+#EXTINF:-1 tvg-id="" tvg-name="Disney USA CA" tvg-logo="" group-title="Canada",Disney USA CA
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/37071
+#EXTINF:-1 tvg-id="" tvg-name="Disney CA" tvg-logo="" group-title="Canada",Disney CA
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/624317
+#EXTINF:-1 tvg-id="lachainedisney.ca" tvg-name="Disney La Chaine CA-FR" tvg-logo="" group-title="Canada",Disney La Chaine CA-FR
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/53737
+#EXTINF:-1 tvg-id="cartoonnetwork.ca" tvg-name="Cartoon Network CA" tvg-logo="" group-title="Canada",Cartoon Network CA
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/632738
+#EXTINF:-1 tvg-id="" tvg-name="Nick CA" tvg-logo="" group-title="Canada",Nick CA
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/632654
+#EXTINF:-1 tvg-id="" tvg-name="Tele Toon East CA" tvg-logo="" group-title="Canada",Tele Toon East CA
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/632625
 
 
 
@@ -159,7 +204,10 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/710
 #EXTINF:-1 tvg-ID="Cinepop" tvg-name="Cinepop" tvg-logo="https://s3.amazonaws.com/ok2logo/FRENCH/CINEPOP.HD.PNG" group-title="5 - Film FR",Cinepop
 http://ok2.se:8000/H1RIPkentf/x5sywAzDzd/46739
 
-#EXTINF:-1 tvg-ID="SE" tvg-name="Super Ecran" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran.png" group-title="5 - Film FR",Super Ecran
+#EXTINF:-1 tvg-id="" tvg-name="Frissons TV CA-FR" tvg-logo="" group-title="Canada",Frissons TV CA-FR
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/53736
+#EXTINF:-1 tvg-id="prise2.ca" tvg-name="Prise CA-FR" tvg-logo="" group-title="Canada",Prise CA-FR
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/53727
 
 #EXTINF:-1 tvg-ID="SE" tvg-name="Super Ecran" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran.png" group-title="5 - Film FR",Super Ecran
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/634
@@ -173,8 +221,27 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/632
 #EXTINF:-1 tvg-ID="SE+3" tvg-name="Super Ecran3" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran3.png" group-title="5 - Film FR",Super Ecran 3
 
 #EXTINF:-1 tvg-ID="SE+4" tvg-name="Super Ecran4" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran4.jpg" group-title="5 - Film FR",Super Ecran 4
-#EXTINF:-1 tvg-ID="SE+4" tvg-name="Super Ecran4" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran4.jpg" group-title="5 - Film FR",Super Ecran 4
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/631
+#EXTINF:-1 tvg-id="superecran.ca" tvg-name="Super Ecran 1 CA-FR" tvg-logo="" group-title="5 - Film FR",Super Ecran 1
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/53725
+#EXTINF:-1 tvg-id="superecran.ca" tvg-name="Super Ecran 1 CA-FR" tvg-logo="" group-title="5 - Film FR",Super Ecran 1
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/632631
+
+#EXTINF:-1 tvg-id="superecran2.ca" tvg-name="Super Ecran 2 CA-FR" tvg-logo="" group-title="5 - Film FR",Super Ecran 2
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/53724
+#EXTINF:-1 tvg-id="superecran2.ca" tvg-name="Super Ecran 2 CA-FR" tvg-logo="" group-title="5 - Film FR",Super Ecran 2
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/632630
+
+#EXTINF:-1 tvg-id="superecran3.ca" tvg-name="Super Ecran 3 CA-FR" tvg-logo="" group-title="5 - Film FR",Super Ecran 3
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/53723
+#EXTINF:-1 tvg-id="superecran3.ca" tvg-name="Super Ecran 3 CA-FR" tvg-logo="" group-title="5 - Film FR",Super Ecran 3
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/632629
+
+#EXTINF:-1 tvg-id="superecran4.ca" tvg-name="Super Ecran 4 CA-FR" tvg-logo="" group-title="5 - Film FR",Super Ecran 4
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/53722
+#EXTINF:-1 tvg-id="superecran4.ca" tvg-name="Super Ecran 4 CA-FR" tvg-logo="" group-title="5 - Film FR",Super Ecran 4
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/632628
+
 
 
 #EXTINF:-1,== Sport EN======================
@@ -212,10 +279,79 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/548
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/636
 
 #EXTINF:-1 tvg-ID="Sport Net Est" tvg-name="Sports Net Est" group-title="6 - Sports EN",Sports Net Est
+#EXTINF:-1 tvg-id="spike.ca" tvg-name="Spike TV / Paramount CA" tvg-logo="" group-title="Canada",Spike TV / Paramount CA
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/632640
+#EXTINF:-1 tvg-id="sportsnet360.ca" tvg-name="SportsNet 360 CA" tvg-logo="" group-title="Canada",SportsNet 360 CA
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/632639
+#EXTINF:-1 tvg-id="sportsneteast.ca" tvg-name="SportsNet East CA" tvg-logo="" group-title="Canada",SportsNet East CA
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/632638
+#EXTINF:-1 tvg-id="sportsnetontario.ca" tvg-name="SportsNet Ontario CA" tvg-logo="" group-title="Canada",SportsNet Ontario CA
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/632636
+#EXTINF:-1 tvg-id="sportsnetpacific.ca" tvg-name="SportsNet Pacific HD CA" tvg-logo="" group-title="Canada",SportsNet Pacific HD CA
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/632765
+#EXTINF:-1 tvg-id="sportsnetwest.ca" tvg-name="SportsNet West HD CA" tvg-logo="" group-title="Canada",SportsNet West HD CA
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/632764
+#EXTINF:-1 tvg-id="sportsnetworld.ca" tvg-name="SportsNet World CA" tvg-logo="" group-title="Canada",SportsNet World CA
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/632635
 
+#EXTINF:-1 tvg-id="sportsnet360.ca" tvg-name="SportsNet 360 HD CA" tvg-logo="" group-title="Canada",SportsNet 360 HD CA
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/37030
+#EXTINF:-1 tvg-id="sportsneteast.ca" tvg-name="SportsNet East HD CA" tvg-logo="" group-title="Canada",SportsNet East HD CA
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/12741
+#EXTINF:-1 tvg-id="sportsnetone.ca" tvg-name="SportsNet One HD CA" tvg-logo="" group-title="Canada",SportsNet One HD CA
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/12742
+#EXTINF:-1 tvg-id="sportsnetontario.ca" tvg-name="SportsNet Ontario HD CA" tvg-logo="" group-title="Canada",SportsNet Ontario HD CA
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/12743
+#EXTINF:-1 tvg-id="sportsnetworld.ca" tvg-name="SportsNet World HD CA" tvg-logo="" group-title="Canada",SportsNet World HD CA
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/12752
+#EXTINF:-1 tvg-id="tsn1.ca" tvg-name="TSN 1 CA" tvg-logo="" group-title="Canada",TSN 1 CA
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/17691
+#EXTINF:-1 tvg-id="tsn1.ca" tvg-name="TSN 1 HD CA" tvg-logo="" group-title="Canada",TSN 1 HD CA
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/37023
+#EXTINF:-1 tvg-id="tsn2.ca" tvg-name="TSN 2 HD CA" tvg-logo="" group-title="Canada",TSN 2 HD CA
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/37022
+#EXTINF:-1 tvg-id="tsn3.ca" tvg-name="TSN 3 CA" tvg-logo="" group-title="Canada",TSN 3 CA
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/17689
+#EXTINF:-1 tvg-id="tsn3.ca" tvg-name="TSN 3 HD CA" tvg-logo="" group-title="Canada",TSN 3 HD CA
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/37021
+#EXTINF:-1 tvg-id="tsn4.ca" tvg-name="TSN 4 CA" tvg-logo="" group-title="Canada",TSN 4 CA
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/17688
+#EXTINF:-1 tvg-id="tsn4.ca" tvg-name="TSN 4 HD CA" tvg-logo="" group-title="Canada",TSN 4 HD CA
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/37020
+#EXTINF:-1 tvg-id="tsn5.ca" tvg-name="TSN 5 HD CA" tvg-logo="" group-title="Canada",TSN 5 HD CA
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/37019
+#EXTINF:-1 tvg-id="rds2.ca" tvg-name="RDS 2 CA-FR" tvg-logo="" group-title="Canada",RDS 2 CA-FR
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/53728
+#EXTINF:-1 tvg-id="rds.ca" tvg-name="RDS CA-FR" tvg-logo="" group-title="Canada",RDS CA-FR
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/53729
+#EXTINF:-1 tvg-id="rdsinfo.ca" tvg-name="RDS Info CA-FR" tvg-logo="" group-title="Canada",RDS Info CA-FR
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/53730
+#EXTINF:-1 tvg-id="" tvg-name="TVA Sports CA-FR" tvg-logo="" group-title="Canada",TVA Sports CA-FR
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/53716
+#EXTINF:-1 tvg-id="tvasports.ca" tvg-name="TVA Sports CA-FR" tvg-logo="" group-title="Canada",TVA Sports CA-FR
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/53714
+#EXTINF:-1 tvg-id="sportsnetwest.ca" tvg-name="SPORTSNET WEST CA" tvg-logo="" group-title="Canada",SPORTSNET WEST CA
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/624311
+#EXTINF:-1 tvg-id="sportsnetpacific.ca" tvg-name="SPORTSNET PACIFIC CA" tvg-logo="" group-title="Canada",SPORTSNET PACIFIC CA
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/624312
+#EXTINF:-1 tvg-id="" tvg-name="Golf CA" tvg-logo="" group-title="Canada",Golf CA
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/632687
+#EXTINF:-1 tvg-id="" tvg-name="WWE HD CA" tvg-logo="" group-title="Canada",WWE HD CA
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/37016
+#EXTINF:-1 tvg-id="" tvg-name="TSN 1 SD CA" tvg-logo="" group-title="Canada",TSN 1 SD CA
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/632617
+#EXTINF:-1 tvg-id="tsn2.ca" tvg-name="TSN 2 CA" tvg-logo="" group-title="Canada",TSN 2 CA
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/632616
+#EXTINF:-1 tvg-id="tsn5.ca" tvg-name="TSN 5 CA" tvg-logo="" group-title="Canada",TSN 5 CA
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/632615
+#EXTINF:-1 tvg-id="wild.ca" tvg-name="Wild TV CA" tvg-logo="" group-title="Canada",Wild TV CA
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/632607
 
+#EXTINF:-1 tvg-id="Fight Network" tvg-name="Fight Network CA" tvg-logo="" group-title="6 - Sports EN",Fight Network
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/632699
 #EXTINF:-1 tvg-ID="Fight Network" tvg-name="Fight Network" group-title="6 - Sports EN",Fight Network
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/682
+
 
 #EXTINF:-1 tvg-name="NXT" group-title="6 - Sports EN",NXT
 
@@ -235,17 +371,40 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/746
 
 
 #EXTINF:-1,== English Channel======================
+#EXTINF:-1 tvg-id="" tvg-name="CBC Ottawa HD CA" tvg-logo="" group-title="Canada",CBC Ottawa HD CA
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/632776
+#EXTINF:-1 tvg-id="" tvg-name="CNN CA" tvg-logo="" group-title="Canada",CNN CA
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/632727
+#EXTINF:-1 tvg-id="" tvg-name="CNN HD CA" tvg-logo="" group-title="Canada",CNN HD CA
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/632759
+
+#EXTINF:-1 tvg-id="" tvg-name="CBC Ottawa CA" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png" group-title="7 - English",CBC OTTAWA
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/17787
 #EXTINF:-1 tvg-ID="CBVU-TV" tvg-name="CBVU-TV" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png" group-title="7 - English",CBC OTTAWA
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/87
 
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/712
-#EXTINF:-1 tvg-ID="CBVU-TV" tvg-name="CBVU-TV" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png" group-title="7 - English",CBC Montreal
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/713
 
-#EXTINF:-1,CA: HBO
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/564
-#EXTINF:-1,CA: ACTION
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/724
+#EXTINF:-1 tvg-id="mmax.ca" tvg-name="Max CA" tvg-logo="" group-title="Canada",Max CA
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/632665
+#EXTINF:-1 tvg-id="" tvg-name="MTime CA" tvg-logo="" group-title="Canada",MTime CA
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/632663
+#EXTINF:-1 tvg-id="tmn.ca" tvg-name="TMN 1 CA-FR" tvg-logo="" group-title="Canada",TMN 1 CA-FR
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/53712
+#EXTINF:-1 tvg-id="tmn2.ca" tvg-name="TMN 2 CA-FR" tvg-logo="" group-title="Canada",TMN 2 CA-FR
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/53711
+#EXTINF:-1 tvg-id="tmn2.ca" tvg-name="TMN 2 HD CA" tvg-logo="" group-title="Canada",TMN 2 HD CA
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/37026
+#EXTINF:-1 tvg-id="tmn.ca" tvg-name="TMN 1 CA" tvg-logo="" group-title="Canada",TMN 1 CA
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/632622
+#EXTINF:-1 tvg-id="tmn2.ca" tvg-name="TMN 2 CA" tvg-logo="" group-title="Canada",TMN 2 CA
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/632621
+#EXTINF:-1 tvg-id="tmn3.ca" tvg-name="TMN 3 CA" tvg-logo="" group-title="Canada",TMN 3 CA
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/632620
+#EXTINF:-1 tvg-id="tmn4.ca" tvg-name="TMN 4 CA" tvg-logo="" group-title="Canada",TMN 4 CA
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/632619
+
+#EXTINF:-1 tvg-id="amc.ca" tvg-name="Amc CA" tvg-logo="" group-title="7 - English",AMC
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/12779
 
 #EXTINF:-1 tvg-ID="AMC HD" tvg-name="AMC HD" group-title="7 - English",AMC
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/722
@@ -257,24 +416,36 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/700
 #EXTINF:-1 tvg-ID="Crime + Investigation" tvg-name="Crime + Investigation" group-title="7 - English",Crime Investigation
 
 
-#EXTINF:-1 tvg-ID="CNN" group-title="7 - English",CNN | HD
+#EXTINF:-1 tvg-id="" tvg-name="CNN CA" tvg-logo="" group-title="7 - English",CNN
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/706
+#EXTINF:-1 tvg-id="" tvg-name="CNN International CA" tvg-logo="" group-title="7 - English",CNN International
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/17778
 
 
+#EXTINF:-1 tvg-id="" tvg-name="Fox East CA" tvg-logo="" group-title="Canada",Fox East CA
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/632696
+#EXTINF:-1 tvg-id="" tvg-name="Fox West CA" tvg-logo="" group-title="Canada",Fox West CA
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/632694
 
 #EXTINF:-1,CA: FOX
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/569
-
-
+#EXTINF:-1 tvg-id="fxnow.ca" tvg-name="FX HD CA" tvg-logo="" group-title="Canada",FX HD CA
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/37064
 #EXTINF:-1,CA: FX
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/566
 
 #EXTINF:-1,US: FX EAST
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/680
+#EXTINF:-1 tvg-id="fxx.ca" tvg-name="FXX HD CA" tvg-logo="" group-title="Canada",FXX HD CA
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/37063
 #EXTINF:-1,CA: FXX
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/565
 
-#EXTINF:-1,USA SD: FX EAST
+#EXTINF:-1 tvg-id="" tvg-name="Fox HD CA" tvg-logo="" group-title="Canada",Fox HD CA
+http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/37066
+
+
+
 
 #EXTINF:-1,CA: TMN 1
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/627
@@ -284,8 +455,6 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/626
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/625
 #EXTINF:-1,CA: TMN 4
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/624
-
-
 
 
 
