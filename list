@@ -2,21 +2,21 @@
 
 #EXTINF:-1,== Base======================
 
-#EXTINF:-1 tvg-ID="SRC (CBFT) Montreal, QC" tvg-name="CBFT" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI Montreal CA
+#EXTINF:-1 tvg-ID="SRC (CBFT) Montreal, QC" tvg-name="CBFT" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI Montreal
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/666
-#EXTINF:-1 tvg-ID="CBFT" tvg-name="CBFT" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI Montreal CA
+#EXTINF:-1 tvg-ID="SRC (CBFT) Montreal, QC" tvg-name="CBFT" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI Montreal
 http://beastiptv.tv:25461/live/tigerwoods/tigerwoods/6456.ts
-#EXTINF:-1 tvg-ID="CBFT" tvg-name="CBFT" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI Montreal CA
+#EXTINF:-1 tvg-ID="SRC (CBFT) Montreal, QC" tvg-name="CBFT" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI Montreal
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/641
 
-#EXTINF:-1 tvg-ID="CFMT" tvg-name="CFMT" tvg-logo="https://s3.amazonaws.com/ok2logo/tva.png" group-title="1 - Quebec Base",TVA Gatineau
+#EXTINF:-1 tvg-ID="TVA (CFTM) Montréal" tvg-name="CFMT" tvg-logo="https://s3.amazonaws.com/ok2logo/tva.png" group-title="1 - Quebec Base",TVA Gatineau
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/622
-#EXTINF:-1 tvg-ID="CFMT" tvg-name="CFMT" tvg-logo="https://s3.amazonaws.com/ok2logo/tva.png" group-title="1 - Quebec Base",TVA Gatineau
+#EXTINF:-1 tvg-ID="TVA (CFTM) Montréal" tvg-name="CFMT" tvg-logo="https://s3.amazonaws.com/ok2logo/tva.png" group-title="1 - Quebec Base",TVA Gatineau
 http://beastiptv.tv:25461/live/tigerwoods/tigerwoods/6472.ts
-#EXTINF:-1 tvg-ID="CFMT" tvg-name="CFMT" tvg-logo="https://s3.amazonaws.com/ok2logo/tva.png" group-title="1 - Quebec Base",TVA Gatineau
+#EXTINF:-1 tvg-ID="TVA (CFTM) Montréal" tvg-name="CFMT" tvg-logo="https://s3.amazonaws.com/ok2logo/tva.png" group-title="1 - Quebec Base",TVA Gatineau
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/622
 
-#EXTINF:-1 tvg-ID="CFJP" tvg-name="CFJP" tvg-logo="https://s3.amazonaws.com/ok2logo/CANALV+TV+logo.png" group-title="1 - Quebec Base",V-Tele
+#EXTINF:-1 tvg-ID="V (CFJP) Montreal, QC" tvg-name="CFJP" tvg-logo="https://s3.amazonaws.com/ok2logo/CANALV+TV+logo.png" group-title="1 - Quebec Base",V-Tele
 https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
 
 #EXTINF:-1 tvg-ID="LCN" tvg-name="LCN" tvg-logo="https://s3.amazonaws.com/ok2logo/LCN.gif" group-title="1 - Quebec Base",LCN
@@ -24,16 +24,16 @@ http://beastiptv.tv:25461/live/tigerwoods/tigerwoods/6459.ts
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="ICI RDI CA" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="1 - Quebec Base",ICI RDI
+#EXTINF:-1 tvg-id="RDI (News)" tvg-name="ICI RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="1 - Quebec Base",ICI RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
 
 
 
 #EXTINF:-1,== Special======================
-#EXTINF:-1 tvg-ID="ADDIK" tvg-name="ADDIK" tvg-logo="" group-title="2 - Quebec Specialise",Addik TV
+#EXTINF:-1 tvg-ID="Addik TV" tvg-name="ADDIK" tvg-logo="" group-title="2 - Quebec Specialise",Addik TV
 http://beastiptv.tv:25461/live/tigerwoods/tigerwoods/6449.ts
 
-#EXTINF:-1 tvg-ID="D" tvg-name="D" tvg-logo="https://s3.amazonaws.com/ok2logo/CANAL+D.png" group-title="2 - Quebec Specialise",CANAL D
+#EXTINF:-1 tvg-ID="Canal D" tvg-name="D" tvg-logo="https://s3.amazonaws.com/ok2logo/CANAL+D.png" group-title="2 - Quebec Specialise",CANAL D
 
 
 #EXTINF:-1 tvg-ID="Prise 2" tvg-name="Prise 2" group-title="2 - Quebec Specialise",Prise 2
@@ -59,11 +59,11 @@ http://beastiptv.tv:25461/live/tigerwoods/tigerwoods/6481.ts
 
 
 
-#EXTINF:-1 tvg-ID="TOOFA" tvg-name="TELETOON FR" tvg-logo="https://s3.amazonaws.com/ok2logo/teletoon.png" group-title="3 - Kids",Teletoon FR
+#EXTINF:-1 tvg-ID="TéléTOON - français" tvg-name="TELETOON FR" tvg-logo="https://s3.amazonaws.com/ok2logo/teletoon.png" group-title="3 - Kids",Teletoon FR
 
-#EXTINF:-1 tvg-ID="TOONA" tvg-name="TELETOON EN" tvg-logo="https://s3.amazonaws.com/ok2logo/teletoon.png" group-title="3 - Kids",Teletoon EN
+#EXTINF:-1 tvg-ID="Teletoon - East" tvg-name="TELETOON EN" tvg-logo="https://s3.amazonaws.com/ok2logo/teletoon.png" group-title="3 - Kids",Teletoon EN
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/629
-#EXTINF:-1 tvg-ID="TOONA" tvg-name="TELETOON EN" tvg-logo="https://s3.amazonaws.com/ok2logo/teletoon.png" group-title="3 - Kids",Teletoon EN
+#EXTINF:-1 tvg-ID="Teletoon - East" tvg-name="TELETOON EN" tvg-logo="https://s3.amazonaws.com/ok2logo/teletoon.png" group-title="3 - Kids",Teletoon EN
 http://beastiptv.tv:25461/live/tigerwoods/tigerwoods/6474.ts
 
 
@@ -73,7 +73,7 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/715
 #EXTINF:-1 tvg-ID="Disney Jr" tvg-name="Disney Jr" tvg-logo="https://s3.amazonaws.com/ok2logo/disneyxd.png" group-title="3 - Kids",Disney Channel
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/691
 
-#EXTINF:-1 tvg-ID="Disney Jr Fr" tvg-name="Disney Jr Fr" tvg-logo="https://s3.amazonaws.com/ok2logo/disneyxd.png" group-title="3 - Kids",Disney Jr FR
+#EXTINF:-1 tvg-ID="La Chaine Disney" tvg-name="Disney Jr Fr" tvg-logo="https://s3.amazonaws.com/ok2logo/disneyxd.png" group-title="3 - Kids",Disney Jr FR
 http://beastiptv.tv:25461/live/tigerwoods/tigerwoods/6452.ts
 
 #EXTINF:-1 tvg-ID="Disney Jr" tvg-name="Disney Jr" tvg-logo="https://s3.amazonaws.com/ok2logo/disneyxd.png" group-title="3 - Kids",Disney XD
@@ -102,11 +102,11 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/620
 #EXTINF:-1 tvg-ID="TVA Sports" tvg-name="TVA Sports" tvg-logo="https://s3.amazonaws.com/ok2logo/tva2.png" group-title="4 - Sports FR",TVA Sports 2
 
 
-#EXTINF:-1 tvg-ID="RDS" tvg-name="RDS" tvg-logo="https://s3.amazonaws.com/ok2logo/rds.png" group-title="4 - Sports FR",RDS
+#EXTINF:-1 tvg-ID="RDS (Réseau des sports)" tvg-name="RDS" tvg-logo="https://s3.amazonaws.com/ok2logo/rds.png" group-title="4 - Sports FR",RDS
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/640
-#EXTINF:-1 tvg-ID="RDS" tvg-name="RDS" tvg-logo="https://s3.amazonaws.com/ok2logo/rds.png" group-title="4 - Sports FR",RDS
+#EXTINF:-1 tvg-ID="RDS (Réseau des sports)" tvg-name="RDS" tvg-logo="https://s3.amazonaws.com/ok2logo/rds.png" group-title="4 - Sports FR",RDS
 http://beastiptv.tv:25461/live/tigerwoods/tigerwoods/6464.ts
-#EXTINF:-1 tvg-ID="RDS" tvg-name="RDS" tvg-logo="https://s3.amazonaws.com/ok2logo/rds.png" group-title="4 - Sports FR",RDS
+#EXTINF:-1 tvg-ID="RDS (Réseau des sports)" tvg-name="RDS" tvg-logo="https://s3.amazonaws.com/ok2logo/rds.png" group-title="4 - Sports FR",RDS
 http://beastiptv.tv:25461/live/tigerwoods/tigerwoods/6465.ts
 
 #EXTINF:-1 tvg-ID="RDS2" tvg-name="RDS2" tvg-logo="https://s3.amazonaws.com/ok2logo/rds2.png" group-title="4 - Sports FR",RDS2
@@ -121,37 +121,33 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/639
 
 #EXTINF:-1,== Film======================
 
-#EXTINF:-1 tvg-ID="Cinepop" tvg-name="Cinepop" tvg-logo="https://s3.amazonaws.com/ok2logo/FRENCH/CINEPOP.HD.PNG" group-title="5 - Film FR",Cinepop
+#EXTINF:-1 tvg-ID="Cinépop" tvg-name="Cinepop" tvg-logo="https://s3.amazonaws.com/ok2logo/FRENCH/CINEPOP.HD.PNG" group-title="5 - Film FR",Cinepop
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/710
 
 
-#EXTINF:-1 tvg-ID="SE" tvg-name="Super Ecran" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran.png" group-title="5 - Film FR",Super Ecran
+#EXTINF:-1 tvg-ID="Super Ecran" tvg-name="Super Ecran" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran.png" group-title="5 - Film FR",Super Ecran
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/634
 
-#EXTINF:-1 tvg-ID="SE+2" tvg-name="Super Ecran2" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran2.png" group-title="5 - Film FR",Super Ecran 2
+#EXTINF:-1 tvg-ID="Super Ecran 2" tvg-name="Super Ecran2" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran2.png" group-title="5 - Film FR",Super Ecran 2
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/633
 
 
-#EXTINF:-1 tvg-ID="SE+3" tvg-name="Super Ecran3" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran3.png" group-title="5 - Film FR",Super Ecran 3
+#EXTINF:-1 tvg-ID="Super Ecran 3" tvg-name="Super Ecran3" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran3.png" group-title="5 - Film FR",Super Ecran 3
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/632
-#EXTINF:-1 tvg-ID="SE+3" tvg-name="Super Ecran3" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran3.png" group-title="5 - Film FR",Super Ecran 3
+#EXTINF:-1 tvg-ID="Super Ecran 3" tvg-name="Super Ecran3" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran3.png" group-title="5 - Film FR",Super Ecran 3
 http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/53723
-#EXTINF:-1 tvg-id="superecran3.ca" tvg-name="Super Ecran 3 CA-FR" tvg-logo="" group-title="5 - Film FR",Super Ecran 3
+#EXTINF:-1 tvg-id="Super Ecran 3" tvg-name="Super Ecran 3 CA-FR" tvg-logo="" group-title="5 - Film FR",Super Ecran 3
 http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/632629
 
 
-#EXTINF:-1 tvg-ID="SE+4" tvg-name="Super Ecran4" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran4.jpg" group-title="5 - Film FR",Super Ecran 4
+#EXTINF:-1 tvg-ID="Super Ecran 4" tvg-name="Super Ecran4" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran4.jpg" group-title="5 - Film FR",Super Ecran 4
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/631
-#EXTINF:-1 tvg-id="superecran4.ca" tvg-name="Super Ecran 4 CA-FR" tvg-logo="" group-title="5 - Film FR",Super Ecran 4
+#EXTINF:-1 tvg-id="Super Ecran 4" tvg-name="Super Ecran 4 CA-FR" tvg-logo="" group-title="5 - Film FR",Super Ecran 4
 http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/53722
-#EXTINF:-1 tvg-id="superecran4.ca" tvg-name="Super Ecran 4 CA-FR" tvg-logo="" group-title="5 - Film FR",Super Ecran 4
+#EXTINF:-1 tvg-id="Super Ecran 4" tvg-name="Super Ecran 4 CA-FR" tvg-logo="" group-title="5 - Film FR",Super Ecran 4
 http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/632628
-#EXTINF:-1,CA: SUPER ECRAN 4
+#EXTINF:-1 tvg-id="Super Ecran 4" tvg-name="Super Ecran 4 CA-FR" tvg-logo="" group-title="5 - Film FR",Super Ecran 4
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/631
-
-
-
-
 
 
 
@@ -169,7 +165,7 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/552
 #EXTINF:-1 tvg-ID="TSN4" tvg-name="TSN4" group-title="6 - Sports EN",TSN 4 | HD
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/551
 
-#EXTINF:-1 tvg-ID="TSN" tvg-name="TSN" group-title="6 - Sports EN",TSN 5 | HD
+#EXTINF:-1 tvg-ID="TSN5" tvg-name="TSN" group-title="6 - Sports EN",TSN 5 | HD
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/550
 
 
@@ -184,26 +180,25 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/550
 
 #EXTINF:-1 tvg-ID="Fight Network" tvg-name="Fight Network" group-title="6 - Sports EN",Fight Network
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/682
-#EXTINF:-1,CA: GINX ESPORTS TV
+#EXTINF:-1,CA: GINX ESPORTS TV group-title="6 - Sports EN",Wild TV
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/675
 
-#EXTINF:-1,CA: HUNT CHANNEL
+#EXTINF:-1,CA: HUNT CHANNEL group-title="6 - Sports EN",Wild TV
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/745
-#EXTINF:-1,CA: WILD TV
+
+#EXTINF:-1 tvg-ID="Wild TV" tvg-name="Fight Network" group-title="6 - Sports EN",Wild TV
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/746
 
-
-#EXTINF:-1 tvg-ID="FX Networks Canada" group-title="6 - Sports EN",FXX | HD
 
 
 
 #EXTINF:-1,== English Movie======================
 
-#EXTINF:-1 tvg-id="tmn.ca" tvg-name="TMN 1 CA-FR" tvg-logo="" group-title="English Movie",TMN 1 CA-FR
+#EXTINF:-1 tvg-id="M (The Movie Network)" tvg-name="TMN 1 CA-FR" tvg-logo="" group-title="English Movie",TMN 1 CA-FR
 http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/53712
-#EXTINF:-1 tvg-id="tmn2.ca" tvg-name="TMN 2 CA-FR" tvg-logo="" group-title="English Movie",TMN 2 CA-FR
+#EXTINF:-1 tvg-id="The Movie Network 2" tvg-name="TMN 2 CA-FR" tvg-logo="" group-title="English Movie",TMN 2 CA-FR
 http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/53711
-#EXTINF:-1 tvg-id="tmn2.ca" tvg-name="TMN 2 HD CA" tvg-logo="" group-title="English Movie",TMN 2 HD CA
+#EXTINF:-1 tvg-id="The Movie Network 2" tvg-name="TMN 2 HD CA" tvg-logo="" group-title="English Movie",TMN 2 HD CA
 http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/37026
 
 
@@ -215,7 +210,7 @@ http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/37026
 #EXTINF:-1 tvg-id="" tvg-name="CBC Ottawa CA" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png" group-title="7 - English",CBC OTTAWA
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/712
 
-#EXTINF:-1 tvg-ID="AMC HD" tvg-name="AMC HD" group-title="7 - English",AMC
+#EXTINF:-1 tvg-ID="AMC - Canada" tvg-name="AMC HD" group-title="7 - English",AMC
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/722
 
 
@@ -223,24 +218,20 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/722
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/700
 
 
-#EXTINF:-1 tvg-id="" tvg-name="CNN CA" tvg-logo="" group-title="7 - English",CNN
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN CA" tvg-logo="" group-title="7 - English",CNN
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/706
 
-#EXTINF:-1,CA: FOX
+#EXTINF:-1 tvg-ID="FOX (WUTV) Buffalo, NY" tvg-name="AMC HD" group-title="7 - English",FOX
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/569
-
-#EXTINF:-1,CA: FX
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/566
-
-
-#EXTINF:-1,US: FX EAST
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/680
-#EXTINF:-1,CA: FXX
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/565
-#EXTINF:-1,CA | FXX HD
-http://mytvonline.nl:80/jinpu3OPtY/RoVdAvuhWF/36399
-
-#EXTINF:-1 tvg-id="" tvg-name="Fox HD CA" tvg-logo="" group-title="Canada",Fox HD CA
+#EXTINF:-1 tvg-ID="FOX (WUTV) Buffalo, NY" tvg-name="AMC HD" group-title="7 - English",FOX
 http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/37066
 
+#EXTINF:-1 tvg-ID="FX Networks Canada" tvg-name="AMC HD" group-title="7 - English",FX
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/566
+#EXTINF:-1 tvg-ID="FX Networks Canada" tvg-name="AMC HD" group-title="7 - English",FX
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/680
 
+#EXTINF:-1 tvg-ID="FXX Canada" tvg-name="AMC HD" group-title="7 - English",FXX
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/565
+#EXTINF:-1 tvg-ID="FXX Canada" tvg-name="AMC HD" group-title="7 - English",FXX
+http://mytvonline.nl:80/jinpu3OPtY/RoVdAvuhWF/36399
