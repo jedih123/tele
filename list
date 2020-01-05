@@ -178,12 +178,10 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/550
 
 #EXTINF:-1 tvg-ID="Sport Net Est" tvg-name="Sports Net Est" group-title="6 - Sports EN",Sports Net Est
 
-#EXTINF:-1 tvg-ID="Fight Network" tvg-name="Fight Network" group-title="6 - Sports EN",Fight Network
+#EXTINF:-1 tvg-ID="Fight Network Canada" tvg-name="Fight Network" group-title="6 - Sports EN",Fight Network
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/682
-#EXTINF:-1,CA: GINX ESPORTS TV group-title="6 - Sports EN",Wild TV
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/675
 
-#EXTINF:-1,CA: HUNT CHANNEL group-title="6 - Sports EN",Wild TV
+#EXTINF:-1,CA: HUNT CHANNEL group-title="6 - Sports EN",Hunt Channel
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/745
 
 #EXTINF:-1 tvg-ID="Wild TV" tvg-name="Fight Network" group-title="6 - Sports EN",Wild TV
@@ -207,10 +205,10 @@ http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/37026
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="CBC Ottawa CA" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png" group-title="7 - English",CBC OTTAWA
+#EXTINF:-1 tvg-id="CBC (CBOT) Ottawa, ON" tvg-name="CBC (CBOT) Ottawa, ON" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png" group-title="7 - English",CBC OTTAWA
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/712
 
-#EXTINF:-1 tvg-ID="AMC - Canada" tvg-name="AMC HD" group-title="7 - English",AMC
+#EXTINF:-1 tvg-ID="AMC - Canada" tvg-name="AMC - Canada" group-title="7 - English",AMC
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/722
 
 
@@ -218,20 +216,20 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/722
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/700
 
 
-#EXTINF:-1 tvg-id="CNN" tvg-name="CNN CA" tvg-logo="" group-title="7 - English",CNN
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="" group-title="7 - English",CNN
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/706
 
-#EXTINF:-1 tvg-ID="FOX (WUTV) Buffalo, NY" tvg-name="AMC HD" group-title="7 - English",FOX
+#EXTINF:-1 tvg-ID="FOX (WUTV) Buffalo, NY" tvg-name="FOX" group-title="7 - English",FOX
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/569
-#EXTINF:-1 tvg-ID="FOX (WUTV) Buffalo, NY" tvg-name="AMC HD" group-title="7 - English",FOX
+#EXTINF:-1 tvg-ID="FOX (WUTV) Buffalo, NY" tvg-name="FOX" group-title="7 - English",FOX
 http://tv.iptvpl.itv.world:8080/tyrcykby8/34facvq4xc/37066
 
-#EXTINF:-1 tvg-ID="FX Networks Canada" tvg-name="AMC HD" group-title="7 - English",FX
+#EXTINF:-1 tvg-ID="FX Networks Canada" tvg-name="FX Networks Canada" group-title="7 - English",FX
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/566
-#EXTINF:-1 tvg-ID="FX Networks Canada" tvg-name="AMC HD" group-title="7 - English",FX
+#EXTINF:-1 tvg-ID="FX Networks Canada" tvg-name="FX Networks Canada" group-title="7 - English",FX
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/680
 
-#EXTINF:-1 tvg-ID="FXX Canada" tvg-name="AMC HD" group-title="7 - English",FXX
+#EXTINF:-1 tvg-ID="FXX Canada" tvg-name="FXX Canada" group-title="7 - English",FXX
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/565
-#EXTINF:-1 tvg-ID="FXX Canada" tvg-name="AMC HD" group-title="7 - English",FXX
+#EXTINF:-1 tvg-ID="FXX Canada" tvg-name="FXX Canada" group-title="7 - English",FXX
 http://mytvonline.nl:80/jinpu3OPtY/RoVdAvuhWF/36399
