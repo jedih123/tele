@@ -109,7 +109,7 @@ http://beastiptv.tv:25461/live/tigerwoods/tigerwoods/6464.ts
 #EXTINF:-1 tvg-ID="RDS (Réseau des sports)" tvg-name="RDS" tvg-logo="https://s3.amazonaws.com/ok2logo/rds.png" group-title="4 - Sports FR",RDS
 http://beastiptv.tv:25461/live/tigerwoods/tigerwoods/6465.ts
 
-#EXTINF:-1 tvg-ID="RDS2" tvg-name="RDS2" tvg-logo="https://s3.amazonaws.com/ok2logo/rds2.png" group-title="4 - Sports FR",RDS2
+#EXTINF:-1 tvg-ID="RDS 2" tvg-name="RDS2" tvg-logo="https://s3.amazonaws.com/ok2logo/rds2.png" group-title="4 - Sports FR",RDS2
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/639
 
 
