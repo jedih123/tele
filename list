@@ -2,7 +2,7 @@
 
 #EXTINF:-1,== Base======================
 
-#EXTINF:-1 tvg-ID="CBFT" tvg-name="CBFT" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI Montreal CA
+#EXTINF:-1 tvg-ID="SRC (CBFT) Montreal, QC" tvg-name="CBFT" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI Montreal CA
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/666
 #EXTINF:-1 tvg-ID="CBFT" tvg-name="CBFT" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI Montreal CA
 http://beastiptv.tv:25461/live/tigerwoods/tigerwoods/6456.ts
