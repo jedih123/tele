@@ -2,11 +2,11 @@
 
 #EXTINF:-1,== Base======================
 
-#EXTINF:-1 tvg-ID="SRC (CBFT) Montreal, QC" tvg-name="SRC (CBFT) Montreal, QC" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI Montreal
+#EXTINF:-1 tvg-ID="src/CBFT" tvg-name="CBFT" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI Montreal
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/666
-#EXTINF:-1 tvg-ID="SRC (CBFT) Montreal, QC" tvg-name="SRC (CBFT) Montreal, QC" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI Montreal
+#EXTINF:-1 tvg-ID="src/CBFT" tvg-name="CBFT" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI Montreal
 http://beastiptv.tv:25461/live/tigerwoods/tigerwoods/6456.ts
-#EXTINF:-1 tvg-ID="SRC (CBFT) Montreal, QC" tvg-name="SRC (CBFT) Montreal, QC" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI Montreal
+#EXTINF:-1 tvg-ID="src/CBFT" tvg-name="CBFT" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI Montreal
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/641
 
 
@@ -72,12 +72,12 @@ http://beastiptv.tv:25461/live/tigerwoods/tigerwoods/6474.ts
 #EXTINF:-1 tvg-ID="Disney Jr" tvg-name="Disney Jr" tvg-logo="https://s3.amazonaws.com/ok2logo/disneyxd.png" group-title="3 - Kids",Disney Channel
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/691
 
-#EXTINF:-1 tvg-ID="La Chaine Disney" tvg-name="Disney Jr Fr" tvg-logo="https://s3.amazonaws.com/ok2logo/disneyxd.png" group-title="3 - Kids",Disney Jr FR
+#EXTINF:-1 tvg-ID="La Chaine Disney" tvg-name="La Chaine Disney" tvg-logo="https://s3.amazonaws.com/ok2logo/disneyxd.png" group-title="3 - Kids",Disney Jr FR
 http://beastiptv.tv:25461/live/tigerwoods/tigerwoods/6452.ts
 
 #EXTINF:-1 tvg-ID="Disney Jr" tvg-name="Disney Jr" tvg-logo="https://s3.amazonaws.com/ok2logo/disneyxd.png" group-title="3 - Kids",Disney XD
 
-#EXTINF:-1 tvg-ID="La Chaine Disney" tvg-name="Disney Jr Fr" tvg-logo="https://s3.amazonaws.com/ok2logo/disneyxd.png" group-title="3 - Kids",Disney Jr FR
+#EXTINF:-1 tvg-ID="La Chaine Disney" tvg-name=La Chaine Disney" tvg-logo="https://s3.amazonaws.com/ok2logo/disneyxd.png" group-title="3 - Kids",Disney Jr FR
 http://beastiptv.tv:25461/live/tigerwoods/tigerwoods/6453.ts
 #EXTINF:-1 tvg-ID="Disney Jr" tvg-name="Disney Jr" tvg-logo="https://s3.amazonaws.com/ok2logo/disneyxd.png" group-title="3 - Kids",Disney Jr
 http://client-proiptv.com:8080/L6ZRPvuqBz/wW1CL5VUG9/22750
