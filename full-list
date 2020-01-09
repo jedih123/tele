@@ -51,8 +51,9 @@ http://beastiptv.tv:25461/live/tigerwoods/tigerwoods/6467.ts
 
 
 #EXTINF:-1 tvg-ID="Z" tvg-name="Z" tvg-logo="https://s3.amazonaws.com/ok2logo/ztele.png" group-title="2 - Quebec Specialise",Z-Tele
+http://51.79.97.22:25461/240886/240886/329744
+#EXTINF:-1 tvg-ID="Z" tvg-name="Z" tvg-logo="https://s3.amazonaws.com/ok2logo/ztele.png" group-title="2 - Quebec Specialise",Z-Tele
 http://beastiptv.tv:25461/live/tigerwoods/tigerwoods/6481.ts
-
 
 
 #EXTINF:-1,== Kids======================
@@ -95,7 +96,7 @@ http://client-proiptv.com:8080/L6ZRPvuqBz/wW1CL5VUG9/22750
 
 
 #EXTINF:-1 tvg-ID="TVA Sports" tvg-name="TVA Sports" tvg-logo="https://s3.amazonaws.com/ok2logo/tva1.png" group-title="4 - Sports FR",TVA Sports
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/620
+http://91.208.115.227:80/TcVGUwOeHI/ZY3bwwRToP/19061
 
 #EXTINF:-1 tvg-ID="TVA Sports" tvg-name="TVA Sports" tvg-logo="https://s3.amazonaws.com/ok2logo/tva2.png" group-title="4 - Sports FR",TVA Sports 2
 
