@@ -30,6 +30,8 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
 
 
 #EXTINF:-1 tvg-ID="LCN" tvg-name="LCN" tvg-logo="https://s3.amazonaws.com/ok2logo/LCN.gif" group-title="1 - Quebec Base",LCN
+http://lista.serverpower.me:80/daniela/daniela/28601
+#EXTINF:-1 tvg-ID="LCN" tvg-name="LCN" tvg-logo="https://s3.amazonaws.com/ok2logo/LCN.gif" group-title="1 - Quebec Base",LCN
 http://tv2iptv.com:8000/badr/badr1234/25273
 #EXTINF:-1 tvg-ID="LCN" tvg-name="LCN" tvg-logo="https://s3.amazonaws.com/ok2logo/LCN.gif" group-title="1 - Quebec Base",LCN
 http://mytvonline.nl:80/live/2YQyltguql/XwEAnAWfE0/50311.m3u8
@@ -65,6 +67,8 @@ http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/19083
 http://mytvonline.nl:80/live/2YQyltguql/XwEAnAWfE0/36491.m3u8
 
 #EXTINF:-1 tvg-ID="Prise 2" tvg-name="Prise 2" group-title="2 - Quebec Specialise",Prise 2
+http://lista.serverpower.me:80/daniela/daniela/28614
+#EXTINF:-1 tvg-ID="Prise 2" tvg-name="Prise 2" group-title="2 - Quebec Specialise",Prise 2
 http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/19073
 #EXTINF:-1 tvg-ID="Prise 2" tvg-name="Prise 2" group-title="2 - Quebec Specialise",Prise 2
 http://mytvonline.nl:80/live/2YQyltguql/XwEAnAWfE0/19073.m3u8
@@ -80,6 +84,8 @@ http://beastiptv.tv:25461/live/tigerwoods/tigerwoods/6455.ts
 http://mytvonline.nl:80/live/2YQyltguql/XwEAnAWfE0/36401.m3u8
 
 
+#EXTINF:-1 tvg-ID="Series +" tvg-name="Series +" tvg-logo="https://s3.amazonaws.com/ok2logo/series.png" group-title="2 - Quebec Specialise",Series +
+http://lista.serverpower.me:80/daniela/daniela/28617
 #EXTINF:-1 tvg-ID="Series +" tvg-name="Series +" tvg-logo="https://s3.amazonaws.com/ok2logo/series.png" group-title="2 - Quebec Specialise",Series +
 http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/19069
 #EXTINF:-1 tvg-ID="Series +" tvg-name="Series +" tvg-logo="https://s3.amazonaws.com/ok2logo/series.png" group-title="2 - Quebec Specialise",Series +
@@ -153,6 +159,8 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/620
 #EXTINF:-1 tvg-ID="TVA Sports" tvg-name="TVA Sports" tvg-logo="https://s3.amazonaws.com/ok2logo/tva2.png" group-title="4 - Sports FR",TVA Sports 2
 http://mytvonline.nl:80/live/2YQyltguql/XwEAnAWfE0/19061.m3u8
 
+#EXTINF:-1 tvg-ID="RDS (Réseau des sports)" tvg-name="RDS" tvg-logo="https://s3.amazonaws.com/ok2logo/rds.png" group-title="4 - Sports FR",RDS
+http://lista.serverpower.me:80/daniela/daniela/28615
 #EXTINF:-1 tvg-ID="RDS (Réseau des sports)" tvg-name="RDS" tvg-logo="https://s3.amazonaws.com/ok2logo/rds.png" group-title="4 - Sports FR",RDS
 http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/19072
 #EXTINF:-1 tvg-ID="RDS (Réseau des sports)" tvg-name="RDS" tvg-logo="https://s3.amazonaws.com/ok2logo/rds.png" group-title="4 - Sports FR",RDS
