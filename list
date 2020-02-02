@@ -33,9 +33,10 @@ https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/9ad51cec04383e4158fbd
 http://ok2.se:8000/1d97F7Uwo1Zgk0UhX/fe69F9Ug2diqijQcl/2412
 
 #EXTINF:-1 tvg-ID="Canal D" tvg-name="D" tvg-logo="https://s3.amazonaws.com/ok2logo/CANAL+D.png" group-title="2 - Quebec Specialise",CANAL D
-http://ok2.se:8000/5043F7UbutcNUHzvZ/980dF9Uh8m0mz4f3P/9633
-#EXTINF:-1 tvg-ID="Canal D" tvg-name="D" tvg-logo="https://s3.amazonaws.com/ok2logo/CANAL+D.png" group-title="2 - Quebec Specialise",CANAL D
 http://ok2.se:8000/1d97F7Uwo1Zgk0UhX/fe69F9Ug2diqijQcl/9633
+
+#EXTINF:-1 tvg-ID="Canal D" tvg-name="D" tvg-logo="https://s3.amazonaws.com/ok2logo/CANAL+D.png" group-title="2 - Quebec Specialise",CANAL D
+http://xtream.pro:8000/S1ydHGWqbz/t6210FnvBb/7271
 
 #EXTINF:-1 tvg-ID="Prise 2" tvg-name="Prise 2" group-title="2 - Quebec Specialise",Prise 2
 http://ok2.se:8000/1d97F7Uwo1Zgk0UhX/fe69F9Ug2diqijQcl/2413
@@ -66,6 +67,7 @@ http://ok2.se:8000/1d97F7Uwo1Zgk0UhX/fe69F9Ug2diqijQcl/2422
 
 #EXTINF:-1 tvg-ID="DISNEY ALL DAY 24X7" tvg-name="DISNEY ALL DAY 24X7" tvg-logo="" group-title="3 - Kids",DISNEY ALL DAY 24X7
 http://ok2.se:8000/1d97F7Uwo1Zgk0UhX/fe69F9Ug2diqijQcl/7804
+
 #EXTINF:-1 tvg-ID="DUCK TALES 24X7" tvg-name="DUCK TALES 24X7" tvg-logo="" group-title="3 - Kids",DUCK TALES 24X7
 http://ok2.se:8000/1d97F7Uwo1Zgk0UhX/fe69F9Ug2diqijQcl/7498
 
@@ -89,14 +91,18 @@ http://ok2.se:8000/1d97F7Uwo1Zgk0UhX/fe69F9Ug2diqijQcl/2406
 http://ok2.se:8000/1d97F7Uwo1Zgk0UhX/fe69F9Ug2diqijQcl/2407
 
 #EXTINF:-1 tvg-ID="RDS (Réseau des sports)" tvg-name="RDS" tvg-logo="https://s3.amazonaws.com/ok2logo/rds.png" group-title="4 - Sports FR",RDS
+http://eurostreamlive.dnsfor.me:8000/lMDM5dKPwx/Kjx2frWPD5/3406
+
+#EXTINF:-1 tvg-ID="RDS (Réseau des sports)" tvg-name="RDS" tvg-logo="https://s3.amazonaws.com/ok2logo/rds.png" group-title="4 - Sports FR",RDS
+http://xtream.pro:8000/S1ydHGWqbz/t6210FnvBb/7258
+
+#EXTINF:-1 tvg-ID="RDS (Réseau des sports)" tvg-name="RDS" tvg-logo="https://s3.amazonaws.com/ok2logo/rds.png" group-title="4 - Sports FR",RDS
 http://ok2.se:8000/1d97F7Uwo1Zgk0UhX/fe69F9Ug2diqijQcl/2404
 
 #EXTINF:-1 tvg-ID="RDS 2" tvg-name="RDS2" tvg-logo="https://s3.amazonaws.com/ok2logo/rds2.png" group-title="4 - Sports FR",RDS2
 http://ok2.se:8000/1d97F7Uwo1Zgk0UhX/fe69F9Ug2diqijQcl/2405
 
 #EXTINF:-1 tvg-ID="RDS Info" tvg-name="RDS Info" tvg-logo="https://s3.amazonaws.com/ok2logo/rds2.png" group-title="4 - Sports FR",RDS Info
-
-
 
 #EXTINF:-1,== Film======================
 
