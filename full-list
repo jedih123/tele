@@ -33,7 +33,7 @@ https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/9ad51cec04383e4158fbd
 http://ok2.se:8000/1d97F7Uwo1Zgk0UhX/fe69F9Ug2diqijQcl/2412
 
 #EXTINF:-1 tvg-ID="Canal D" tvg-name="D" tvg-logo="https://s3.amazonaws.com/ok2logo/CANAL+D.png" group-title="2 - Quebec Specialise",CANAL D
-http://ok2.se:8000/1d97F7Uwo1Zgk0UhX/fe69F9Ug2diqijQcl/9633
+http://xtream.pro:8000/S1ydHGWqbz/t6210FnvBb/7271
 
 #EXTINF:-1 tvg-ID="Prise 2" tvg-name="Prise 2" group-title="2 - Quebec Specialise",Prise 2
 http://ok2.se:8000/1d97F7Uwo1Zgk0UhX/fe69F9Ug2diqijQcl/2413
@@ -85,6 +85,12 @@ http://ok2.se:8000/1d97F7Uwo1Zgk0UhX/fe69F9Ug2diqijQcl/2406
 
 #EXTINF:-1 tvg-ID="TVA Sports 2" tvg-name="TVA Sports 2" tvg-logo="https://s3.amazonaws.com/ok2logo/tva2.png" group-title="4 - Sports FR",TVA Sports 2
 http://ok2.se:8000/1d97F7Uwo1Zgk0UhX/fe69F9Ug2diqijQcl/2407
+
+#EXTINF:-1 tvg-ID="RDS (Réseau des sports)" tvg-name="RDS" tvg-logo="https://s3.amazonaws.com/ok2logo/rds.png" group-title="4 - Sports FR",RDS
+http://eurostreamlive.dnsfor.me:8000/lMDM5dKPwx/Kjx2frWPD5/3406
+
+#EXTINF:-1 tvg-ID="RDS (Réseau des sports)" tvg-name="RDS" tvg-logo="https://s3.amazonaws.com/ok2logo/rds.png" group-title="4 - Sports FR",RDS
+http://xtream.pro:8000/S1ydHGWqbz/t6210FnvBb/7258
 
 #EXTINF:-1 tvg-ID="RDS (Réseau des sports)" tvg-name="RDS" tvg-logo="https://s3.amazonaws.com/ok2logo/rds.png" group-title="4 - Sports FR",RDS
 http://ok2.se:8000/1d97F7Uwo1Zgk0UhX/fe69F9Ug2diqijQcl/2404
