@@ -1,5 +1,7 @@
 #EXTM3U
 
+test
+
 #EXTINF:-1,== Base======================
 
 #EXTINF:-1 tvg-ID="src-cbft-montreal-qc/196" tvg-name="CBFT" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI Montreal
