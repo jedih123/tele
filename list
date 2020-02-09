@@ -35,11 +35,7 @@ https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/9ad51cec04383e4158fbd
 http://ok2.se:8000/1d97F7Uwo1Zgk0UhX/fe69F9Ug2diqijQcl/2412
 
 #EXTINF:-1 tvg-ID="Canal D" tvg-name="D" tvg-logo="https://s3.amazonaws.com/ok2logo/CANAL+D.png" group-title="2 - Quebec Specialise",CANAL D
-http://ok2.se:8000/0aabF7UhhKARJUrJ2/0c71F9Uvw12DoiRY5/9633
-
-#EXTINF:-1 tvg-ID="Canal D" tvg-name="D" tvg-logo="https://s3.amazonaws.com/ok2logo/CANAL+D.png" group-title="2 - Quebec Specialise",CANAL D
-http://iptvpro.premium-itv.com:8789/31031986/31031986/40565
-
+http://ok2.se:8000/EQQd1CS0hh/DbB9r2YdQ1/9633
 
 #EXTINF:-1 tvg-ID="Prise 2" tvg-name="Prise 2" group-title="2 - Quebec Specialise",Prise 2
 http://ok2.se:8000/1d97F7Uwo1Zgk0UhX/fe69F9Ug2diqijQcl/2413
