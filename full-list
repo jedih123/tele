@@ -2,9 +2,12 @@
 
 #EXTINF:-1,== Base======================
 
+
 #EXTINF:-1 tvg-ID="src-cbft-montreal-qc/196" tvg-name="CBFT" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI Montreal
+
+#EXTINF:-1 tvg-ID="src-cbft-montreal-qc/196" tvg-name="SRC (CBFT) Montreal, QC" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI Montreal
 http://ok2.se:8000/1d97F7Uwo1Zgk0UhX/fe69F9Ug2diqijQcl/5919
-#EXTINF:-1 tvg-ID="src/CBFT" tvg-name="CBFT" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI Montreal
+#EXTINF:-1 tvg-ID="src-cbft-montreal-qc/196" tvg-name="SRC (CBFT) Montreal, QC" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI Montreal
 http://ok2.se:8000/1d97F7Uwo1Zgk0UhX/fe69F9Ug2diqijQcl/2399
 
 #EXTINF:-1 tvg-ID="TVA (CFTM) Montréal" tvg-name="CFMT" tvg-logo="https://s3.amazonaws.com/ok2logo/tva.png" group-title="1 - Quebec Base",TVA Montreal
