@@ -3,9 +3,8 @@
 #EXTINF:-1,== Base======================
 
 #EXTINF:-1 tvg-ID="src-cbft-montreal-qc/196" tvg-name="CBFT" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI Montreal
+http://ok2.se:8000/0a88F7Un5QTtQ42gh/2273F9Ukf7bQphG0q/2399
 
-#EXTINF:-1 tvg-ID="src-cbft-montreal-qc/196" tvg-name="SRC (CBFT) Montreal, QC" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI Montreal
-http://ok2.se:8000/0a88F7Un5QTtQ42gh/2273F9Ukf7bQphG0q/9633
 #EXTINF:-1 tvg-ID="src-cbft-montreal-qc/196" tvg-name="SRC (CBFT) Montreal, QC" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI Montreal
 http://ok2.se:8000/0a88F7Un5QTtQ42gh/2273F9Ukf7bQphG0q/2399
 
