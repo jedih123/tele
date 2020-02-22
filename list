@@ -3,7 +3,7 @@
 #EXTINF:-1,== Base======================
 
 #EXTINF:-1 tvg-ID="src-CBFT" tvg-name="CBFT" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI Montreal
-http://ok2.se:8000/0a06F7UCYXSqjMsZY/bae3F9Ua1tji2hcZp/2399
+http://ok2.se:8000/b09dF7UgiFZFllAhJ/30fcF9Ur6j77GmBPW/2399
 
 #EXTINF:-1 tvg-ID="TVA (CFTM) Montréal" tvg-name="CFMT" tvg-logo="https://s3.amazonaws.com/ok2logo/tva.png" group-title="1 - Quebec Base",TVA Montreal
 http://ok2.se:8000/0a06F7UCYXSqjMsZY/bae3F9Ua1tji2hcZp/2395
