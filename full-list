@@ -145,11 +145,11 @@ http://ok2.se:8000/3fcfF7UJ1bAogPXf6/d99fF9UOgq9jNqnwK/71284
 
 #EXTINF:-1,== English Movie======================
 
-#EXTINF:-1 group-title="English Movie",CRAVE 1 HD
+#EXTINF:-1 tvg-ID="crave1-east/72" tvg-name="Crave 1" group-title="English Movie",CRAVE 1 HD
 http://ok2.se:8000/3fcfF7UJ1bAogPXf6/d99fF9UOgq9jNqnwK/9505
-#EXTINF:-1 group-title="English Movie",CRAVE 2 HD
+#EXTINF:-1 #EXTINF:-1 tvg-ID="crave2-east/86" tvg-name="Crave 2" group-title="English Movie",CRAVE 2 HD
 http://ok2.se:8000/3fcfF7UJ1bAogPXf6/d99fF9UOgq9jNqnwK/9506
-#EXTINF:-1 group-title="English Movie",CRAVE 3 HD
+#EXTINF:-1 #EXTINF:-1 tvg-ID="crave3-east/85" tvg-name="Crave 3" group-title="English Movie",CRAVE 3 HD
 http://ok2.se:8000/3fcfF7UJ1bAogPXf6/d99fF9UOgq9jNqnwK/9507
 
 
@@ -172,8 +172,6 @@ http://ok2.se:8000/3fcfF7UJ1bAogPXf6/d99fF9UOgq9jNqnwK/314
 
 #EXTINF:-1 tvg-ID="FXX Canada" tvg-name="FXX Canada" group-title="7 - English",FXX
 http://ok2.se:8000/3fcfF7UJ1bAogPXf6/d99fF9UOgq9jNqnwK/315
-
-
 
 
 
