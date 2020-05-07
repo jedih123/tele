@@ -3,14 +3,14 @@
 #EXTINF:-1,== Base======================
 
 #EXTINF:-1 tvg-ID="src-CBFT" tvg-name="CBFT" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI Montreal
-http://ok2.se:8000/4d9bF1UZwirURbABy/15efF1UnkMGF9IUCH/2399
+http://185.233.185.213:25443/78G0cn4NtX/8Xkot3G6mm/50135
 #EXTINF:-1 tvg-ID="src-CBFT" tvg-name="CBFT" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI Montreal
 http://ok2.se:8000/9ee6F1URflOKbN3qv/a667F1ULI6u38sjNu/2399
 
 #EXTINF:-1 tvg-ID="TVA (CFTM) Montréal" tvg-name="CFMT" tvg-logo="https://s3.amazonaws.com/ok2logo/tva.png" group-title="1 - Quebec Base",TVA Montreal
-http://ok2.se:8000/4d9bF1UZwirURbABy/15efF1UnkMGF9IUCH/2395
+http://185.233.185.213:25443/78G0cn4NtX/8Xkot3G6mm/50116
 #EXTINF:-1 tvg-ID="TVA (CFTM) Montréal" tvg-name="CFMT" tvg-logo="https://s3.amazonaws.com/ok2logo/tva.png" group-title="1 - Quebec Base",TVA Montreal
-http://ok2.se:8000/9ee6F1URflOKbN3qv/a667F1ULI6u38sjNu/2395
+http://185.233.185.213:25443/78G0cn4NtX/8Xkot3G6mm/50012
 
 #EXTINF:-1 tvg-ID="V (CFJP) Montreal, QC" tvg-name="CFJP" tvg-logo="https://s3.amazonaws.com/ok2logo/CANALV+TV+logo.png" group-title="1 - Quebec Base",V-Tele
 https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
@@ -20,14 +20,14 @@ http://ok2.se:8000/4d9bF1UZwirURbABy/15efF1UnkMGF9IUCH/9634
 http://ok2.se:8000/9ee6F1URflOKbN3qv/a667F1ULI6u38sjNu/9634
 
 #EXTINF:-1 tvg-ID="LCN" tvg-name="LCN" tvg-logo="https://s3.amazonaws.com/ok2logo/LCN.gif" group-title="1 - Quebec Base",LCN
-http://ok2.se:8000/4d9bF1UZwirURbABy/15efF1UnkMGF9IUCH/9635
+http://185.233.185.213:25443/78G0cn4NtX/8Xkot3G6mm/50127
 #EXTINF:-1 tvg-ID="LCN" tvg-name="LCN" tvg-logo="https://s3.amazonaws.com/ok2logo/LCN.gif" group-title="1 - Quebec Base",LCN
 http://ok2.se:8000/9ee6F1URflOKbN3qv/a667F1ULI6u38sjNu/9635
 
 #EXTINF:-1 tvg-id="RDI (News)" tvg-name="ICI RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="1 - Quebec Base",ICI RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
 #EXTINF:-1 tvg-id="RDI (News)" tvg-name="ICI RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="1 - Quebec Base",ICI RDI
-http://ok2.se:8000/4d9bF1UZwirURbABy/15efF1UnkMGF9IUCH/2396
+http://185.233.185.213:25443/78G0cn4NtX/8Xkot3G6mm/50083
 #EXTINF:-1 tvg-id="RDI (News)" tvg-name="ICI RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="1 - Quebec Base",ICI RDI
 http://ok2.se:8000/9ee6F1URflOKbN3qv/a667F1ULI6u38sjNu/2396
 
@@ -36,34 +36,35 @@ http://ok2.se:8000/9ee6F1URflOKbN3qv/a667F1ULI6u38sjNu/2396
 #EXTINF:-1,== Special======================
 
 #EXTINF:-1 tvg-ID="Addik TV" tvg-name="ADDIK" tvg-logo="" group-title="2 - Quebec Specialise",Addik TV
-http://ok2.se:8000/9ee6F1URflOKbN3qv/a667F1ULI6u38sjNu/2412
+http://185.233.185.213:25443/78G0cn4NtX/8Xkot3G6mm/50269
 #EXTINF:-1 tvg-ID="Addik TV" tvg-name="ADDIK" tvg-logo="" group-title="2 - Quebec Specialise",Addik TV
 http://ok2.se:8000/4d9bF1UZwirURbABy/15efF1UnkMGF9IUCH/2412
 
 #EXTINF:-1 tvg-ID="Canal D" tvg-name="D" tvg-logo="https://s3.amazonaws.com/ok2logo/CANAL+D.png" group-title="2 - Quebec Specialise",CANAL D
-http://ok2.se:8000/9ee6F1URflOKbN3qv/a667F1ULI6u38sjNu/9633
+http://185.233.185.213:25443/78G0cn4NtX/8Xkot3G6mm/50250
 #EXTINF:-1 tvg-ID="Canal D" tvg-name="D" tvg-logo="https://s3.amazonaws.com/ok2logo/CANAL+D.png" group-title="2 - Quebec Specialise",CANAL D
 http://ok2.se:8000/4d9bF1UZwirURbABy/15efF1UnkMGF9IUCH/9633
 
 #EXTINF:-1 tvg-ID="Prise 2" tvg-name="Prise 2" group-title="2 - Quebec Specialise",Prise 2
-http://ok2.se:8000/9ee6F1URflOKbN3qv/a667F1ULI6u38sjNu/2413
+http://185.233.185.213:25443/78G0cn4NtX/8Xkot3G6mm/50084
 #EXTINF:-1 tvg-ID="Prise 2" tvg-name="Prise 2" group-title="2 - Quebec Specialise",Prise 2
 http://ok2.se:8000/4d9bF1UZwirURbABy/15efF1UnkMGF9IUCH/2413
 
 #EXTINF:-1 tvg-ID="Historia" tvg-name="Historia" group-title="2 - Quebec Specialise",Historia
-http://ok2.se:8000/9ee6F1URflOKbN3qv/a667F1ULI6u38sjNu/2410
+http://185.233.185.213:25443/78G0cn4NtX/8Xkot3G6mm/50139
 #EXTINF:-1 tvg-ID="Historia" tvg-name="Historia" group-title="2 - Quebec Specialise",Historia
 http://ok2.se:8000/4d9bF1UZwirURbABy/15efF1UnkMGF9IUCH/2410
 
 #EXTINF:-1 tvg-ID="Frisson" tvg-name="Frisson" group-title="2 - Quebec Specialise",Frisson
+http://185.233.185.213:25443/78G0cn4NtX/8Xkot3G6mm/50158
 
 #EXTINF:-1 tvg-ID="Series +" tvg-name="Series +" tvg-logo="https://s3.amazonaws.com/ok2logo/series.png" group-title="2 - Quebec Specialise",Series +
-http://ok2.se:8000/9ee6F1URflOKbN3qv/a667F1ULI6u38sjNu/2409
+http://185.233.185.213:25443/78G0cn4NtX/8Xkot3G6mm/50078
 #EXTINF:-1 tvg-ID="Series +" tvg-name="Series +" tvg-logo="https://s3.amazonaws.com/ok2logo/series.png" group-title="2 - Quebec Specialise",Series +
 http://ok2.se:8000/4d9bF1UZwirURbABy/15efF1UnkMGF9IUCH/2409
 
 #EXTINF:-1 tvg-ID="Z" tvg-name="Z" tvg-logo="https://s3.amazonaws.com/ok2logo/ztele.png" group-title="2 - Quebec Specialise",Z-Tele
-http://ok2.se:8000/4d9bF1UZwirURbABy/15efF1UnkMGF9IUCH/2411
+http://185.233.185.213:25443/78G0cn4NtX/8Xkot3G6mm/49993
 #EXTINF:-1 tvg-ID="Z" tvg-name="Z" tvg-logo="https://s3.amazonaws.com/ok2logo/ztele.png" group-title="2 - Quebec Specialise",Z-Tele
 http://ok2.se:8000/9ee6F1URflOKbN3qv/a667F1ULI6u38sjNu/2411
 
@@ -72,57 +73,31 @@ http://ok2.se:8000/9ee6F1URflOKbN3qv/a667F1ULI6u38sjNu/2411
 #EXTINF:-1,== Kids======================
 
 #EXTINF:-1 tvg-ID="TéléTOON - français" tvg-name="TELETOON FR" tvg-logo="https://s3.amazonaws.com/ok2logo/teletoon.png" group-title="3 - Kids",Teletoon FR
-http://ok2.se:8000/9ee6F1URflOKbN3qv/a667F1ULI6u38sjNu/46743
+http://185.233.185.213:25443/78G0cn4NtX/8Xkot3G6mm/50032
 #EXTINF:-1 tvg-ID="TéléTOON - français" tvg-name="TELETOON FR" tvg-logo="https://s3.amazonaws.com/ok2logo/teletoon.png" group-title="3 - Kids",Teletoon FR
 http://ok2.se:8000/4d9bF1UZwirURbABy/15efF1UnkMGF9IUCH/46743
 
 #EXTINF:-1 tvg-ID="La Chaine Disney" tvg-name="La Chaine Disney" tvg-logo="https://s3.amazonaws.com/ok2logo/disneyxd.png" group-title="3 - Kids",Disney Jr FR
-http://ok2.se:8000/9ee6F1URflOKbN3qv/a667F1ULI6u38sjNu/64054
-#EXTINF:-1 tvg-ID="La Chaine Disney" tvg-name="La Chaine Disney" tvg-logo="https://s3.amazonaws.com/ok2logo/disneyxd.png" group-title="3 - Kids",Disney Jr FR
-http://ok2.se:8000/4d9bF1UZwirURbABy/15efF1UnkMGF9IUCH/64054
 
 #EXTINF:-1 tvg-ID="Teletoon - East" tvg-name="TELETOON EN" tvg-logo="https://s3.amazonaws.com/ok2logo/teletoon.png" group-title="3 - Kids",Teletoon EN
-http://ok2.se:8000/9ee6F1URflOKbN3qv/a667F1ULI6u38sjNu/2422
+http://185.233.185.213:25443/78G0cn4NtX/8Xkot3G6mm/50034
 #EXTINF:-1 tvg-ID="Teletoon - East" tvg-name="TELETOON EN" tvg-logo="https://s3.amazonaws.com/ok2logo/teletoon.png" group-title="3 - Kids",Teletoon EN
 http://ok2.se:8000/4d9bF1UZwirURbABy/15efF1UnkMGF9IUCH/2422
 
 #EXTINF:-1 tvg-ID="DISNEY ALL DAY 24X7" tvg-name="DISNEY ALL DAY 24X7" tvg-logo="" group-title="3 - Kids",DISNEY ALL DAY 24X7
-http://ok2.se:8000/9ee6F1URflOKbN3qv/a667F1ULI6u38sjNu/7804
-#EXTINF:-1 tvg-ID="DISNEY ALL DAY 24X7" tvg-name="DISNEY ALL DAY 24X7" tvg-logo="" group-title="3 - Kids",DISNEY ALL DAY 24X7
-http://ok2.se:8000/4d9bF1UZwirURbABy/15efF1UnkMGF9IUCH/7804
-
-#EXTINF:-1 tvg-ID="DUCK TALES 24X7" tvg-name="DUCK TALES 24X7" tvg-logo="" group-title="3 - Kids",DUCK TALES 24X7
-http://ok2.se:8000/4d9bF1UZwirURbABy/15efF1UnkMGF9IUCH/7498
-#EXTINF:-1 tvg-ID="DUCK TALES 24X7" tvg-name="DUCK TALES 24X7" tvg-logo="" group-title="3 - Kids",DUCK TALES 24X7
-http://ok2.se:8000/9ee6F1URflOKbN3qv/a667F1ULI6u38sjNu/7498
 
 #EXTINF:-1 tvg-ID="Cartoon Network Canada" tvg-name="Cartoon Network Canada" tvg-logo="https://s3.amazonaws.com/ok2logo/cartoonnetwork.png" group-title="3 - Kids",Cartoon Network
-http://ok2.se:8000/4d9bF1UZwirURbABy/15efF1UnkMGF9IUCH/1773
-#EXTINF:-1 tvg-ID="Cartoon Network Canada" tvg-name="Cartoon Network Canada" tvg-logo="https://s3.amazonaws.com/ok2logo/cartoonnetwork.png" group-title="3 - Kids",Cartoon Network
-http://ok2.se:8000/9ee6F1URflOKbN3qv/a667F1ULI6u38sjNu/1773
 
 #EXTINF:-1 tvg-ID="Disney Jr" tvg-name="Disney Jr" tvg-logo="https://s3.amazonaws.com/ok2logo/disneyxd.png" group-title="3 - Kids",Disney Channel
-http://ok2.se:8000/4d9bF1UZwirURbABy/15efF1UnkMGF9IUCH/1747
-#EXTINF:-1 tvg-ID="Disney Jr" tvg-name="Disney Jr" tvg-logo="https://s3.amazonaws.com/ok2logo/disneyxd.png" group-title="3 - Kids",Disney Channel
-http://ok2.se:8000/9ee6F1URflOKbN3qv/a667F1ULI6u38sjNu/1747
 
 #EXTINF:-1 tvg-ID="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://s3.amazonaws.com/ok2logo/nickelodeon.png" group-title="3 - Kids",Nick@Nite
-http://ok2.se:8000/4d9bF1UZwirURbABy/15efF1UnkMGF9IUCH/394
-#EXTINF:-1 tvg-ID="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://s3.amazonaws.com/ok2logo/nickelodeon.png" group-title="3 - Kids",Nick@Nite
-http://ok2.se:8000/9ee6F1URflOKbN3qv/a667F1ULI6u38sjNu/394
-
-#EXTINF:-1 tvg-ID="Cartoon Network Canada" tvg-name="Cartoon Network Canada" tvg-logo="https://s3.amazonaws.com/ok2logo/cartoonnetwork.png" group-title="3 - Kids",Cartoon Network
-http://ok2.se:8000/9ee6F1URflOKbN3qv/a667F1ULI6u38sjNu/395
-#EXTINF:-1 tvg-ID="Cartoon Network Canada" tvg-name="Cartoon Network Canada" tvg-logo="https://s3.amazonaws.com/ok2logo/cartoonnetwork.png" group-title="3 - Kids",Cartoon Network
-http://ok2.se:8000/4d9bF1UZwirURbABy/15efF1UnkMGF9IUCH/395
-
 
 
 
 #EXTINF:-1,== Sport FR======================
 
 #EXTINF:-1 tvg-ID="TVA Sports" tvg-name="TVA Sports" tvg-logo="https://s3.amazonaws.com/ok2logo/tva1.png" group-title="4 - Sports FR",TVA Sports
-http://ok2.se:8000/9ee6F1URflOKbN3qv/a667F1ULI6u38sjNu/2406
+http://185.233.185.213:25443/78G0cn4NtX/8Xkot3G6mm/50011
 #EXTINF:-1 tvg-ID="TVA Sports" tvg-name="TVA Sports" tvg-logo="https://s3.amazonaws.com/ok2logo/tva1.png" group-title="4 - Sports FR",TVA Sports
 http://ok2.se:8000/4d9bF1UZwirURbABy/15efF1UnkMGF9IUCH/2406
 
@@ -142,12 +117,12 @@ http://xtream.pro:8000/S1ydHGWqbz/t6210FnvBb/7258
 http://xtream.pro:8000/S1ydHGWqbz/t6210FnvBb/7258
 
 #EXTINF:-1 tvg-ID="RDS (Réseau des sports)" tvg-name="RDS" tvg-logo="https://s3.amazonaws.com/ok2logo/rds.png" group-title="4 - Sports FR",RDS
-http://ok2.se:8000/9ee6F1URflOKbN3qv/a667F1ULI6u38sjNu/2404
+http://185.233.185.213:25443/78G0cn4NtX/8Xkot3G6mm/50082
 #EXTINF:-1 tvg-ID="RDS (Réseau des sports)" tvg-name="RDS" tvg-logo="https://s3.amazonaws.com/ok2logo/rds.png" group-title="4 - Sports FR",RDS
 http://ok2.se:8000/4d9bF1UZwirURbABy/15efF1UnkMGF9IUCH/2404
 
 #EXTINF:-1 tvg-ID="RDS 2" tvg-name="RDS2" tvg-logo="https://s3.amazonaws.com/ok2logo/rds2.png" group-title="4 - Sports FR",RDS2
-http://ok2.se:8000/9ee6F1URflOKbN3qv/a667F1ULI6u38sjNu/2405
+http://185.233.185.213:25443/78G0cn4NtX/8Xkot3G6mm/50081
 #EXTINF:-1 tvg-ID="RDS 2" tvg-name="RDS2" tvg-logo="https://s3.amazonaws.com/ok2logo/rds2.png" group-title="4 - Sports FR",RDS2
 http://ok2.se:8000/4d9bF1UZwirURbABy/15efF1UnkMGF9IUCH/2405
 
@@ -156,74 +131,66 @@ http://ok2.se:8000/4d9bF1UZwirURbABy/15efF1UnkMGF9IUCH/2405
 #EXTINF:-1,== Film======================
 
 #EXTINF:-1 tvg-ID="Cinépop" tvg-name="Cinepop" tvg-logo="https://s3.amazonaws.com/ok2logo/FRENCH/CINEPOP.HD.PNG" group-title="5 - Film FR",Cinepop
-http://ok2.se:8000/9ee6F1URflOKbN3qv/a667F1ULI6u38sjNu/46739
+http://185.233.185.213:25443/78G0cn4NtX/8Xkot3G6mm/50230
 #EXTINF:-1 tvg-ID="Cinépop" tvg-name="Cinepop" tvg-logo="https://s3.amazonaws.com/ok2logo/FRENCH/CINEPOP.HD.PNG" group-title="5 - Film FR",Cinepop
 http://ok2.se:8000/4d9bF1UZwirURbABy/15efF1UnkMGF9IUCH/46739
 
 #EXTINF:-1 tvg-ID="Super Ecran" tvg-name="Super Ecran" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran.png" group-title="5 - Film FR",Super Ecran
-http://ok2.se:8000/9ee6F1URflOKbN3qv/a667F1ULI6u38sjNu/2414
+http://185.233.185.213:25443/78G0cn4NtX/8Xkot3G6mm/50041
 #EXTINF:-1 tvg-ID="Super Ecran" tvg-name="Super Ecran" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran.png" group-title="5 - Film FR",Super Ecran
 http://ok2.se:8000/4d9bF1UZwirURbABy/15efF1UnkMGF9IUCH/2414
 
 #EXTINF:-1 tvg-ID="Super Ecran 2" tvg-name="Super Ecran2" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran2.png" group-title="5 - Film FR",Super Ecran 2
-http://ok2.se:8000/9ee6F1URflOKbN3qv/a667F1ULI6u38sjNu/2415
+http://185.233.185.213:25443/78G0cn4NtX/8Xkot3G6mm/50040
 #EXTINF:-1 tvg-ID="Super Ecran 2" tvg-name="Super Ecran2" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran2.png" group-title="5 - Film FR",Super Ecran 2
 http://ok2.se:8000/4d9bF1UZwirURbABy/15efF1UnkMGF9IUCH/2415
 
 #EXTINF:-1 tvg-ID="Super Ecran 3" tvg-name="Super Ecran3" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran3.png" group-title="5 - Film FR",Super Ecran 3
-http://ok2.se:8000/9ee6F1URflOKbN3qv/a667F1ULI6u38sjNu/2416
+http://185.233.185.213:25443/78G0cn4NtX/8Xkot3G6mm/50039
 #EXTINF:-1 tvg-ID="Super Ecran 3" tvg-name="Super Ecran3" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran3.png" group-title="5 - Film FR",Super Ecran 3
 http://ok2.se:8000/4d9bF1UZwirURbABy/15efF1UnkMGF9IUCH/2416
 
 #EXTINF:-1 tvg-ID="Super Ecran 4" tvg-name="Super Ecran4" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran4.jpg" group-title="5 - Film FR",Super Ecran 4
-http://ok2.se:8000/9ee6F1URflOKbN3qv/a667F1ULI6u38sjNu/25196
+http://185.233.185.213:25443/78G0cn4NtX/8Xkot3G6mm/50038
 #EXTINF:-1 tvg-ID="Super Ecran 4" tvg-name="Super Ecran4" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran4.jpg" group-title="5 - Film FR",Super Ecran 4
 http://ok2.se:8000/4d9bF1UZwirURbABy/15efF1UnkMGF9IUCH/25196
 
 
 
-#EXTINF:-1,== Sport EN======================
-
 #EXTINF:-1 tvg-ID="TSN1" tvg-name="TSN1" group-title="6 - Sports EN",TSN 1 | HD
-http://ok2.se:8000/9ee6F1URflOKbN3qv/a667F1ULI6u38sjNu/138
+http://185.233.185.213:25443/78G0cn4NtX/8Xkot3G6mm/50016
 #EXTINF:-1 tvg-ID="TSN1" tvg-name="TSN1" group-title="6 - Sports EN",TSN 1 | HD
 http://ok2.se:8000/4d9bF1UZwirURbABy/15efF1UnkMGF9IUCH/138
 
 #EXTINF:-1 tvg-ID="TSN2" tvg-name="TSN2" group-title="6 - Sports EN",TSN 2 | HD
-http://ok2.se:8000/9ee6F1URflOKbN3qv/a667F1ULI6u38sjNu/139
+http://185.233.185.213:25443/78G0cn4NtX/8Xkot3G6mm/42073
 #EXTINF:-1 tvg-ID="TSN2" tvg-name="TSN2" group-title="6 - Sports EN",TSN 2 | HD
 http://ok2.se:8000/4d9bF1UZwirURbABy/15efF1UnkMGF9IUCH/139
 
 #EXTINF:-1 tvg-ID="TSN3" tvg-name="TSN3" group-title="6 - Sports EN",TSN 3 | HD
-http://ok2.se:8000/9ee6F1URflOKbN3qv/a667F1ULI6u38sjNu/140
+http://185.233.185.213:25443/78G0cn4NtX/8Xkot3G6mm/50017
 #EXTINF:-1 tvg-ID="TSN3" tvg-name="TSN3" group-title="6 - Sports EN",TSN 3 | HD
 http://ok2.se:8000/4d9bF1UZwirURbABy/15efF1UnkMGF9IUCH/140
 
 #EXTINF:-1 tvg-ID="TSN4" tvg-name="TSN4" group-title="6 - Sports EN",TSN 4 | HD
-http://ok2.se:8000/9ee6F1URflOKbN3qv/a667F1ULI6u38sjNu/141
+http://185.233.185.213:25443/78G0cn4NtX/8Xkot3G6mm/50015
 #EXTINF:-1 tvg-ID="TSN4" tvg-name="TSN4" group-title="6 - Sports EN",TSN 4 | HD
 http://ok2.se:8000/4d9bF1UZwirURbABy/15efF1UnkMGF9IUCH/141
 
 #EXTINF:-1 tvg-ID="TSN5" tvg-name="TSN" group-title="6 - Sports EN",TSN 5 | HD
-http://ok2.se:8000/9ee6F1URflOKbN3qv/a667F1ULI6u38sjNu/142
+http://185.233.185.213:25443/78G0cn4NtX/8Xkot3G6mm/50014
 #EXTINF:-1 tvg-ID="TSN5" tvg-name="TSN" group-title="6 - Sports EN",TSN 5 | HD
 http://ok2.se:8000/4d9bF1UZwirURbABy/15efF1UnkMGF9IUCH/142
 
 #EXTINF:-1 tvg-ID="WWE" tvg-name="WWE" group-title="6 - Sports EN",WWE
-http://ok2.se:8000/9ee6F1URflOKbN3qv/a667F1ULI6u38sjNu/168
+http://185.233.185.213:25443/78G0cn4NtX/8Xkot3G6mm/49999
 #EXTINF:-1 tvg-ID="WWE" tvg-name="WWE" group-title="6 - Sports EN",WWE
 http://ok2.se:8000/4d9bF1UZwirURbABy/15efF1UnkMGF9IUCH/168
 
 #EXTINF:-1 tvg-ID="Fight Network Canada" tvg-name="Fight Network" group-title="6 - Sports EN",Fight Network
-http://ok2.se:8000/9ee6F1URflOKbN3qv/a667F1ULI6u38sjNu/71284
+http://185.233.185.213:25443/78G0cn4NtX/8Xkot3G6mm/50165
 #EXTINF:-1 tvg-ID="Fight Network Canada" tvg-name="Fight Network" group-title="6 - Sports EN",Fight Network
 http://ok2.se:8000/4d9bF1UZwirURbABy/15efF1UnkMGF9IUCH/71284
-
-
-
-
-
-
 
 
 #EXTINF:-1,== English Movie======================
@@ -246,18 +213,24 @@ http://ok2.se:8000/4d9bF1UZwirURbABy/15efF1UnkMGF9IUCH/9507
 
 
 #EXTINF:-1 tvg-ID="AMC - Canada" tvg-name="AMC - Canada" group-title="7 - English",AMC
-http://ok2.se:8000/9ee6F1URflOKbN3qv/a667F1ULI6u38sjNu/334
+http://185.233.185.213:25443/78G0cn4NtX/8Xkot3G6mm/50265
 #EXTINF:-1 tvg-ID="AMC - Canada" tvg-name="AMC - Canada" group-title="7 - English",AMC
 http://ok2.se:8000/4d9bF1UZwirURbABy/15efF1UnkMGF9IUCH/334
 
 
 #EXTINF:-1 tvg-ID="Crime + Investigation" tvg-name="Crime + Investigation" group-title="7 - English",Crime Investigation
+http://185.233.185.213:25443/78G0cn4NtX/8Xkot3G6mm/50203
 
 
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="" group-title="7 - English",CNN
+http://185.233.185.213:25443/78G0cn4NtX/8Xkot3G6mm/50219
+
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="" group-title="7 - English",CNN HD
+http://185.233.185.213:25443/78G0cn4NtX/8Xkot3G6mm/50218
+
 
 #EXTINF:-1 tvg-ID="FOX (WUTV) Buffalo, NY" tvg-name="FOX" group-title="7 - English",FOX
-
+http://185.233.185.213:25443/78G0cn4NtX/8Xkot3G6mm/50161
 
 #EXTINF:-1 tvg-ID="FX Networks Canada" tvg-name="FX Networks Canada" group-title="7 - English",FX
 http://ok2.se:8000/4d9bF1UZwirURbABy/15efF1UnkMGF9IUCH/314
