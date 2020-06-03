@@ -16,8 +16,10 @@ http://tvpro.millenium-ott.com:25443/NDAULogUgpvMa/ikAE4zQjND/50116
 http://fpro.webvps.de:25443/MAGlmyikg0e3p/iRSc61Gs4w/50116
 #EXTINF:-1 tvg-ID="TVA (CFTM) Montréal" tvg-name="CFMT" tvg-logo="https://s3.amazonaws.com/ok2logo/tva.png" group-title="1 - Quebec Base",TVA Montreal
 http://185.233.185.213:25443/78G0cn4NtX/8Xkot3G6mm/50012
-#EXTINF:-1,|.CA.| TVA GATINEAU
+#EXTINF:-1 tvg-ID="TVA (CFTM) Montréal" tvg-name="CFMT" tvg-logo="https://s3.amazonaws.com/ok2logo/tva.png" group-title="1 - Quebec Base",TVA Montreal
 http://fpro.webvps.de:25443/MAGlmyikg0e3p/iRSc61Gs4w/50012
+#EXTINF:-1 tvg-ID="TVA (CFTM) Montréal" tvg-name="CFMT" tvg-logo="https://s3.amazonaws.com/ok2logo/tva.png" group-title="1 - Quebec Base",TVA Montreal
+http://ok2.se:8000/Jeff5/Jeff5/2395
 
 #EXTINF:-1 tvg-ID="V (CFJP) Montreal, QC" tvg-name="CFJP" tvg-logo="https://s3.amazonaws.com/ok2logo/CANALV+TV+logo.png" group-title="1 - Quebec Base",V-Tele
 https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
@@ -41,7 +43,6 @@ http://tvpro.millenium-ott.com:25443/NDAULogUgpvMa/ikAE4zQjND/50083
 http://fpro.webvps.de:25443/MAGlmyikg0e3p/iRSc61Gs4w/50083
 #EXTINF:-1 tvg-id="RDI (News)" tvg-name="ICI RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="1 - Quebec Base",ICI RDI
 http://ok2.se:8000/Jeff5/Jeff5/2396
-
 
 
 #EXTINF:-1,== Special======================
@@ -94,7 +95,6 @@ http://fpro.webvps.de:25443/MAGlmyikg0e3p/iRSc61Gs4w/49993
 http://ok2.se:8000/Jeff5/Jeff5/2411
 
 
-
 #EXTINF:-1,== Kids======================
 
 #EXTINF:-1 tvg-ID="TéléTOON - français" tvg-name="TELETOON FR" tvg-logo="https://s3.amazonaws.com/ok2logo/teletoon.png" group-title="3 - Kids",Teletoon FR
@@ -120,14 +120,6 @@ http://ok2.se:8000/Jeff5/Jeff5/2422
 
 #EXTINF:-1,|.CA.| VRAK TV
 http://fpro.webvps.de:25443/MAGlmyikg0e3p/iRSc61Gs4w/50006
-
-#EXTINF:-1 tvg-ID="DISNEY ALL DAY 24X7" tvg-name="DISNEY ALL DAY 24X7" tvg-logo="" group-title="3 - Kids",DISNEY ALL DAY 24X7
-
-#EXTINF:-1 tvg-ID="Cartoon Network Canada" tvg-name="Cartoon Network Canada" tvg-logo="https://s3.amazonaws.com/ok2logo/cartoonnetwork.png" group-title="3 - Kids",Cartoon Network
-
-#EXTINF:-1 tvg-ID="Disney Jr" tvg-name="Disney Jr" tvg-logo="https://s3.amazonaws.com/ok2logo/disneyxd.png" group-title="3 - Kids",Disney Channel
-
-#EXTINF:-1 tvg-ID="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://s3.amazonaws.com/ok2logo/nickelodeon.png" group-title="3 - Kids",Nick@Nite
 
 
 #EXTINF:-1,== Sport FR======================
@@ -159,7 +151,6 @@ http://tvpro.millenium-ott.com:25443/NDAULogUgpvMa/ikAE4zQjND/50081
 http://fpro.webvps.de:25443/MAGlmyikg0e3p/iRSc61Gs4w/50081
 #EXTINF:-1 tvg-ID="RDS 2" tvg-name="RDS2" tvg-logo="https://s3.amazonaws.com/ok2logo/rds2.png" group-title="4 - Sports FR",RDS2
 http://ok2.se:8000/Jeff5/Jeff5/2405
-
 
 
 #EXTINF:-1,== Film======================
@@ -256,20 +247,13 @@ http://ok2.se:8000/Jeff5/Jeff5/71284
 
 #EXTINF:-1 tvg-ID="crave1-east/72" tvg-name="Crave 1" group-title="English Movie",CRAVE 1 HD
 http://ok2.se:8000/Jeff5/Jeff5/9505
-#EXTINF:-1 tvg-ID="crave1-east/72" tvg-name="Crave 1" group-title="English Movie",CRAVE 1 HD
-http://ok2.se:8000/Jeff5/Jeff5/9505
 #EXTINF:-1 #EXTINF:-1 tvg-ID="crave2-east/86" tvg-name="Crave 2" group-title="English Movie",CRAVE 2 HD
 http://ok2.se:8000/Jeff5/Jeff5/9506
-#EXTINF:-1 #EXTINF:-1 tvg-ID="crave2-east/86" tvg-name="Crave 2" group-title="English Movie",CRAVE 2 HD
-http://ok2.se:8000/Jeff5/Jeff5/9506
-#EXTINF:-1 #EXTINF:-1 tvg-ID="crave3-east/85" tvg-name="Crave 3" group-title="English Movie",CRAVE 3 HD
-http://ok2.se:8000/Jeff5/Jeff5/9507
 #EXTINF:-1 #EXTINF:-1 tvg-ID="crave3-east/85" tvg-name="Crave 3" group-title="English Movie",CRAVE 3 HD
 http://ok2.se:8000/Jeff5/Jeff5/9507
 
 
 #EXTINF:-1,== English Channel======================
-
 
 #EXTINF:-1 tvg-ID="AMC - Canada" tvg-name="AMC - Canada" group-title="7 - English",AMC
 http://tvpro.millenium-ott.com:25443/NDAULogUgpvMa/ikAE4zQjND/50265
@@ -278,12 +262,10 @@ http://fpro.webvps.de:25443/MAGlmyikg0e3p/iRSc61Gs4w/50265
 #EXTINF:-1 tvg-ID="AMC - Canada" tvg-name="AMC - Canada" group-title="7 - English",AMC
 http://ok2.se:8000/Jeff5/Jeff5/334
 
-
 #EXTINF:-1 tvg-ID="Crime + Investigation" tvg-name="Crime + Investigation" group-title="7 - English",Crime Investigation
 http://tvpro.millenium-ott.com:25443/NDAULogUgpvMa/ikAE4zQjND/50203
 #EXTINF:-1 tvg-ID="Crime + Investigation" tvg-name="Crime + Investigation" group-title="7 - English",Crime Investigation
 http://fpro.webvps.de:25443/MAGlmyikg0e3p/iRSc61Gs4w/50203
-
 
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="" group-title="7 - English",CNN
 http://tvpro.millenium-ott.com:25443/NDAULogUgpvMa/ikAE4zQjND/50219
@@ -295,7 +277,6 @@ http://tvpro.millenium-ott.com:25443/NDAULogUgpvMa/ikAE4zQjND/50218
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="" group-title="7 - English",CNN HD
 http://fpro.webvps.de:25443/MAGlmyikg0e3p/iRSc61Gs4w/50218
 
-
 #EXTINF:-1 tvg-ID="FOX (WUTV) Buffalo, NY" tvg-name="FOX" group-title="7 - English",FOX
 http://fpro.webvps.de:25443/MAGlmyikg0e3p/iRSc61Gs4w/50161
 
@@ -304,7 +285,5 @@ http://tvpro.millenium-ott.com:25443/NDAULogUgpvMa/ikAE4zQjND/50161
 #EXTINF:-1 tvg-ID="FX Networks Canada" tvg-name="FX Networks Canada" group-title="7 - English",FX
 http://ok2.se:8000/Jeff5/Jeff5/314
 
-#EXTINF:-1 tvg-ID="FXX Canada" tvg-name="FXX Canada" group-title="7 - English",FXX
-http://ok2.se:8000/Jeff5/Jeff5/315
 #EXTINF:-1 tvg-ID="FXX Canada" tvg-name="FXX Canada" group-title="7 - English",FXX
 http://ok2.se:8000/Jeff5/Jeff5/315
