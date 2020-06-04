@@ -6,18 +6,18 @@
 #EXTINF:-1 tvg-ID="src-CBFT" tvg-name="CBFT" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI Montreal
 http://tvpro.millenium-ott.com:25443/NDAULogUgpvMa/ikAE4zQjND/50135
 #EXTINF:-1 tvg-ID="src-CBFT" tvg-name="CBFT" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI Montreal
-http://fpro.webvps.de:25443/MAGlmyikg0e3p/iRSc61Gs4w/50135
+http://fpro.webvps.de:25443/hzhMBdPjiO/49QH6BwbzI/50135
 #EXTINF:-1 tvg-ID="src-CBFT" tvg-name="CBFT" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI Montreal
 http://ok2.se:8000/Jeff5/Jeff5/2399
 
 #EXTINF:-1 tvg-ID="TVA (CFTM) Montréal" tvg-name="CFMT" tvg-logo="https://s3.amazonaws.com/ok2logo/tva.png" group-title="1 - Quebec Base",TVA Montreal
 http://tvpro.millenium-ott.com:25443/NDAULogUgpvMa/ikAE4zQjND/50116
 #EXTINF:-1 tvg-ID="TVA (CFTM) Montréal" tvg-name="CFMT" tvg-logo="https://s3.amazonaws.com/ok2logo/tva.png" group-title="1 - Quebec Base",TVA Montreal
-http://fpro.webvps.de:25443/MAGlmyikg0e3p/iRSc61Gs4w/50116
+http://fpro.webvps.de:25443/hzhMBdPjiO/49QH6BwbzI/50116
 #EXTINF:-1 tvg-ID="TVA (CFTM) Montréal" tvg-name="CFMT" tvg-logo="https://s3.amazonaws.com/ok2logo/tva.png" group-title="1 - Quebec Base",TVA Montreal
 http://185.233.185.213:25443/78G0cn4NtX/8Xkot3G6mm/50012
 #EXTINF:-1 tvg-ID="TVA (CFTM) Montréal" tvg-name="CFMT" tvg-logo="https://s3.amazonaws.com/ok2logo/tva.png" group-title="1 - Quebec Base",TVA Montreal
-http://fpro.webvps.de:25443/MAGlmyikg0e3p/iRSc61Gs4w/50012
+http://fpro.webvps.de:25443/hzhMBdPjiO/49QH6BwbzI/50012
 #EXTINF:-1 tvg-ID="TVA (CFTM) Montréal" tvg-name="CFMT" tvg-logo="https://s3.amazonaws.com/ok2logo/tva.png" group-title="1 - Quebec Base",TVA Montreal
 http://ok2.se:8000/Jeff5/Jeff5/2395
 
@@ -31,7 +31,7 @@ http://ok2.se:8000/Jeff5/Jeff5/9634
 #EXTINF:-1 tvg-ID="LCN" tvg-name="LCN" tvg-logo="https://s3.amazonaws.com/ok2logo/LCN.gif" group-title="1 - Quebec Base",LCN
 http://tvpro.millenium-ott.com:25443/NDAULogUgpvMa/ikAE4zQjND/50127
 #EXTINF:-1 tvg-ID="LCN" tvg-name="LCN" tvg-logo="https://s3.amazonaws.com/ok2logo/LCN.gif" group-title="1 - Quebec Base",LCN
-http://fpro.webvps.de:25443/MAGlmyikg0e3p/iRSc61Gs4w/50127
+http://fpro.webvps.de:25443/hzhMBdPjiO/49QH6BwbzI/50127
 #EXTINF:-1 tvg-ID="LCN" tvg-name="LCN" tvg-logo="https://s3.amazonaws.com/ok2logo/LCN.gif" group-title="1 - Quebec Base",LCN
 http://ok2.se:8000/Jeff5/Jeff5/9635
 
@@ -40,7 +40,7 @@ https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
 #EXTINF:-1 tvg-id="RDI (News)" tvg-name="ICI RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="1 - Quebec Base",ICI RDI
 http://tvpro.millenium-ott.com:25443/NDAULogUgpvMa/ikAE4zQjND/50083
 #EXTINF:-1 tvg-id="RDI (News)" tvg-name="ICI RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="1 - Quebec Base",ICI RDI
-http://fpro.webvps.de:25443/MAGlmyikg0e3p/iRSc61Gs4w/50083
+http://fpro.webvps.de:25443/hzhMBdPjiO/49QH6BwbzI/50083
 #EXTINF:-1 tvg-id="RDI (News)" tvg-name="ICI RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="1 - Quebec Base",ICI RDI
 http://ok2.se:8000/Jeff5/Jeff5/2396
 
@@ -50,47 +50,47 @@ http://ok2.se:8000/Jeff5/Jeff5/2396
 #EXTINF:-1 tvg-ID="Addik TV" tvg-name="ADDIK" tvg-logo="" group-title="2 - Quebec Specialise",Addik TV
 http://tvpro.millenium-ott.com:25443/NDAULogUgpvMa/ikAE4zQjND/50269
 #EXTINF:-1 tvg-ID="Addik TV" tvg-name="ADDIK" tvg-logo="" group-title="2 - Quebec Specialise",Addik TV
-http://fpro.webvps.de:25443/MAGlmyikg0e3p/iRSc61Gs4w/50269
+http://fpro.webvps.de:25443/hzhMBdPjiO/49QH6BwbzI/50269
 #EXTINF:-1 tvg-ID="Addik TV" tvg-name="ADDIK" tvg-logo="" group-title="2 - Quebec Specialise",Addik TV
 http://ok2.se:8000/Jeff5/Jeff5/2412
 
 #EXTINF:-1 tvg-ID="Canal D" tvg-name="D" tvg-logo="https://s3.amazonaws.com/ok2logo/CANAL+D.png" group-title="2 - Quebec Specialise",CANAL D
 http://tvpro.millenium-ott.com:25443/NDAULogUgpvMa/ikAE4zQjND/50250
 #EXTINF:-1 tvg-ID="Canal D" tvg-name="D" tvg-logo="https://s3.amazonaws.com/ok2logo/CANAL+D.png" group-title="2 - Quebec Specialise",CANAL D
-http://fpro.webvps.de:25443/MAGlmyikg0e3p/iRSc61Gs4w/50250
+http://fpro.webvps.de:25443/hzhMBdPjiO/49QH6BwbzI/50250
 #EXTINF:-1 tvg-ID="Canal D" tvg-name="D" tvg-logo="https://s3.amazonaws.com/ok2logo/CANAL+D.png" group-title="2 - Quebec Specialise",CANAL D
 http://ok2.se:8000/Jeff5/Jeff5/9633
 
 #EXTINF:-1 tvg-ID="Prise 2" tvg-name="Prise 2" group-title="2 - Quebec Specialise",Prise 2
 http://tvpro.millenium-ott.com:25443/NDAULogUgpvMa/ikAE4zQjND/50084
 #EXTINF:-1 tvg-ID="Prise 2" tvg-name="Prise 2" group-title="2 - Quebec Specialise",Prise 2
-http://fpro.webvps.de:25443/MAGlmyikg0e3p/iRSc61Gs4w/50084
+http://fpro.webvps.de:25443/hzhMBdPjiO/49QH6BwbzI/50084
 #EXTINF:-1 tvg-ID="Prise 2" tvg-name="Prise 2" group-title="2 - Quebec Specialise",Prise 2
 http://ok2.se:8000/Jeff5/Jeff5/2413
 
 #EXTINF:-1 tvg-ID="Historia" tvg-name="Historia" group-title="2 - Quebec Specialise",Historia
 http://tvpro.millenium-ott.com:25443/NDAULogUgpvMa/ikAE4zQjND/50139
 #EXTINF:-1 tvg-ID="Historia" tvg-name="Historia" group-title="2 - Quebec Specialise",Historia
-http://fpro.webvps.de:25443/MAGlmyikg0e3p/iRSc61Gs4w/50139
+http://fpro.webvps.de:25443/hzhMBdPjiO/49QH6BwbzI/50139
 #EXTINF:-1 tvg-ID="Historia" tvg-name="Historia" group-title="2 - Quebec Specialise",Historia
 http://ok2.se:8000/Jeff5/Jeff5/2410
 
 #EXTINF:-1 tvg-ID="Frisson" tvg-name="Frisson" group-title="2 - Quebec Specialise",Frisson
 http://tvpro.millenium-ott.com:25443/NDAULogUgpvMa/ikAE4zQjND/50158
 #EXTINF:-1 tvg-ID="Frisson" tvg-name="Frisson" group-title="2 - Quebec Specialise",Frisson
-http://fpro.webvps.de:25443/MAGlmyikg0e3p/iRSc61Gs4w/50158
+http://fpro.webvps.de:25443/hzhMBdPjiO/49QH6BwbzI/50158
 
 #EXTINF:-1 tvg-ID="Series +" tvg-name="Series +" tvg-logo="https://s3.amazonaws.com/ok2logo/series.png" group-title="2 - Quebec Specialise",Series +
 http://tvpro.millenium-ott.com:25443/NDAULogUgpvMa/ikAE4zQjND/50078
 #EXTINF:-1 tvg-ID="Series +" tvg-name="Series +" tvg-logo="https://s3.amazonaws.com/ok2logo/series.png" group-title="2 - Quebec Specialise",Series +
-http://fpro.webvps.de:25443/MAGlmyikg0e3p/iRSc61Gs4w/50078
+http://fpro.webvps.de:25443/hzhMBdPjiO/49QH6BwbzI/50078
 #EXTINF:-1 tvg-ID="Series +" tvg-name="Series +" tvg-logo="https://s3.amazonaws.com/ok2logo/series.png" group-title="2 - Quebec Specialise",Series +
 http://ok2.se:8000/Jeff5/Jeff5/2409
 
 #EXTINF:-1 tvg-ID="Z" tvg-name="Z" tvg-logo="https://s3.amazonaws.com/ok2logo/ztele.png" group-title="2 - Quebec Specialise",Z-Tele
 http://tvpro.millenium-ott.com:25443/NDAULogUgpvMa/ikAE4zQjND/49993
 #EXTINF:-1 tvg-ID="Z" tvg-name="Z" tvg-logo="https://s3.amazonaws.com/ok2logo/ztele.png" group-title="2 - Quebec Specialise",Z-Tele
-http://fpro.webvps.de:25443/MAGlmyikg0e3p/iRSc61Gs4w/49993
+http://fpro.webvps.de:25443/hzhMBdPjiO/49QH6BwbzI/49993
 #EXTINF:-1 tvg-ID="Z" tvg-name="Z" tvg-logo="https://s3.amazonaws.com/ok2logo/ztele.png" group-title="2 - Quebec Specialise",Z-Tele
 http://ok2.se:8000/Jeff5/Jeff5/2411
 
@@ -100,7 +100,7 @@ http://ok2.se:8000/Jeff5/Jeff5/2411
 #EXTINF:-1 tvg-ID="TéléTOON - français" tvg-name="TELETOON FR" tvg-logo="https://s3.amazonaws.com/ok2logo/teletoon.png" group-title="3 - Kids",Teletoon FR
 http://tvpro.millenium-ott.com:25443/NDAULogUgpvMa/ikAE4zQjND/50032
 #EXTINF:-1 tvg-ID="TéléTOON - français" tvg-name="TELETOON FR" tvg-logo="https://s3.amazonaws.com/ok2logo/teletoon.png" group-title="3 - Kids",Teletoon FR
-http://fpro.webvps.de:25443/MAGlmyikg0e3p/iRSc61Gs4w/50032
+http://fpro.webvps.de:25443/hzhMBdPjiO/49QH6BwbzI/50032
 #EXTINF:-1 tvg-ID="TéléTOON - français" tvg-name="TELETOON FR" tvg-logo="https://s3.amazonaws.com/ok2logo/teletoon.png" group-title="3 - Kids",Teletoon FR
 http://ok2.se:8000/Jeff5/Jeff5/46743
 
@@ -110,16 +110,16 @@ http://tvpro.millenium-ott.com:25443/NDAULogUgpvMa/ikAE4zQjND/50181
 #EXTINF:-1 tvg-ID="Teletoon - East" tvg-name="TELETOON EN" tvg-logo="https://s3.amazonaws.com/ok2logo/teletoon.png" group-title="3 - Kids",Teletoon EN
 http://tvpro.millenium-ott.com:25443/NDAULogUgpvMa/ikAE4zQjND/50029
 #EXTINF:-1 tvg-ID="Teletoon - East" tvg-name="TELETOON EN" tvg-logo="https://s3.amazonaws.com/ok2logo/teletoon.png" group-title="3 - Kids",Teletoon EN
-http://fpro.webvps.de:25443/MAGlmyikg0e3p/iRSc61Gs4w/50029
+http://fpro.webvps.de:25443/hzhMBdPjiO/49QH6BwbzI/50029
 #EXTINF:-1 tvg-ID="Teletoon - East" tvg-name="TELETOON EN" tvg-logo="https://s3.amazonaws.com/ok2logo/teletoon.png" group-title="3 - Kids",Teletoon EN
 http://tvpro.millenium-ott.com:25443/NDAULogUgpvMa/ikAE4zQjND/50034
 #EXTINF:-1 tvg-ID="Teletoon - East" tvg-name="TELETOON EN" tvg-logo="https://s3.amazonaws.com/ok2logo/teletoon.png" group-title="3 - Kids",Teletoon EN
-http://fpro.webvps.de:25443/MAGlmyikg0e3p/iRSc61Gs4w/50034
+http://fpro.webvps.de:25443/hzhMBdPjiO/49QH6BwbzI/50034
 #EXTINF:-1 tvg-ID="Teletoon - East" tvg-name="TELETOON EN" tvg-logo="https://s3.amazonaws.com/ok2logo/teletoon.png" group-title="3 - Kids",Teletoon EN
 http://ok2.se:8000/Jeff5/Jeff5/2422
 
 #EXTINF:-1,|.CA.| VRAK TV
-http://fpro.webvps.de:25443/MAGlmyikg0e3p/iRSc61Gs4w/50006
+http://fpro.webvps.de:25443/hzhMBdPjiO/49QH6BwbzI/50006
 
 
 #EXTINF:-1,== Sport FR======================
@@ -127,7 +127,7 @@ http://fpro.webvps.de:25443/MAGlmyikg0e3p/iRSc61Gs4w/50006
 #EXTINF:-1 tvg-ID="TVA Sports" tvg-name="TVA Sports" tvg-logo="https://s3.amazonaws.com/ok2logo/tva1.png" group-title="4 - Sports FR",TVA Sports
 http://tvpro.millenium-ott.com:25443/NDAULogUgpvMa/ikAE4zQjND/50011
 #EXTINF:-1 tvg-ID="TVA Sports" tvg-name="TVA Sports" tvg-logo="https://s3.amazonaws.com/ok2logo/tva1.png" group-title="4 - Sports FR",TVA Sports
-http://fpro.webvps.de:25443/MAGlmyikg0e3p/iRSc61Gs4w/50011
+http://fpro.webvps.de:25443/hzhMBdPjiO/49QH6BwbzI/50011
 #EXTINF:-1 tvg-ID="TVA Sports" tvg-name="TVA Sports" tvg-logo="https://s3.amazonaws.com/ok2logo/tva1.png" group-title="4 - Sports FR",TVA Sports
 http://ok2.se:8000/Jeff5/Jeff5/2406
 
@@ -141,14 +141,14 @@ http://eurostreamlive.dnsfor.me:8000/lMDM5dKPwx/Kjx2frWPD5/3406
 #EXTINF:-1 tvg-ID="RDS (Réseau des sports)" tvg-name="RDS" tvg-logo="https://s3.amazonaws.com/ok2logo/rds.png" group-title="4 - Sports FR",RDS
 http://xtream.pro:8000/S1ydHGWqbz/t6210FnvBb/7258
 #EXTINF:-1 tvg-ID="RDS (Réseau des sports)" tvg-name="RDS" tvg-logo="https://s3.amazonaws.com/ok2logo/rds.png" group-title="4 - Sports FR",RDS
-http://fpro.webvps.de:25443/MAGlmyikg0e3p/iRSc61Gs4w/50082
+http://fpro.webvps.de:25443/hzhMBdPjiO/49QH6BwbzI/50082
 #EXTINF:-1 tvg-ID="RDS (Réseau des sports)" tvg-name="RDS" tvg-logo="https://s3.amazonaws.com/ok2logo/rds.png" group-title="4 - Sports FR",RDS
 http://ok2.se:8000/Jeff5/Jeff5/2404
 
 #EXTINF:-1 tvg-ID="RDS 2" tvg-name="RDS2" tvg-logo="https://s3.amazonaws.com/ok2logo/rds2.png" group-title="4 - Sports FR",RDS2
 http://tvpro.millenium-ott.com:25443/NDAULogUgpvMa/ikAE4zQjND/50081
 #EXTINF:-1 tvg-ID="RDS 2" tvg-name="RDS2" tvg-logo="https://s3.amazonaws.com/ok2logo/rds2.png" group-title="4 - Sports FR",RDS2
-http://fpro.webvps.de:25443/MAGlmyikg0e3p/iRSc61Gs4w/50081
+http://fpro.webvps.de:25443/hzhMBdPjiO/49QH6BwbzI/50081
 #EXTINF:-1 tvg-ID="RDS 2" tvg-name="RDS2" tvg-logo="https://s3.amazonaws.com/ok2logo/rds2.png" group-title="4 - Sports FR",RDS2
 http://ok2.se:8000/Jeff5/Jeff5/2405
 
@@ -158,35 +158,35 @@ http://ok2.se:8000/Jeff5/Jeff5/2405
 #EXTINF:-1 tvg-ID="Cinépop" tvg-name="Cinepop" tvg-logo="https://s3.amazonaws.com/ok2logo/FRENCH/CINEPOP.HD.PNG" group-title="5 - Film FR",Cinepop
 http://tvpro.millenium-ott.com:25443/NDAULogUgpvMa/ikAE4zQjND/50230
 #EXTINF:-1 tvg-ID="Cinépop" tvg-name="Cinepop" tvg-logo="https://s3.amazonaws.com/ok2logo/FRENCH/CINEPOP.HD.PNG" group-title="5 - Film FR",Cinepop
-http://fpro.webvps.de:25443/MAGlmyikg0e3p/iRSc61Gs4w/50230
+http://fpro.webvps.de:25443/hzhMBdPjiO/49QH6BwbzI/50230
 #EXTINF:-1 tvg-ID="Cinépop" tvg-name="Cinepop" tvg-logo="https://s3.amazonaws.com/ok2logo/FRENCH/CINEPOP.HD.PNG" group-title="5 - Film FR",Cinepop
 http://ok2.se:8000/Jeff5/Jeff5/46739
 
 #EXTINF:-1 tvg-ID="Super Ecran" tvg-name="Super Ecran" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran.png" group-title="5 - Film FR",Super Ecran
 http://tvpro.millenium-ott.com:25443/NDAULogUgpvMa/ikAE4zQjND/50041
 #EXTINF:-1 tvg-ID="Super Ecran" tvg-name="Super Ecran" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran.png" group-title="5 - Film FR",Super Ecran
-http://fpro.webvps.de:25443/MAGlmyikg0e3p/iRSc61Gs4w/50041
+http://fpro.webvps.de:25443/hzhMBdPjiO/49QH6BwbzI/50041
 #EXTINF:-1 tvg-ID="Super Ecran" tvg-name="Super Ecran" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran.png" group-title="5 - Film FR",Super Ecran
 http://ok2.se:8000/Jeff5/Jeff5/2414
 
 #EXTINF:-1 tvg-ID="Super Ecran 2" tvg-name="Super Ecran2" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran2.png" group-title="5 - Film FR",Super Ecran 2
 http://tvpro.millenium-ott.com:25443/NDAULogUgpvMa/ikAE4zQjND/50040
 #EXTINF:-1 tvg-ID="Super Ecran 2" tvg-name="Super Ecran2" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran2.png" group-title="5 - Film FR",Super Ecran 2
-http://fpro.webvps.de:25443/MAGlmyikg0e3p/iRSc61Gs4w/50040
+http://fpro.webvps.de:25443/hzhMBdPjiO/49QH6BwbzI/50040
 #EXTINF:-1 tvg-ID="Super Ecran 2" tvg-name="Super Ecran2" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran2.png" group-title="5 - Film FR",Super Ecran 2
 http://ok2.se:8000/Jeff5/Jeff5/2415
 
 #EXTINF:-1 tvg-ID="Super Ecran 3" tvg-name="Super Ecran3" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran3.png" group-title="5 - Film FR",Super Ecran 3
 http://tvpro.millenium-ott.com:25443/NDAULogUgpvMa/ikAE4zQjND/50039
 #EXTINF:-1 tvg-ID="Super Ecran 3" tvg-name="Super Ecran3" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran3.png" group-title="5 - Film FR",Super Ecran 3
-http://fpro.webvps.de:25443/MAGlmyikg0e3p/iRSc61Gs4w/50039
+http://fpro.webvps.de:25443/hzhMBdPjiO/49QH6BwbzI/50039
 #EXTINF:-1 tvg-ID="Super Ecran 3" tvg-name="Super Ecran3" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran3.png" group-title="5 - Film FR",Super Ecran 3
 http://ok2.se:8000/Jeff5/Jeff5/2416
 
 #EXTINF:-1 tvg-ID="Super Ecran 4" tvg-name="Super Ecran4" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran4.jpg" group-title="5 - Film FR",Super Ecran 4
 http://tvpro.millenium-ott.com:25443/NDAULogUgpvMa/ikAE4zQjND/50038
 #EXTINF:-1 tvg-ID="Super Ecran 4" tvg-name="Super Ecran4" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran4.jpg" group-title="5 - Film FR",Super Ecran 4
-http://fpro.webvps.de:25443/MAGlmyikg0e3p/iRSc61Gs4w/50038
+http://fpro.webvps.de:25443/hzhMBdPjiO/49QH6BwbzI/50038
 #EXTINF:-1 tvg-ID="Super Ecran 4" tvg-name="Super Ecran4" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran4.jpg" group-title="5 - Film FR",Super Ecran 4
 http://ok2.se:8000/Jeff5/Jeff5/25196
 
@@ -196,49 +196,49 @@ http://ok2.se:8000/Jeff5/Jeff5/25196
 #EXTINF:-1 tvg-ID="TSN1" tvg-name="TSN1" group-title="6 - Sports EN",TSN 1 | HD
 http://tvpro.millenium-ott.com:25443/NDAULogUgpvMa/ikAE4zQjND/50016
 #EXTINF:-1 tvg-ID="TSN1" tvg-name="TSN1" group-title="6 - Sports EN",TSN 1 | HD
-http://fpro.webvps.de:25443/MAGlmyikg0e3p/iRSc61Gs4w/50016
+http://fpro.webvps.de:25443/hzhMBdPjiO/49QH6BwbzI/50016
 #EXTINF:-1 tvg-ID="TSN1" tvg-name="TSN1" group-title="6 - Sports EN",TSN 1 | HD
 http://ok2.se:8000/Jeff5/Jeff5/138
 
 #EXTINF:-1 tvg-ID="TSN2" tvg-name="TSN2" group-title="6 - Sports EN",TSN 2 | HD
 http://tvpro.millenium-ott.com:25443/NDAULogUgpvMa/ikAE4zQjND/42073
 #EXTINF:-1 tvg-ID="TSN2" tvg-name="TSN2" group-title="6 - Sports EN",TSN 2 | HD
-http://fpro.webvps.de:25443/MAGlmyikg0e3p/iRSc61Gs4w/42073
+http://fpro.webvps.de:25443/hzhMBdPjiO/49QH6BwbzI/42073
 #EXTINF:-1 tvg-ID="TSN2" tvg-name="TSN2" group-title="6 - Sports EN",TSN 2 | HD
 http://ok2.se:8000/Jeff5/Jeff5/139
 
 #EXTINF:-1 tvg-ID="TSN3" tvg-name="TSN3" group-title="6 - Sports EN",TSN 3 | HD
 http://tvpro.millenium-ott.com:25443/NDAULogUgpvMa/ikAE4zQjND/50017
 #EXTINF:-1 tvg-ID="TSN3" tvg-name="TSN3" group-title="6 - Sports EN",TSN 3 | HD
-http://fpro.webvps.de:25443/MAGlmyikg0e3p/iRSc61Gs4w/50017
+http://fpro.webvps.de:25443/hzhMBdPjiO/49QH6BwbzI/50017
 #EXTINF:-1 tvg-ID="TSN3" tvg-name="TSN3" group-title="6 - Sports EN",TSN 3 | HD
 http://ok2.se:8000/Jeff5/Jeff5/140
 
 #EXTINF:-1 tvg-ID="TSN4" tvg-name="TSN4" group-title="6 - Sports EN",TSN 4 | HD
 http://tvpro.millenium-ott.com:25443/NDAULogUgpvMa/ikAE4zQjND/50015
 #EXTINF:-1 tvg-ID="TSN4" tvg-name="TSN4" group-title="6 - Sports EN",TSN 4 | HD
-http://fpro.webvps.de:25443/MAGlmyikg0e3p/iRSc61Gs4w/50015
+http://fpro.webvps.de:25443/hzhMBdPjiO/49QH6BwbzI/50015
 #EXTINF:-1 tvg-ID="TSN4" tvg-name="TSN4" group-title="6 - Sports EN",TSN 4 | HD
 http://ok2.se:8000/Jeff5/Jeff5/141
 
 #EXTINF:-1 tvg-ID="TSN5" tvg-name="TSN" group-title="6 - Sports EN",TSN 5 | HD
 http://tvpro.millenium-ott.com:25443/NDAULogUgpvMa/ikAE4zQjND/50014
 #EXTINF:-1 tvg-ID="TSN5" tvg-name="TSN" group-title="6 - Sports EN",TSN 5 | HD
-http://fpro.webvps.de:25443/MAGlmyikg0e3p/iRSc61Gs4w/50014
+http://fpro.webvps.de:25443/hzhMBdPjiO/49QH6BwbzI/50014
 #EXTINF:-1 tvg-ID="TSN5" tvg-name="TSN" group-title="6 - Sports EN",TSN 5 | HD
 http://ok2.se:8000/Jeff5/Jeff5/142
 
 #EXTINF:-1 tvg-ID="WWE" tvg-name="WWE" group-title="6 - Sports EN",WWE
 http://tvpro.millenium-ott.com:25443/NDAULogUgpvMa/ikAE4zQjND/49999
 #EXTINF:-1 tvg-ID="WWE" tvg-name="WWE" group-title="6 - Sports EN",WWE
-http://fpro.webvps.de:25443/MAGlmyikg0e3p/iRSc61Gs4w/49999
+http://fpro.webvps.de:25443/hzhMBdPjiO/49QH6BwbzI/49999
 #EXTINF:-1 tvg-ID="WWE" tvg-name="WWE" group-title="6 - Sports EN",WWE
 http://ok2.se:8000/Jeff5/Jeff5/168
 
 #EXTINF:-1 tvg-ID="Fight Network Canada" tvg-name="Fight Network" group-title="6 - Sports EN",Fight Network
 http://tvpro.millenium-ott.com:25443/NDAULogUgpvMa/ikAE4zQjND/50165
 #EXTINF:-1 tvg-ID="Fight Network Canada" tvg-name="Fight Network" group-title="6 - Sports EN",Fight Network
-http://fpro.webvps.de:25443/MAGlmyikg0e3p/iRSc61Gs4w/50165
+http://fpro.webvps.de:25443/hzhMBdPjiO/49QH6BwbzI/50165
 #EXTINF:-1 tvg-ID="Fight Network Canada" tvg-name="Fight Network" group-title="6 - Sports EN",Fight Network
 http://ok2.se:8000/Jeff5/Jeff5/71284
 
@@ -258,27 +258,27 @@ http://ok2.se:8000/Jeff5/Jeff5/9507
 #EXTINF:-1 tvg-ID="AMC - Canada" tvg-name="AMC - Canada" group-title="7 - English",AMC
 http://tvpro.millenium-ott.com:25443/NDAULogUgpvMa/ikAE4zQjND/50265
 #EXTINF:-1 tvg-ID="AMC - Canada" tvg-name="AMC - Canada" group-title="7 - English",AMC
-http://fpro.webvps.de:25443/MAGlmyikg0e3p/iRSc61Gs4w/50265
+http://fpro.webvps.de:25443/hzhMBdPjiO/49QH6BwbzI/50265
 #EXTINF:-1 tvg-ID="AMC - Canada" tvg-name="AMC - Canada" group-title="7 - English",AMC
 http://ok2.se:8000/Jeff5/Jeff5/334
 
 #EXTINF:-1 tvg-ID="Crime + Investigation" tvg-name="Crime + Investigation" group-title="7 - English",Crime Investigation
 http://tvpro.millenium-ott.com:25443/NDAULogUgpvMa/ikAE4zQjND/50203
 #EXTINF:-1 tvg-ID="Crime + Investigation" tvg-name="Crime + Investigation" group-title="7 - English",Crime Investigation
-http://fpro.webvps.de:25443/MAGlmyikg0e3p/iRSc61Gs4w/50203
+http://fpro.webvps.de:25443/hzhMBdPjiO/49QH6BwbzI/50203
 
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="" group-title="7 - English",CNN
 http://tvpro.millenium-ott.com:25443/NDAULogUgpvMa/ikAE4zQjND/50219
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="" group-title="7 - English",CNN
-http://fpro.webvps.de:25443/MAGlmyikg0e3p/iRSc61Gs4w/50219
+http://fpro.webvps.de:25443/hzhMBdPjiO/49QH6BwbzI/50219
 
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="" group-title="7 - English",CNN HD
 http://tvpro.millenium-ott.com:25443/NDAULogUgpvMa/ikAE4zQjND/50218
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="" group-title="7 - English",CNN HD
-http://fpro.webvps.de:25443/MAGlmyikg0e3p/iRSc61Gs4w/50218
+http://fpro.webvps.de:25443/hzhMBdPjiO/49QH6BwbzI/50218
 
 #EXTINF:-1 tvg-ID="FOX (WUTV) Buffalo, NY" tvg-name="FOX" group-title="7 - English",FOX
-http://fpro.webvps.de:25443/MAGlmyikg0e3p/iRSc61Gs4w/50161
+http://fpro.webvps.de:25443/hzhMBdPjiO/49QH6BwbzI/50161
 
 #EXTINF:-1 tvg-ID="FX Networks Canada" tvg-name="FX Networks Canada" group-title="7 - English",FX
 http://tvpro.millenium-ott.com:25443/NDAULogUgpvMa/ikAE4zQjND/50161
