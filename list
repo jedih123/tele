@@ -1,6 +1,5 @@
 #EXTM3U
 
-
 #EXTINF:-1,== Base======================
 
 #EXTINF:-1 tvg-ID="src-CBFT" tvg-name="CBFT" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI Montreal
@@ -8,9 +7,9 @@ http://tvpro.millenium-ott.com:25443/MAGzlWDR3E0vQ/O3pAB7e7ja/50135
 #EXTINF:-1 tvg-ID="src-CBFT" tvg-name="CBFT" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI Montreal
 http://fpro.webvps.de:25443/hzhMBdPjiO/49QH6BwbzI/50135
 #EXTINF:-1 tvg-ID="src-CBFT" tvg-name="CBFT" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI Montreal
-http://yeahiptv.vip:8080/Titodebauiga/puqszzta1/17748
+http://iptv.rent:8080/5x11n1udkkn/3br0p3q6ic/17748
 #EXTINF:-1 tvg-ID="src-CBFT" tvg-name="CBFT" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI Montreal
-http://yeahiptv.vip:8080/Titodebauiga/puqszzta1/37055
+http://iptv.rent:8080/5x11n1udkkn/3br0p3q6ic/37055
 #EXTINF:-1 tvg-ID="src-CBFT" tvg-name="CBFT" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI Montreal
 http://dc-4ae917858487.a6tv.biz:8080/x1tHwEEpAG/fybrxyxn/9858
 
@@ -23,7 +22,7 @@ http://185.233.185.213:25443/78G0cn4NtX/8Xkot3G6mm/50012
 #EXTINF:-1 tvg-ID="TVA (CFTM) Montréal" tvg-name="CFMT" tvg-logo="https://s3.amazonaws.com/ok2logo/tva.png" group-title="1 - Quebec Base",TVA Montreal
 http://fpro.webvps.de:25443/hzhMBdPjiO/49QH6BwbzI/50012
 #EXTINF:-1 tvg-ID="TVA (CFTM) Montréal" tvg-name="CFMT" tvg-logo="https://s3.amazonaws.com/ok2logo/tva.png" group-title="1 - Quebec Base",TVA Montreal
-http://yeahiptv.vip:8080/Titodebauiga/puqszzta1/53718
+http://iptv.rent:8080/5x11n1udkkn/3br0p3q6ic/53718
 #EXTINF:-1 tvg-ID="TVA (CFTM) Montréal" tvg-name="CFMT" tvg-logo="https://s3.amazonaws.com/ok2logo/tva.png" group-title="1 - Quebec Base",TVA Montreal
 http://dc-4ae917858487.a6tv.biz:8080/x1tHwEEpAG/fybrxyxn/13079
 
@@ -48,7 +47,7 @@ http://tvpro.millenium-ott.com:25443/MAGzlWDR3E0vQ/O3pAB7e7ja/50083
 #EXTINF:-1 tvg-id="RDI (News)" tvg-name="ICI RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="1 - Quebec Base",ICI RDI
 http://fpro.webvps.de:25443/hzhMBdPjiO/49QH6BwbzI/50083
 #EXTINF:-1 tvg-id="RDI (News)" tvg-name="ICI RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="1 - Quebec Base",ICI RDI
-http://yeahiptv.vip:8080/Titodebauiga/puqszzta1/53731
+http://iptv.rent:8080/5x11n1udkkn/3br0p3q6ic/53731
 #EXTINF:-1 tvg-id="RDI (News)" tvg-name="ICI RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="1 - Quebec Base",ICI RDI
 http://dc-4ae917858487.a6tv.biz:8080/x1tHwEEpAG/fybrxyxn/9859
 #EXTINF:-1 tvg-id="RDI (News)" tvg-name="ICI RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="1 - Quebec Base",ICI RDI
@@ -62,7 +61,7 @@ http://tvpro.millenium-ott.com:25443/MAGzlWDR3E0vQ/O3pAB7e7ja/50269
 #EXTINF:-1 tvg-ID="Addik TV" tvg-name="ADDIK" tvg-logo="" group-title="2 - Quebec Specialise",Addik TV
 http://fpro.webvps.de:25443/hzhMBdPjiO/49QH6BwbzI/50269
 #EXTINF:-1 tvg-ID="Addik TV" tvg-name="ADDIK" tvg-logo="" group-title="2 - Quebec Specialise",Addik TV
-http://yeahiptv.vip:8080/Titodebauiga/puqszzta1/632750
+http://iptv.rent:8080/5x11n1udkkn/3br0p3q6ic/632750
 #EXTINF:-1 tvg-ID="Addik TV" tvg-name="ADDIK" tvg-logo="" group-title="2 - Quebec Specialise",Addik TV
 http://ok2.se:8000/Jeff5/Jeff5/2412
 
@@ -71,7 +70,7 @@ http://tvpro.millenium-ott.com:25443/MAGzlWDR3E0vQ/O3pAB7e7ja/50250
 #EXTINF:-1 tvg-ID="Canal D" tvg-name="D" tvg-logo="https://s3.amazonaws.com/ok2logo/CANAL+D.png" group-title="2 - Quebec Specialise",CANAL D
 http://fpro.webvps.de:25443/hzhMBdPjiO/49QH6BwbzI/50250
 #EXTINF:-1 tvg-ID="Canal D" tvg-name="D" tvg-logo="https://s3.amazonaws.com/ok2logo/CANAL+D.png" group-title="2 - Quebec Specialise",CANAL D
-http://yeahiptv.vip:8080/Titodebauiga/puqszzta1/632740
+http://iptv.rent:8080/5x11n1udkkn/3br0p3q6ic/632740
 #EXTINF:-1 tvg-ID="Canal D" tvg-name="D" tvg-logo="https://s3.amazonaws.com/ok2logo/CANAL+D.png" group-title="2 - Quebec Specialise",CANAL D
 http://dc-4ae917858487.a6tv.biz:8080/x1tHwEEpAG/fybrxyxn/9863
 
@@ -80,7 +79,7 @@ http://tvpro.millenium-ott.com:25443/MAGzlWDR3E0vQ/O3pAB7e7ja/50084
 #EXTINF:-1 tvg-ID="Prise 2" tvg-name="Prise 2" group-title="2 - Quebec Specialise",Prise 2
 http://fpro.webvps.de:25443/hzhMBdPjiO/49QH6BwbzI/50084
 #EXTINF:-1 tvg-ID="Prise 2" tvg-name="Prise 2" group-title="2 - Quebec Specialise",Prise 2
-http://yeahiptv.vip:8080/Titodebauiga/puqszzta1/53727
+http://iptv.rent:8080/5x11n1udkkn/3br0p3q6ic/53727
 #EXTINF:-1 tvg-ID="Prise 2" tvg-name="Prise 2" group-title="2 - Quebec Specialise",Prise 2
 http://dc-4ae917858487.a6tv.biz:8080/x1tHwEEpAG/fybrxyxn/9850
 
@@ -96,14 +95,14 @@ http://tvpro.millenium-ott.com:25443/MAGzlWDR3E0vQ/O3pAB7e7ja/50158
 #EXTINF:-1 tvg-ID="Frisson" tvg-name="Frisson" group-title="2 - Quebec Specialise",Frisson
 http://fpro.webvps.de:25443/hzhMBdPjiO/49QH6BwbzI/50158
 #EXTINF:-1 tvg-ID="Frisson" tvg-name="Frisson" group-title="2 - Quebec Specialise",Frisson
-http://yeahiptv.vip:8080/Titodebauiga/puqszzta1/53736
+http://iptv.rent:8080/5x11n1udkkn/3br0p3q6ic/53736
 
 #EXTINF:-1 tvg-ID="Series +" tvg-name="Series +" tvg-logo="https://s3.amazonaws.com/ok2logo/series.png" group-title="2 - Quebec Specialise",Series +
 http://tvpro.millenium-ott.com:25443/MAGzlWDR3E0vQ/O3pAB7e7ja/50078
 #EXTINF:-1 tvg-ID="Series +" tvg-name="Series +" tvg-logo="https://s3.amazonaws.com/ok2logo/series.png" group-title="2 - Quebec Specialise",Series +
 http://fpro.webvps.de:25443/hzhMBdPjiO/49QH6BwbzI/50078
 #EXTINF:-1 tvg-ID="Series +" tvg-name="Series +" tvg-logo="https://s3.amazonaws.com/ok2logo/series.png" group-title="2 - Quebec Specialise",Series +
-http://yeahiptv.vip:8080/Titodebauiga/puqszzta1/53726
+http://iptv.rent:8080/5x11n1udkkn/3br0p3q6ic/53726
 #EXTINF:-1 tvg-ID="Series +" tvg-name="Series +" tvg-logo="https://s3.amazonaws.com/ok2logo/series.png" group-title="2 - Quebec Specialise",Series +
 http://dc-4ae917858487.a6tv.biz:8080/x1tHwEEpAG/fybrxyxn/13081
 #EXTINF:-1 tvg-ID="Series +" tvg-name="Series +" tvg-logo="https://s3.amazonaws.com/ok2logo/series.png" group-title="2 - Quebec Specialise",Series +
@@ -114,16 +113,16 @@ http://tvpro.millenium-ott.com:25443/MAGzlWDR3E0vQ/O3pAB7e7ja/49993
 #EXTINF:-1 tvg-ID="Z" tvg-name="Z" tvg-logo="https://s3.amazonaws.com/ok2logo/ztele.png" group-title="2 - Quebec Specialise",Z-Tele
 http://fpro.webvps.de:25443/hzhMBdPjiO/49QH6BwbzI/49993
 #EXTINF:-1 tvg-ID="Z" tvg-name="Z" tvg-logo="https://s3.amazonaws.com/ok2logo/ztele.png" group-title="2 - Quebec Specialise",Z-Tele
-http://yeahiptv.vip:8080/Titodebauiga/puqszzta1/53699
+http://iptv.rent:8080/5x11n1udkkn/3br0p3q6ic/53699
 #EXTINF:-1 tvg-ID="Z" tvg-name="Z" tvg-logo="https://s3.amazonaws.com/ok2logo/ztele.png" group-title="2 - Quebec Specialise",Z-Tele
-http://yeahiptv.vip:8080/Titodebauiga/puqszzta1/632605
+http://iptv.rent:8080/5x11n1udkkn/3br0p3q6ic/632605
 #EXTINF:-1 tvg-ID="Z" tvg-name="Z" tvg-logo="https://s3.amazonaws.com/ok2logo/ztele.png" group-title="2 - Quebec Specialise",Z-Tele
 #EXTINF:-1 tvg-ID="Z" tvg-name="Z" tvg-logo="https://s3.amazonaws.com/ok2logo/ztele.png" group-title="2 - Quebec Specialise",Z-Tele
 http://dc-4ae917858487.a6tv.biz:8080/x1tHwEEpAG/fybrxyxn/10103
 #EXTINF:-1 tvg-ID="Z" tvg-name="Z" tvg-logo="https://s3.amazonaws.com/ok2logo/ztele.png" group-title="2 - Quebec Specialise",Z-Tele
 http://dc-4ae917858487.a6tv.biz:8080/x1tHwEEpAG/fybrxyxn/9832
 #EXTINF:-1 tvg-ID="Z" tvg-name="Z" tvg-logo="https://s3.amazonaws.com/ok2logo/ztele.png" group-title="2 - Quebec Specialise",Z-Tele
-http://yeahiptv.vip:8080/Titodebauiga/puqszzta1/632624
+http://iptv.rent:8080/5x11n1udkkn/3br0p3q6ic/632624
 
 
 #EXTINF:-1,== Kids======================
@@ -133,7 +132,7 @@ http://tvpro.millenium-ott.com:25443/MAGzlWDR3E0vQ/O3pAB7e7ja/50032
 #EXTINF:-1 tvg-ID="TéléTOON - français" tvg-name="TELETOON FR" tvg-logo="https://s3.amazonaws.com/ok2logo/teletoon.png" group-title="3 - Kids",Teletoon FR
 http://fpro.webvps.de:25443/hzhMBdPjiO/49QH6BwbzI/50032
 #EXTINF:-1 tvg-ID="Teletoon - East" tvg-name="TELETOON EN" tvg-logo="https://s3.amazonaws.com/ok2logo/teletoon.png" group-title="3 - Kids",Teletoon EN
-http://yeahiptv.vip:8080/Titodebauiga/puqszzta1/632625
+http://iptv.rent:8080/5x11n1udkkn/3br0p3q6ic/632625
 #EXTINF:-1 tvg-ID="TéléTOON - français" tvg-name="TELETOON FR" tvg-logo="https://s3.amazonaws.com/ok2logo/teletoon.png" group-title="3 - Kids",Teletoon FR
 http://dc-4ae917858487.a6tv.biz:8080/x1tHwEEpAG/fybrxyxn/9841
 
@@ -164,12 +163,12 @@ http://tvpro.millenium-ott.com:25443/MAGzlWDR3E0vQ/O3pAB7e7ja/50011
 #EXTINF:-1 tvg-ID="TVA Sports" tvg-name="TVA Sports" tvg-logo="https://s3.amazonaws.com/ok2logo/tva1.png" group-title="4 - Sports FR",TVA Sports
 http://fpro.webvps.de:25443/hzhMBdPjiO/49QH6BwbzI/50011
 #EXTINF:-1 tvg-ID="TVA Sports" tvg-name="TVA Sports" tvg-logo="https://s3.amazonaws.com/ok2logo/tva1.png" group-title="4 - Sports FR",TVA Sports
-http://yeahiptv.vip:8080/Titodebauiga/puqszzta1/53716
+http://iptv.rent:8080/5x11n1udkkn/3br0p3q6ic/53716
 #EXTINF:-1 tvg-ID="TVA Sports" tvg-name="TVA Sports" tvg-logo="https://s3.amazonaws.com/ok2logo/tva1.png" group-title="4 - Sports FR",TVA Sports
 http://dc-4ae917858487.a6tv.biz:8080/x1tHwEEpAG/fybrxyxn/9837
 
 #EXTINF:-1 tvg-ID="TVA Sports 2" tvg-name="TVA Sports 2" tvg-logo="https://s3.amazonaws.com/ok2logo/tva2.png" group-title="4 - Sports FR",TVA Sports 2
-http://yeahiptv.vip:8080/Titodebauiga/puqszzta1/53714
+http://iptv.rent:8080/5x11n1udkkn/3br0p3q6ic/53714
 #EXTINF:-1 tvg-ID="TVA Sports 2" tvg-name="TVA Sports 2" tvg-logo="https://s3.amazonaws.com/ok2logo/tva2.png" group-title="4 - Sports FR",TVA Sports 2
 http://ok2.se:8000/Jeff5/Jeff5/2407
 
@@ -182,7 +181,7 @@ http://xtream.pro:8000/S1ydHGWqbz/t6210FnvBb/7258
 #EXTINF:-1 tvg-ID="RDS (Réseau des sports)" tvg-name="RDS" tvg-logo="https://s3.amazonaws.com/ok2logo/rds.png" group-title="4 - Sports FR",RDS
 http://fpro.webvps.de:25443/hzhMBdPjiO/49QH6BwbzI/50082
 #EXTINF:-1 tvg-ID="RDS (Réseau des sports)" tvg-name="RDS" tvg-logo="https://s3.amazonaws.com/ok2logo/rds.png" group-title="4 - Sports FR",RDS
-http://yeahiptv.vip:8080/Titodebauiga/puqszzta1/53729
+http://iptv.rent:8080/5x11n1udkkn/3br0p3q6ic/53729
 #EXTINF:-1 tvg-ID="RDS (Réseau des sports)" tvg-name="RDS" tvg-logo="https://s3.amazonaws.com/ok2logo/rds.png" group-title="4 - Sports FR",RDS
 http://dc-4ae917858487.a6tv.biz:8080/x1tHwEEpAG/fybrxyxn/9849
 
@@ -191,7 +190,7 @@ http://tvpro.millenium-ott.com:25443/MAGzlWDR3E0vQ/O3pAB7e7ja/50081
 #EXTINF:-1 tvg-ID="RDS 2" tvg-name="RDS2" tvg-logo="https://s3.amazonaws.com/ok2logo/rds2.png" group-title="4 - Sports FR",RDS2
 http://fpro.webvps.de:25443/hzhMBdPjiO/49QH6BwbzI/50081
 #EXTINF:-1 tvg-ID="RDS 2" tvg-name="RDS2" tvg-logo="https://s3.amazonaws.com/ok2logo/rds2.png" group-title="4 - Sports FR",RDS2
-http://yeahiptv.vip:8080/Titodebauiga/puqszzta1/53728
+http://iptv.rent:8080/5x11n1udkkn/3br0p3q6ic/53728
 #EXTINF:-1 tvg-ID="RDS 2" tvg-name="RDS2" tvg-logo="https://s3.amazonaws.com/ok2logo/rds2.png" group-title="4 - Sports FR",RDS2
 http://dc-4ae917858487.a6tv.biz:8080/x1tHwEEpAG/fybrxyxn/9848
 
@@ -212,7 +211,7 @@ http://tvpro.millenium-ott.com:25443/MAGzlWDR3E0vQ/O3pAB7e7ja/50041
 #EXTINF:-1 tvg-ID="Super Ecran" tvg-name="Super Ecran" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran.png" group-title="5 - Film FR",Super Ecran
 http://fpro.webvps.de:25443/hzhMBdPjiO/49QH6BwbzI/50041
 #EXTINF:-1 tvg-ID="Super Ecran" tvg-name="Super Ecran" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran.png" group-title="5 - Film FR",Super Ecran
-http://yeahiptv.vip:8080/Titodebauiga/puqszzta1/53725
+http://iptv.rent:8080/5x11n1udkkn/3br0p3q6ic/53725
 #EXTINF:-1 tvg-ID="Super Ecran" tvg-name="Super Ecran" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran.png" group-title="5 - Film FR",Super Ecran
 http://dc-4ae917858487.a6tv.biz:8080/x1tHwEEpAG/fybrxyxn/9845
 
@@ -221,7 +220,7 @@ http://tvpro.millenium-ott.com:25443/MAGzlWDR3E0vQ/O3pAB7e7ja/50040
 #EXTINF:-1 tvg-ID="Super Ecran 2" tvg-name="Super Ecran2" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran2.png" group-title="5 - Film FR",Super Ecran 2
 http://fpro.webvps.de:25443/hzhMBdPjiO/49QH6BwbzI/50040
 #EXTINF:-1 tvg-ID="Super Ecran 2" tvg-name="Super Ecran2" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran2.png" group-title="5 - Film FR",Super Ecran 2
-http://yeahiptv.vip:8080/Titodebauiga/puqszzta1/53724
+http://iptv.rent:8080/5x11n1udkkn/3br0p3q6ic/53724
 #EXTINF:-1 tvg-ID="Super Ecran 2" tvg-name="Super Ecran2" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran2.png" group-title="5 - Film FR",Super Ecran 2
 http://dc-4ae917858487.a6tv.biz:8080/x1tHwEEpAG/fybrxyxn/9844
 
@@ -230,7 +229,7 @@ http://tvpro.millenium-ott.com:25443/MAGzlWDR3E0vQ/O3pAB7e7ja/50039
 #EXTINF:-1 tvg-ID="Super Ecran 3" tvg-name="Super Ecran3" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran3.png" group-title="5 - Film FR",Super Ecran 3
 http://fpro.webvps.de:25443/hzhMBdPjiO/49QH6BwbzI/50039
 #EXTINF:-1 tvg-ID="Super Ecran 3" tvg-name="Super Ecran3" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran3.png" group-title="5 - Film FR",Super Ecran 3
-http://yeahiptv.vip:8080/Titodebauiga/puqszzta1/53723
+http://iptv.rent:8080/5x11n1udkkn/3br0p3q6ic/53723
 #EXTINF:-1 tvg-ID="Super Ecran 3" tvg-name="Super Ecran3" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran3.png" group-title="5 - Film FR",Super Ecran 3
 http://dc-4ae917858487.a6tv.biz:8080/x1tHwEEpAG/fybrxyxn/9843
 
@@ -239,7 +238,7 @@ http://tvpro.millenium-ott.com:25443/MAGzlWDR3E0vQ/O3pAB7e7ja/50038
 #EXTINF:-1 tvg-ID="Super Ecran 4" tvg-name="Super Ecran4" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran4.jpg" group-title="5 - Film FR",Super Ecran 4
 http://fpro.webvps.de:25443/hzhMBdPjiO/49QH6BwbzI/50038
 #EXTINF:-1 tvg-ID="Super Ecran 4" tvg-name="Super Ecran4" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran4.jpg" group-title="5 - Film FR",Super Ecran 4
-http://yeahiptv.vip:8080/Titodebauiga/puqszzta1/53722
+http://iptv.rent:8080/5x11n1udkkn/3br0p3q6ic/53722
 #EXTINF:-1 tvg-ID="Super Ecran 4" tvg-name="Super Ecran4" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran4.jpg" group-title="5 - Film FR",Super Ecran 4
 http://dc-4ae917858487.a6tv.biz:8080/x1tHwEEpAG/fybrxyxn/9842
 
@@ -252,7 +251,7 @@ http://tvpro.millenium-ott.com:25443/MAGzlWDR3E0vQ/O3pAB7e7ja/50016
 #EXTINF:-1 tvg-ID="TSN1" tvg-name="TSN1" group-title="6 - Sports EN",TSN 1 | HD
 http://fpro.webvps.de:25443/hzhMBdPjiO/49QH6BwbzI/50016
 #EXTINF:-1 tvg-ID="TSN1" tvg-name="TSN1" group-title="6 - Sports EN",TSN 1 | HD
-http://yeahiptv.vip:8080/Titodebauiga/puqszzta1/17691
+http://iptv.rent:8080/5x11n1udkkn/3br0p3q6ic/17691
 
 #EXTINF:-1 tvg-ID="TSN2" tvg-name="TSN2" group-title="6 - Sports EN",TSN 2 | HD
 http://tvpro.millenium-ott.com:25443/MAGzlWDR3E0vQ/O3pAB7e7ja/42073
@@ -315,7 +314,7 @@ http://tvpro.millenium-ott.com:25443/MAGzlWDR3E0vQ/O3pAB7e7ja/50219
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="" group-title="7 - English",CNN
 http://fpro.webvps.de:25443/hzhMBdPjiO/49QH6BwbzI/50219
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="" group-title="7 - English",CNN
-http://yeahiptv.vip:8080/Titodebauiga/puqszzta1/17778
+http://iptv.rent:8080/5x11n1udkkn/3br0p3q6ic/17778
 
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="" group-title="7 - English",CNN HD
 http://tvpro.millenium-ott.com:25443/MAGzlWDR3E0vQ/O3pAB7e7ja/50218
@@ -331,4 +330,4 @@ http://fpro.webvps.de:25443/hzhMBdPjiO/49QH6BwbzI/50161
 http://tvpro.millenium-ott.com:25443/MAGzlWDR3E0vQ/O3pAB7e7ja/50161
 
 #EXTINF:-1 tvg-ID="FXX Canada" tvg-name="FXX Canada" group-title="7 - English",FXX
-http://yeahiptv.vip:8080/Titodebauiga/puqszzta1/37063
+http://iptv.rent:8080/5x11n1udkkn/3br0p3q6ic/37063
