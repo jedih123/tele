@@ -1,5 +1,6 @@
 #EXTM3U
 
+
 #EXTINF:-1,== Base======================
 
 #EXTINF:-1 tvg-ID="src-CBFT" tvg-name="CBFT" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI Montreal
@@ -76,6 +77,7 @@ http://f.ok2.se:8000/martin1/martin123/96144
 #EXTINF:-1 tvg-ID="Frisson" tvg-name="Frisson" group-title="2 - Quebec Specialise",Frisson
 http://f.ok2.se:8000/victor1/victor123/96144
 
+
 #EXTINF:-1 tvg-ID="Series +" tvg-name="Series +" tvg-logo="https://s3.amazonaws.com/ok2logo/series.png" group-title="2 - Quebec Specialise",Series +
 http://mytv.fun:8080/Taharqormilaham/gqyua1o8dd/53726
 #EXTINF:-1 tvg-ID="Series +" tvg-name="Series +" tvg-logo="https://s3.amazonaws.com/ok2logo/series.png" group-title="2 - Quebec Specialise",Series +
@@ -134,6 +136,7 @@ http://f.ok2.se:8000/martin1/martin123/2405
 #EXTINF:-1 tvg-ID="RDS 2" tvg-name="RDS2" tvg-logo="https://s3.amazonaws.com/ok2logo/rds2.png" group-title="4 - Sports FR",RDS2
 http://f.ok2.se:8000/victor1/victor123/2405
 
+
 #EXTINF:-1,== Film======================
 
 #EXTINF:-1 tvg-ID="Cinépop" tvg-name="Cinepop" tvg-logo="https://s3.amazonaws.com/ok2logo/FRENCH/CINEPOP.HD.PNG" group-title="5 - Film FR",Cinepop
@@ -169,6 +172,7 @@ http://mytv.fun:8080/Taharqormilaham/gqyua1o8dd/53722
 #EXTINF:-1 tvg-ID="Super Ecran 4" tvg-name="Super Ecran4" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran4.jpg" group-title="5 - Film FR",Super Ecran 4
 http://f.ok2.se:8000/martin1/martin123/25196
 
+
 #EXTINF:-1,== SPORTS EN======================
 
 #EXTINF:-1 tvg-ID="WWE" tvg-name="WWE" group-title="6 - Sports EN",WWE
@@ -177,7 +181,9 @@ http://f.ok2.se:8000/martin1/martin123/168
 #EXTINF:-1 tvg-ID="Fight Network Canada" tvg-name="Fight Network" group-title="6 - Sports EN",Fight Network
 http://f.ok2.se:8000/martin1/martin123/71284
 
+
 #EXTINF:-1,== English Movie======================
+
 
 #EXTINF:-1 tvg-ID="crave1-east/72" tvg-name="Crave 1" group-title="English Movie",CRAVE 1 HD
 http://mytv.fun:8080/Taharqormilaham/gqyua1o8dd/676944
@@ -202,6 +208,7 @@ http://mytv.fun:8080/Taharqormilaham/gqyua1o8dd/632619
 #EXTINF:-1 tvg-ID="AMC - Canada" tvg-name="AMC - Canada" group-title="7 - English",AMC
 http://f.ok2.se:8000/martin1/martin123/334
 
+
 #EXTINF:-1 tvg-ID="Crime + Investigation" tvg-name="Crime + Investigation" group-title="7 - English",Crime Investigation
 http://f.ok2.se:8000/martin1/martin123/7190
 
@@ -209,6 +216,7 @@ http://f.ok2.se:8000/martin1/martin123/7190
 http://mytv.fun:8080/Taharqormilaham/gqyua1o8dd/632727
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="" group-title="7 - English",CNN
 http://f.ok2.se:8000/martin1/martin123/360
+
 
 #EXTINF:-1 tvg-ID="FOX (WUTV) Buffalo, NY" tvg-logo="" tvg-name="FOX" group-title="7 - English",FOX
 http://f.ok2.se:8000/martin1/martin123/363
@@ -225,26 +233,49 @@ http://f.ok2.se:8000/martin1/martin123/315
 
 #EXTINF:-1,PLAYBOY TV (NA)
 http://f.ok2.se:8000/martin1/martin123/300
+#EXTINF:-1,PLAYBOY TV (NA)
+http://f.ok2.se:8000/joseph01/joseph02/300
 #EXTINF:-1,HUSTLER HD
 http://f.ok2.se:8000/martin1/martin123/302
+#EXTINF:-1,HUSTLER HD
+http://f.ok2.se:8000/joseph01/joseph02/302
 #EXTINF:-1,NAUGHTY AMERICA
 http://f.ok2.se:8000/martin1/martin123/10657
+#EXTINF:-1,NAUGHTY AMERICA
+http://f.ok2.se:8000/joseph01/joseph02/10657
 #EXTINF:-1,BRAZZERS
 http://f.ok2.se:8000/martin1/martin123/10656
+#EXTINF:-1,BRAZZERS
+http://f.ok2.se:8000/joseph01/joseph02/10656
+#EXTINF:-1,BRAZZERS LIVE
+http://f.ok2.se:8000/joseph01/joseph02/10660
 #EXTINF:-1,BRAZZERS LIVE
 http://f.ok2.se:8000/martin1/martin123/10660
 #EXTINF:-1,TEN - NEW
 http://f.ok2.se:8000/martin1/martin123/9165
+#EXTINF:-1,TEN - NEW
+http://f.ok2.se:8000/joseph01/joseph02/9165
+#EXTINF:-1,XTSY - (NEW)
+http://f.ok2.se:8000/joseph01/joseph02/9164
 #EXTINF:-1,XTSY - (NEW)
 http://f.ok2.se:8000/martin1/martin123/9164
 #EXTINF:-1,EVIL ANGEL 1
 http://f.ok2.se:8000/martin1/martin123/10659
+#EXTINF:-1,EVIL ANGEL 1
+http://f.ok2.se:8000/joseph01/joseph02/10659
+#EXTINF:-1,BANG BROS
+http://f.ok2.se:8000/joseph01/joseph02/8783
 #EXTINF:-1,BANG BROS
 http://f.ok2.se:8000/martin1/martin123/8783
 #EXTINF:-1,TUSHY
 http://f.ok2.se:8000/martin1/martin123/6615
+#EXTINF:-1,TUSHY
+http://f.ok2.se:8000/joseph01/joseph02/6615
+#EXTINF:-1,LEGAL PORNO
+http://f.ok2.se:8000/joseph01/joseph02/6573
 #EXTINF:-1,LEGAL PORNO
 http://f.ok2.se:8000/martin1/martin123/6573
 #EXTINF:-1,PENTHOUSE
 http://f.ok2.se:8000/martin1/martin123/71118
-
+#EXTINF:-1,PENTHOUSE
+http://f.ok2.se:8000/joseph01/joseph02/71118
