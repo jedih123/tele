@@ -218,13 +218,13 @@ http://mytv.fun:8080/Taharqormilaham/gqyua1o8dd/632727
 http://f.ok2.se:8000/martin1/martin123/360
 
 
-#EXTINF:-1 tvg-ID="FOX (WUTV) Buffalo, NY" tvg-name="FOX" group-title="7 - English",FOX
+#EXTINF:-1 tvg-ID="FOX (WUTV) Buffalo, NY" tvg-logo="" tvg-name="FOX Buffalo" group-title="7 - English",FOX
 http://f.ok2.se:8000/martin1/martin123/363
 
-#EXTINF:-1 tvg-ID="FX Networks Canada" tvg-name="FX Networks Canada" group-title="7 - English",FX
+#EXTINF:-1 tvg-ID="FX Networks Canada" tvg-logo="" tvg-name="FX Networks Canada" group-title="7 - English",FX
 http://f.ok2.se:8000/martin1/martin123/314
 
-#EXTINF:-1 tvg-ID="FXX Canada" tvg-name="FXX Canada" group-title="7 - English",FXX
+#EXTINF:-1 tvg-ID="FXX Canada" tvg-logo="" tvg-name="FXX Canada" group-title="7 - English",FXX
 http://f.ok2.se:8000/martin1/martin123/315
 
 
