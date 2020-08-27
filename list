@@ -4,169 +4,192 @@
 #EXTINF:-1,== Base======================
 
 #EXTINF:-1 tvg-ID="src-CBFT" tvg-name="CBFT" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI Montreal
-http://bestv.nl:8080/caravan/caravan/22731
+http://mytv.fun:8080/Taharqormilaham/gqyua1o8dd/17748
 #EXTINF:-1 tvg-ID="src-CBFT" tvg-name="CBFT" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI Montreal
-http://mytv.fun:8080/1w5z0rnwl/lqpmgqaq2v//17748
+http://f.ok2.se:8000/martin1/martin123/5919
+#EXTINF:-1 tvg-ID="src-CBFT" tvg-name="CBFT" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI Montreal
+http://f.ok2.se:8000/martin1/martin123/2399
 
 #EXTINF:-1 tvg-ID="TVA (CFTM) Montréal" tvg-name="CFMT" tvg-logo="https://s3.amazonaws.com/ok2logo/tva.png" group-title="1 - Quebec Base",TVA Montreal
-http://bestv.nl:8080/caravan/caravan/22691
+http://mytv.fun:8080/Taharqormilaham/gqyua1o8dd/53718
 #EXTINF:-1 tvg-ID="TVA (CFTM) Montréal" tvg-name="CFMT" tvg-logo="https://s3.amazonaws.com/ok2logo/tva.png" group-title="1 - Quebec Base",TVA Montreal
-http://bestv.nl:8080/caravan/caravan/22690
+http://f.ok2.se:8000/martin1/martin123/2395
 
 
 #EXTINF:-1 tvg-ID="V (CFJP) Montreal, QC" tvg-name="CFJP" tvg-logo="https://s3.amazonaws.com/ok2logo/CANALV+TV+logo.png" group-title="1 - Quebec Base",V-Tele
 https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
 #EXTINF:-1 tvg-ID="V (CFJP) Montreal, QC" tvg-name="CFJP" tvg-logo="https://s3.amazonaws.com/ok2logo/CANALV+TV+logo.png" group-title="1 - Quebec Base",V-Tele
-http://bestv.nl:8080/caravan/caravan/22686
-#EXTINF:-1 tvg-ID="V (CFJP) Montreal, QC" tvg-name="CFJP" tvg-logo="https://s3.amazonaws.com/ok2logo/CANALV+TV+logo.png" group-title="1 - Quebec Base",V-Tele
-http://bestv.nl:8080/caravan/caravan/22685
+http://f.ok2.se:8000/martin1/martin123/9634
 
 #EXTINF:-1 tvg-ID="LCN" tvg-name="LCN" tvg-logo="https://s3.amazonaws.com/ok2logo/LCN.gif" group-title="1 - Quebec Base",LCN
-http://bestv.nl:8080/caravan/caravan/22689
+http://mytv.fun:8080/Taharqormilaham/gqyua1o8dd/678483
 #EXTINF:-1 tvg-ID="LCN" tvg-name="LCN" tvg-logo="https://s3.amazonaws.com/ok2logo/LCN.gif" group-title="1 - Quebec Base",LCN
-http://bestv.nl:8080/caravan/caravan/22726
-#EXTINF:-1 tvg-ID="LCN" tvg-name="LCN" tvg-logo="https://s3.amazonaws.com/ok2logo/LCN.gif" group-title="1 - Quebec Base",LCN
-http://mytv.fun:8080/1w5z0rnwl/lqpmgqaq2v//678483
+http://f.ok2.se:8000/martin1/martin123/9635
 
 #EXTINF:-1 tvg-id="RDI (News)" tvg-name="ICI RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="1 - Quebec Base",ICI RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
 #EXTINF:-1 tvg-id="RDI (News)" tvg-name="ICI RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="1 - Quebec Base",ICI RDI
-http://bestv.nl:8080/caravan/caravan/33785
+http://mytv.fun:8080/Taharqormilaham/gqyua1o8dd/53731
 #EXTINF:-1 tvg-id="RDI (News)" tvg-name="ICI RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="1 - Quebec Base",ICI RDI
-http://mytv.fun:8080/1w5z0rnwl/lqpmgqaq2v//53731
-#EXTINF:-1 tvg-id="RDI (News)" tvg-name="ICI RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="1 - Quebec Base",ICI RDI
-http://mytv.fun:8080/1w5z0rnwl/lqpmgqaq2v//665603
+http://f.ok2.se:8000/martin1/martin123/2396
 
 
 #EXTINF:-1,== Special======================
 
 #EXTINF:-1 tvg-ID="Addik TV" tvg-name="ADDIK" tvg-logo="" group-title="2 - Quebec Specialise",Addik TV
-http://bestv.nl:8080/caravan/caravan/22789
+http://mytv.fun:8080/Taharqormilaham/gqyua1o8dd/632750
 #EXTINF:-1 tvg-ID="Addik TV" tvg-name="ADDIK" tvg-logo="" group-title="2 - Quebec Specialise",Addik TV
-http://mytv.fun:8080/1w5z0rnwl/lqpmgqaq2v//632750
+http://f.ok2.se:8000/martin1/martin123/2412
 
 #EXTINF:-1 tvg-ID="Canal D" tvg-name="D" tvg-logo="https://s3.amazonaws.com/ok2logo/CANAL+D.png" group-title="2 - Quebec Specialise",CANAL D
-http://bestv.nl:8080/caravan/caravan/15319
+http://mytv.fun:8080/Taharqormilaham/gqyua1o8dd/632740
 #EXTINF:-1 tvg-ID="Canal D" tvg-name="D" tvg-logo="https://s3.amazonaws.com/ok2logo/CANAL+D.png" group-title="2 - Quebec Specialise",CANAL D
-http://mytv.fun:8080/1w5z0rnwl/lqpmgqaq2v//632740
+http://f.ok2.se:8000/martin1/martin123/9633
 
 #EXTINF:-1 tvg-ID="Prise 2" tvg-name="Prise 2" group-title="2 - Quebec Specialise",Prise 2
-http://bestv.nl:8080/caravan/caravan/22715
-#EXTINF:-1 tvg-ID="Prise 2" tvg-name="Prise 2" group-title="2 - Quebec Specialise",Prise 2
-http://bestv.nl:8080/caravan/caravan/33784
+http://f.ok2.se:8000/martin1/martin123/2413
 
 #EXTINF:-1 tvg-ID="Historia" tvg-name="Historia" group-title="2 - Quebec Specialise",Historia
-http://bestv.nl:8080/caravan/caravan/22733
+http://mytv.fun:8080/Taharqormilaham/gqyua1o8dd/632678
 #EXTINF:-1 tvg-ID="Historia" tvg-name="Historia" group-title="2 - Quebec Specialise",Historia
-http://mytv.fun:8080/1w5z0rnwl/lqpmgqaq2v//632678
+http://f.ok2.se:8000/martin1/martin123/2410
 
 #EXTINF:-1 tvg-ID="Frisson" tvg-name="Frisson" group-title="2 - Quebec Specialise",Frisson
-http://mytv.fun:8080/1w5z0rnwl/lqpmgqaq2v//53736
+http://mytv.fun:8080/Taharqormilaham/gqyua1o8dd/53736
+#EXTINF:-1 tvg-ID="Frisson" tvg-name="Frisson" group-title="2 - Quebec Specialise",Frisson
+http://f.ok2.se:8000/martin1/martin123/96144
+
 
 
 #EXTINF:-1 tvg-ID="Series +" tvg-name="Series +" tvg-logo="https://s3.amazonaws.com/ok2logo/series.png" group-title="2 - Quebec Specialise",Series +
-http://mytv.fun:8080/1w5z0rnwl/lqpmgqaq2v//53726
+http://mytv.fun:8080/Taharqormilaham/gqyua1o8dd/53726
 #EXTINF:-1 tvg-ID="Series +" tvg-name="Series +" tvg-logo="https://s3.amazonaws.com/ok2logo/series.png" group-title="2 - Quebec Specialise",Series +
-http://iptv.rent:8080/s1hgfyb/oil7kfdza/53726
+http://f.ok2.se:8000/martin1/martin123/2409
 
 #EXTINF:-1 tvg-ID="Z" tvg-name="Z" tvg-logo="https://s3.amazonaws.com/ok2logo/ztele.png" group-title="2 - Quebec Specialise",Z-Tele
-http://bestv.nl:8080/caravan/caravan/22676
+http://mytv.fun:8080/Taharqormilaham/gqyua1o8dd/632624
 #EXTINF:-1 tvg-ID="Z" tvg-name="Z" tvg-logo="https://s3.amazonaws.com/ok2logo/ztele.png" group-title="2 - Quebec Specialise",Z-Tele
-http://mytv.fun:8080/1w5z0rnwl/lqpmgqaq2v//53699
+http://mytv.fun:8080/Taharqormilaham/gqyua1o8dd/53699
+#EXTINF:-1 tvg-ID="Z" tvg-name="Z" tvg-logo="https://s3.amazonaws.com/ok2logo/ztele.png" group-title="2 - Quebec Specialise",Z-Tele
+http://f.ok2.se:8000/martin1/martin123/2411
 
 
 #EXTINF:-1,== Kids======================
 
 #EXTINF:-1 tvg-ID="TéléTOON - français" tvg-name="TELETOON FR" tvg-logo="https://s3.amazonaws.com/ok2logo/teletoon.png" group-title="3 - Kids",Teletoon FR
-http://bestv.nl:8080/caravan/caravan/22701
+http://mytv.fun:8080/Taharqormilaham/gqyua1o8dd/632625
 #EXTINF:-1 tvg-ID="TéléTOON - français" tvg-name="TELETOON FR" tvg-logo="https://s3.amazonaws.com/ok2logo/teletoon.png" group-title="3 - Kids",Teletoon FR
-http://mytv.fun:8080/1w5z0rnwl/lqpmgqaq2v//632625
+http://f.ok2.se:8000/martin1/martin123/46743
 
 #EXTINF:-1 tvg-ID="Teletoon - East" tvg-name="TELETOON EN" tvg-logo="https://s3.amazonaws.com/ok2logo/teletoon.png" group-title="3 - Kids",Teletoon EN
-http://bestv.nl:8080/caravan/caravan/22702
-
+http://f.ok2.se:8000/martin1/martin123/2422
 
 #EXTINF:-1,== Sport FR======================
 
 #EXTINF:-1 tvg-ID="TVA Sports" tvg-name="TVA Sports" tvg-logo="https://s3.amazonaws.com/ok2logo/tva1.png" group-title="4 - Sports FR",TVA Sports
-http://bestv.nl:8080/caravan/caravan/15294
+http://f.ok2.se:8000/martin1/martin123/2406
 #EXTINF:-1 tvg-ID="TVA Sports" tvg-name="TVA Sports" tvg-logo="https://s3.amazonaws.com/ok2logo/tva1.png" group-title="4 - Sports FR",TVA Sports
-http://mytv.fun:8080/1w5z0rnwl/lqpmgqaq2v/53716
-
+http://mytv.fun:8080/Taharqormilaham/gqyua1o8dd/53716
 
 #EXTINF:-1 tvg-ID="TVA Sports 2" tvg-name="TVA Sports 2" tvg-logo="https://s3.amazonaws.com/ok2logo/tva2.png" group-title="4 - Sports FR",TVA Sports 2
-http://bestv.nl:8080/caravan/caravan/33800
-
+http://f.ok2.se:8000/martin1/martin123/2407
 
 #EXTINF:-1 tvg-ID="RDS (Réseau des sports)" tvg-name="RDS" tvg-logo="https://s3.amazonaws.com/ok2logo/rds.png" group-title="4 - Sports FR",RDS
-http://bestv.nl:8080/caravan/caravan/15303
+http://mytv.fun:8080/Taharqormilaham/gqyua1o8dd/53730
 #EXTINF:-1 tvg-ID="RDS (Réseau des sports)" tvg-name="RDS" tvg-logo="https://s3.amazonaws.com/ok2logo/rds.png" group-title="4 - Sports FR",RDS
-http://iptv.rent:8080/s1hgfyb/oil7kfdza/53730
+http://f.ok2.se:8000/martin1/martin123/2404
 
 #EXTINF:-1 tvg-ID="RDS 2" tvg-name="RDS2" tvg-logo="https://s3.amazonaws.com/ok2logo/rds2.png" group-title="4 - Sports FR",RDS2
-http://bestv.nl:8080/caravan/caravan/22714
+http://mytv.fun:8080/Taharqormilaham/gqyua1o8dd/53728
 #EXTINF:-1 tvg-ID="RDS 2" tvg-name="RDS2" tvg-logo="https://s3.amazonaws.com/ok2logo/rds2.png" group-title="4 - Sports FR",RDS2
-http://mytv.fun:8080/1w5z0rnwl/lqpmgqaq2v//53728
-
+http://f.ok2.se:8000/martin1/martin123/2405
 
 #EXTINF:-1,== Film======================
 
 #EXTINF:-1 tvg-ID="Cinépop" tvg-name="Cinepop" tvg-logo="https://s3.amazonaws.com/ok2logo/FRENCH/CINEPOP.HD.PNG" group-title="5 - Film FR",Cinepop
-http://bestv.nl:8080/caravan/caravan/22770
+http://f.ok2.se:8000/martin1/martin123/46739
+
 
 #EXTINF:-1 tvg-ID="Super Ecran" tvg-name="Super Ecran" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran.png" group-title="5 - Film FR",Super Ecran
-http://bestv.nl:8080/caravan/caravan/15300
+http://mytv.fun:8080/Taharqormilaham/gqyua1o8dd/632631
 #EXTINF:-1 tvg-ID="Super Ecran" tvg-name="Super Ecran" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran.png" group-title="5 - Film FR",Super Ecran
-http://mytv.fun:8080/1w5z0rnwl/lqpmgqaq2v//53725
+http://mytv.fun:8080/Taharqormilaham/gqyua1o8dd/53725
+#EXTINF:-1 tvg-ID="Super Ecran" tvg-name="Super Ecran" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran.png" group-title="5 - Film FR",Super Ecran
+http://f.ok2.se:8000/martin1/martin123/2414
 
 #EXTINF:-1 tvg-ID="Super Ecran 2" tvg-name="Super Ecran2" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran2.png" group-title="5 - Film FR",Super Ecran 2
-http://bestv.nl:8080/caravan/caravan/15299
+http://mytv.fun:8080/Taharqormilaham/gqyua1o8dd/632630
 #EXTINF:-1 tvg-ID="Super Ecran 2" tvg-name="Super Ecran2" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran2.png" group-title="5 - Film FR",Super Ecran 2
-http://mytv.fun:8080/1w5z0rnwl/lqpmgqaq2v//53724
+http://mytv.fun:8080/Taharqormilaham/gqyua1o8dd/53724
+#EXTINF:-1 tvg-ID="Super Ecran 2" tvg-name="Super Ecran2" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran2.png" group-title="5 - Film FR",Super Ecran 2
+http://f.ok2.se:8000/martin1/martin123/2415
 
 #EXTINF:-1 tvg-ID="Super Ecran 3" tvg-name="Super Ecran3" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran3.png" group-title="5 - Film FR",Super Ecran 3
-http://bestv.nl:8080/caravan/caravan/22705
+http://mytv.fun:8080/Taharqormilaham/gqyua1o8dd/632629
 #EXTINF:-1 tvg-ID="Super Ecran 3" tvg-name="Super Ecran3" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran3.png" group-title="5 - Film FR",Super Ecran 3
-http://mytv.fun:8080/1w5z0rnwl/lqpmgqaq2v//53723
+http://mytv.fun:8080/Taharqormilaham/gqyua1o8dd/53723
+#EXTINF:-1 tvg-ID="Super Ecran 3" tvg-name="Super Ecran3" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran3.png" group-title="5 - Film FR",Super Ecran 3
+http://f.ok2.se:8000/martin1/martin123/2416
 
 #EXTINF:-1 tvg-ID="Super Ecran 4" tvg-name="Super Ecran4" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran4.jpg" group-title="5 - Film FR",Super Ecran 4
-http://bestv.nl:8080/caravan/caravan/22704
+http://mytv.fun:8080/Taharqormilaham/gqyua1o8dd/632628
 #EXTINF:-1 tvg-ID="Super Ecran 4" tvg-name="Super Ecran4" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran4.jpg" group-title="5 - Film FR",Super Ecran 4
-http://mytv.fun:8080/1w5z0rnwl/lqpmgqaq2v//53722
+http://mytv.fun:8080/Taharqormilaham/gqyua1o8dd/53722
+#EXTINF:-1 tvg-ID="Super Ecran 4" tvg-name="Super Ecran4" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran4.jpg" group-title="5 - Film FR",Super Ecran 4
+http://f.ok2.se:8000/martin1/martin123/25196
 
 
 #EXTINF:-1,== SPORTS EN======================
 
 #EXTINF:-1 tvg-ID="WWE" tvg-name="WWE" group-title="6 - Sports EN",WWE
-http://mytv.fun:8080/1w5z0rnwl/lqpmgqaq2v//37016
+http://f.ok2.se:8000/martin1/martin123/168
 
 #EXTINF:-1 tvg-ID="Fight Network Canada" tvg-name="Fight Network" group-title="6 - Sports EN",Fight Network
-http://bestv.nl:8080/caravan/caravan/33746
-#EXTINF:-1 tvg-ID="Fight Network Canada" tvg-name="Fight Network" group-title="6 - Sports EN",Fight Network
-http://mytv.fun:8080/1w5z0rnwl/lqpmgqaq2v//632699
+http://f.ok2.se:8000/martin1/martin123/71284
 
 
 #EXTINF:-1,== English Movie======================
 
+
 #EXTINF:-1 tvg-ID="crave1-east/72" tvg-name="Crave 1" group-title="English Movie",CRAVE 1 HD
-http://bestv.nl:8080/caravan/caravan/33713
+http://mytv.fun:8080/Taharqormilaham/gqyua1o8dd/676944
+#EXTINF:-1 tvg-ID="crave1-east/72" tvg-name="Crave 1" group-title="English Movie",CRAVE 1 HD
+http://f.ok2.se:8000/martin1/martin123/9505
+
 #EXTINF:-1 #EXTINF:-1 tvg-ID="crave2-east/86" tvg-name="Crave 2" group-title="English Movie",CRAVE 2 HD
-http://bestv.nl:8080/caravan/caravan/33714
+http://mytv.fun:8080/Taharqormilaham/gqyua1o8dd/632621
+#EXTINF:-1 #EXTINF:-1 tvg-ID="crave2-east/86" tvg-name="Crave 2" group-title="English Movie",CRAVE 2 HD
+http://f.ok2.se:8000/martin1/martin123/9506
+
 #EXTINF:-1 #EXTINF:-1 tvg-ID="crave3-east/85" tvg-name="Crave 3" group-title="English Movie",CRAVE 3 HD
-http://bestv.nl:8080/caravan/caravan/33715
+http://mytv.fun:8080/Taharqormilaham/gqyua1o8dd/632620
+#EXTINF:-1 #EXTINF:-1 tvg-ID="crave3-east/85" tvg-name="Crave 3" group-title="English Movie",CRAVE 3 HD
+http://f.ok2.se:8000/martin1/martin123/9507
+
 #EXTINF:-1,Crave 4 HD CA
-http://bestv.nl:8080/caravan/caravan/33716
+http://mytv.fun:8080/Taharqormilaham/gqyua1o8dd/632619
 
 #EXTINF:-1,== English Channel======================
 
 #EXTINF:-1 tvg-ID="AMC - Canada" tvg-name="AMC - Canada" group-title="7 - English",AMC
-http://bestv.nl:8080/caravan/caravan/22788
-#EXTINF:-1 tvg-ID="AMC - Canada" tvg-name="AMC - Canada" group-title="7 - English",AMC
-http://mytv.fun:8080/1w5z0rnwl/lqpmgqaq2v//12779
+http://f.ok2.se:8000/martin1/martin123/334
+
 
 #EXTINF:-1 tvg-ID="Crime + Investigation" tvg-name="Crime + Investigation" group-title="7 - English",Crime Investigation
-http://bestv.nl:8080/caravan/caravan/33717
-
+http://f.ok2.se:8000/martin1/martin123/7190
 
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="" group-title="7 - English",CNN
-http://bestv.nl:8080/caravan/caravan/22765
+http://mytv.fun:8080/Taharqormilaham/gqyua1o8dd/632727
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="" group-title="7 - English",CNN
+http://f.ok2.se:8000/martin1/martin123/360
+
+
+#EXTINF:-1 tvg-ID="FOX (WUTV) Buffalo, NY" tvg-name="FOX" group-title="7 - English",FOX
+http://f.ok2.se:8000/martin1/martin123/363
+
+#EXTINF:-1 tvg-ID="FX Networks Canada" tvg-name="FX Networks Canada" group-title="7 - English",FX
+http://f.ok2.se:8000/martin1/martin123/314
+
+#EXTINF:-1 tvg-ID="FXX Canada" tvg-name="FXX Canada" group-title="7 - English",FXX
+http://f.ok2.se:8000/martin1/martin123/315
+
