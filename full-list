@@ -1,12 +1,13 @@
 #EXTM3U
 
 
+
 #EXTINF:-1,== Base======================
 
 #EXTINF:-1 tvg-ID="src-CBFT" tvg-name="CBFT" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI Montreal
 http://mytv.fun:8080/Taharqormilaham/gqyua1o8dd/17748
 #EXTINF:-1 tvg-ID="src-CBFT" tvg-name="CBFT" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI Montreal
-http://mytv.fun:8080/mz49iyihel/m2ywooxqb/17748
+http://iptv.rent:8080/u6q3vx8tu/sn48wxpice/17748
 #EXTINF:-1 tvg-ID="src-CBFT" tvg-name="CBFT" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI Montreal
 http://f.ok2.se:8000/martin1/martin123/2399
 #EXTINF:-1 tvg-ID="src-CBFT" tvg-name="CBFT" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI Montreal
@@ -15,7 +16,7 @@ http://f.ok2.se:8000/victor1/victor123/2399
 #EXTINF:-1 tvg-ID="TVA (CFTM) Montréal" tvg-name="CFMT" tvg-logo="https://s3.amazonaws.com/ok2logo/tva.png" group-title="1 - Quebec Base",TVA Montreal
 http://mytv.fun:8080/Taharqormilaham/gqyua1o8dd/53718
 #EXTINF:-1 tvg-ID="TVA (CFTM) Montréal" tvg-name="CFMT" tvg-logo="https://s3.amazonaws.com/ok2logo/tva.png" group-title="1 - Quebec Base",TVA Montreal
-http://mytv.fun:8080/mz49iyihel/m2ywooxqb/53718
+http://iptv.rent:8080/u6q3vx8tu/sn48wxpice/53718
 #EXTINF:-1 tvg-ID="TVA (CFTM) Montréal" tvg-name="CFMT" tvg-logo="https://s3.amazonaws.com/ok2logo/tva.png" group-title="1 - Quebec Base",TVA Montreal
 http://f.ok2.se:8000/victor1/victor123/2395
 
@@ -29,7 +30,7 @@ http://f.ok2.se:8000/victor1/victor123/9634
 #EXTINF:-1 tvg-ID="LCN" tvg-name="LCN" tvg-logo="https://s3.amazonaws.com/ok2logo/LCN.gif" group-title="1 - Quebec Base",LCN
 http://mytv.fun:8080/Taharqormilaham/gqyua1o8dd/678483
 #EXTINF:-1 tvg-ID="LCN" tvg-name="LCN" tvg-logo="https://s3.amazonaws.com/ok2logo/LCN.gif" group-title="1 - Quebec Base",LCN
-http://mytv.fun:8080/mz49iyihel/m2ywooxqb/678483
+http://iptv.rent:8080/u6q3vx8tu/sn48wxpice/678483
 #EXTINF:-1 tvg-ID="LCN" tvg-name="LCN" tvg-logo="https://s3.amazonaws.com/ok2logo/LCN.gif" group-title="1 - Quebec Base",LCN
 http://f.ok2.se:8000/victor1/victor123/9635
 
@@ -38,7 +39,7 @@ https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
 #EXTINF:-1 tvg-id="RDI (News)" tvg-name="ICI RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="1 - Quebec Base",ICI RDI
 http://mytv.fun:8080/Taharqormilaham/gqyua1o8dd/53731
 #EXTINF:-1 tvg-id="RDI (News)" tvg-name="ICI RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="1 - Quebec Base",ICI RDI
-http://mytv.fun:8080/mz49iyihel/m2ywooxqb/53731
+http://iptv.rent:8080/u6q3vx8tu/sn48wxpice/53731
 #EXTINF:-1 tvg-id="RDI (News)" tvg-name="ICI RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="1 - Quebec Base",ICI RDI
 http://f.ok2.se:8000/victor1/victor123/2396
 
@@ -47,14 +48,14 @@ http://f.ok2.se:8000/victor1/victor123/2396
 #EXTINF:-1 tvg-ID="Addik TV" tvg-name="ADDIK" tvg-logo="" group-title="2 - Quebec Specialise",Addik TV
 http://mytv.fun:8080/Taharqormilaham/gqyua1o8dd/632750
 #EXTINF:-1 tvg-ID="Addik TV" tvg-name="ADDIK" tvg-logo="" group-title="2 - Quebec Specialise",Addik TV
-http://mytv.fun:8080/mz49iyihel/m2ywooxqb/632750
+http://iptv.rent:8080/u6q3vx8tu/sn48wxpice/632750
 #EXTINF:-1 tvg-ID="Addik TV" tvg-name="ADDIK" tvg-logo="" group-title="2 - Quebec Specialise",Addik TV
 http://f.ok2.se:8000/victor1/victor123/2412
 
 #EXTINF:-1 tvg-ID="Canal D" tvg-name="D" tvg-logo="https://s3.amazonaws.com/ok2logo/CANAL+D.png" group-title="2 - Quebec Specialise",CANAL D
 http://mytv.fun:8080/Taharqormilaham/gqyua1o8dd/632740
 #EXTINF:-1 tvg-ID="Canal D" tvg-name="D" tvg-logo="https://s3.amazonaws.com/ok2logo/CANAL+D.png" group-title="2 - Quebec Specialise",CANAL D
-http://mytv.fun:8080/mz49iyihel/m2ywooxqb/632740
+http://iptv.rent:8080/u6q3vx8tu/sn48wxpice/632740
 #EXTINF:-1 tvg-ID="Canal D" tvg-name="D" tvg-logo="https://s3.amazonaws.com/ok2logo/CANAL+D.png" group-title="2 - Quebec Specialise",CANAL D
 http://f.ok2.se:8000/victor1/victor123/9633
 
@@ -66,14 +67,14 @@ http://f.ok2.se:8000/victor1/victor123/2413
 #EXTINF:-1 tvg-ID="Historia" tvg-name="Historia" group-title="2 - Quebec Specialise",Historia
 http://mytv.fun:8080/Taharqormilaham/gqyua1o8dd/632678
 #EXTINF:-1 tvg-ID="Historia" tvg-name="Historia" group-title="2 - Quebec Specialise",Historia
-http://mytv.fun:8080/mz49iyihel/m2ywooxqb/632678
+http://iptv.rent:8080/u6q3vx8tu/sn48wxpice/632678
 #EXTINF:-1 tvg-ID="Historia" tvg-name="Historia" group-title="2 - Quebec Specialise",Historia
 http://f.ok2.se:8000/victor1/victor123/2410
 
 #EXTINF:-1 tvg-ID="Frisson" tvg-name="Frisson" group-title="2 - Quebec Specialise",Frisson
 http://mytv.fun:8080/Taharqormilaham/gqyua1o8dd/53736
 #EXTINF:-1 tvg-ID="Frisson" tvg-name="Frisson" group-title="2 - Quebec Specialise",Frisson
-http://mytv.fun:8080/mz49iyihel/m2ywooxqb/53736
+http://iptv.rent:8080/u6q3vx8tu/sn48wxpice/53736
 #EXTINF:-1 tvg-ID="Frisson" tvg-name="Frisson" group-title="2 - Quebec Specialise",Frisson
 http://f.ok2.se:8000/victor1/victor123/96144
 
@@ -81,7 +82,7 @@ http://f.ok2.se:8000/victor1/victor123/96144
 #EXTINF:-1 tvg-ID="Series +" tvg-name="Series +" tvg-logo="https://s3.amazonaws.com/ok2logo/series.png" group-title="2 - Quebec Specialise",Series +
 http://mytv.fun:8080/Taharqormilaham/gqyua1o8dd/53726
 #EXTINF:-1 tvg-ID="Series +" tvg-name="Series +" tvg-logo="https://s3.amazonaws.com/ok2logo/series.png" group-title="2 - Quebec Specialise",Series +
-http://mytv.fun:8080/mz49iyihel/m2ywooxqb/53726
+http://iptv.rent:8080/u6q3vx8tu/sn48wxpice/53726
 #EXTINF:-1 tvg-ID="Series +" tvg-name="Series +" tvg-logo="https://s3.amazonaws.com/ok2logo/series.png" group-title="2 - Quebec Specialise",Series +
 http://f.ok2.se:8000/victor1/victor123/2409
 
@@ -90,7 +91,7 @@ http://mytv.fun:8080/Taharqormilaham/gqyua1o8dd/632624
 #EXTINF:-1 tvg-ID="Z" tvg-name="Z" tvg-logo="https://s3.amazonaws.com/ok2logo/ztele.png" group-title="2 - Quebec Specialise",Z-Tele
 http://mytv.fun:8080/Taharqormilaham/gqyua1o8dd/53699
 #EXTINF:-1 tvg-ID="Z" tvg-name="Z" tvg-logo="https://s3.amazonaws.com/ok2logo/ztele.png" group-title="2 - Quebec Specialise",Z-Tele
-http://mytv.fun:8080/mz49iyihel/m2ywooxqb/53699
+http://iptv.rent:8080/u6q3vx8tu/sn48wxpice/53699
 #EXTINF:-1 tvg-ID="Z" tvg-name="Z" tvg-logo="https://s3.amazonaws.com/ok2logo/ztele.png" group-title="2 - Quebec Specialise",Z-Tele
 http://f.ok2.se:8000/victor1/victor123/2411
 
@@ -99,7 +100,7 @@ http://f.ok2.se:8000/victor1/victor123/2411
 #EXTINF:-1 tvg-ID="TéléTOON - français" tvg-name="TELETOON FR" tvg-logo="https://s3.amazonaws.com/ok2logo/teletoon.png" group-title="3 - Kids",Teletoon FR
 http://mytv.fun:8080/Taharqormilaham/gqyua1o8dd/632625
 #EXTINF:-1 tvg-ID="TéléTOON - français" tvg-name="TELETOON FR" tvg-logo="https://s3.amazonaws.com/ok2logo/teletoon.png" group-title="3 - Kids",Teletoon FR
-http://mytv.fun:8080/mz49iyihel/m2ywooxqb/632625
+http://iptv.rent:8080/u6q3vx8tu/sn48wxpice/632625
 #EXTINF:-1 tvg-ID="TéléTOON - français" tvg-name="TELETOON FR" tvg-logo="https://s3.amazonaws.com/ok2logo/teletoon.png" group-title="3 - Kids",Teletoon FR
 http://f.ok2.se:8000/victor1/victor123/46743
 
@@ -113,9 +114,9 @@ http://f.ok2.se:8000/victor1/victor123/2422
 #EXTINF:-1 tvg-ID="TVA Sports" tvg-name="TVA Sports" tvg-logo="https://s3.amazonaws.com/ok2logo/tva1.png" group-title="4 - Sports FR",TVA Sports
 http://mytv.fun:8080/Taharqormilaham/gqyua1o8dd/53716
 #EXTINF:-1 tvg-ID="TVA Sports" tvg-name="TVA Sports" tvg-logo="https://s3.amazonaws.com/ok2logo/tva1.png" group-title="4 - Sports FR",TVA Sports
-http://mytv.fun:8080/mz49iyihel/m2ywooxqb/53716
+http://iptv.rent:8080/u6q3vx8tu/sn48wxpice/53716
 #EXTINF:-1 tvg-ID="TVA Sports" tvg-name="TVA Sports" tvg-logo="https://s3.amazonaws.com/ok2logo/tva1.png" group-title="4 - Sports FR",TVA Sports
-http://mytv.fun:8080/mz49iyihel/m2ywooxqb/53716
+http://iptv.rent:8080/u6q3vx8tu/sn48wxpice/53716
 #EXTINF:-1 tvg-ID="TVA Sports" tvg-name="TVA Sports" tvg-logo="https://s3.amazonaws.com/ok2logo/tva1.png" group-title="4 - Sports FR",TVA Sports
 http://f.ok2.se:8000/victor1/victor123/2406
 
@@ -127,14 +128,14 @@ http://f.ok2.se:8000/victor1/victor123/2407
 #EXTINF:-1 tvg-ID="RDS (Réseau des sports)" tvg-name="RDS" tvg-logo="https://s3.amazonaws.com/ok2logo/rds.png" group-title="4 - Sports FR",RDS
 http://mytv.fun:8080/Taharqormilaham/gqyua1o8dd/53730
 #EXTINF:-1 tvg-ID="RDS (Réseau des sports)" tvg-name="RDS" tvg-logo="https://s3.amazonaws.com/ok2logo/rds.png" group-title="4 - Sports FR",RDS
-http://mytv.fun:8080/mz49iyihel/m2ywooxqb/53730
+http://iptv.rent:8080/u6q3vx8tu/sn48wxpice/53730
 #EXTINF:-1 tvg-ID="RDS (Réseau des sports)" tvg-name="RDS" tvg-logo="https://s3.amazonaws.com/ok2logo/rds.png" group-title="4 - Sports FR",RDS
 http://f.ok2.se:8000/victor1/victor123/2404
 
 #EXTINF:-1 tvg-ID="RDS 2" tvg-name="RDS2" tvg-logo="https://s3.amazonaws.com/ok2logo/rds2.png" group-title="4 - Sports FR",RDS2
 http://mytv.fun:8080/Taharqormilaham/gqyua1o8dd/53728
 #EXTINF:-1 tvg-ID="RDS 2" tvg-name="RDS2" tvg-logo="https://s3.amazonaws.com/ok2logo/rds2.png" group-title="4 - Sports FR",RDS2
-http://mytv.fun:8080/mz49iyihel/m2ywooxqb/53728
+http://iptv.rent:8080/u6q3vx8tu/sn48wxpice/53728
 #EXTINF:-1 tvg-ID="RDS 2" tvg-name="RDS2" tvg-logo="https://s3.amazonaws.com/ok2logo/rds2.png" group-title="4 - Sports FR",RDS2
 http://f.ok2.se:8000/victor1/victor123/2405
 
@@ -149,28 +150,28 @@ http://f.ok2.se:8000/victor1/victor123/46739
 #EXTINF:-1 tvg-ID="Super Ecran" tvg-name="Super Ecran" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran.png" group-title="5 - Film FR",Super Ecran
 http://mytv.fun:8080/Taharqormilaham/gqyua1o8dd/632631
 #EXTINF:-1 tvg-ID="Super Ecran" tvg-name="Super Ecran" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran.png" group-title="5 - Film FR",Super Ecran
-http://mytv.fun:8080/mz49iyihel/m2ywooxqb/53725
+http://iptv.rent:8080/u6q3vx8tu/sn48wxpice/53725
 #EXTINF:-1 tvg-ID="Super Ecran" tvg-name="Super Ecran" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran.png" group-title="5 - Film FR",Super Ecran
 http://f.ok2.se:8000/martin1/martin123/2414
 
 #EXTINF:-1 tvg-ID="Super Ecran 2" tvg-name="Super Ecran2" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran2.png" group-title="5 - Film FR",Super Ecran 2
 http://mytv.fun:8080/Taharqormilaham/gqyua1o8dd/632630
 #EXTINF:-1 tvg-ID="Super Ecran 2" tvg-name="Super Ecran2" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran2.png" group-title="5 - Film FR",Super Ecran 2
-http://mytv.fun:8080/mz49iyihel/m2ywooxqb/53724
+http://iptv.rent:8080/u6q3vx8tu/sn48wxpice/53724
 #EXTINF:-1 tvg-ID="Super Ecran 2" tvg-name="Super Ecran2" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran2.png" group-title="5 - Film FR",Super Ecran 2
 http://f.ok2.se:8000/martin1/martin123/2415
 
 #EXTINF:-1 tvg-ID="Super Ecran 3" tvg-name="Super Ecran3" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran3.png" group-title="5 - Film FR",Super Ecran 3
 http://mytv.fun:8080/Taharqormilaham/gqyua1o8dd/632629
 #EXTINF:-1 tvg-ID="Super Ecran 3" tvg-name="Super Ecran3" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran3.png" group-title="5 - Film FR",Super Ecran 3
-http://mytv.fun:8080/mz49iyihel/m2ywooxqb/53723
+http://iptv.rent:8080/u6q3vx8tu/sn48wxpice/53723
 #EXTINF:-1 tvg-ID="Super Ecran 3" tvg-name="Super Ecran3" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran3.png" group-title="5 - Film FR",Super Ecran 3
 http://f.ok2.se:8000/martin1/martin123/2416
 
 #EXTINF:-1 tvg-ID="Super Ecran 4" tvg-name="Super Ecran4" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran4.jpg" group-title="5 - Film FR",Super Ecran 4
 http://mytv.fun:8080/Taharqormilaham/gqyua1o8dd/632628
 #EXTINF:-1 tvg-ID="Super Ecran 4" tvg-name="Super Ecran4" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran4.jpg" group-title="5 - Film FR",Super Ecran 4
-http://mytv.fun:8080/mz49iyihel/m2ywooxqb/53722
+http://iptv.rent:8080/u6q3vx8tu/sn48wxpice/53722
 #EXTINF:-1 tvg-ID="Super Ecran 4" tvg-name="Super Ecran4" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran4.jpg" group-title="5 - Film FR",Super Ecran 4
 http://f.ok2.se:8000/martin1/martin123/25196
 
@@ -178,12 +179,12 @@ http://f.ok2.se:8000/martin1/martin123/25196
 #EXTINF:-1,== SPORTS EN======================
 
 #EXTINF:-1 tvg-ID="WWE" tvg-name="WWE" group-title="6 - Sports EN",WWE
-http://mytv.fun:8080/mz49iyihel/m2ywooxqb/14404
+http://iptv.rent:8080/u6q3vx8tu/sn48wxpice/14404
 #EXTINF:-1 tvg-ID="WWE" tvg-name="WWE" group-title="6 - Sports EN",WWE
 http://f.ok2.se:8000/martin1/martin123/168
 
 #EXTINF:-1 tvg-ID="Fight Network Canada" tvg-name="Fight Network" group-title="6 - Sports EN",Fight Network
-http://mytv.fun:8080/mz49iyihel/m2ywooxqb/13748
+http://iptv.rent:8080/u6q3vx8tu/sn48wxpice/13748
 #EXTINF:-1 tvg-ID="Fight Network Canada" tvg-name="Fight Network" group-title="6 - Sports EN",Fight Network
 http://f.ok2.se:8000/martin1/martin123/71284
 
@@ -235,27 +236,27 @@ http://f.ok2.se:8000/martin1/martin123/315
 
 
 #EXTINF:-1,Vivid RED FHD (18+) US
-http://mytv.fun:8080/mz49iyihel/m2ywooxqb/13864
+http://iptv.rent:8080/u6q3vx8tu/sn48wxpice/13864
 #EXTINF:-1,Redlight FHD (18+)
-http://mytv.fun:8080/mz49iyihel/m2ywooxqb/674061
+http://iptv.rent:8080/u6q3vx8tu/sn48wxpice/674061
 #EXTINF:-1,Dorcel FHD (18+)
-http://mytv.fun:8080/mz49iyihel/m2ywooxqb/5529
+http://iptv.rent:8080/u6q3vx8tu/sn48wxpice/5529
 #EXTINF:-1,EroX (18+)
-http://mytv.fun:8080/mz49iyihel/m2ywooxqb/13867
+http://iptv.rent:8080/u6q3vx8tu/sn48wxpice/13867
 #EXTINF:-1,Dusk (18+)
-http://mytv.fun:8080/mz49iyihel/m2ywooxqb/19678
+http://iptv.rent:8080/u6q3vx8tu/sn48wxpice/19678
 #EXTINF:-1,Hustler (18+) US
-http://mytv.fun:8080/mz49iyihel/m2ywooxqb/5525
+http://iptv.rent:8080/u6q3vx8tu/sn48wxpice/5525
 
 #EXTINF:-1,NAUGHTY AMERICA
 http://f.ok2.se:8000/martin1/martin123/10657
 
 #EXTINF:-1,Brazzers (18+) US
-http://mytv.fun:8080/mz49iyihel/m2ywooxqb/13403
+http://iptv.rent:8080/u6q3vx8tu/sn48wxpice/13403
 #EXTINF:-1,PlayBoy TV HD (18+)
-http://mytv.fun:8080/mz49iyihel/m2ywooxqb/19674
+http://iptv.rent:8080/u6q3vx8tu/sn48wxpice/19674
 #EXTINF:-1,Play Boy CA (+18)
-http://mytv.fun:8080/mz49iyihel/m2ywooxqb/17717
+http://iptv.rent:8080/u6q3vx8tu/sn48wxpice/17717
 
 #EXTINF:-1,EVIL ANGEL 1
 http://f.ok2.se:8000/martin1/martin123/10659
@@ -264,25 +265,25 @@ http://f.ok2.se:8000/martin1/martin123/6615
 #EXTINF:-1,TUSHY
 http://f.ok2.se:8000/joseph01/joseph02/6615
 #EXTINF:-1,LEGAL PORNO
-http://mytv.fun:8080/mz49iyihel/m2ywooxqb/674063
+http://iptv.rent:8080/u6q3vx8tu/sn48wxpice/674063
 
 #EXTINF:-1,Penthouse Gold FHD (18+) US
-http://mytv.fun:8080/mz49iyihel/m2ywooxqb/13863
+http://iptv.rent:8080/u6q3vx8tu/sn48wxpice/13863
 
 #EXTINF:-1,Blacked FHD (18+)
-http://mytv.fun:8080/mz49iyihel/m2ywooxqb/5495
+http://iptv.rent:8080/u6q3vx8tu/sn48wxpice/5495
 #EXTINF:-1,ButGo (18+)
-http://mytv.fun:8080/mz49iyihel/m2ywooxqb/19684
+http://iptv.rent:8080/u6q3vx8tu/sn48wxpice/19684
 #EXTINF:-1,Candy (18+)
-http://mytv.fun:8080/mz49iyihel/m2ywooxqb/19683
+http://iptv.rent:8080/u6q3vx8tu/sn48wxpice/19683
 #EXTINF:-1,Penthouse FHD (18+) US
-http://mytv.fun:8080/mz49iyihel/m2ywooxqb/5522
+http://iptv.rent:8080/u6q3vx8tu/sn48wxpice/5522
 #EXTINF:-1,Reality Kings (18+) US
-http://mytv.fun:8080/mz49iyihel/m2ywooxqb/13399
+http://iptv.rent:8080/u6q3vx8tu/sn48wxpice/13399
 #EXTINF:-1,Reality Sex (18+)
-http://mytv.fun:8080/mz49iyihel/m2ywooxqb/19670
+http://iptv.rent:8080/u6q3vx8tu/sn48wxpice/19670
 
 #EXTINF:-1,Venus (18+) AR
-http://mytv.fun:8080/mz49iyihel/m2ywooxqb/5496
+http://iptv.rent:8080/u6q3vx8tu/sn48wxpice/5496
 #EXTINF:-1,Vivid TV CA-FR (18+)
-http://mytv.fun:8080/mz49iyihel/m2ywooxqb/53706
+http://iptv.rent:8080/u6q3vx8tu/sn48wxpice/53706
