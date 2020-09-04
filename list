@@ -3,21 +3,22 @@
 
 
 
+
 #EXTINF:-1,== Base======================
 
 #EXTINF:-1 tvg-ID="src-CBFT" tvg-name="CBFT" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI Montreal
-http://iptv.rent:8080/u6q3vx8tu/sn48wxpice/7748
+http://mytv.fun:8080/iiymzs7wv/7bjyh1rz/17748
 #EXTINF:-1 tvg-ID="src-CBFT" tvg-name="CBFT" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI Montreal
-http://mytv.fun:8080/wcguj10chl/25lk0v7k3/17748
+http://mytv.fun:8080/skbonld7r8/Azcuenaga5/17748
 #EXTINF:-1 tvg-ID="src-CBFT" tvg-name="CBFT" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI Montreal
 http://ok2.se:8000/Gwenette/Gwenette123/2399
 #EXTINF:-1 tvg-ID="src-CBFT" tvg-name="CBFT" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI Montreal
-http://f.ok2.se:8000/martin1/martin123/2399
+http://ok2.se:8000/dean123/dean123/2399
 
 #EXTINF:-1 tvg-ID="TVA (CFTM) Montréal" tvg-name="CFMT" tvg-logo="https://s3.amazonaws.com/ok2logo/tva.png" group-title="1 - Quebec Base",TVA Montreal
-http://iptv.rent:8080/u6q3vx8tu/sn48wxpice/53718
+http://mytv.fun:8080/iiymzs7wv/7bjyh1rz/53718
 #EXTINF:-1 tvg-ID="TVA (CFTM) Montréal" tvg-name="CFMT" tvg-logo="https://s3.amazonaws.com/ok2logo/tva.png" group-title="1 - Quebec Base",TVA Montreal
-http://mytv.fun:8080/wcguj10chl/25lk0v7k3/53718
+http://mytv.fun:8080/skbonld7r8/Azcuenaga5/53718
 #EXTINF:-1 tvg-ID="TVA (CFTM) Montréal" tvg-name="CFMT" tvg-logo="https://s3.amazonaws.com/ok2logo/tva.png" group-title="1 - Quebec Base",TVA Montreal
 http://ok2.se:8000/Gwenette/Gwenette123/2395
 
@@ -29,34 +30,34 @@ http://ok2.se:8000/Gwenette/Gwenette123/9634
 http://ok2.se:8000/Gwenette/Gwenette123/9634
 
 #EXTINF:-1 tvg-ID="LCN" tvg-name="LCN" tvg-logo="https://s3.amazonaws.com/ok2logo/LCN.gif" group-title="1 - Quebec Base",LCN
-http://iptv.rent:8080/u6q3vx8tu/sn48wxpice/678483
+http://mytv.fun:8080/iiymzs7wv/7bjyh1rz/678483
 #EXTINF:-1 tvg-ID="LCN" tvg-name="LCN" tvg-logo="https://s3.amazonaws.com/ok2logo/LCN.gif" group-title="1 - Quebec Base",LCN
-http://mytv.fun:8080/wcguj10chl/25lk0v7k3/678483
+http://mytv.fun:8080/skbonld7r8/Azcuenaga5/678483
 #EXTINF:-1 tvg-ID="LCN" tvg-name="LCN" tvg-logo="https://s3.amazonaws.com/ok2logo/LCN.gif" group-title="1 - Quebec Base",LCN
 http://ok2.se:8000/Gwenette/Gwenette123/9635
 
 #EXTINF:-1 tvg-id="RDI (News)" tvg-name="ICI RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="1 - Quebec Base",ICI RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
 #EXTINF:-1 tvg-id="RDI (News)" tvg-name="ICI RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="1 - Quebec Base",ICI RDI
-http://iptv.rent:8080/u6q3vx8tu/sn48wxpice/53731
+http://mytv.fun:8080/iiymzs7wv/7bjyh1rz/53731
 #EXTINF:-1 tvg-id="RDI (News)" tvg-name="ICI RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="1 - Quebec Base",ICI RDI
-http://mytv.fun:8080/wcguj10chl/25lk0v7k3/53731
+http://mytv.fun:8080/skbonld7r8/Azcuenaga5/53731
 #EXTINF:-1 tvg-id="RDI (News)" tvg-name="ICI RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="1 - Quebec Base",ICI RDI
 http://ok2.se:8000/Gwenette/Gwenette123/2396
 
 #EXTINF:-1,== Special======================
 
 #EXTINF:-1 tvg-ID="Addik TV" tvg-name="ADDIK" tvg-logo="" group-title="2 - Quebec Specialise",Addik TV
-http://iptv.rent:8080/u6q3vx8tu/sn48wxpice/632750
+http://mytv.fun:8080/iiymzs7wv/7bjyh1rz/632750
 #EXTINF:-1 tvg-ID="Addik TV" tvg-name="ADDIK" tvg-logo="" group-title="2 - Quebec Specialise",Addik TV
-http://mytv.fun:8080/wcguj10chl/25lk0v7k3/632750
+http://mytv.fun:8080/skbonld7r8/Azcuenaga5/632750
 #EXTINF:-1 tvg-ID="Addik TV" tvg-name="ADDIK" tvg-logo="" group-title="2 - Quebec Specialise",Addik TV
 http://ok2.se:8000/Gwenette/Gwenette123/2412
 
 #EXTINF:-1 tvg-ID="Canal D" tvg-name="D" tvg-logo="https://s3.amazonaws.com/ok2logo/CANAL+D.png" group-title="2 - Quebec Specialise",CANAL D
-http://iptv.rent:8080/u6q3vx8tu/sn48wxpice/632740
+http://mytv.fun:8080/iiymzs7wv/7bjyh1rz/632740
 #EXTINF:-1 tvg-ID="Canal D" tvg-name="D" tvg-logo="https://s3.amazonaws.com/ok2logo/CANAL+D.png" group-title="2 - Quebec Specialise",CANAL D
-http://mytv.fun:8080/wcguj10chl/25lk0v7k3/632740
+http://mytv.fun:8080/skbonld7r8/Azcuenaga5/632740
 #EXTINF:-1 tvg-ID="Canal D" tvg-name="D" tvg-logo="https://s3.amazonaws.com/ok2logo/CANAL+D.png" group-title="2 - Quebec Specialise",CANAL D
 http://ok2.se:8000/Gwenette/Gwenette123/9633
 
@@ -64,45 +65,44 @@ http://ok2.se:8000/Gwenette/Gwenette123/9633
 #EXTINF:-1 tvg-ID="Prise 2" tvg-name="Prise 2" group-title="2 - Quebec Specialise",Prise 2
 http://ok2.se:8000/Gwenette/Gwenette123/2413
 #EXTINF:-1 tvg-ID="Prise 2" tvg-name="Prise 2" group-title="2 - Quebec Specialise",Prise 2
-http://f.ok2.se:8000/martin1/martin123/2413
+http://ok2.se:8000/dean123/dean123/2413
 
 #EXTINF:-1 tvg-ID="Historia" tvg-name="Historia" group-title="2 - Quebec Specialise",Historia
-http://iptv.rent:8080/u6q3vx8tu/sn48wxpice/632678
+http://mytv.fun:8080/iiymzs7wv/7bjyh1rz/632678
 #EXTINF:-1 tvg-ID="Historia" tvg-name="Historia" group-title="2 - Quebec Specialise",Historia
-http://mytv.fun:8080/wcguj10chl/25lk0v7k3/632678
+http://mytv.fun:8080/skbonld7r8/Azcuenaga5/632678
 #EXTINF:-1 tvg-ID="Historia" tvg-name="Historia" group-title="2 - Quebec Specialise",Historia
 http://ok2.se:8000/Gwenette/Gwenette123/2410
 
 #EXTINF:-1 tvg-ID="Frisson" tvg-name="Frisson" group-title="2 - Quebec Specialise",Frisson
-http://iptv.rent:8080/u6q3vx8tu/sn48wxpice/53736
+http://mytv.fun:8080/iiymzs7wv/7bjyh1rz/53736
 #EXTINF:-1 tvg-ID="Frisson" tvg-name="Frisson" group-title="2 - Quebec Specialise",Frisson
-http://mytv.fun:8080/wcguj10chl/25lk0v7k3/53736
+http://mytv.fun:8080/skbonld7r8/Azcuenaga5/53736
 #EXTINF:-1 tvg-ID="Frisson" tvg-name="Frisson" group-title="2 - Quebec Specialise",Frisson
 http://ok2.se:8000/Gwenette/Gwenette123/96144
 
 
 #EXTINF:-1 tvg-ID="Series +" tvg-name="Series +" tvg-logo="https://s3.amazonaws.com/ok2logo/series.png" group-title="2 - Quebec Specialise",Series +
-http://iptv.rent:8080/u6q3vx8tu/sn48wxpice/53726
+http://mytv.fun:8080/iiymzs7wv/7bjyh1rz/53726
 #EXTINF:-1 tvg-ID="Series +" tvg-name="Series +" tvg-logo="https://s3.amazonaws.com/ok2logo/series.png" group-title="2 - Quebec Specialise",Series +
-http://mytv.fun:8080/wcguj10chl/25lk0v7k3/53726
+http://mytv.fun:8080/skbonld7r8/Azcuenaga5/53726
 #EXTINF:-1 tvg-ID="Series +" tvg-name="Series +" tvg-logo="https://s3.amazonaws.com/ok2logo/series.png" group-title="2 - Quebec Specialise",Series +
 http://ok2.se:8000/Gwenette/Gwenette123/2409
 
+
 #EXTINF:-1 tvg-ID="Z" tvg-name="Z" tvg-logo="https://s3.amazonaws.com/ok2logo/ztele.png" group-title="2 - Quebec Specialise",Z-Tele
-http://iptv.rent:8080/u6q3vx8tu/sn48wxpice/632624
+http://mytv.fun:8080/iiymzs7wv/7bjyh1rz/53699
 #EXTINF:-1 tvg-ID="Z" tvg-name="Z" tvg-logo="https://s3.amazonaws.com/ok2logo/ztele.png" group-title="2 - Quebec Specialise",Z-Tele
-http://iptv.rent:8080/u6q3vx8tu/sn48wxpice/53699
-#EXTINF:-1 tvg-ID="Z" tvg-name="Z" tvg-logo="https://s3.amazonaws.com/ok2logo/ztele.png" group-title="2 - Quebec Specialise",Z-Tele
-http://mytv.fun:8080/wcguj10chl/25lk0v7k3/53699
+http://mytv.fun:8080/skbonld7r8/Azcuenaga5/53699
 #EXTINF:-1 tvg-ID="Z" tvg-name="Z" tvg-logo="https://s3.amazonaws.com/ok2logo/ztele.png" group-title="2 - Quebec Specialise",Z-Tele
 http://ok2.se:8000/Gwenette/Gwenette123/2411
 
 #EXTINF:-1,== Kids======================
 
 #EXTINF:-1 tvg-ID="TéléTOON - français" tvg-name="TELETOON FR" tvg-logo="https://s3.amazonaws.com/ok2logo/teletoon.png" group-title="3 - Kids",Teletoon FR
-http://iptv.rent:8080/u6q3vx8tu/sn48wxpice/632625
+http://mytv.fun:8080/iiymzs7wv/7bjyh1rz/632625
 #EXTINF:-1 tvg-ID="TéléTOON - français" tvg-name="TELETOON FR" tvg-logo="https://s3.amazonaws.com/ok2logo/teletoon.png" group-title="3 - Kids",Teletoon FR
-http://mytv.fun:8080/wcguj10chl/25lk0v7k3/632625
+http://mytv.fun:8080/skbonld7r8/Azcuenaga5/632625
 #EXTINF:-1 tvg-ID="TéléTOON - français" tvg-name="TELETOON FR" tvg-logo="https://s3.amazonaws.com/ok2logo/teletoon.png" group-title="3 - Kids",Teletoon FR
 http://ok2.se:8000/Gwenette/Gwenette123/46743
 
@@ -112,28 +112,28 @@ http://ok2.se:8000/Gwenette/Gwenette123/2422
 #EXTINF:-1,== Sport FR======================
 
 #EXTINF:-1 tvg-ID="TVA Sports" tvg-name="TVA Sports" tvg-logo="https://s3.amazonaws.com/ok2logo/tva1.png" group-title="4 - Sports FR",TVA Sports
-http://iptv.rent:8080/u6q3vx8tu/sn48wxpice/53716
+http://mytv.fun:8080/iiymzs7wv/7bjyh1rz/53716
 #EXTINF:-1 tvg-ID="TVA Sports" tvg-name="TVA Sports" tvg-logo="https://s3.amazonaws.com/ok2logo/tva1.png" group-title="4 - Sports FR",TVA Sports
-http://mytv.fun:8080/wcguj10chl/25lk0v7k3/53716
+http://mytv.fun:8080/skbonld7r8/Azcuenaga5/53716
 #EXTINF:-1 tvg-ID="TVA Sports" tvg-name="TVA Sports" tvg-logo="https://s3.amazonaws.com/ok2logo/tva1.png" group-title="4 - Sports FR",TVA Sports
 http://ok2.se:8000/Gwenette/Gwenette123/2406
 
 #EXTINF:-1 tvg-ID="TVA Sports 2" tvg-name="TVA Sports 2" tvg-logo="https://s3.amazonaws.com/ok2logo/tva2.png" group-title="4 - Sports FR",TVA Sports 2
 http://ok2.se:8000/Gwenette/Gwenette123/2407
 #EXTINF:-1 tvg-ID="TVA Sports 2" tvg-name="TVA Sports 2" tvg-logo="https://s3.amazonaws.com/ok2logo/tva2.png" group-title="4 - Sports FR",TVA Sports 2
-http://f.ok2.se:8000/martin1/martin123/2407
+http://ok2.se:8000/dean123/dean123/2407
 
 #EXTINF:-1 tvg-ID="RDS (Réseau des sports)" tvg-name="RDS" tvg-logo="https://s3.amazonaws.com/ok2logo/rds.png" group-title="4 - Sports FR",RDS
-http://iptv.rent:8080/u6q3vx8tu/sn48wxpice/53730
+http://mytv.fun:8080/iiymzs7wv/7bjyh1rz/53730
 #EXTINF:-1 tvg-ID="RDS (Réseau des sports)" tvg-name="RDS" tvg-logo="https://s3.amazonaws.com/ok2logo/rds.png" group-title="4 - Sports FR",RDS
-http://mytv.fun:8080/wcguj10chl/25lk0v7k3/53730
+http://mytv.fun:8080/skbonld7r8/Azcuenaga5/53730
 #EXTINF:-1 tvg-ID="RDS (Réseau des sports)" tvg-name="RDS" tvg-logo="https://s3.amazonaws.com/ok2logo/rds.png" group-title="4 - Sports FR",RDS
 http://ok2.se:8000/Gwenette/Gwenette123/2404
 
 #EXTINF:-1 tvg-ID="RDS 2" tvg-name="RDS2" tvg-logo="https://s3.amazonaws.com/ok2logo/rds2.png" group-title="4 - Sports FR",RDS2
-http://iptv.rent:8080/u6q3vx8tu/sn48wxpice/53728
+http://mytv.fun:8080/iiymzs7wv/7bjyh1rz/53728
 #EXTINF:-1 tvg-ID="RDS 2" tvg-name="RDS2" tvg-logo="https://s3.amazonaws.com/ok2logo/rds2.png" group-title="4 - Sports FR",RDS2
-http://mytv.fun:8080/wcguj10chl/25lk0v7k3/53728
+http://mytv.fun:8080/skbonld7r8/Azcuenaga5/53728
 #EXTINF:-1 tvg-ID="RDS 2" tvg-name="RDS2" tvg-logo="https://s3.amazonaws.com/ok2logo/rds2.png" group-title="4 - Sports FR",RDS2
 http://ok2.se:8000/Gwenette/Gwenette123/2405
 
@@ -143,33 +143,33 @@ http://ok2.se:8000/Gwenette/Gwenette123/2405
 #EXTINF:-1 tvg-ID="Cinépop" tvg-name="Cinepop" tvg-logo="https://s3.amazonaws.com/ok2logo/FRENCH/CINEPOP.HD.PNG" group-title="5 - Film FR",Cinepop
 http://ok2.se:8000/Gwenette/Gwenette123/46739
 #EXTINF:-1 tvg-ID="Cinépop" tvg-name="Cinepop" tvg-logo="https://s3.amazonaws.com/ok2logo/FRENCH/CINEPOP.HD.PNG" group-title="5 - Film FR",Cinepop
-http://f.ok2.se:8000/martin1/martin123/46739
+http://ok2.se:8000/dean123/dean123/46739
 
 #EXTINF:-1 tvg-ID="Super Ecran" tvg-name="Super Ecran" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran.png" group-title="5 - Film FR",Super Ecran
-http://iptv.rent:8080/u6q3vx8tu/sn48wxpice/632631
+http://mytv.fun:8080/iiymzs7wv/7bjyh1rz/632631
 #EXTINF:-1 tvg-ID="Super Ecran" tvg-name="Super Ecran" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran.png" group-title="5 - Film FR",Super Ecran
-http://mytv.fun:8080/wcguj10chl/25lk0v7k3/53725
+http://mytv.fun:8080/skbonld7r8/Azcuenaga5/53725
 #EXTINF:-1 tvg-ID="Super Ecran" tvg-name="Super Ecran" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran.png" group-title="5 - Film FR",Super Ecran
 http://ok2.se:8000/Gwenette/Gwenette123/2414
 
 #EXTINF:-1 tvg-ID="Super Ecran 2" tvg-name="Super Ecran2" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran2.png" group-title="5 - Film FR",Super Ecran 2
-http://iptv.rent:8080/u6q3vx8tu/sn48wxpice/632630
+http://mytv.fun:8080/iiymzs7wv/7bjyh1rz/632630
 #EXTINF:-1 tvg-ID="Super Ecran 2" tvg-name="Super Ecran2" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran2.png" group-title="5 - Film FR",Super Ecran 2
-http://mytv.fun:8080/wcguj10chl/25lk0v7k3/53724
+http://mytv.fun:8080/skbonld7r8/Azcuenaga5/53724
 #EXTINF:-1 tvg-ID="Super Ecran 2" tvg-name="Super Ecran2" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran2.png" group-title="5 - Film FR",Super Ecran 2
 http://ok2.se:8000/Gwenette/Gwenette123/2415
 
 #EXTINF:-1 tvg-ID="Super Ecran 3" tvg-name="Super Ecran3" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran3.png" group-title="5 - Film FR",Super Ecran 3
-http://iptv.rent:8080/u6q3vx8tu/sn48wxpice/632629
+http://mytv.fun:8080/iiymzs7wv/7bjyh1rz/632629
 #EXTINF:-1 tvg-ID="Super Ecran 3" tvg-name="Super Ecran3" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran3.png" group-title="5 - Film FR",Super Ecran 3
-http://mytv.fun:8080/wcguj10chl/25lk0v7k3/53723
+http://mytv.fun:8080/skbonld7r8/Azcuenaga5/53723
 #EXTINF:-1 tvg-ID="Super Ecran 3" tvg-name="Super Ecran3" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran3.png" group-title="5 - Film FR",Super Ecran 3
 http://ok2.se:8000/Gwenette/Gwenette123/2416
 
 #EXTINF:-1 tvg-ID="Super Ecran 4" tvg-name="Super Ecran4" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran4.jpg" group-title="5 - Film FR",Super Ecran 4
-http://iptv.rent:8080/u6q3vx8tu/sn48wxpice/632628
+http://mytv.fun:8080/iiymzs7wv/7bjyh1rz/632628
 #EXTINF:-1 tvg-ID="Super Ecran 4" tvg-name="Super Ecran4" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran4.jpg" group-title="5 - Film FR",Super Ecran 4
-http://mytv.fun:8080/wcguj10chl/25lk0v7k3/53722
+http://mytv.fun:8080/skbonld7r8/Azcuenaga5/53722
 #EXTINF:-1 tvg-ID="Super Ecran 4" tvg-name="Super Ecran4" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran4.jpg" group-title="5 - Film FR",Super Ecran 4
 http://ok2.se:8000/Gwenette/Gwenette123/25196
 
@@ -177,12 +177,12 @@ http://ok2.se:8000/Gwenette/Gwenette123/25196
 #EXTINF:-1,== SPORTS EN======================
 
 #EXTINF:-1 tvg-ID="WWE" tvg-name="WWE" group-title="6 - Sports EN",WWE
-http://mytv.fun:8080/wcguj10chl/25lk0v7k3/14404
+http://mytv.fun:8080/skbonld7r8/Azcuenaga5/14404
 #EXTINF:-1 tvg-ID="WWE" tvg-name="WWE" group-title="6 - Sports EN",WWE
 http://ok2.se:8000/Gwenette/Gwenette123/168
 
 #EXTINF:-1 tvg-ID="Fight Network Canada" tvg-name="Fight Network" group-title="6 - Sports EN",Fight Network
-http://mytv.fun:8080/wcguj10chl/25lk0v7k3/13748
+http://mytv.fun:8080/skbonld7r8/Azcuenaga5/13748
 #EXTINF:-1 tvg-ID="Fight Network Canada" tvg-name="Fight Network" group-title="6 - Sports EN",Fight Network
 http://ok2.se:8000/Gwenette/Gwenette123/71284
 
@@ -191,22 +191,22 @@ http://ok2.se:8000/Gwenette/Gwenette123/71284
 
 
 #EXTINF:-1 tvg-ID="crave1-east/72" tvg-name="Crave 1" group-title="English Movie",CRAVE 1 HD
-http://iptv.rent:8080/u6q3vx8tu/sn48wxpice/676944
+http://mytv.fun:8080/iiymzs7wv/7bjyh1rz/676944
 #EXTINF:-1 tvg-ID="crave1-east/72" tvg-name="Crave 1" group-title="English Movie",CRAVE 1 HD
 http://ok2.se:8000/Gwenette/Gwenette123/9505
 
 #EXTINF:-1 #EXTINF:-1 tvg-ID="crave2-east/86" tvg-name="Crave 2" group-title="English Movie",CRAVE 2 HD
-http://iptv.rent:8080/u6q3vx8tu/sn48wxpice/632621
+http://mytv.fun:8080/iiymzs7wv/7bjyh1rz/632621
 #EXTINF:-1 #EXTINF:-1 tvg-ID="crave2-east/86" tvg-name="Crave 2" group-title="English Movie",CRAVE 2 HD
 http://ok2.se:8000/Gwenette/Gwenette123/9506
 
 #EXTINF:-1 #EXTINF:-1 tvg-ID="crave3-east/85" tvg-name="Crave 3" group-title="English Movie",CRAVE 3 HD
-http://iptv.rent:8080/u6q3vx8tu/sn48wxpice/632620
+http://mytv.fun:8080/iiymzs7wv/7bjyh1rz/632620
 #EXTINF:-1 #EXTINF:-1 tvg-ID="crave3-east/85" tvg-name="Crave 3" group-title="English Movie",CRAVE 3 HD
 http://ok2.se:8000/Gwenette/Gwenette123/9507
 
 #EXTINF:-1,Crave 4 HD CA
-http://iptv.rent:8080/u6q3vx8tu/sn48wxpice/632619
+http://mytv.fun:8080/iiymzs7wv/7bjyh1rz/632619
 
 #EXTINF:-1,== English Channel======================
 
@@ -218,7 +218,7 @@ http://ok2.se:8000/Gwenette/Gwenette123/334
 http://ok2.se:8000/Gwenette/Gwenette123/7190
 
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="" group-title="7 - English",CNN
-http://iptv.rent:8080/u6q3vx8tu/sn48wxpice/632727
+http://mytv.fun:8080/iiymzs7wv/7bjyh1rz/632727
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="" group-title="7 - English",CNN
 http://ok2.se:8000/Gwenette/Gwenette123/360
 
@@ -231,5 +231,4 @@ http://ok2.se:8000/Gwenette/Gwenette123/314
 
 #EXTINF:-1 tvg-ID="FXX Canada" tvg-logo="" tvg-name="FXX Canada" group-title="7 - English",FXX
 http://ok2.se:8000/Gwenette/Gwenette123/315
-
 
