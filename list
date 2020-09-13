@@ -63,6 +63,8 @@ http://ok2.se:8000/dean123/dean123/2413
 #EXTINF:-1 tvg-ID="Historia" tvg-name="Historia" group-title="2 - Quebec Specialise",Historia
 http://ok2.se:8000/Gwenette/Gwenette123/2410
 #EXTINF:-1 tvg-ID="Historia" tvg-name="Historia" group-title="2 - Quebec Specialise",Historia
+http://ok2.se:8000/dean123/dean123/2410
+#EXTINF:-1 tvg-ID="Historia" tvg-name="Historia" group-title="2 - Quebec Specialise",Historia
 http://iptv.rent:8080/02hgbnf/256987MJVHGD/632678
 
 #EXTINF:-1 tvg-ID="Frisson" tvg-name="Frisson" group-title="2 - Quebec Specialise",Frisson
@@ -79,6 +81,8 @@ http://iptv.rent:8080/02hgbnf/256987MJVHGD/53726
 
 #EXTINF:-1 tvg-ID="Z" tvg-name="Z" tvg-logo="https://s3.amazonaws.com/ok2logo/ztele.png" group-title="2 - Quebec Specialise",Z-Tele
 http://ok2.se:8000/Gwenette/Gwenette123/2411
+#EXTINF:-1 tvg-ID="Z" tvg-name="Z" tvg-logo="https://s3.amazonaws.com/ok2logo/ztele.png" group-title="2 - Quebec Specialise",Z-Tele
+http://ok2.se:8000/dean123/dean123/2411
 #EXTINF:-1 tvg-ID="Z" tvg-name="Z" tvg-logo="https://s3.amazonaws.com/ok2logo/ztele.png" group-title="2 - Quebec Specialise",Z-Tele
 http://iptv.rent:8080/02hgbnf/256987MJVHGD/53699
 
