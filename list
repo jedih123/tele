@@ -20,7 +20,7 @@ http://iptv.rent:8080/02hgbnf/256987MJVHGD/53718
 
 #EXTINF:-1 tvg-ID="v-cfjp-montreal-qc/301" tvg-name="v-cfjp-montreal-qc/301" tvg-logo="https://s3.amazonaws.com/ok2logo/CANALV+TV+logo.png" group-title="1 - Quebec Base",V-Tele
 https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
-#EXTINF:-1 tvg-ID="V (CFJP) Montreal, QC" tvg-name="v-cfjp-montreal-qc/301" tvg-logo="https://s3.amazonaws.com/ok2logo/CANALV+TV+logo.png" group-title="1 - Quebec Base",V-Tele
+#EXTINF:-1 tvg-ID="V (CFJP) Montreal, QC" tvg-name="V (CFJP) Montreal, QC" tvg-logo="https://s3.amazonaws.com/ok2logo/CANALV+TV+logo.png" group-title="1 - Quebec Base",V-Tele
 http://ok2.se:8000/dean123/dean123/9634
 #EXTINF:-1 tvg-ID="V (CFJP) Montreal, QC" tvg-name="v-cfjp-montreal-qc/301" tvg-logo="https://s3.amazonaws.com/ok2logo/CANALV+TV+logo.png" group-title="1 - Quebec Base",V-Tele
 http://ok2.se:8000/superman/12345/9634
