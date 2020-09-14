@@ -18,11 +18,11 @@ http://ok2.se:8000/dean123/dean123/2395
 #EXTINF:-1 tvg-ID="TVA (CFTM) Montréal" tvg-name="CFMT" tvg-logo="https://s3.amazonaws.com/ok2logo/tva.png" group-title="1 - Quebec Base",TVA Montreal
 http://iptv.rent:8080/02hgbnf/256987MJVHGD/53718
 
-#EXTINF:-1 tvg-ID="V (CFJP) Montreal, QC" tvg-name="CFJP" tvg-logo="https://s3.amazonaws.com/ok2logo/CANALV+TV+logo.png" group-title="1 - Quebec Base",V-Tele
+#EXTINF:-1 tvg-ID="V (CFJP) Montreal, QC" tvg-name="v-cfjp-montreal-qc/301" tvg-logo="https://s3.amazonaws.com/ok2logo/CANALV+TV+logo.png" group-title="1 - Quebec Base",V-Tele
 https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
-#EXTINF:-1 tvg-ID="V (CFJP) Montreal, QC" tvg-name="CFJP" tvg-logo="https://s3.amazonaws.com/ok2logo/CANALV+TV+logo.png" group-title="1 - Quebec Base",V-Tele
+#EXTINF:-1 tvg-ID="V (CFJP) Montreal, QC" tvg-name="v-cfjp-montreal-qc/301" tvg-logo="https://s3.amazonaws.com/ok2logo/CANALV+TV+logo.png" group-title="1 - Quebec Base",V-Tele
 http://ok2.se:8000/dean123/dean123/9634
-#EXTINF:-1 tvg-ID="V (CFJP) Montreal, QC" tvg-name="CFJP" tvg-logo="https://s3.amazonaws.com/ok2logo/CANALV+TV+logo.png" group-title="1 - Quebec Base",V-Tele
+#EXTINF:-1 tvg-ID="V (CFJP) Montreal, QC" tvg-name="v-cfjp-montreal-qc/301" tvg-logo="https://s3.amazonaws.com/ok2logo/CANALV+TV+logo.png" group-title="1 - Quebec Base",V-Tele
 http://ok2.se:8000/superman/12345/9634
 
 #EXTINF:-1 tvg-ID="LCN" tvg-name="LCN" tvg-logo="https://s3.amazonaws.com/ok2logo/LCN.gif" group-title="1 - Quebec Base",LCN
