@@ -4,13 +4,21 @@
 
 #EXTINF:-1,== Base======================
 
+#EXTINF:-1 tvg-id="RDI (News)" tvg-name="ICI RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="1 - Quebec Base",ICI RDI
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
+#EXTINF:-1 tvg-id="RDI (News)" tvg-name="ICI RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="1 - Quebec Base",ICI RDI
+http://ok2.se:8000/dean123/dean123/2396
+#EXTINF:-1 tvg-id="RDI (News)" tvg-name="ICI RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="1 - Quebec Base",ICI RDI
+http://ok2.se:8000/superman/12345/2396
+#EXTINF:-1 tvg-id="RDI (News)" tvg-name="ICI RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="1 - Quebec Base",ICI RDI
+http://mytv.fun:8080/czluant6b/mdlbnhikn6/53731
+
 #EXTINF:-1 tvg-ID="src-CBFT" tvg-name="CBFT" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI Montreal
 http://ok2.se:8000/dean123/dean123/2399
 #EXTINF:-1 tvg-ID="src-CBFT" tvg-name="CBFT" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI Montreal
 http://ok2.se:8000/superman/12345/2399
 #EXTINF:-1 tvg-ID="src-CBFT" tvg-name="CBFT" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI Montreal
 http://mytv.fun:8080/czluant6b/mdlbnhikn6/17748
-
 
 #EXTINF:-1 tvg-ID="TVA (CFTM) Montréal" tvg-name="CFMT" tvg-logo="https://s3.amazonaws.com/ok2logo/tva.png" group-title="1 - Quebec Base",TVA Montreal
 http://ok2.se:8000/dean123/dean123/2395
@@ -31,14 +39,6 @@ http://ok2.se:8000/superman/12345/9635
 #EXTINF:-1 tvg-ID="LCN" tvg-name="LCN" tvg-logo="https://s3.amazonaws.com/ok2logo/LCN.gif" group-title="1 - Quebec Base",LCN
 http://mytv.fun:8080/czluant6b/mdlbnhikn6/678483
 
-#EXTINF:-1 tvg-id="RDI (News)" tvg-name="ICI RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="1 - Quebec Base",ICI RDI
-https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
-#EXTINF:-1 tvg-id="RDI (News)" tvg-name="ICI RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="1 - Quebec Base",ICI RDI
-http://ok2.se:8000/dean123/dean123/2396
-#EXTINF:-1 tvg-id="RDI (News)" tvg-name="ICI RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="1 - Quebec Base",ICI RDI
-http://ok2.se:8000/superman/12345/2396
-#EXTINF:-1 tvg-id="RDI (News)" tvg-name="ICI RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="1 - Quebec Base",ICI RDI
-http://mytv.fun:8080/czluant6b/mdlbnhikn6/53731
 
 #EXTINF:-1,== Special======================
 
@@ -158,32 +158,10 @@ http://ok2.se:8000/dean123/dean123/71284
 http://mytv.fun:8080/czluant6b/mdlbnhikn6/13748
 
 
-#EXTINF:-1,== English Movie======================
-
-
-#EXTINF:-1 tvg-ID="crave1-east/72" tvg-name="Crave 1" group-title="English Movie",CRAVE 1 HD
-http://ok2.se:8000/dean123/dean123/9505
-#EXTINF:-1 tvg-ID="crave1-east/72" tvg-name="Crave 1" group-title="English Movie",CRAVE 1 HD
-http://mytv.fun:8080/czluant6b/mdlbnhikn6/676944
-
-#EXTINF:-1 #EXTINF:-1 tvg-ID="crave2-east/86" tvg-name="Crave 2" group-title="English Movie",CRAVE 2 HD
-http://ok2.se:8000/dean123/dean123/9506
-#EXTINF:-1 #EXTINF:-1 tvg-ID="crave2-east/86" tvg-name="Crave 2" group-title="English Movie",CRAVE 2 HD
-http://mytv.fun:8080/czluant6b/mdlbnhikn6/632621
-
-#EXTINF:-1 #EXTINF:-1 tvg-ID="crave3-east/85" tvg-name="Crave 3" group-title="English Movie",CRAVE 3 HD
-http://ok2.se:8000/dean123/dean123/9507
-#EXTINF:-1 #EXTINF:-1 tvg-ID="crave3-east/85" tvg-name="Crave 3" group-title="English Movie",CRAVE 3 HD
-http://mytv.fun:8080/czluant6b/mdlbnhikn6/632620
-
-#EXTINF:-1,Crave 4 HD CA
-http://mytv.fun:8080/czluant6b/mdlbnhikn6/632619
-
 #EXTINF:-1,== English Channel======================
 
 #EXTINF:-1 tvg-ID="AMC - Canada" tvg-name="AMC - Canada" group-title="7 - English",AMC
 http://ok2.se:8000/dean123/dean123/334
-
 
 #EXTINF:-1 tvg-ID="Crime + Investigation" tvg-name="Crime + Investigation" group-title="7 - English",Crime Investigation
 http://ok2.se:8000/dean123/dean123/7190
@@ -192,7 +170,6 @@ http://ok2.se:8000/dean123/dean123/7190
 http://ok2.se:8000/dean123/dean123/360
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="" group-title="7 - English",CNN
 http://mytv.fun:8080/czluant6b/mdlbnhikn6/632727
-
 
 #EXTINF:-1 tvg-ID="FOX (WUTV) Buffalo, NY" tvg-logo="" tvg-name="FOX" group-title="7 - English",FOX
 http://ok2.se:8000/dean123/dean123/363
