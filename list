@@ -28,11 +28,11 @@ http://ok2.se:8000/superman/12345/2395
 #EXTINF:-1 tvg-ID="TVA (CFTM) Montréal" tvg-name="CFMT" tvg-logo="https://s3.amazonaws.com/ok2logo/tva.png" group-title="1 - Quebec Base",TVA Montreal
 http://mytv.fun:8080/xati4drxk/l9nmysjxp9/53718
 
-#EXTINF:-1 tvg-ID="V (CFJP) Montreal, QC" tvg-name="v-cfjp-montreal-qc/301" tvg-logo="https://s3.amazonaws.com/ok2logo/CANALV+TV+logo.png" group-title="1 - Quebec Base",V-Tele
+#EXTINF:-1 tvg-ID="V (CFJP) Montreal, QC" tvg-name="V (CFJP) Montreal, QC" tvg-logo="https://s3.amazonaws.com/ok2logo/CANALV+TV+logo.png" group-title="1 - Quebec Base",V-Tele
 https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
-#EXTINF:-1 tvg-ID="V (CFJP) Montreal, QC" tvg-name="v-cfjp-montreal-qc/301" tvg-logo="https://s3.amazonaws.com/ok2logo/CANALV+TV+logo.png" group-title="1 - Quebec Base",V-Tele
+#EXTINF:-1 tvg-ID="V (CFJP) Montreal, QC" tvg-name="V (CFJP) Montreal, QC" tvg-logo="https://s3.amazonaws.com/ok2logo/CANALV+TV+logo.png" group-title="1 - Quebec Base",V-Tele
 http://ok2.se:8000/superman/12345/9634
-#EXTINF:-1 tvg-ID="V (CFJP) Montreal, QC" tvg-name="v-cfjp-montreal-qc/301" tvg-logo="https://s3.amazonaws.com/ok2logo/CANALV+TV+logo.png" group-title="1 - Quebec Base",V-Tele
+#EXTINF:-1 tvg-ID="V (CFJP) Montreal, QC" tvg-name="V (CFJP) Montreal, QC" tvg-logo="https://s3.amazonaws.com/ok2logo/CANALV+TV+logo.png" group-title="1 - Quebec Base",V-Tele
 http://ingrid.ltd:25461/Cc1/Cc1/67442
 
 #EXTINF:-1 tvg-ID="LCN" tvg-name="LCN" tvg-logo="https://s3.amazonaws.com/ok2logo/LCN.gif" group-title="1 - Quebec Base",LCN
@@ -151,7 +151,7 @@ http://ok2.se:8000/superman/12345/168
 #EXTINF:-1 tvg-ID="WWE" tvg-name="WWE" group-title="6 - Sports EN",WWE
 http://mytv.fun:8080/xati4drxk/l9nmysjxp9/14404
 
-#EXTINF:-1 tvg-ID="NFL HD" tvg-name="NFL HD" group-title="6 - Sports EN",NFL HD
+#EXTINF:-1 tvg-ID="NFL Network HD" tvg-name="NFL Network HD" group-title="6 - Sports EN",NFL Network HD
 http://ingrid.ltd:25461/Cc1/Cc1/67254
 
 #EXTINF:-1 tvg-ID="NFL Network" tvg-name="NFL Network" group-title="6 - Sports EN",NFL Network
@@ -178,6 +178,5 @@ http://ok2.se:8000/superman/12345/360
 #EXTINF:-1 tvg-ID="FOX (WUTV) Buffalo, NY" tvg-logo="" tvg-name="FOX" group-title="7 - English",FOX
 http://ok2.se:8000/superman/12345/363
 
-#EXTINF:-1 tvg-ID="MSNBC" tvg-logo="" tvg-name="MSNBC" group-title="7 - English",MSNBC
+#EXTINF:-1 tvg-ID="NBC (WGRZ) Buffalo, NY HD" tvg-logo="" tvg-name="NBC (WGRZ) Buffalo, NY HD" group-title="7 - English",NBC (WGRZ) Buffalo, NY HD
 http://ingrid.ltd:25461/Cc1/Cc1/67589
-
