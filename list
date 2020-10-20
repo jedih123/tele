@@ -46,6 +46,8 @@ http://mytv.fun:8080/xati4drxk/l9nmysjxp9/678483
 #EXTINF:-1,== Special======================
 
 #EXTINF:-1 tvg-ID="Addik TV" tvg-name="ADDIK" tvg-logo="" group-title="2 - Quebec Specialise",Addik TV
+http://185.232.53.5:2086/gennaro/gennaro/66735
+#EXTINF:-1 tvg-ID="Addik TV" tvg-name="ADDIK" tvg-logo="" group-title="2 - Quebec Specialise",Addik TV
 http://ok2.se:8000/superman/12345/2412
 #EXTINF:-1 tvg-ID="Addik TV" tvg-name="ADDIK" tvg-logo="" group-title="2 - Quebec Specialise",Addik TV
 http://mytv.fun:8080/xati4drxk/l9nmysjxp9/632750
@@ -97,7 +99,7 @@ http://ok2.se:8000/superman/12345/46743
 http://mytv.fun:8080/xati4drxk/l9nmysjxp9/632625
 
 
-#EXTINF:-1,== Sport FR======================
+#EXTINF:-1,== Sport ======================
 
 #EXTINF:-1 tvg-ID="RDS (Réseau des sports)" tvg-name="RDS" tvg-logo="https://s3.amazonaws.com/ok2logo/rds.png" group-title="4 - Sports FR",RDS
 http://ingrid.ltd:25461/Cc1/Cc1/67495
@@ -144,23 +146,44 @@ http://mytv.fun:8080/xati4drxk/l9nmysjxp9/53722
 
 #EXTINF:-1,== SPORTS EN======================
 
-#EXTINF:-1 tvg-ID="WWE" tvg-name="WWE" group-title="6 - Sports EN",WWE
-http://ingrid.ltd:25461/Cc1/Cc1/67506
-#EXTINF:-1 tvg-ID="WWE" tvg-name="WWE" group-title="6 - Sports EN",WWE
-http://ok2.se:8000/superman/12345/168
-#EXTINF:-1 tvg-ID="WWE" tvg-name="WWE" group-title="6 - Sports EN",WWE
-http://mytv.fun:8080/xati4drxk/l9nmysjxp9/14404
-
 #EXTINF:-1 tvg-ID="NFL Network HD" tvg-name="NFL Network HD" group-title="6 - Sports EN",NFL Network HD
 http://ingrid.ltd:25461/Cc1/Cc1/67254
 
 #EXTINF:-1 tvg-ID="NFL Network" tvg-name="NFL Network" group-title="6 - Sports EN",NFL Network
 http://185.232.53.5:2086/gennaro/gennaro/3402
 
+#EXTINF:-1 tvg-ID="NFL Network US 1" tvg-name="NFL Network US 1" group-title="6 - Sports EN",NFL Network US 1
+http://restream.geniptv.com:8080/live:mediatvtop/lbCCll4Rga/504
+
+#EXTINF:-1 tvg-ID="TSN 1" tvg-name="TSN 1" group-title="6 - Sports EN",TSN 1
+http://ingrid.ltd:25461/Cc1/Cc1/67331
+
+#EXTINF:-1 tvg-ID="TSN 2" tvg-name="TSN 2" group-title="6 - Sports EN",TSN 2
+http://ingrid.ltd:25461/Cc1/Cc1/67330
+
+#EXTINF:-1 tvg-ID="TSN 3" tvg-name="TSN 3" group-title="6 - Sports EN",TSN 3
+http://185.232.53.5:2086/gennaro/gennaro/8802
+
+#EXTINF:-1 tvg-ID="TSN 4" tvg-name="TSN 4" group-title="6 - Sports EN",TSN 4
+http://ingrid.ltd:25461/Cc1/Cc1/67328
+
 #EXTINF:-1 tvg-ID="Fight Network Canada" tvg-name="Fight Network" group-title="6 - Sports EN",Fight Network
 http://ok2.se:8000/superman/12345/71284
 #EXTINF:-1 tvg-ID="Fight Network Canada" tvg-name="Fight Network" group-title="6 - Sports EN",Fight Network
 http://mytv.fun:8080/xati4drxk/l9nmysjxp9/13748
+
+#EXTINF:-1 tvg-ID="UFC Fight Pass US" tvg-name="UFC Fight Pass US" group-title="6 - Sports EN",UFC Fight Pass US
+http://restream.geniptv.com:8080/live:mediatvtop/lbCCll4Rga/6421
+
+#EXTINF:-1 tvg-ID="UFC TV" tvg-name="UFC TV" group-title="6 - Sports EN",UFC TV
+http://ingrid.ltd:25461/Cc1/Cc1/23702
+
+#EXTINF:-1 tvg-ID="WWE" tvg-name="WWE" group-title="6 - Sports EN",WWE
+http://ingrid.ltd:25461/Cc1/Cc1/67506
+#EXTINF:-1 tvg-ID="WWE" tvg-name="WWE" group-title="6 - Sports EN",WWE
+http://ok2.se:8000/superman/12345/168
+#EXTINF:-1 tvg-ID="WWE" tvg-name="WWE" group-title="6 - Sports EN",WWE
+http://mytv.fun:8080/xati4drxk/l9nmysjxp9/14404
 
 
 #EXTINF:-1,== English Channel======================
