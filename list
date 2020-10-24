@@ -10,7 +10,7 @@ https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
 #EXTINF:-1 tvg-id="RDI (News)" tvg-name="ICI RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="1 - Quebec Base",ICI RDI
 http://ingrid.ltd:25461/Cc1/Cc1/67337
 #EXTINF:-1 tvg-id="RDI (News)" tvg-name="ICI RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="1 - Quebec Base",ICI RDI
-http://66.northerniptv.ca:8000/Karine/Karine/2396
+http://f.ok2.se:8000/Fonzi/Fonzi/2396
 #EXTINF:-1 tvg-id="RDI (News)" tvg-name="ICI RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="1 - Quebec Base",ICI RDI
 http://tv.gloryiptv.itv.world:8080/ofyyh2n1e/tz15bh9rzq/
 
@@ -18,7 +18,7 @@ http://tv.gloryiptv.itv.world:8080/ofyyh2n1e/tz15bh9rzq/
 #EXTINF:-1 tvg-ID="src-CBFT" tvg-name="CBFT" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI Montreal
 http://ingrid.ltd:25461/Cc1/Cc1/67552
 #EXTINF:-1 tvg-ID="src-CBFT" tvg-name="CBFT" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI Montreal
-http://66.northerniptv.ca:8000/Karine/Karine/2399
+http://f.ok2.se:8000/Fonzi/Fonzi/2399
 #EXTINF:-1 tvg-ID="src-CBFT" tvg-name="CBFT" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI Montreal
 http://mytv.fun:8080/q25582cjwk/x1w932auxn/17748
 
@@ -26,21 +26,21 @@ http://mytv.fun:8080/q25582cjwk/x1w932auxn/17748
 #EXTINF:-1 tvg-ID="TVA (CFTM) Montréal" tvg-name="CFMT" tvg-logo="https://s3.amazonaws.com/ok2logo/tva.png" group-title="1 - Quebec Base",TVA Gatineau
 http://ingrid.ltd:25461/Cc1/Cc1/67493
 #EXTINF:-1 tvg-ID="TVA (CFTM) Montréal" tvg-name="CFMT" tvg-logo="https://s3.amazonaws.com/ok2logo/tva.png" group-title="1 - Quebec Base",TVA Montreal
-http://66.northerniptv.ca:8000/Karine/Karine/2395
+http://f.ok2.se:8000/Fonzi/Fonzi/2395
 #EXTINF:-1 tvg-ID="TVA (CFTM) Montréal" tvg-name="CFMT" tvg-logo="https://s3.amazonaws.com/ok2logo/tva.png" group-title="1 - Quebec Base",TVA Montreal
 http://mytv.fun:8080/q25582cjwk/x1w932auxn/53718
 
 #EXTINF:-1 tvg-ID="V (CFJP) Montreal, QC" tvg-name="V (CFJP) Montreal, QC" tvg-logo="https://s3.amazonaws.com/ok2logo/CANALV+TV+logo.png" group-title="1 - Quebec Base",V-Tele
 https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
 #EXTINF:-1 tvg-ID="V (CFJP) Montreal, QC" tvg-name="V (CFJP) Montreal, QC" tvg-logo="https://s3.amazonaws.com/ok2logo/CANALV+TV+logo.png" group-title="1 - Quebec Base",V-Tele
-http://66.northerniptv.ca:8000/Karine/Karine/9634
+http://f.ok2.se:8000/Fonzi/Fonzi/9634
 #EXTINF:-1 tvg-ID="V (CFJP) Montreal, QC" tvg-name="V (CFJP) Montreal, QC" tvg-logo="https://s3.amazonaws.com/ok2logo/CANALV+TV+logo.png" group-title="1 - Quebec Base",V-Tele
 http://ingrid.ltd:25461/Cc1/Cc1/67442
 
 #EXTINF:-1 tvg-ID="LCN" tvg-name="LCN" tvg-logo="https://s3.amazonaws.com/ok2logo/LCN.gif" group-title="1 - Quebec Base",LCN
 http://185.232.53.5:2086/gennaro/gennaro/93927
 #EXTINF:-1 tvg-ID="LCN" tvg-name="LCN" tvg-logo="https://s3.amazonaws.com/ok2logo/LCN.gif" group-title="1 - Quebec Base",LCN
-http://66.northerniptv.ca:8000/Karine/Karine/9635
+http://f.ok2.se:8000/Fonzi/Fonzi/9635
 #EXTINF:-1 tvg-ID="LCN" tvg-name="LCN" tvg-logo="https://s3.amazonaws.com/ok2logo/LCN.gif" group-title="1 - Quebec Base",LCN
 http://mytv.fun:8080/q25582cjwk/x1w932auxn/678483
 
@@ -50,25 +50,25 @@ http://mytv.fun:8080/q25582cjwk/x1w932auxn/678483
 #EXTINF:-1 tvg-ID="Addik TV" tvg-name="ADDIK" tvg-logo="" group-title="2 - Quebec Specialise",Addik TV
 http://185.232.53.5:2086/gennaro/gennaro/66735
 #EXTINF:-1 tvg-ID="Addik TV" tvg-name="ADDIK" tvg-logo="" group-title="2 - Quebec Specialise",Addik TV
-http://66.northerniptv.ca:8000/Karine/Karine/2412
+http://f.ok2.se:8000/Fonzi/Fonzi/2412
 #EXTINF:-1 tvg-ID="Addik TV" tvg-name="ADDIK" tvg-logo="" group-title="2 - Quebec Specialise",Addik TV
 http://mytv.fun:8080/q25582cjwk/x1w932auxn/632750
 
 #EXTINF:-1 tvg-ID="Canal D" tvg-name="D" tvg-logo="https://s3.amazonaws.com/ok2logo/CANAL+D.png" group-title="2 - Quebec Specialise",CANAL D
 http://sd-48232.dedibox.fr:25461/93xxDXA2qY/ue8tWAXBe4/13
 #EXTINF:-1 tvg-ID="Canal D" tvg-name="D" tvg-logo="https://s3.amazonaws.com/ok2logo/CANAL+D.png" group-title="2 - Quebec Specialise",CANAL D
-http://66.northerniptv.ca:8000/Karine/Karine/9633
+http://f.ok2.se:8000/Fonzi/Fonzi/9633
 #EXTINF:-1 tvg-ID="Canal D" tvg-name="D" tvg-logo="https://s3.amazonaws.com/ok2logo/CANAL+D.png" group-title="2 - Quebec Specialise",CANAL D
 http://mytv.fun:8080/q25582cjwk/x1w932auxn/632740
 
 #EXTINF:-1 tvg-ID="Prise 2" tvg-name="Prise 2" group-title="2 - Quebec Specialise",Prise 2
 http://185.232.53.5:2086/gennaro/gennaro/93943
 #EXTINF:-1 tvg-ID="Prise 2" tvg-name="Prise 2" group-title="2 - Quebec Specialise",Prise 2
-http://66.northerniptv.ca:8000/Karine/Karine/2413
+http://f.ok2.se:8000/Fonzi/Fonzi/2413
 
 
 #EXTINF:-1 tvg-ID="Z" tvg-name="Z" tvg-logo="https://s3.amazonaws.com/ok2logo/ztele.png" group-title="2 - Quebec Specialise",Z-Tele
-http://66.northerniptv.ca:8000/Karine/Karine/2411
+http://f.ok2.se:8000/Fonzi/Fonzi/2411
 #EXTINF:-1 tvg-ID="Z" tvg-name="Z" tvg-logo="https://s3.amazonaws.com/ok2logo/ztele.png" group-title="2 - Quebec Specialise",Z-Tele
 http://mytv.fun:8080/q25582cjwk/x1w932auxn/53699
 
@@ -79,7 +79,7 @@ http://mytv.fun:8080/q25582cjwk/x1w932auxn/53699
 #EXTINF:-1 tvg-ID="TéléTOON - français" tvg-name="TELETOON FR" tvg-logo="https://s3.amazonaws.com/ok2logo/teletoon.png" group-title="3 - Kids",Teletoon FR
 http://ingrid.ltd:25461/Cc1/Cc1/67385
 #EXTINF:-1 tvg-ID="TéléTOON - français" tvg-name="TELETOON FR" tvg-logo="https://s3.amazonaws.com/ok2logo/teletoon.png" group-title="3 - Kids",Teletoon FR
-http://66.northerniptv.ca:8000/Karine/Karine/46743
+http://f.ok2.se:8000/Fonzi/Fonzi/46743
 #EXTINF:-1 tvg-ID="TéléTOON - français" tvg-name="TELETOON FR" tvg-logo="https://s3.amazonaws.com/ok2logo/teletoon.png" group-title="3 - Kids",Teletoon FR
 http://mytv.fun:8080/q25582cjwk/x1w932auxn/632625
 
@@ -89,7 +89,7 @@ http://mytv.fun:8080/q25582cjwk/x1w932auxn/632625
 #EXTINF:-1 tvg-ID="RDS (Réseau des sports)" tvg-name="RDS" tvg-logo="https://s3.amazonaws.com/ok2logo/rds.png" group-title="4 - Sports FR",RDS
 http://ingrid.ltd:25461/Cc1/Cc1/67495
 #EXTINF:-1 tvg-ID="RDS (Réseau des sports)" tvg-name="RDS" tvg-logo="https://s3.amazonaws.com/ok2logo/rds.png" group-title="4 - Sports FR",RDS
-http://66.northerniptv.ca:8000/Karine/Karine/2404
+http://f.ok2.se:8000/Fonzi/Fonzi/2404
 #EXTINF:-1 tvg-ID="RDS (Réseau des sports)" tvg-name="RDS" tvg-logo="https://s3.amazonaws.com/ok2logo/rds.png" group-title="4 - Sports FR",RDS
 http://mytv.fun:8080/q25582cjwk/x1w932auxn/53730
 
@@ -97,7 +97,7 @@ http://mytv.fun:8080/q25582cjwk/x1w932auxn/53730
 #EXTINF:-1 tvg-ID="TVA Sports" tvg-name="TVA Sports" tvg-logo="https://s3.amazonaws.com/ok2logo/tva1.png" group-title="4 - Sports FR",TVA Sports
 http://ingrid.ltd:25461/Cc1/Cc1/67365
 #EXTINF:-1 tvg-ID="TVA Sports" tvg-name="TVA Sports" tvg-logo="https://s3.amazonaws.com/ok2logo/tva1.png" group-title="4 - Sports FR",TVA Sports
-http://66.northerniptv.ca:8000/Karine/Karine/2406
+http://f.ok2.se:8000/Fonzi/Fonzi/2406
 #EXTINF:-1 tvg-ID="TVA Sports" tvg-name="TVA Sports" tvg-logo="https://s3.amazonaws.com/ok2logo/tva1.png" group-title="4 - Sports FR",TVA Sports
 http://mytv.fun:8080/q25582cjwk/x1w932auxn/53716
 
@@ -109,28 +109,28 @@ http://mytv.fun:8080/q25582cjwk/x1w932auxn/53716
 #EXTINF:-1 tvg-ID="Super Ecran" tvg-name="Super Ecran" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran.png" group-title="5 - Film FR",Super Ecran
 http://ingrid.ltd:25461/Cc1/Cc1/67458
 #EXTINF:-1 tvg-ID="Super Ecran" tvg-name="Super Ecran" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran.png" group-title="5 - Film FR",Super Ecran
-http://66.northerniptv.ca:8000/Karine/Karine/2414
+http://f.ok2.se:8000/Fonzi/Fonzi/2414
 #EXTINF:-1 tvg-ID="Super Ecran" tvg-name="Super Ecran" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran.png" group-title="5 - Film FR",Super Ecran
 http://mytv.fun:8080/q25582cjwk/x1w932auxn/53725
 
 #EXTINF:-1 tvg-ID="Super Ecran 2" tvg-name="Super Ecran2" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran2.png" group-title="5 - Film FR",Super Ecran 2
 http://exodus1.eu:8080/blue123/blue123/441087
 #EXTINF:-1 tvg-ID="Super Ecran 2" tvg-name="Super Ecran2" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran2.png" group-title="5 - Film FR",Super Ecran 2
-http://66.northerniptv.ca:8000/Karine/Karine/2415
+http://f.ok2.se:8000/Fonzi/Fonzi/2415
 #EXTINF:-1 tvg-ID="Super Ecran 2" tvg-name="Super Ecran2" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran2.png" group-title="5 - Film FR",Super Ecran 2
 http://mytv.fun:8080/q25582cjwk/x1w932auxn/53724
 
 #EXTINF:-1 tvg-ID="Super Ecran 3" tvg-name="Super Ecran3" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran3.png" group-title="5 - Film FR",Super Ecran 3
 http://exodus1.eu:8080/blue123/blue123/441088
 #EXTINF:-1 tvg-ID="Super Ecran 3" tvg-name="Super Ecran3" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran3.png" group-title="5 - Film FR",Super Ecran 3
-http://66.northerniptv.ca:8000/Karine/Karine/2416
+http://f.ok2.se:8000/Fonzi/Fonzi/2416
 #EXTINF:-1 tvg-ID="Super Ecran 3" tvg-name="Super Ecran3" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran3.png" group-title="5 - Film FR",Super Ecran 3
 http://mytv.fun:8080/q25582cjwk/x1w932auxn/53723
 
 #EXTINF:-1 tvg-ID="Super Ecran 4" tvg-name="Super Ecran4" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran4.jpg" group-title="5 - Film FR",Super Ecran 4
 http://exodus1.eu:8080/blue123/blue123/441089
 #EXTINF:-1 tvg-ID="Super Ecran 4" tvg-name="Super Ecran4" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran4.jpg" group-title="5 - Film FR",Super Ecran 4
-http://66.northerniptv.ca:8000/Karine/Karine/25196
+http://f.ok2.se:8000/Fonzi/Fonzi/25196
 #EXTINF:-1 tvg-ID="Super Ecran 4" tvg-name="Super Ecran4" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran4.jpg" group-title="5 - Film FR",Super Ecran 4
 http://mytv.fun:8080/q25582cjwk/x1w932auxn/53722
 
@@ -142,7 +142,7 @@ http://ingrid.ltd:25461/Cc1/Cc1/67254
 #EXTINF:-1 tvg-ID="NFL Network" tvg-name="NFL Network" group-title="6 - Sports EN",NFL Network
 http://185.232.53.5:2086/gennaro/gennaro/3402
 #EXTINF:-1 tvg-ID="NFL Network HD" tvg-name="NFL Network HD" group-title="6 - Sports EN",NFL Network HD
-http://66.northerniptv.ca:8000/Karine/Karine/105005
+http://f.ok2.se:8000/Fonzi/Fonzi/105005
 
 #EXTINF:-1 tvg-ID="NFL Network US 1" tvg-name="NFL Network US 1" group-title="6 - Sports EN",NFL Network US 1
 http://restream.geniptv.com:8080/live:mediatvtop/lbCCll4Rga/504
@@ -161,38 +161,38 @@ http://ingrid.ltd:25461/Cc1/Cc1/67328
 
 
 #EXTINF:-1,NFL 1
-http://66.northerniptv.ca:8000/Karine/Karine/105007
+http://f.ok2.se:8000/Fonzi/Fonzi/105007
 #EXTINF:-1,NFL 2
-http://66.northerniptv.ca:8000/Karine/Karine/105008
+http://f.ok2.se:8000/Fonzi/Fonzi/105008
 #EXTINF:-1,NFL 3
-http://66.northerniptv.ca:8000/Karine/Karine/105009
+http://f.ok2.se:8000/Fonzi/Fonzi/105009
 #EXTINF:-1,NFL 4
-http://66.northerniptv.ca:8000/Karine/Karine/105010
+http://f.ok2.se:8000/Fonzi/Fonzi/105010
 #EXTINF:-1,NFL 5
-http://66.northerniptv.ca:8000/Karine/Karine/105011
+http://f.ok2.se:8000/Fonzi/Fonzi/105011
 #EXTINF:-1,NFL 6
-http://66.northerniptv.ca:8000/Karine/Karine/105012
+http://f.ok2.se:8000/Fonzi/Fonzi/105012
 #EXTINF:-1,NFL 7
-http://66.northerniptv.ca:8000/Karine/Karine/105013
+http://f.ok2.se:8000/Fonzi/Fonzi/105013
 #EXTINF:-1,NFL 8
-http://66.northerniptv.ca:8000/Karine/Karine/105014
+http://f.ok2.se:8000/Fonzi/Fonzi/105014
 #EXTINF:-1,NFL 9
-http://66.northerniptv.ca:8000/Karine/Karine/105015
+http://f.ok2.se:8000/Fonzi/Fonzi/105015
 #EXTINF:-1,NFL 10
-http://66.northerniptv.ca:8000/Karine/Karine/105016
+http://f.ok2.se:8000/Fonzi/Fonzi/105016
 #EXTINF:-1,NFL 11
-http://66.northerniptv.ca:8000/Karine/Karine/105017
+http://f.ok2.se:8000/Fonzi/Fonzi/105017
 #EXTINF:-1,NFL 12
-http://66.northerniptv.ca:8000/Karine/Karine/105018
+http://f.ok2.se:8000/Fonzi/Fonzi/105018
 #EXTINF:-1,NFL 13
-http://66.northerniptv.ca:8000/Karine/Karine/105019
+http://f.ok2.se:8000/Fonzi/Fonzi/105019
 
 
 
 #EXTINF:-1 tvg-ID="Fight Network Canada" tvg-name="Fight Network" group-title="6 - Sports EN",Fight Network
 http://ingrid.ltd:25461/Cc1/Cc1/67291
 #EXTINF:-1 tvg-ID="Fight Network Canada" tvg-name="Fight Network" group-title="6 - Sports EN",Fight Network
-http://66.northerniptv.ca:8000/Karine/Karine/71284
+http://f.ok2.se:8000/Fonzi/Fonzi/71284
 #EXTINF:-1 tvg-ID="Fight Network Canada" tvg-name="Fight Network" group-title="6 - Sports EN",Fight Network
 http://mytv.fun:8080/q25582cjwk/x1w932auxn/13748
 
@@ -205,7 +205,7 @@ http://ingrid.ltd:25461/Cc1/Cc1/23702
 #EXTINF:-1 tvg-ID="WWE" tvg-name="WWE" group-title="6 - Sports EN",WWE
 http://ingrid.ltd:25461/Cc1/Cc1/67506
 #EXTINF:-1 tvg-ID="WWE" tvg-name="WWE" group-title="6 - Sports EN",WWE
-http://66.northerniptv.ca:8000/Karine/Karine/168
+http://f.ok2.se:8000/Fonzi/Fonzi/168
 #EXTINF:-1 tvg-ID="WWE" tvg-name="WWE" group-title="6 - Sports EN",WWE
 http://mytv.fun:8080/q25582cjwk/x1w932auxn/14404
 
@@ -215,17 +215,16 @@ http://mytv.fun:8080/q25582cjwk/x1w932auxn/14404
 #EXTINF:-1 tvg-ID="AMC - Canada" tvg-name="AMC - Canada" group-title="7 - English",AMC
 http://ingrid.ltd:25461/Cc1/Cc1/67318
 #EXTINF:-1 tvg-ID="AMC - Canada" tvg-name="AMC - Canada" group-title="7 - English",AMC
-http://66.northerniptv.ca:8000/Karine/Karine/334
+http://f.ok2.se:8000/Fonzi/Fonzi/334
 
 
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="" group-title="7 - English",CNN
-http://66.northerniptv.ca:8000/Karine/Karine/360
+http://f.ok2.se:8000/Fonzi/Fonzi/360
 
 
 #EXTINF:-1 tvg-ID="FOX (WUTV) Buffalo, NY" tvg-logo="" tvg-name="FOX" group-title="7 - English",FOX
-http://66.northerniptv.ca:8000/Karine/Karine/363
+http://f.ok2.se:8000/Fonzi/Fonzi/363
 
 #EXTINF:-1 tvg-ID="NBC (WGRZ) Buffalo, NY HD" tvg-logo="" tvg-name="NBC (WGRZ) Buffalo, NY HD" group-title="7 - English",NBC (WGRZ) Buffalo, NY HD
 http://ingrid.ltd:25461/Cc1/Cc1/67589
-
 
