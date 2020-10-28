@@ -7,13 +7,11 @@
 #EXTINF:-1 tvg-id="RDI (News)" tvg-name="ICI RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="1 - Quebec Base",ICI RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
 #EXTINF:-1 tvg-id="RDI (News)" tvg-name="ICI RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="1 - Quebec Base",ICI RDI
-http://sd-48232.dedibox.fr:25461/93xxDXA2qY/ue8tWAXBe4/17518
-#EXTINF:-1 tvg-id="RDI (News)" tvg-name="ICI RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="1 - Quebec Base",ICI RDI
 http://f.ok2.se:8000/Fonzi/Fonzi/2396
 
 
 #EXTINF:-1 tvg-ID="src-CBFT" tvg-name="CBFT" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI Montreal
-http://ingrid.ltd:25461/Cc1/Cc1/67552
+http://main.volcanictv.com:25461/test1/test1/21204
 #EXTINF:-1 tvg-ID="src-CBFT" tvg-name="CBFT" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI Montreal
 http://f.ok2.se:8000/Fonzi/Fonzi/2399
 #EXTINF:-1 tvg-ID="src-CBFT" tvg-name="CBFT" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI Montreal
@@ -21,7 +19,7 @@ http://mytv.fun:8080/tz5jf5das/dtjcol7923/17748
 
 
 #EXTINF:-1 tvg-ID="TVA (CFTM) Montréal" tvg-name="CFMT" tvg-logo="https://s3.amazonaws.com/ok2logo/tva.png" group-title="1 - Quebec Base",TVA Gatineau
-http://62.182.80.246:80/Y5sxum7wrn/H1Ed1j2NDb/81296
+http://main.volcanictv.com:25461/test1/test1/21152
 #EXTINF:-1 tvg-ID="TVA (CFTM) Montréal" tvg-name="CFMT" tvg-logo="https://s3.amazonaws.com/ok2logo/tva.png" group-title="1 - Quebec Base",TVA Montreal
 http://f.ok2.se:8000/Fonzi/Fonzi/2395
 #EXTINF:-1 tvg-ID="TVA (CFTM) Montréal" tvg-name="CFMT" tvg-logo="https://s3.amazonaws.com/ok2logo/tva.png" group-title="1 - Quebec Base",TVA Montreal
@@ -32,10 +30,10 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
 #EXTINF:-1 tvg-ID="V (CFJP) Montreal, QC" tvg-name="V (CFJP) Montreal, QC" tvg-logo="https://s3.amazonaws.com/ok2logo/CANALV+TV+logo.png" group-title="1 - Quebec Base",V-Tele
 http://f.ok2.se:8000/Fonzi/Fonzi/9634
 #EXTINF:-1 tvg-ID="V (CFJP) Montreal, QC" tvg-name="V (CFJP) Montreal, QC" tvg-logo="https://s3.amazonaws.com/ok2logo/CANALV+TV+logo.png" group-title="1 - Quebec Base",V-Tele
-http://ingrid.ltd:25461/Cc1/Cc1/67442
+http://main.volcanictv.com:25461/test1/test1/21114
 
 #EXTINF:-1 tvg-ID="LCN" tvg-name="LCN" tvg-logo="https://s3.amazonaws.com/ok2logo/LCN.gif" group-title="1 - Quebec Base",LCN
-http://185.232.53.5:2086/gennaro/gennaro/93927
+http://185.232.53.5:2086/arellano/kgtL965n2Y/93927
 #EXTINF:-1 tvg-ID="LCN" tvg-name="LCN" tvg-logo="https://s3.amazonaws.com/ok2logo/LCN.gif" group-title="1 - Quebec Base",LCN
 http://f.ok2.se:8000/Fonzi/Fonzi/9635
 #EXTINF:-1 tvg-ID="LCN" tvg-name="LCN" tvg-logo="https://s3.amazonaws.com/ok2logo/LCN.gif" group-title="1 - Quebec Base",LCN
@@ -45,21 +43,21 @@ http://mytv.fun:8080/tz5jf5das/dtjcol7923/678483
 #EXTINF:-1,== Special======================
 
 #EXTINF:-1 tvg-ID="Addik TV" tvg-name="ADDIK" tvg-logo="" group-title="2 - Quebec Specialise",Addik TV
-http://185.232.53.5:2086/gennaro/gennaro/66735
+http://main.volcanictv.com:25461/test1/test1/21096
 #EXTINF:-1 tvg-ID="Addik TV" tvg-name="ADDIK" tvg-logo="" group-title="2 - Quebec Specialise",Addik TV
 http://f.ok2.se:8000/Fonzi/Fonzi/2412
 #EXTINF:-1 tvg-ID="Addik TV" tvg-name="ADDIK" tvg-logo="" group-title="2 - Quebec Specialise",Addik TV
 http://mytv.fun:8080/tz5jf5das/dtjcol7923/632750
 
 #EXTINF:-1 tvg-ID="Canal D" tvg-name="D" tvg-logo="https://s3.amazonaws.com/ok2logo/CANAL+D.png" group-title="2 - Quebec Specialise",CANAL D
-http://62.182.80.246:80/Y5sxum7wrn/H1Ed1j2NDb/83373
+http://main.volcanictv.com:25461/test1/test1/21097
 #EXTINF:-1 tvg-ID="Canal D" tvg-name="D" tvg-logo="https://s3.amazonaws.com/ok2logo/CANAL+D.png" group-title="2 - Quebec Specialise",CANAL D
 http://f.ok2.se:8000/Fonzi/Fonzi/9633
 #EXTINF:-1 tvg-ID="Canal D" tvg-name="D" tvg-logo="https://s3.amazonaws.com/ok2logo/CANAL+D.png" group-title="2 - Quebec Specialise",CANAL D
 http://mytv.fun:8080/tz5jf5das/dtjcol7923/632740
 
 #EXTINF:-1 tvg-ID="Prise 2" tvg-name="Prise 2" group-title="2 - Quebec Specialise",Prise 2
-http://185.232.53.5:2086/gennaro/gennaro/93943
+http://185.232.53.5:2086/arellano/kgtL965n2Y/93943
 #EXTINF:-1 tvg-ID="Prise 2" tvg-name="Prise 2" group-title="2 - Quebec Specialise",Prise 2
 http://f.ok2.se:8000/Fonzi/Fonzi/2413
 
@@ -84,7 +82,7 @@ http://mytv.fun:8080/tz5jf5das/dtjcol7923/632625
 #EXTINF:-1,== Sport ======================
 
 #EXTINF:-1 tvg-ID="RDS (Réseau des sports)" tvg-name="RDS" tvg-logo="https://s3.amazonaws.com/ok2logo/rds.png" group-title="4 - Sports FR",RDS
-http://62.182.80.246:80/Y5sxum7wrn/H1Ed1j2NDb/83237
+http://main.volcanictv.com:25461/test1/test1/21154
 #EXTINF:-1 tvg-ID="RDS (Réseau des sports)" tvg-name="RDS" tvg-logo="https://s3.amazonaws.com/ok2logo/rds.png" group-title="4 - Sports FR",RDS
 http://f.ok2.se:8000/Fonzi/Fonzi/2404
 #EXTINF:-1 tvg-ID="RDS (Réseau des sports)" tvg-name="RDS" tvg-logo="https://s3.amazonaws.com/ok2logo/rds.png" group-title="4 - Sports FR",RDS
@@ -92,7 +90,7 @@ http://mytv.fun:8080/tz5jf5das/dtjcol7923/53730
 
 
 #EXTINF:-1 tvg-ID="TVA Sports" tvg-name="TVA Sports" tvg-logo="https://s3.amazonaws.com/ok2logo/tva1.png" group-title="4 - Sports FR",TVA Sports
-http://62.182.80.246:80/Y5sxum7wrn/H1Ed1j2NDb/83316
+http://main.volcanictv.com:25461/test1/test1/21153
 #EXTINF:-1 tvg-ID="TVA Sports" tvg-name="TVA Sports" tvg-logo="https://s3.amazonaws.com/ok2logo/tva1.png" group-title="4 - Sports FR",TVA Sports
 http://f.ok2.se:8000/Fonzi/Fonzi/2406
 #EXTINF:-1 tvg-ID="TVA Sports" tvg-name="TVA Sports" tvg-logo="https://s3.amazonaws.com/ok2logo/tva1.png" group-title="4 - Sports FR",TVA Sports
@@ -102,30 +100,32 @@ http://mytv.fun:8080/tz5jf5das/dtjcol7923/53716
 
 #EXTINF:-1,== Film======================
 
+#EXTINF:-1 tvg-ID="Cinépop" tvg-name="Cinépop" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran.png" group-title="5 - Film FR",Cinépop
+http://main.volcanictv.com:25461/test1/test1/21100
 
 #EXTINF:-1 tvg-ID="Super Ecran" tvg-name="Super Ecran" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran.png" group-title="5 - Film FR",Super Ecran
-http://ingrid.ltd:25461/Cc1/Cc1/67458
+http://main.volcanictv.com:25461/test1/test1/21106
 #EXTINF:-1 tvg-ID="Super Ecran" tvg-name="Super Ecran" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran.png" group-title="5 - Film FR",Super Ecran
 http://f.ok2.se:8000/Fonzi/Fonzi/2414
 #EXTINF:-1 tvg-ID="Super Ecran" tvg-name="Super Ecran" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran.png" group-title="5 - Film FR",Super Ecran
 http://mytv.fun:8080/tz5jf5das/dtjcol7923/53725
 
 #EXTINF:-1 tvg-ID="Super Ecran 2" tvg-name="Super Ecran2" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran2.png" group-title="5 - Film FR",Super Ecran 2
-http://exodus1.eu:8080/blue123/blue123/441087
+http://main.volcanictv.com:25461/test1/test1/21107
 #EXTINF:-1 tvg-ID="Super Ecran 2" tvg-name="Super Ecran2" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran2.png" group-title="5 - Film FR",Super Ecran 2
 http://f.ok2.se:8000/Fonzi/Fonzi/2415
 #EXTINF:-1 tvg-ID="Super Ecran 2" tvg-name="Super Ecran2" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran2.png" group-title="5 - Film FR",Super Ecran 2
 http://mytv.fun:8080/tz5jf5das/dtjcol7923/53724
 
 #EXTINF:-1 tvg-ID="Super Ecran 3" tvg-name="Super Ecran3" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran3.png" group-title="5 - Film FR",Super Ecran 3
-http://exodus1.eu:8080/blue123/blue123/441088
+http://main.volcanictv.com:25461/test1/test1/21108
 #EXTINF:-1 tvg-ID="Super Ecran 3" tvg-name="Super Ecran3" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran3.png" group-title="5 - Film FR",Super Ecran 3
 http://f.ok2.se:8000/Fonzi/Fonzi/2416
 #EXTINF:-1 tvg-ID="Super Ecran 3" tvg-name="Super Ecran3" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran3.png" group-title="5 - Film FR",Super Ecran 3
 http://mytv.fun:8080/tz5jf5das/dtjcol7923/53723
 
 #EXTINF:-1 tvg-ID="Super Ecran 4" tvg-name="Super Ecran4" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran4.jpg" group-title="5 - Film FR",Super Ecran 4
-http://exodus1.eu:8080/blue123/blue123/441089
+http://main.volcanictv.com:25461/test1/test1/21109
 #EXTINF:-1 tvg-ID="Super Ecran 4" tvg-name="Super Ecran4" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran4.jpg" group-title="5 - Film FR",Super Ecran 4
 http://f.ok2.se:8000/Fonzi/Fonzi/25196
 #EXTINF:-1 tvg-ID="Super Ecran 4" tvg-name="Super Ecran4" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran4.jpg" group-title="5 - Film FR",Super Ecran 4
@@ -149,22 +149,22 @@ http://mytv.fun:8080/tz5jf5das/dtjcol7923/4917
 http://restream.geniptv.com:8080/live:mediatvtop/lbCCll4Rga/504
 
 #EXTINF:-1 tvg-ID="TSN1" tvg-name="TSN1" group-title="6 - Sports EN",TSN 1
-http://ingrid.ltd:25461/Cc1/Cc1/67331
+http://main.volcanictv.com:25461/test1/test1/21072
 #EXTINF:-1 tvg-ID="TSN1" tvg-name="TSN1" group-title="6 - Sports EN",TSN 1
 http://mytv.fun:8080/tz5jf5das/dtjcol7923/6353
 
 #EXTINF:-1 tvg-ID="TSN2" tvg-name="TSN2" group-title="6 - Sports EN",TSN 2
-http://ingrid.ltd:25461/Cc1/Cc1/67330
+http://main.volcanictv.com:25461/test1/test1/21071
 #EXTINF:-1 tvg-ID="TSN2" tvg-name="TSN2" group-title="6 - Sports EN",TSN 2
 http://mytv.fun:8080/tz5jf5das/dtjcol7923/6352
 
 #EXTINF:-1 tvg-ID="TSN3" tvg-name="TSN3" group-title="6 - Sports EN",TSN 3
-http://185.232.53.5:2086/gennaro/gennaro/8802
+http://main.volcanictv.com:25461/test1/test1/21070
 #EXTINF:-1 tvg-ID="TSN3" tvg-name="TSN3" group-title="6 - Sports EN",TSN 3
 http://mytv.fun:8080/tz5jf5das/dtjcol7923/6351
 
 #EXTINF:-1 tvg-ID="TSN4" tvg-name="TSN4" group-title="6 - Sports EN",TSN 4
-http://ingrid.ltd:25461/Cc1/Cc1/67328
+http://main.volcanictv.com:25461/test1/test1/21069
 #EXTINF:-1 tvg-ID="TSN4" tvg-name="TSN4" group-title="6 - Sports EN",TSN 4
 http://mytv.fun:8080/tz5jf5das/dtjcol7923/679808
 
@@ -239,7 +239,7 @@ http://mytv.fun:8080/tz5jf5das/dtjcol7923/14404
 #EXTINF:-1,== English Channel======================
 
 #EXTINF:-1 tvg-ID="AMC - Canada" tvg-name="AMC - Canada" group-title="7 - English",AMC
-http://ingrid.ltd:25461/Cc1/Cc1/67318
+http://185.232.53.5:2086/gennaro/gennaro/3283
 #EXTINF:-1 tvg-ID="AMC - Canada" tvg-name="AMC - Canada" group-title="7 - English",AMC
 http://f.ok2.se:8000/Fonzi/Fonzi/334
 
