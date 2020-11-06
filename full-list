@@ -5,14 +5,10 @@
 #EXTINF:-1 tvg-id="RDI (News)" tvg-name="ICI RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="1 - Quebec Base",ICI RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
 #EXTINF:-1 tvg-id="RDI (News)" tvg-name="ICI RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="1 - Quebec Base",ICI RDI
-http://flow2.biz:25461/live/800104/800104/4564.ts
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/140376
 #EXTINF:-1 tvg-id="RDI (News)" tvg-name="ICI RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="1 - Quebec Base",ICI RDI
 http://f.ok2.se:8000/Fonzi/Fonzi/2396
 
-#EXTINF:-1 tvg-ID="src-CBFT" tvg-name="CBFT" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI Montreal
-http://flow2.biz:25461/live/800104/800104/4562.ts
-#EXTINF:-1 tvg-ID="src-CBFT" tvg-name="CBFT" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI Montreal
-http://flow2.biz:25461/live/800104/800104/4561.ts
 #EXTINF:-1 tvg-ID="src-CBFT" tvg-name="CBFT" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI Montreal
 http://mytv.fun:8080/Jose_Pereira/MEpFKdt2T2/17748
 #EXTINF:-1 tvg-ID="src-CBFT" tvg-name="CBFT" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI Montreal
@@ -20,23 +16,23 @@ http://f.ok2.se:8000/Fonzi/Fonzi/2399
 
 
 #EXTINF:-1 tvg-ID="TVA (CFTM) Montréal" tvg-name="CFMT" tvg-logo="https://s3.amazonaws.com/ok2logo/tva.png" group-title="1 - Quebec Base",TVA Gatineau
-http://flow2.biz:25461/live/800104/800104/6167.ts
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/215124
+#EXTINF:-1 tvg-ID="TVA (CFTM) Montréal" tvg-name="CFMT" tvg-logo="https://s3.amazonaws.com/ok2logo/tva.png" group-title="1 - Quebec Base",TVA Montreal
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/215122
 #EXTINF:-1 tvg-ID="TVA (CFTM) Montréal" tvg-name="CFMT" tvg-logo="https://s3.amazonaws.com/ok2logo/tva.png" group-title="1 - Quebec Base",TVA Montreal
 http://mytv.fun:8080/Jose_Pereira/MEpFKdt2T2/53718
 #EXTINF:-1 tvg-ID="TVA (CFTM) Montréal" tvg-name="CFMT" tvg-logo="https://s3.amazonaws.com/ok2logo/tva.png" group-title="1 - Quebec Base",TVA Montreal
 http://f.ok2.se:8000/Fonzi/Fonzi/2395
 
 #EXTINF:-1 tvg-ID="V (CFJP) Montreal, QC" tvg-name="V (CFJP) Montreal, QC" tvg-logo="https://s3.amazonaws.com/ok2logo/CANALV+TV+logo.png" group-title="1 - Quebec Base",V-Tele
-http://flow2.biz:25461/live/800104/800104/4463.ts
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/215128
 #EXTINF:-1 tvg-ID="V (CFJP) Montreal, QC" tvg-name="V (CFJP) Montreal, QC" tvg-logo="https://s3.amazonaws.com/ok2logo/CANALV+TV+logo.png" group-title="1 - Quebec Base",V-Tele
 https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
 #EXTINF:-1 tvg-ID="V (CFJP) Montreal, QC" tvg-name="V (CFJP) Montreal, QC" tvg-logo="https://s3.amazonaws.com/ok2logo/CANALV+TV+logo.png" group-title="1 - Quebec Base",V-Tele
 http://f.ok2.se:8000/Fonzi/Fonzi/9634
 
 #EXTINF:-1 tvg-ID="LCN" tvg-name="LCN" tvg-logo="https://s3.amazonaws.com/ok2logo/LCN.gif" group-title="1 - Quebec Base",LCN
-http://flow2.biz:25461/live/800104/800104/4568.ts
-#EXTINF:-1 tvg-ID="LCN" tvg-name="LCN" tvg-logo="https://s3.amazonaws.com/ok2logo/LCN.gif" group-title="1 - Quebec Base",LCN HD
-http://flow2.biz:25461/live/800104/800104/24883.ts
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/30944
 #EXTINF:-1 tvg-ID="LCN" tvg-name="LCN" tvg-logo="https://s3.amazonaws.com/ok2logo/LCN.gif" group-title="1 - Quebec Base",LCN
 http://mytv.fun:8080/Jose_Pereira/MEpFKdt2T2/678483
 #EXTINF:-1 tvg-ID="LCN" tvg-name="LCN" tvg-logo="https://s3.amazonaws.com/ok2logo/LCN.gif" group-title="1 - Quebec Base",LCN
@@ -49,14 +45,17 @@ http://f.ok2.se:8000/Fonzi/Fonzi/9635
 #EXTINF:-1,== Special======================
 
 #EXTINF:-1 tvg-ID="Addik TV" tvg-name="ADDIK" tvg-logo="" group-title="2 - Quebec Specialise",Addik TV
-http://flow2.biz:25461/live/800104/800104/24884.ts
-#EXTINF:-1 tvg-ID="Addik TV" tvg-name="ADDIK" tvg-logo="" group-title="2 - Quebec Specialise",Addik TV
 http://mytv.fun:8080/Jose_Pereira/MEpFKdt2T2/632750
+#EXTINF:-1 tvg-ID="Addik TV" tvg-name="ADDIK" tvg-logo="" group-title="2 - Quebec Specialise",Addik TV
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/30961
 #EXTINF:-1 tvg-ID="Addik TV" tvg-name="ADDIK" tvg-logo="" group-title="2 - Quebec Specialise",Addik TV
 http://f.ok2.se:8000/Fonzi/Fonzi/2412
 
+
 #EXTINF:-1 tvg-ID="Canal D" tvg-name="D" tvg-logo="https://s3.amazonaws.com/ok2logo/CANAL+D.png" group-title="2 - Quebec Specialise",CANAL D
-http://flow2.biz:25461/live/800104/800104/24877.ts
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/30958
+#EXTINF:-1 tvg-ID="Canal D" tvg-name="D" tvg-logo="https://s3.amazonaws.com/ok2logo/CANAL+D.png" group-title="2 - Quebec Specialise",CANAL D
+http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93944.ts
 #EXTINF:-1 tvg-ID="Canal D" tvg-name="D" tvg-logo="https://s3.amazonaws.com/ok2logo/CANAL+D.png" group-title="2 - Quebec Specialise",CANAL D
 http://mytv.fun:8080/Jose_Pereira/MEpFKdt2T2/632740
 #EXTINF:-1 tvg-ID="Canal D" tvg-name="D" tvg-logo="https://s3.amazonaws.com/ok2logo/CANAL+D.png" group-title="2 - Quebec Specialise",CANAL D
@@ -65,11 +64,14 @@ http://f.ok2.se:8000/Fonzi/Fonzi/9633
 #EXTINF:-1 tvg-ID="Prise 2" tvg-name="Prise 2" group-title="2 - Quebec Specialise",Prise 2
 http://185.232.53.5:2086/arellano/kgtL965n2Y/93943
 #EXTINF:-1 tvg-ID="Prise 2" tvg-name="Prise 2" group-title="2 - Quebec Specialise",Prise 2
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/30939
+#EXTINF:-1 tvg-ID="Prise 2" tvg-name="Prise 2" group-title="2 - Quebec Specialise",Prise 2
 http://f.ok2.se:8000/Fonzi/Fonzi/2413
 
 
+
 #EXTINF:-1 tvg-ID="Z" tvg-name="Z" tvg-logo="https://s3.amazonaws.com/ok2logo/ztele.png" group-title="2 - Quebec Specialise",Z-Tele
-http://flow2.biz:25461/live/800104/800104/24879.ts
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/30913
 #EXTINF:-1 tvg-ID="Z" tvg-name="Z" tvg-logo="https://s3.amazonaws.com/ok2logo/ztele.png" group-title="2 - Quebec Specialise",Z-Tele
 http://mytv.fun:8080/Jose_Pereira/MEpFKdt2T2/53699
 #EXTINF:-1 tvg-ID="Z" tvg-name="Z" tvg-logo="https://s3.amazonaws.com/ok2logo/ztele.png" group-title="2 - Quebec Specialise",Z-Tele
@@ -80,7 +82,7 @@ http://f.ok2.se:8000/Fonzi/Fonzi/2411
 #EXTINF:-1,== Kids======================
 
 #EXTINF:-1 tvg-ID="TéléTOON - français" tvg-name="TELETOON FR" tvg-logo="https://s3.amazonaws.com/ok2logo/teletoon.png" group-title="3 - Kids",Teletoon FR
-http://flow2.biz:25461/live/800104/800104/24901.ts
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/30992
 #EXTINF:-1 tvg-ID="TéléTOON - français" tvg-name="TELETOON FR" tvg-logo="https://s3.amazonaws.com/ok2logo/teletoon.png" group-title="3 - Kids",Teletoon FR
 http://mytv.fun:8080/Jose_Pereira/MEpFKdt2T2/632625
 #EXTINF:-1 tvg-ID="TéléTOON - français" tvg-name="TELETOON FR" tvg-logo="https://s3.amazonaws.com/ok2logo/teletoon.png" group-title="3 - Kids",Teletoon FR
@@ -89,56 +91,53 @@ http://f.ok2.se:8000/Fonzi/Fonzi/46743
 
 #EXTINF:-1,== Sport ======================
 
+
 #EXTINF:-1 tvg-ID="RDS (Réseau des sports)" tvg-name="RDS" tvg-logo="https://s3.amazonaws.com/ok2logo/rds.png" group-title="4 - Sports FR",RDS
-http://flow2.biz:25461/live/800104/800104/24881.ts
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/30937
 #EXTINF:-1 tvg-ID="RDS (Réseau des sports)" tvg-name="RDS" tvg-logo="https://s3.amazonaws.com/ok2logo/rds.png" group-title="4 - Sports FR",RDS
 http://mytv.fun:8080/Jose_Pereira/MEpFKdt2T2/53730
 #EXTINF:-1 tvg-ID="RDS (Réseau des sports)" tvg-name="RDS" tvg-logo="https://s3.amazonaws.com/ok2logo/rds.png" group-title="4 - Sports FR",RDS
 http://f.ok2.se:8000/Fonzi/Fonzi/2404
 
 #EXTINF:-1 tvg-ID="RDS 2" tvg-name="RDS2" tvg-logo="https://s3.amazonaws.com/ok2logo/rds.png" group-title="4 - Sports FR",RDS2
-http://flow2.biz:25461/live/800104/800104/24882.ts
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/30936
 
 #EXTINF:-1 tvg-ID="TVA Sports" tvg-name="TVA Sports" tvg-logo="https://s3.amazonaws.com/ok2logo/tva1.png" group-title="4 - Sports FR",TVA Sports
-http://flow2.biz:25461/live/800104/800104/4845.ts
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/30976
 #EXTINF:-1 tvg-ID="TVA Sports" tvg-name="TVA Sports" tvg-logo="https://s3.amazonaws.com/ok2logo/tva1.png" group-title="4 - Sports FR",TVA Sports
 http://mytv.fun:8080/Jose_Pereira/MEpFKdt2T2/53716
 #EXTINF:-1 tvg-ID="TVA Sports" tvg-name="TVA Sports" tvg-logo="https://s3.amazonaws.com/ok2logo/tva1.png" group-title="4 - Sports FR",TVA Sports
 http://f.ok2.se:8000/Fonzi/Fonzi/2406
 
 #EXTINF:-1 tvg-ID="TVA Sports 2" tvg-name="TVA Sports 2" tvg-logo="https://s3.amazonaws.com/ok2logo/tva1.png" group-title="4 - Sports FR",TVA Sports 2
-http://flow2.biz:25461/live/800104/800104/36331.ts
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/104481
 
 
 #EXTINF:-1,== Film======================
 
-#EXTINF:-1 tvg-ID="Cinépop" tvg-name="Cinépop" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran.png" group-title="5 - Film FR",Cinépop
-http://flow2.biz:25461/live/800104/800104/24889.ts
-
-
 #EXTINF:-1 tvg-ID="Super Ecran" tvg-name="Super Ecran" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran.png" group-title="5 - Film FR",Super Ecran
-http://flow2.biz:25461/live/800104/800104/24873.ts
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/30933
 #EXTINF:-1 tvg-ID="Super Ecran" tvg-name="Super Ecran" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran.png" group-title="5 - Film FR",Super Ecran
 http://mytv.fun:8080/Jose_Pereira/MEpFKdt2T2/53725
 #EXTINF:-1 tvg-ID="Super Ecran" tvg-name="Super Ecran" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran.png" group-title="5 - Film FR",Super Ecran
 http://f.ok2.se:8000/Fonzi/Fonzi/2414
 
 #EXTINF:-1 tvg-ID="Super Ecran 2" tvg-name="Super Ecran2" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran2.png" group-title="5 - Film FR",Super Ecran 2
-http://flow2.biz:25461/live/800104/800104/24874.ts
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/30932
 #EXTINF:-1 tvg-ID="Super Ecran 2" tvg-name="Super Ecran2" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran2.png" group-title="5 - Film FR",Super Ecran 2
 http://mytv.fun:8080/Jose_Pereira/MEpFKdt2T2/53724
 #EXTINF:-1 tvg-ID="Super Ecran 2" tvg-name="Super Ecran2" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran2.png" group-title="5 - Film FR",Super Ecran 2
 http://f.ok2.se:8000/Fonzi/Fonzi/2415
 
 #EXTINF:-1 tvg-ID="Super Ecran 3" tvg-name="Super Ecran3" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran3.png" group-title="5 - Film FR",Super Ecran 3
-http://flow2.biz:25461/live/800104/800104/24875.ts
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/30931
 #EXTINF:-1 tvg-ID="Super Ecran 3" tvg-name="Super Ecran3" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran3.png" group-title="5 - Film FR",Super Ecran 3
 http://mytv.fun:8080/Jose_Pereira/MEpFKdt2T2/53723
 #EXTINF:-1 tvg-ID="Super Ecran 3" tvg-name="Super Ecran3" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran3.png" group-title="5 - Film FR",Super Ecran 3
 http://f.ok2.se:8000/Fonzi/Fonzi/2416
 
 #EXTINF:-1 tvg-ID="Super Ecran 4" tvg-name="Super Ecran4" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran4.jpg" group-title="5 - Film FR",Super Ecran 4
-http://flow2.biz:25461/live/800104/800104/24876.ts
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/30930
 #EXTINF:-1 tvg-ID="Super Ecran 4" tvg-name="Super Ecran4" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran4.jpg" group-title="5 - Film FR",Super Ecran 4
 http://mytv.fun:8080/Jose_Pereira/MEpFKdt2T2/53722
 #EXTINF:-1 tvg-ID="Super Ecran 4" tvg-name="Super Ecran4" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran4.jpg" group-title="5 - Film FR",Super Ecran 4
@@ -178,6 +177,33 @@ http://185.232.53.5:2086/arellano/kgtL965n2Y/3199
 #EXTINF:-1 tvg-ID="TSN4" tvg-name="TSN4" group-title="6 - Sports EN",TSN 4
 http://mytv.fun:8080/Jose_Pereira/MEpFKdt2T2/679808
 
+#EXTINF:-1,NFL 1
+http://f.ok2.se:8000/Fonzi/Fonzi/105007
+#EXTINF:-1,NFL 2
+http://f.ok2.se:8000/Fonzi/Fonzi/105008
+#EXTINF:-1,NFL 3
+http://f.ok2.se:8000/Fonzi/Fonzi/105009
+#EXTINF:-1,NFL 4
+http://f.ok2.se:8000/Fonzi/Fonzi/105010
+#EXTINF:-1,NFL 5
+http://f.ok2.se:8000/Fonzi/Fonzi/105011
+#EXTINF:-1,NFL 6
+http://f.ok2.se:8000/Fonzi/Fonzi/105012
+#EXTINF:-1,NFL 7
+http://f.ok2.se:8000/Fonzi/Fonzi/105013
+#EXTINF:-1,NFL 8
+http://f.ok2.se:8000/Fonzi/Fonzi/105014
+#EXTINF:-1,NFL 9
+http://f.ok2.se:8000/Fonzi/Fonzi/105015
+#EXTINF:-1,NFL 10
+http://f.ok2.se:8000/Fonzi/Fonzi/105016
+#EXTINF:-1,NFL 11
+http://f.ok2.se:8000/Fonzi/Fonzi/105017
+#EXTINF:-1,NFL 12
+http://f.ok2.se:8000/Fonzi/Fonzi/105018
+#EXTINF:-1,NFL 13
+http://f.ok2.se:8000/Fonzi/Fonzi/105019
+
 #EXTINF:-1,NFL1 HD [Match Time] US
 http://mytv.fun:8080/Jose_Pereira/MEpFKdt2T2/677827
 #EXTINF:-1,NFL2 HD [Match Time] US
@@ -197,15 +223,19 @@ http://mytv.fun:8080/Jose_Pereira/MEpFKdt2T2/4875
 
 
 #EXTINF:-1 tvg-ID="Fight Network Canada" tvg-name="Fight Network" group-title="6 - Sports EN",Fight Network
-http://flow2.biz:25461/live/800104/800104/4533.ts
-#EXTINF:-1 tvg-ID="Fight Network Canada" tvg-name="Fight Network" group-title="6 - Sports EN",Fight Network
 http://mytv.fun:8080/Jose_Pereira/MEpFKdt2T2/13748
 #EXTINF:-1 tvg-ID="Fight Network Canada" tvg-name="Fight Network" group-title="6 - Sports EN",Fight Network
 http://f.ok2.se:8000/Fonzi/Fonzi/71284
 
 #EXTINF:-1 tvg-ID="UFC Fight Pass US" tvg-name="UFC Fight Pass US" group-title="6 - Sports EN",UFC Fight Pass US
+http://f.ok2.se:8000/Fonzi/Fonzi/71284
 
 #EXTINF:-1 tvg-ID="UFC TV" tvg-name="UFC TV" group-title="6 - Sports EN",UFC TV
+http://f.ok2.se:8000/Fonzi/Fonzi/83342
+#EXTINF:-1 tvg-ID="UFC TV" tvg-name="UFC TV" group-title="6 - Sports EN",UFC TV
+http://f.ok2.se:8000/Fonzi/Fonzi/83343
+#EXTINF:-1 tvg-ID="UFC TV" tvg-name="UFC TV" group-title="6 - Sports EN",UFC TV
+http://f.ok2.se:8000/Fonzi/Fonzi/85523
 
 
 #EXTINF:-1 tvg-ID="WWE" tvg-name="WWE" group-title="6 - Sports EN",WWE
@@ -215,15 +245,17 @@ http://mytv.fun:8080/Jose_Pereira/MEpFKdt2T2/14404
 #EXTINF:-1,== English Channel======================
 
 #EXTINF:-1 tvg-ID="AMC - Canada" tvg-name="AMC - Canada" group-title="7 - English",AMC
-http://flow2.biz:25461/live/800104/800104/4450.ts
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/28267
 #EXTINF:-1 tvg-ID="AMC - Canada" tvg-name="AMC - Canada" group-title="7 - English",AMC
 http://mytv.fun:8080/Jose_Pereira/MEpFKdt2T2/4959
 #EXTINF:-1 tvg-ID="AMC - Canada" tvg-name="AMC - Canada" group-title="7 - English",AMC
 http://185.232.53.5:2086/gennaro/gennaro/3283
 
+http://exodus1.eu:8080/blue123/blue123/440969?checkedby:hlscat.com
+http://mains.vip:2086/craigg/1Lurn7m3F1/3283?checkedby:hlscat.com
 
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="" group-title="7 - English",CNN
-http://flow2.biz:25461/live/800104/800104/4489.ts
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/28235
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="" group-title="7 - English",CNN
 http://f.ok2.se:8000/Fonzi/Fonzi/360
 
@@ -238,26 +270,6 @@ http://flow2.biz:25461/live/800104/800104/4538.ts
 http://f.ok2.se:8000/Fonzi/Fonzi/363
 
 
-
-#EXTINF:-1, Adult Red Erotic 1
-http://flow2.biz:25461/live/800104/800104/27669.ts
-
-#EXTINF:-1, Adult Red Erotic 2
-http://flow2.biz:25461/live/800104/800104/27670.ts
-#EXTINF:-1,Adult Brazzers TV 2
-http://flow2.biz:25461/live/800104/800104/27692.ts
-#EXTINF:-1, Adult Brazzers TV 3
-http://flow2.biz:25461/live/800104/800104/27693.ts
-#EXTINF:-1, Adult Brazzers TV 4
-http://flow2.biz:25461/live/800104/800104/27694.ts
-#EXTINF:-1, Adult Brazzers TV 5
-http://flow2.biz:25461/live/800104/800104/27695.ts
-#EXTINF:-1,PlayBoy TV (18+)
-http://flow2.biz:25461/live/800104/800104/27668.ts
-#EXTINF:-1,PlayBoy TV (18+)
-http://flow2.biz:25461/live/800104/800104/27667.ts
-#EXTINF:-1,BRAZZERS
-http://flow2.biz:25461/live/800104/800104/27641.ts
 
 #EXTINF:-1,Brazzers (18+) US
 http://mytv.fun:8080/Jose_Pereira/MEpFKdt2T2/13403
@@ -306,3 +318,6 @@ http://f.ok2.se:8000/Fonzi/Fonzi/6573
 http://f.ok2.se:8000/Fonzi/Fonzi/6615
 #EXTINF:-1,PENTHOUSE
 http://f.ok2.se:8000/Fonzi/Fonzi/71118
+#EXTINF:-1,HUSTLER HD
+http://f.ok2.se:8000/Fonzi/Fonzi/302
+
