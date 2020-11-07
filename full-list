@@ -69,14 +69,12 @@ http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/30939
 http://f.ok2.se:8000/Fonzi/Fonzi/2413
 
 
-
 #EXTINF:-1 tvg-ID="Z" tvg-name="Z" tvg-logo="https://s3.amazonaws.com/ok2logo/ztele.png" group-title="2 - Quebec Specialise",Z-Tele
 http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/30913
 #EXTINF:-1 tvg-ID="Z" tvg-name="Z" tvg-logo="https://s3.amazonaws.com/ok2logo/ztele.png" group-title="2 - Quebec Specialise",Z-Tele
 http://mytv.fun:8080/Jose_Pereira/MEpFKdt2T2/53699
 #EXTINF:-1 tvg-ID="Z" tvg-name="Z" tvg-logo="https://s3.amazonaws.com/ok2logo/ztele.png" group-title="2 - Quebec Specialise",Z-Tele
 http://f.ok2.se:8000/Fonzi/Fonzi/2411
-
 
 
 #EXTINF:-1,== Kids======================
@@ -177,32 +175,6 @@ http://185.232.53.5:2086/arellano/kgtL965n2Y/3199
 #EXTINF:-1 tvg-ID="TSN4" tvg-name="TSN4" group-title="6 - Sports EN",TSN 4
 http://mytv.fun:8080/Jose_Pereira/MEpFKdt2T2/679808
 
-#EXTINF:-1,NFL 1
-http://f.ok2.se:8000/Fonzi/Fonzi/105007
-#EXTINF:-1,NFL 2
-http://f.ok2.se:8000/Fonzi/Fonzi/105008
-#EXTINF:-1,NFL 3
-http://f.ok2.se:8000/Fonzi/Fonzi/105009
-#EXTINF:-1,NFL 4
-http://f.ok2.se:8000/Fonzi/Fonzi/105010
-#EXTINF:-1,NFL 5
-http://f.ok2.se:8000/Fonzi/Fonzi/105011
-#EXTINF:-1,NFL 6
-http://f.ok2.se:8000/Fonzi/Fonzi/105012
-#EXTINF:-1,NFL 7
-http://f.ok2.se:8000/Fonzi/Fonzi/105013
-#EXTINF:-1,NFL 8
-http://f.ok2.se:8000/Fonzi/Fonzi/105014
-#EXTINF:-1,NFL 9
-http://f.ok2.se:8000/Fonzi/Fonzi/105015
-#EXTINF:-1,NFL 10
-http://f.ok2.se:8000/Fonzi/Fonzi/105016
-#EXTINF:-1,NFL 11
-http://f.ok2.se:8000/Fonzi/Fonzi/105017
-#EXTINF:-1,NFL 12
-http://f.ok2.se:8000/Fonzi/Fonzi/105018
-#EXTINF:-1,NFL 13
-http://f.ok2.se:8000/Fonzi/Fonzi/105019
 
 #EXTINF:-1,NFL1 HD [Match Time] US
 http://mytv.fun:8080/Jose_Pereira/MEpFKdt2T2/677827
@@ -218,97 +190,9 @@ http://mytv.fun:8080/Jose_Pereira/MEpFKdt2T2/677831
 http://mytv.fun:8080/Jose_Pereira/MEpFKdt2T2/677832
 #EXTINF:-1,NFL7 HD [Match Time] US
 http://mytv.fun:8080/Jose_Pereira/MEpFKdt2T2/677833
+
 #EXTINF:-1,NHL Network HD US
 http://mytv.fun:8080/Jose_Pereira/MEpFKdt2T2/4875
-
-#EXTINF:-1,NFL GAME PASS 1
-http://primeplus.tv:8080/live/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/247612.ts
-#EXTINF:-1,NFL GAME PASS 2
-http://primeplus.tv:8080/live/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/247611.ts
-#EXTINF:-1,NFL GAME PASS 3
-http://primeplus.tv:8080/live/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/247610.ts
-#EXTINF:-1,NFL GAME PASS 4
-http://primeplus.tv:8080/live/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/247609.ts
-#EXTINF:-1,NFL GAME PASS 5
-http://primeplus.tv:8080/live/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/247608.ts
-#EXTINF:-1,NFL GAME PASS 6
-http://primeplus.tv:8080/live/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/247607.ts
-#EXTINF:-1,NFL GAME PASS 7
-http://primeplus.tv:8080/live/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/247606.ts
-#EXTINF:-1,NFL GAME PASS 8
-http://primeplus.tv:8080/live/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/247605.ts
-#EXTINF:-1,NFL GAME PASS 9
-http://primeplus.tv:8080/live/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/247604.ts
-#EXTINF:-1,NFL GAME PASS 10
-http://primeplus.tv:8080/live/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/247603.ts
-#EXTINF:-1,NFL 49ERS
-http://primeplus.tv:8080/live/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/247644.ts
-#EXTINF:-1,NFL BEARS
-http://primeplus.tv:8080/live/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/247643.ts
-#EXTINF:-1,NFL BENGALS
-http://primeplus.tv:8080/live/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/247642.ts
-#EXTINF:-1,NFL BILLS
-http://primeplus.tv:8080/live/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/247641.ts
-#EXTINF:-1,NFL BRONCOS
-http://primeplus.tv:8080/live/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/247640.ts
-#EXTINF:-1,NFL BROWNS
-http://primeplus.tv:8080/live/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/247639.ts
-#EXTINF:-1,NFL BUCCANEERS
-http://primeplus.tv:8080/live/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/247638.ts
-#EXTINF:-1,NFL CARDINALS
-http://primeplus.tv:8080/live/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/247637.ts
-#EXTINF:-1,NFL CHARGERS
-http://primeplus.tv:8080/live/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/247636.ts
-#EXTINF:-1,NFL CHIEFS
-http://primeplus.tv:8080/live/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/247635.ts
-#EXTINF:-1,NFL COLTS
-http://primeplus.tv:8080/live/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/247634.ts
-#EXTINF:-1,NFL COWBOYS
-http://primeplus.tv:8080/live/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/247633.ts
-#EXTINF:-1,NFL DOLPHINS
-http://primeplus.tv:8080/live/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/247632.ts
-#EXTINF:-1,NFL EAGLES
-http://primeplus.tv:8080/live/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/247631.ts
-#EXTINF:-1,NFL FALCONS
-http://primeplus.tv:8080/live/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/247630.ts
-#EXTINF:-1,NFL GIANTS
-http://primeplus.tv:8080/live/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/247629.ts
-#EXTINF:-1,NFL JAGUARS
-http://primeplus.tv:8080/live/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/247628.ts
-#EXTINF:-1,NFL JETS
-http://primeplus.tv:8080/live/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/247627.ts
-#EXTINF:-1,NFL LIONS
-http://primeplus.tv:8080/live/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/247626.ts
-#EXTINF:-1,NFL PACKERS
-http://primeplus.tv:8080/live/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/247625.ts
-#EXTINF:-1,NFL PANTHERS
-http://primeplus.tv:8080/live/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/247624.ts
-#EXTINF:-1,NFL PATRIOTS
-http://primeplus.tv:8080/live/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/247623.ts
-#EXTINF:-1,NFL RAIDERS
-http://primeplus.tv:8080/live/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/247622.ts
-#EXTINF:-1,NFL RAMS
-http://primeplus.tv:8080/live/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/247621.ts
-#EXTINF:-1,NFL RAVENS
-http://primeplus.tv:8080/live/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/247620.ts
-#EXTINF:-1,NFL REDSKINS
-http://primeplus.tv:8080/live/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/247619.ts
-#EXTINF:-1,NFL SAINTS
-http://primeplus.tv:8080/live/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/247618.ts
-#EXTINF:-1,NFL SEAHAWKS
-http://primeplus.tv:8080/live/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/247617.ts
-#EXTINF:-1,NFL STEELERS
-http://primeplus.tv:8080/live/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/247616.ts
-#EXTINF:-1,NFL TEXANS
-http://primeplus.tv:8080/live/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/247615.ts
-#EXTINF:-1,NFL TITANS
-http://primeplus.tv:8080/live/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/247614.ts
-#EXTINF:-1,NFL VIKINGS
-http://primeplus.tv:8080/live/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/247613.ts
-#EXTINF:-1,NFL NETWORK
-http://primeplus.tv:8080/live/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/142761.ts
-#EXTINF:-1,NFL REDZONE HD
-http://primeplus.tv:8080/live/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/233507.ts
 
 #EXTINF:-1,NHL NETWORK HD
 http://primeplus.tv:8080/live/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/140415.ts
@@ -324,14 +208,6 @@ http://f.ok2.se:8000/Fonzi/Fonzi/71284
 #EXTINF:-1 tvg-ID="UFC Fight Pass US" tvg-name="UFC Fight Pass US" group-title="6 - Sports EN",UFC Fight Pass US
 http://f.ok2.se:8000/Fonzi/Fonzi/71284
 
-#EXTINF:-1 tvg-ID="UFC TV" tvg-name="UFC TV" group-title="6 - Sports EN",UFC TV
-http://f.ok2.se:8000/Fonzi/Fonzi/83342
-#EXTINF:-1 tvg-ID="UFC TV" tvg-name="UFC TV" group-title="6 - Sports EN",UFC TV
-http://f.ok2.se:8000/Fonzi/Fonzi/83343
-#EXTINF:-1 tvg-ID="UFC TV" tvg-name="UFC TV" group-title="6 - Sports EN",UFC TV
-http://f.ok2.se:8000/Fonzi/Fonzi/85523
-
-
 #EXTINF:-1 tvg-ID="WWE" tvg-name="WWE" group-title="6 - Sports EN",WWE
 http://mytv.fun:8080/Jose_Pereira/MEpFKdt2T2/14404
 
@@ -345,21 +221,21 @@ http://mytv.fun:8080/Jose_Pereira/MEpFKdt2T2/4959
 #EXTINF:-1 tvg-ID="AMC - Canada" tvg-name="AMC - Canada" group-title="7 - English",AMC
 http://185.232.53.5:2086/gennaro/gennaro/3283
 
-http://exodus1.eu:8080/blue123/blue123/440969?checkedby:hlscat.com
-http://mains.vip:2086/craigg/1Lurn7m3F1/3283?checkedby:hlscat.com
 
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="" group-title="7 - English",CNN
 http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/28235
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="" group-title="7 - English",CNN
+http://mytv.fun:8080/Jose_Pereira/MEpFKdt2T2/4919
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="" group-title="7 - English",CNN
 http://f.ok2.se:8000/Fonzi/Fonzi/360
 
 #EXTINF:-1 tvg-ID="NBC (WGRZ) Buffalo, NY HD" tvg-logo="" tvg-name="NBC (WGRZ) Buffalo, NY HD" group-title="7 - English",NBC (WGRZ) Buffalo, NY HD
-http://flow2.biz:25461/live/800104/800104/4487.ts
+http://mytv.fun:8080/Jose_Pereira/MEpFKdt2T2/632655
 #EXTINF:-1 tvg-ID="NBC (WGRZ) Buffalo, NY HD" tvg-logo="" tvg-name="NBC (WGRZ) Buffalo, NY HD" group-title="7 - English",NBC (WGRZ) Buffalo, NY HD
-http://ky-iptv.com:25461/live/oscar/1234/181881.m3u8
+http://mytv.fun:8080/Jose_Pereira/MEpFKdt2T2/632769
 
 #EXTINF:-1 tvg-ID="FOX (WUTV) Buffalo, NY" tvg-logo="" tvg-name="FOX" group-title="7 - English",FOX
-http://flow2.biz:25461/live/800104/800104/4538.ts
+http://mytv.fun:8080/Jose_Pereira/MEpFKdt2T2/37066
 #EXTINF:-1 tvg-ID="FOX (WUTV) Buffalo, NY" tvg-logo="" tvg-name="FOX" group-title="7 - English",FOX
 http://f.ok2.se:8000/Fonzi/Fonzi/363
 
