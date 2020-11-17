@@ -7,12 +7,12 @@ https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
 #EXTINF:-1 tvg-id="RDI (News)" tvg-name="ICI RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="1 - Quebec Base",ICI RDI
 http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/140376
 #EXTINF:-1 tvg-id="RDI (News)" tvg-name="ICI RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="1 - Quebec Base",ICI RDI
-http://f.ok2.se:8000/Fonzi/Fonzi/2396
+http://ok2.se:8000/tonton/tonton/2396
 
 #EXTINF:-1 tvg-ID="src-CBFT" tvg-name="CBFT" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI Montreal
 http://mytv.fun:8080/Jose_Pereira/MEpFKdt2T2/17748
 #EXTINF:-1 tvg-ID="src-CBFT" tvg-name="CBFT" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI Montreal
-http://f.ok2.se:8000/Fonzi/Fonzi/2399
+http://ok2.se:8000/tonton/tonton/2399
 
 
 #EXTINF:-1 tvg-ID="TVA (CFTM) Montréal" tvg-name="CFMT" tvg-logo="https://s3.amazonaws.com/ok2logo/tva.png" group-title="1 - Quebec Base",TVA Gatineau
@@ -22,14 +22,14 @@ http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/215122
 #EXTINF:-1 tvg-ID="TVA (CFTM) Montréal" tvg-name="CFMT" tvg-logo="https://s3.amazonaws.com/ok2logo/tva.png" group-title="1 - Quebec Base",TVA Montreal
 http://mytv.fun:8080/Jose_Pereira/MEpFKdt2T2/53718
 #EXTINF:-1 tvg-ID="TVA (CFTM) Montréal" tvg-name="CFMT" tvg-logo="https://s3.amazonaws.com/ok2logo/tva.png" group-title="1 - Quebec Base",TVA Montreal
-http://f.ok2.se:8000/Fonzi/Fonzi/2395
+http://ok2.se:8000/tonton/tonton/2395
 
 #EXTINF:-1 tvg-ID="V (CFJP) Montreal, QC" tvg-name="V (CFJP) Montreal, QC" tvg-logo="https://s3.amazonaws.com/ok2logo/CANALV+TV+logo.png" group-title="1 - Quebec Base",V-Tele
 http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/215128
 #EXTINF:-1 tvg-ID="V (CFJP) Montreal, QC" tvg-name="V (CFJP) Montreal, QC" tvg-logo="https://s3.amazonaws.com/ok2logo/CANALV+TV+logo.png" group-title="1 - Quebec Base",V-Tele
 https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
 #EXTINF:-1 tvg-ID="V (CFJP) Montreal, QC" tvg-name="V (CFJP) Montreal, QC" tvg-logo="https://s3.amazonaws.com/ok2logo/CANALV+TV+logo.png" group-title="1 - Quebec Base",V-Tele
-http://f.ok2.se:8000/Fonzi/Fonzi/9634
+http://ok2.se:8000/tonton/tonton/9634
 
 #EXTINF:-1 tvg-ID="LCN" tvg-name="LCN" tvg-logo="https://s3.amazonaws.com/ok2logo/LCN.gif" group-title="1 - Quebec Base",LCN
 http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/30944
@@ -38,7 +38,7 @@ http://mytv.fun:8080/Jose_Pereira/MEpFKdt2T2/678483
 #EXTINF:-1 tvg-ID="LCN" tvg-name="LCN" tvg-logo="https://s3.amazonaws.com/ok2logo/LCN.gif" group-title="1 - Quebec Base",LCN
 http://185.232.53.5:2086/arellano/kgtL965n2Y/93927
 #EXTINF:-1 tvg-ID="LCN" tvg-name="LCN" tvg-logo="https://s3.amazonaws.com/ok2logo/LCN.gif" group-title="1 - Quebec Base",LCN
-http://f.ok2.se:8000/Fonzi/Fonzi/9635
+http://ok2.se:8000/tonton/tonton/9635
 
 
 
@@ -49,7 +49,7 @@ http://mytv.fun:8080/Jose_Pereira/MEpFKdt2T2/632750
 #EXTINF:-1 tvg-ID="Addik TV" tvg-name="ADDIK" tvg-logo="" group-title="2 - Quebec Specialise",Addik TV
 http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/30961
 #EXTINF:-1 tvg-ID="Addik TV" tvg-name="ADDIK" tvg-logo="" group-title="2 - Quebec Specialise",Addik TV
-http://f.ok2.se:8000/Fonzi/Fonzi/2412
+http://ok2.se:8000/tonton/tonton/2412
 
 
 #EXTINF:-1 tvg-ID="Canal D" tvg-name="D" tvg-logo="https://s3.amazonaws.com/ok2logo/CANAL+D.png" group-title="2 - Quebec Specialise",CANAL D
@@ -59,14 +59,15 @@ http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93944.ts
 #EXTINF:-1 tvg-ID="Canal D" tvg-name="D" tvg-logo="https://s3.amazonaws.com/ok2logo/CANAL+D.png" group-title="2 - Quebec Specialise",CANAL D
 http://mytv.fun:8080/Jose_Pereira/MEpFKdt2T2/632740
 #EXTINF:-1 tvg-ID="Canal D" tvg-name="D" tvg-logo="https://s3.amazonaws.com/ok2logo/CANAL+D.png" group-title="2 - Quebec Specialise",CANAL D
-http://f.ok2.se:8000/Fonzi/Fonzi/9633
+http://ok2.se:8000/tonton/tonton/9633
+
 
 #EXTINF:-1 tvg-ID="Prise 2" tvg-name="Prise 2" group-title="2 - Quebec Specialise",Prise 2
 http://185.232.53.5:2086/arellano/kgtL965n2Y/93943
 #EXTINF:-1 tvg-ID="Prise 2" tvg-name="Prise 2" group-title="2 - Quebec Specialise",Prise 2
 http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/30939
 #EXTINF:-1 tvg-ID="Prise 2" tvg-name="Prise 2" group-title="2 - Quebec Specialise",Prise 2
-http://f.ok2.se:8000/Fonzi/Fonzi/2413
+http://ok2.se:8000/tonton/tonton/2413
 
 
 #EXTINF:-1 tvg-ID="Z" tvg-name="Z" tvg-logo="https://s3.amazonaws.com/ok2logo/ztele.png" group-title="2 - Quebec Specialise",Z-Tele
@@ -74,7 +75,7 @@ http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/30913
 #EXTINF:-1 tvg-ID="Z" tvg-name="Z" tvg-logo="https://s3.amazonaws.com/ok2logo/ztele.png" group-title="2 - Quebec Specialise",Z-Tele
 http://mytv.fun:8080/Jose_Pereira/MEpFKdt2T2/53699
 #EXTINF:-1 tvg-ID="Z" tvg-name="Z" tvg-logo="https://s3.amazonaws.com/ok2logo/ztele.png" group-title="2 - Quebec Specialise",Z-Tele
-http://f.ok2.se:8000/Fonzi/Fonzi/2411
+http://ok2.se:8000/tonton/tonton/2411
 
 
 #EXTINF:-1,== Kids======================
@@ -84,7 +85,7 @@ http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/30992
 #EXTINF:-1 tvg-ID="TéléTOON - français" tvg-name="TELETOON FR" tvg-logo="https://s3.amazonaws.com/ok2logo/teletoon.png" group-title="3 - Kids",Teletoon FR
 http://mytv.fun:8080/Jose_Pereira/MEpFKdt2T2/632625
 #EXTINF:-1 tvg-ID="TéléTOON - français" tvg-name="TELETOON FR" tvg-logo="https://s3.amazonaws.com/ok2logo/teletoon.png" group-title="3 - Kids",Teletoon FR
-http://f.ok2.se:8000/Fonzi/Fonzi/46743
+http://ok2.se:8000/tonton/tonton/46743
 
 
 #EXTINF:-1,== Sport ======================
@@ -95,7 +96,7 @@ http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/30937
 #EXTINF:-1 tvg-ID="RDS (Réseau des sports)" tvg-name="RDS" tvg-logo="https://s3.amazonaws.com/ok2logo/rds.png" group-title="4 - Sports FR",RDS
 http://mytv.fun:8080/Jose_Pereira/MEpFKdt2T2/53730
 #EXTINF:-1 tvg-ID="RDS (Réseau des sports)" tvg-name="RDS" tvg-logo="https://s3.amazonaws.com/ok2logo/rds.png" group-title="4 - Sports FR",RDS
-http://f.ok2.se:8000/Fonzi/Fonzi/2404
+http://ok2.se:8000/tonton/tonton/2404
 
 #EXTINF:-1 tvg-ID="RDS 2" tvg-name="RDS2" tvg-logo="https://s3.amazonaws.com/ok2logo/rds.png" group-title="4 - Sports FR",RDS2
 http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/30936
@@ -105,7 +106,7 @@ http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/30976
 #EXTINF:-1 tvg-ID="TVA Sports" tvg-name="TVA Sports" tvg-logo="https://s3.amazonaws.com/ok2logo/tva1.png" group-title="4 - Sports FR",TVA Sports
 http://mytv.fun:8080/Jose_Pereira/MEpFKdt2T2/53716
 #EXTINF:-1 tvg-ID="TVA Sports" tvg-name="TVA Sports" tvg-logo="https://s3.amazonaws.com/ok2logo/tva1.png" group-title="4 - Sports FR",TVA Sports
-http://f.ok2.se:8000/Fonzi/Fonzi/2406
+http://ok2.se:8000/tonton/tonton/2406
 
 #EXTINF:-1 tvg-ID="TVA Sports 2" tvg-name="TVA Sports 2" tvg-logo="https://s3.amazonaws.com/ok2logo/tva1.png" group-title="4 - Sports FR",TVA Sports 2
 http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/104481
@@ -118,28 +119,28 @@ http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/30933
 #EXTINF:-1 tvg-ID="Super Ecran" tvg-name="Super Ecran" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran.png" group-title="5 - Film FR",Super Ecran
 http://mytv.fun:8080/Jose_Pereira/MEpFKdt2T2/53725
 #EXTINF:-1 tvg-ID="Super Ecran" tvg-name="Super Ecran" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran.png" group-title="5 - Film FR",Super Ecran
-http://f.ok2.se:8000/Fonzi/Fonzi/2414
+http://ok2.se:8000/tonton/tonton/2414
 
 #EXTINF:-1 tvg-ID="Super Ecran 2" tvg-name="Super Ecran2" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran2.png" group-title="5 - Film FR",Super Ecran 2
 http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/30932
 #EXTINF:-1 tvg-ID="Super Ecran 2" tvg-name="Super Ecran2" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran2.png" group-title="5 - Film FR",Super Ecran 2
 http://mytv.fun:8080/Jose_Pereira/MEpFKdt2T2/53724
 #EXTINF:-1 tvg-ID="Super Ecran 2" tvg-name="Super Ecran2" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran2.png" group-title="5 - Film FR",Super Ecran 2
-http://f.ok2.se:8000/Fonzi/Fonzi/2415
+http://ok2.se:8000/tonton/tonton/2415
 
 #EXTINF:-1 tvg-ID="Super Ecran 3" tvg-name="Super Ecran3" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran3.png" group-title="5 - Film FR",Super Ecran 3
 http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/30931
 #EXTINF:-1 tvg-ID="Super Ecran 3" tvg-name="Super Ecran3" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran3.png" group-title="5 - Film FR",Super Ecran 3
 http://mytv.fun:8080/Jose_Pereira/MEpFKdt2T2/53723
 #EXTINF:-1 tvg-ID="Super Ecran 3" tvg-name="Super Ecran3" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran3.png" group-title="5 - Film FR",Super Ecran 3
-http://f.ok2.se:8000/Fonzi/Fonzi/2416
+http://ok2.se:8000/tonton/tonton/2416
 
 #EXTINF:-1 tvg-ID="Super Ecran 4" tvg-name="Super Ecran4" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran4.jpg" group-title="5 - Film FR",Super Ecran 4
 http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/30930
 #EXTINF:-1 tvg-ID="Super Ecran 4" tvg-name="Super Ecran4" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran4.jpg" group-title="5 - Film FR",Super Ecran 4
 http://mytv.fun:8080/Jose_Pereira/MEpFKdt2T2/53722
 #EXTINF:-1 tvg-ID="Super Ecran 4" tvg-name="Super Ecran4" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran4.jpg" group-title="5 - Film FR",Super Ecran 4
-http://f.ok2.se:8000/Fonzi/Fonzi/25196
+http://ok2.se:8000/tonton/tonton/25196
 
 
 #EXTINF:-1,== SPORTS EN======================
@@ -153,7 +154,7 @@ http://mytv.fun:8080/Jose_Pereira/MEpFKdt2T2/14329
 #EXTINF:-1 tvg-ID="NFL Network US 1" tvg-name="NFL Network US 1" group-title="6 - Sports EN",NFL Network US 1
 http://mytv.fun:8080/Jose_Pereira/MEpFKdt2T2/4917
 #EXTINF:-1 tvg-ID="NFL Network" tvg-name="NFL Network" group-title="6 - Sports EN",NFL Network
-http://f.ok2.se:8000/Fonzi/Fonzi/105005
+http://ok2.se:8000/tonton/tonton/105005
 
 #EXTINF:-1 tvg-ID="TSN1" tvg-name="TSN1" group-title="6 - Sports EN",TSN 1
 http://185.232.53.5:2086/arellano/kgtL965n2Y/3202
@@ -203,10 +204,10 @@ http://primeplus.tv:8080/live/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/233508.ts
 #EXTINF:-1 tvg-ID="Fight Network Canada" tvg-name="Fight Network" group-title="6 - Sports EN",Fight Network
 http://mytv.fun:8080/Jose_Pereira/MEpFKdt2T2/13748
 #EXTINF:-1 tvg-ID="Fight Network Canada" tvg-name="Fight Network" group-title="6 - Sports EN",Fight Network
-http://f.ok2.se:8000/Fonzi/Fonzi/71284
+http://ok2.se:8000/tonton/tonton/71284
 
 #EXTINF:-1 tvg-ID="UFC Fight Pass US" tvg-name="UFC Fight Pass US" group-title="6 - Sports EN",UFC Fight Pass US
-http://f.ok2.se:8000/Fonzi/Fonzi/71284
+http://ok2.se:8000/tonton/tonton/71284
 
 #EXTINF:-1 tvg-ID="WWE" tvg-name="WWE" group-title="6 - Sports EN",WWE
 http://mytv.fun:8080/Jose_Pereira/MEpFKdt2T2/14404
@@ -227,7 +228,7 @@ http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/28235
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="" group-title="7 - English",CNN
 http://mytv.fun:8080/Jose_Pereira/MEpFKdt2T2/4919
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="" group-title="7 - English",CNN
-http://greenstreamtv.xyz:25461/MS11/M1234/8022
+http://ok2.se:8000/tonton/tonton/360
 
 #EXTINF:-1 tvg-ID="NBC (WGRZ) Buffalo, NY HD" tvg-logo="" tvg-name="NBC (WGRZ) Buffalo, NY HD" group-title="7 - English",NBC (WGRZ) Buffalo, NY HD
 http://mytv.fun:8080/Jose_Pereira/MEpFKdt2T2/632655
@@ -237,7 +238,6 @@ http://mytv.fun:8080/Jose_Pereira/MEpFKdt2T2/632769
 #EXTINF:-1 tvg-ID="FOX (WUTV) Buffalo, NY" tvg-logo="" tvg-name="FOX" group-title="7 - English",FOX
 http://mytv.fun:8080/Jose_Pereira/MEpFKdt2T2/37066
 #EXTINF:-1 tvg-ID="FOX (WUTV) Buffalo, NY" tvg-logo="" tvg-name="FOX" group-title="7 - English",FOX
-http://f.ok2.se:8000/Fonzi/Fonzi/363
-
+http://ok2.se:8000/tonton/tonton/363
 
 
