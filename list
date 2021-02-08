@@ -113,15 +113,19 @@ http://mytv.fun:8080/h02v2yha9/brxtfrlko/53722
 
 #EXTINF:-1,== SPORTS EN======================
 
-#EXTINF:-1 tvg-ID="NFL Network" tvg-name="NFL Network" group-title="6 - Sports EN",NFL Network
-http://mytv.fun:8080/h02v2yha9/brxtfrlko/14329
-#EXTINF:-1 tvg-ID="NFL Network US 1" tvg-name="NFL Network US 1" group-title="6 - Sports EN",NFL Network US 1
-http://mytv.fun:8080/h02v2yha9/brxtfrlko/4917
-#EXTINF:-1 tvg-ID="NFL Network" tvg-name="NFL Network" group-title="6 - Sports EN",NFL Network
-http://ok2.se:8000/tonton/tonton/105005
+#EXTINF:-1 tvg-ID="TSN1" tvg-name="TSN1" group-title="6 - Sports EN",TSN 1
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/3701?checkedby:hlscat.com
 
 #EXTINF:-1 tvg-ID="TSN1" tvg-name="TSN1" group-title="6 - Sports EN",TSN 1
+http://185.71.64.167:80/lqMyQ8APQi/CsyapqxrXw/81249?checkedby:hlscat.com
+#EXTINF:-1 tvg-ID="TSN1" tvg-name="TSN1" group-title="6 - Sports EN",TSN 1
 http://mytv.fun:8080/h02v2yha9/brxtfrlko/6353
+
+#EXTINF:-1 tvg-ID="TSN1" tvg-name="TSN1" group-title="6 - Sports EN",TSN 1
+http://185.71.64.167:80/307226126667/307226126667/81302?checkedby:hlscat.com
+
+#EXTINF:-1 tvg-ID="TSN1" tvg-name="TSN1" group-title="6 - Sports EN",TSN 1
+http://raostvip.com:8080/semi16/1609.sem/111347?checkedby:hlscat.com
 
 #EXTINF:-1 tvg-ID="TSN2" tvg-name="TSN2" group-title="6 - Sports EN",TSN 2
 http://mytv.fun:8080/h02v2yha9/brxtfrlko/6352
