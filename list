@@ -10,13 +10,13 @@ https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
 http://ok2.se:8000/tonton/tonton/2396
 
 #EXTINF:-1 tvg-ID="src-CBFT" tvg-name="CBFT" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI Montreal
-http://mytv.fun:8080/h02v2yha9/brxtfrlko/17748
+http://mytv.fun:8080/xdud9hgswo/ha69x2in69/17748
 #EXTINF:-1 tvg-ID="src-CBFT" tvg-name="CBFT" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI Montreal
 http://ok2.se:8000/tonton/tonton/2399
 
 
 #EXTINF:-1 tvg-ID="TVA (CFTM) Montréal" tvg-name="CFMT" tvg-logo="https://s3.amazonaws.com/ok2logo/tva.png" group-title="1 - Quebec Base",TVA Montreal
-http://mytv.fun:8080/h02v2yha9/brxtfrlko/53718
+http://mytv.fun:8080/xdud9hgswo/ha69x2in69/53718
 #EXTINF:-1 tvg-ID="TVA (CFTM) Montréal" tvg-name="CFMT" tvg-logo="https://s3.amazonaws.com/ok2logo/tva.png" group-title="1 - Quebec Base",TVA Montreal
 http://ok2.se:8000/tonton/tonton/2395
 
@@ -28,14 +28,14 @@ http://ok2.se:8000/tonton/tonton/9634
 #EXTINF:-1 tvg-ID="LCN" tvg-name="LCN" tvg-logo="https://s3.amazonaws.com/ok2logo/LCN.gif" group-title="1 - Quebec Base",LCN
 http://sonyiptv.net:8080/1122/1122/82374
 #EXTINF:-1 tvg-ID="LCN" tvg-name="LCN" tvg-logo="https://s3.amazonaws.com/ok2logo/LCN.gif" group-title="1 - Quebec Base",LCN
-http://mytv.fun:8080/h02v2yha9/brxtfrlko/678483
+http://mytv.fun:8080/xdud9hgswo/ha69x2in69/678483
 
 
 
 #EXTINF:-1,== Special======================
 
 #EXTINF:-1 tvg-ID="Addik TV" tvg-name="ADDIK" tvg-logo="" group-title="2 - Quebec Specialise",Addik TV
-http://mytv.fun:8080/h02v2yha9/brxtfrlko/632750
+http://mytv.fun:8080/xdud9hgswo/ha69x2in69/632750
 #EXTINF:-1 tvg-ID="Addik TV" tvg-name="ADDIK" tvg-logo="" group-title="2 - Quebec Specialise",Addik TV
 http://sonyiptv.net:8080/1122/1122/82388
 #EXTINF:-1 tvg-ID="Addik TV" tvg-name="ADDIK" tvg-logo="" group-title="2 - Quebec Specialise",Addik TV
@@ -45,7 +45,7 @@ http://ok2.se:8000/tonton/tonton/2412
 #EXTINF:-1 tvg-ID="Canal D" tvg-name="D" tvg-logo="https://s3.amazonaws.com/ok2logo/CANAL+D.png" group-title="2 - Quebec Specialise",CANAL D
 http://sonyiptv.net:8080/1122/1122/82402
 #EXTINF:-1 tvg-ID="Canal D" tvg-name="D" tvg-logo="https://s3.amazonaws.com/ok2logo/CANAL+D.png" group-title="2 - Quebec Specialise",CANAL D
-http://mytv.fun:8080/h02v2yha9/brxtfrlko/632740
+http://mytv.fun:8080/xdud9hgswo/ha69x2in69/632740
 #EXTINF:-1 tvg-ID="Canal D" tvg-name="D" tvg-logo="https://s3.amazonaws.com/ok2logo/CANAL+D.png" group-title="2 - Quebec Specialise",CANAL D
 http://ok2.se:8000/tonton/tonton/9633
 
@@ -60,7 +60,7 @@ http://ok2.se:8000/tonton/tonton/2413
 #EXTINF:-1 tvg-ID="Z" tvg-name="Z" tvg-logo="https://s3.amazonaws.com/ok2logo/ztele.png" group-title="2 - Quebec Specialise",Z-Tele
 http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/71612.ts
 #EXTINF:-1 tvg-ID="Z" tvg-name="Z" tvg-logo="https://s3.amazonaws.com/ok2logo/ztele.png" group-title="2 - Quebec Specialise",Z-Tele
-http://mytv.fun:8080/h02v2yha9/brxtfrlko/53699
+http://mytv.fun:8080/xdud9hgswo/ha69x2in69/53699
 #EXTINF:-1 tvg-ID="Z" tvg-name="Z" tvg-logo="https://s3.amazonaws.com/ok2logo/ztele.png" group-title="2 - Quebec Specialise",Z-Tele
 http://ok2.se:8000/tonton/tonton/2411
 
@@ -68,7 +68,7 @@ http://ok2.se:8000/tonton/tonton/2411
 #EXTINF:-1,== Kids======================
 
 #EXTINF:-1 tvg-ID="TéléTOON - français" tvg-name="TELETOON FR" tvg-logo="https://s3.amazonaws.com/ok2logo/teletoon.png" group-title="3 - Kids",Teletoon FR
-http://mytv.fun:8080/h02v2yha9/brxtfrlko/632625
+http://mytv.fun:8080/xdud9hgswo/ha69x2in69/632625
 #EXTINF:-1 tvg-ID="TéléTOON - français" tvg-name="TELETOON FR" tvg-logo="https://s3.amazonaws.com/ok2logo/teletoon.png" group-title="3 - Kids",Teletoon FR
 http://ok2.se:8000/tonton/tonton/46743
 
@@ -79,7 +79,7 @@ http://ok2.se:8000/tonton/tonton/46743
 #EXTINF:-1 tvg-ID="RDS (Réseau des sports)" tvg-name="RDS" tvg-logo="https://s3.amazonaws.com/ok2logo/rds.png" group-title="4 - Sports FR",RDS
 http://ea8.oknirvana.club:8880/1M7804/AJkm7aLrrY/2987
 #EXTINF:-1 tvg-ID="RDS (Réseau des sports)" tvg-name="RDS" tvg-logo="https://s3.amazonaws.com/ok2logo/rds.png" group-title="4 - Sports FR",RDS
-http://mytv.fun:8080/h02v2yha9/brxtfrlko/53730
+http://mytv.fun:8080/xdud9hgswo/ha69x2in69/53730
 #EXTINF:-1 tvg-ID="RDS (Réseau des sports)" tvg-name="RDS" tvg-logo="https://s3.amazonaws.com/ok2logo/rds.png" group-title="4 - Sports FR",RDS
 http://ok2.se:8000/tonton/tonton/2404
 
@@ -87,7 +87,7 @@ http://ok2.se:8000/tonton/tonton/2404
 http://sonyiptv.net:8080/1122/1122/82371
 
 #EXTINF:-1 tvg-ID="TVA Sports" tvg-name="TVA Sports" tvg-logo="https://s3.amazonaws.com/ok2logo/tva1.png" group-title="4 - Sports FR",TVA Sports
-http://mytv.fun:8080/h02v2yha9/brxtfrlko/53716
+http://mytv.fun:8080/xdud9hgswo/ha69x2in69/53716
 #EXTINF:-1 tvg-ID="TVA Sports" tvg-name="TVA Sports" tvg-logo="https://s3.amazonaws.com/ok2logo/tva1.png" group-title="4 - Sports FR",TVA Sports
 http://ok2.se:8000/tonton/tonton/2406
 
@@ -99,19 +99,97 @@ http://ok2.se:8000/tonton/tonton/2406
 #EXTINF:-1 tvg-ID="Super Ecran" tvg-name="Super Ecran" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran.png" group-title="5 - Film FR",Super Ecran
 http://sonyiptv.net:8080/1122/1122/82587
 #EXTINF:-1 tvg-ID="Super Ecran" tvg-name="Super Ecran" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran.png" group-title="5 - Film FR",Super Ecran
-http://mytv.fun:8080/h02v2yha9/brxtfrlko/53725
+http://mytv.fun:8080/xdud9hgswo/ha69x2in69/53725
 
 #EXTINF:-1 tvg-ID="Super Ecran 2" tvg-name="Super Ecran2" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran2.png" group-title="5 - Film FR",Super Ecran 2
-http://mytv.fun:8080/h02v2yha9/brxtfrlko/53724
+http://mytv.fun:8080/xdud9hgswo/ha69x2in69/53724
 
 #EXTINF:-1 tvg-ID="Super Ecran 3" tvg-name="Super Ecran3" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran3.png" group-title="5 - Film FR",Super Ecran 3
-http://mytv.fun:8080/h02v2yha9/brxtfrlko/53723
+http://mytv.fun:8080/xdud9hgswo/ha69x2in69/53723
 
 #EXTINF:-1 tvg-ID="Super Ecran 4" tvg-name="Super Ecran4" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran4.jpg" group-title="5 - Film FR",Super Ecran 4
-http://mytv.fun:8080/h02v2yha9/brxtfrlko/53722
+http://mytv.fun:8080/xdud9hgswo/ha69x2in69/53722
 
 
 #EXTINF:-1,== SPORTS EN======================
+
+#EXTINF:-1 tvg-ID="NFL Network" tvg-name="NFL Network" group-title="6 - Sports EN",NFL Network
+http://mytv.fun:8080/xdud9hgswo/ha69x2in69/14329
+#EXTINF:-1 tvg-ID="NFL Network US 1" tvg-name="NFL Network US 1" group-title="6 - Sports EN",NFL Network US 1
+http://mytv.fun:8080/xdud9hgswo/ha69x2in69/4917
+#EXTINF:-1 tvg-ID="NFL Network" tvg-name="NFL Network" group-title="6 - Sports EN",NFL Network
+http://ok2.se:8000/tonton/tonton/105005
+
+#EXTINF:-1 tvg-ID="TSN1" tvg-name="TSN1" group-title="6 - Sports EN",TSN 1
+http://mytv.fun:8080/xdud9hgswo/ha69x2in69/6353
+
+#EXTINF:-1 tvg-ID="TSN2" tvg-name="TSN2" group-title="6 - Sports EN",TSN 2
+http://mytv.fun:8080/xdud9hgswo/ha69x2in69/6352
+
+#EXTINF:-1 tvg-ID="TSN3" tvg-name="TSN3" group-title="6 - Sports EN",TSN 3
+http://mytv.fun:8080/xdud9hgswo/ha69x2in69/6351
+
+#EXTINF:-1 tvg-ID="TSN4" tvg-name="TSN4" group-title="6 - Sports EN",TSN 4
+http://mytv.fun:8080/xdud9hgswo/ha69x2in69/679808
+
+
+#EXTINF:-1,NFL1 HD [Match Time] US
+http://mytv.fun:8080/xdud9hgswo/ha69x2in69/677827
+#EXTINF:-1,NFL2 HD [Match Time] US
+http://mytv.fun:8080/xdud9hgswo/ha69x2in69/677828
+#EXTINF:-1,NFL3 HD [Match Time] US
+http://mytv.fun:8080/xdud9hgswo/ha69x2in69/677829
+#EXTINF:-1,NFL4 HD [Match Time] US
+http://mytv.fun:8080/xdud9hgswo/ha69x2in69/677830
+#EXTINF:-1,NFL5 HD [Match Time] US
+http://mytv.fun:8080/xdud9hgswo/ha69x2in69/677831
+#EXTINF:-1,NFL6 HD [Match Time] US
+http://mytv.fun:8080/xdud9hgswo/ha69x2in69/677832
+#EXTINF:-1,NFL7 HD [Match Time] US
+http://mytv.fun:8080/xdud9hgswo/ha69x2in69/677833
+
+#EXTINF:-1,NHL Network HD US
+http://mytv.fun:8080/xdud9hgswo/ha69x2in69/4875
+
+#EXTINF:-1 tvg-ID="Fight Network Canada" tvg-name="Fight Network" group-title="6 - Sports EN",Fight Network
+http://mytv.fun:8080/xdud9hgswo/ha69x2in69/13748
+#EXTINF:-1 tvg-ID="Fight Network Canada" tvg-name="Fight Network" group-title="6 - Sports EN",Fight Network
+http://ok2.se:8000/tonton/tonton/71284
+
+#EXTINF:-1 tvg-ID="UFC Fight Pass US" tvg-name="UFC Fight Pass US" group-title="6 - Sports EN",UFC Fight Pass US
+http://ok2.se:8000/tonton/tonton/71284
+
+#EXTINF:-1 tvg-ID="WWE" tvg-name="WWE" group-title="6 - Sports EN",WWE
+http://mytv.fun:8080/xdud9hgswo/ha69x2in69/14404
+
+
+#EXTINF:-1,== English Channel======================
+
+#EXTINF:-1 tvg-ID="AMC - Canada" tvg-name="AMC - Canada" group-title="7 - English",AMC
+http://mytv.fun:8080/xdud9hgswo/ha69x2in69/4959
+#EXTINF:-1 tvg-ID="AMC - Canada" tvg-name="AMC - Canada" group-title="7 - English",AMC
+http://185.232.53.5:2086/gennaro/gennaro/3283
+
+
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="" group-title="7 - English",CNN
+http://sonyiptv.net:8080/1122/1122/82437
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="" group-title="7 - English",CNN
+http://mytv.fun:8080/xdud9hgswo/ha69x2in69/4919
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="" group-title="7 - English",CNN
+http://ok2.se:8000/tonton/tonton/360
+
+#EXTINF:-1 tvg-ID="NBC (WGRZ) Buffalo, NY HD" tvg-logo="" tvg-name="NBC (WGRZ) Buffalo, NY HD" group-title="7 - English",NBC (WGRZ) Buffalo, NY HD
+http://mytv.fun:8080/xdud9hgswo/ha69x2in69/632655
+#EXTINF:-1 tvg-ID="NBC (WGRZ) Buffalo, NY HD" tvg-logo="" tvg-name="NBC (WGRZ) Buffalo, NY HD" group-title="7 - English",NBC (WGRZ) Buffalo, NY HD
+http://mytv.fun:8080/xdud9hgswo/ha69x2in69/632769
+
+#EXTINF:-1 tvg-ID="FOX (WUTV) Buffalo, NY" tvg-logo="" tvg-name="FOX" group-title="7 - English",FOX
+http://mytv.fun:8080/xdud9hgswo/ha69x2in69/37066
+#EXTINF:-1 tvg-ID="FOX (WUTV) Buffalo, NY" tvg-logo="" tvg-name="FOX" group-title="7 - English",FOX
+http://ok2.se:8000/tonton/tonton/363
+
+
+
 
 #EXTINF:-1 tvg-ID="TSN1" tvg-name="TSN1" group-title="6 - Sports EN",TSN 1
 http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/3701?checkedby:hlscat.com
@@ -126,71 +204,4 @@ http://185.71.64.167:80/307226126667/307226126667/81302?checkedby:hlscat.com
 
 #EXTINF:-1 tvg-ID="TSN1" tvg-name="TSN1" group-title="6 - Sports EN",TSN 1
 http://raostvip.com:8080/semi16/1609.sem/111347?checkedby:hlscat.com
-
-#EXTINF:-1 tvg-ID="TSN2" tvg-name="TSN2" group-title="6 - Sports EN",TSN 2
-http://mytv.fun:8080/h02v2yha9/brxtfrlko/6352
-
-#EXTINF:-1 tvg-ID="TSN3" tvg-name="TSN3" group-title="6 - Sports EN",TSN 3
-http://mytv.fun:8080/h02v2yha9/brxtfrlko/6351
-
-#EXTINF:-1 tvg-ID="TSN4" tvg-name="TSN4" group-title="6 - Sports EN",TSN 4
-http://mytv.fun:8080/h02v2yha9/brxtfrlko/679808
-
-
-#EXTINF:-1,NFL1 HD [Match Time] US
-http://mytv.fun:8080/h02v2yha9/brxtfrlko/677827
-#EXTINF:-1,NFL2 HD [Match Time] US
-http://mytv.fun:8080/h02v2yha9/brxtfrlko/677828
-#EXTINF:-1,NFL3 HD [Match Time] US
-http://mytv.fun:8080/h02v2yha9/brxtfrlko/677829
-#EXTINF:-1,NFL4 HD [Match Time] US
-http://mytv.fun:8080/h02v2yha9/brxtfrlko/677830
-#EXTINF:-1,NFL5 HD [Match Time] US
-http://mytv.fun:8080/h02v2yha9/brxtfrlko/677831
-#EXTINF:-1,NFL6 HD [Match Time] US
-http://mytv.fun:8080/h02v2yha9/brxtfrlko/677832
-#EXTINF:-1,NFL7 HD [Match Time] US
-http://mytv.fun:8080/h02v2yha9/brxtfrlko/677833
-
-#EXTINF:-1,NHL Network HD US
-http://mytv.fun:8080/h02v2yha9/brxtfrlko/4875
-
-#EXTINF:-1 tvg-ID="Fight Network Canada" tvg-name="Fight Network" group-title="6 - Sports EN",Fight Network
-http://mytv.fun:8080/h02v2yha9/brxtfrlko/13748
-#EXTINF:-1 tvg-ID="Fight Network Canada" tvg-name="Fight Network" group-title="6 - Sports EN",Fight Network
-http://ok2.se:8000/tonton/tonton/71284
-
-#EXTINF:-1 tvg-ID="UFC Fight Pass US" tvg-name="UFC Fight Pass US" group-title="6 - Sports EN",UFC Fight Pass US
-http://ok2.se:8000/tonton/tonton/71284
-
-#EXTINF:-1 tvg-ID="WWE" tvg-name="WWE" group-title="6 - Sports EN",WWE
-http://mytv.fun:8080/h02v2yha9/brxtfrlko/14404
-
-
-#EXTINF:-1,== English Channel======================
-
-#EXTINF:-1 tvg-ID="AMC - Canada" tvg-name="AMC - Canada" group-title="7 - English",AMC
-http://mytv.fun:8080/h02v2yha9/brxtfrlko/4959
-#EXTINF:-1 tvg-ID="AMC - Canada" tvg-name="AMC - Canada" group-title="7 - English",AMC
-http://185.232.53.5:2086/gennaro/gennaro/3283
-
-
-#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="" group-title="7 - English",CNN
-http://sonyiptv.net:8080/1122/1122/82437
-#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="" group-title="7 - English",CNN
-http://mytv.fun:8080/h02v2yha9/brxtfrlko/4919
-#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="" group-title="7 - English",CNN
-http://ok2.se:8000/tonton/tonton/360
-
-#EXTINF:-1 tvg-ID="NBC (WGRZ) Buffalo, NY HD" tvg-logo="" tvg-name="NBC (WGRZ) Buffalo, NY HD" group-title="7 - English",NBC (WGRZ) Buffalo, NY HD
-http://mytv.fun:8080/h02v2yha9/brxtfrlko/632655
-#EXTINF:-1 tvg-ID="NBC (WGRZ) Buffalo, NY HD" tvg-logo="" tvg-name="NBC (WGRZ) Buffalo, NY HD" group-title="7 - English",NBC (WGRZ) Buffalo, NY HD
-http://mytv.fun:8080/h02v2yha9/brxtfrlko/632769
-
-#EXTINF:-1 tvg-ID="FOX (WUTV) Buffalo, NY" tvg-logo="" tvg-name="FOX" group-title="7 - English",FOX
-http://mytv.fun:8080/h02v2yha9/brxtfrlko/37066
-#EXTINF:-1 tvg-ID="FOX (WUTV) Buffalo, NY" tvg-logo="" tvg-name="FOX" group-title="7 - English",FOX
-http://ok2.se:8000/tonton/tonton/363
-
-
 
