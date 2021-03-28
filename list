@@ -8,18 +8,12 @@ https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
 
 #EXTINF:-1 tvg-ID="src-CBFT" tvg-name="CBFT" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI Montreal
 http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16696
-#EXTINF:-1 tvg-ID="src-CBFT" tvg-name="CBFT" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI Montreal
-http://ok2.se:8000/tonton/tonton/2399
 
 #EXTINF:-1 tvg-ID="TVA (CFTM) Montréal" tvg-name="CFMT" tvg-logo="https://s3.amazonaws.com/ok2logo/tva.png" group-title="1 - Quebec Base",TVA Montreal
 http://mytv.fun:8080/xdud9hgswo/ha69x2in69/53718
-#EXTINF:-1 tvg-ID="TVA (CFTM) Montréal" tvg-name="CFMT" tvg-logo="https://s3.amazonaws.com/ok2logo/tva.png" group-title="1 - Quebec Base",TVA Montreal
-http://ok2.se:8000/tonton/tonton/2395
 
 #EXTINF:-1 tvg-ID="V (CFJP) Montreal, QC" tvg-name="V (CFJP) Montreal, QC" tvg-logo="https://s3.amazonaws.com/ok2logo/CANALV+TV+logo.png" group-title="1 - Quebec Base",V-Tele
 https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
-#EXTINF:-1 tvg-ID="V (CFJP) Montreal, QC" tvg-name="V (CFJP) Montreal, QC" tvg-logo="https://s3.amazonaws.com/ok2logo/CANALV+TV+logo.png" group-title="1 - Quebec Base",V-Tele
-http://ok2.se:8000/tonton/tonton/9634
 
 #EXTINF:-1 tvg-ID="LCN" tvg-name="LCN" tvg-logo="https://s3.amazonaws.com/ok2logo/LCN.gif" group-title="1 - Quebec Base",LCN
 http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16697
@@ -47,7 +41,8 @@ http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16763
 http://supersonictv.live:25461/dalvin/dalvin/21983
 
 #EXTINF:-1,CA | RDS (FR)
-http://ultraplay.org:80/Abelkalive/8S4k45bB3r/76004
+http://bazarhd.online:80/307234110115/307234110115/81330
+
 #EXTINF:-1,CA | RDS 2 (FR)
 http://ultraplay.org:80/Abelkalive/8S4k45bB3r/76005
 #EXTINF:-1,CA | RDS INFO (FR)
@@ -124,26 +119,20 @@ http://ultraplay.org:80/Abelkalive/8S4k45bB3r/66834
 #EXTINF:-1,US | Fox Sports Racing FHD
 http://ultraplay.org:80/Abelkalive/8S4k45bB3r/75827
 
-
-#EXTINF:-1 tvg-ID="Fight Network Canada" tvg-name="Fight Network" group-title="6 - Sports EN",Fight Network
-http://mytv.fun:8080/xdud9hgswo/ha69x2in69/13748
-
-#EXTINF:-1 tvg-ID="UFC Fight Pass US" tvg-name="UFC Fight Pass US" group-title="6 - Sports EN",UFC Fight Pass US
-http://ok2.se:8000/tonton/tonton/71284
-
-#EXTINF:-1 tvg-ID="WWE" tvg-name="WWE" group-title="6 - Sports EN",WWE
-http://mytv.fun:8080/xdud9hgswo/ha69x2in69/14404
-
 #EXTINF:-1,CA | TSN_5
 http://ultraplay.org:80/Abelkalive/8S4k45bB3r/75914
 #EXTINF:-1,CA | TSN_4
 http://ultraplay.org:80/Abelkalive/8S4k45bB3r/75915
 #EXTINF:-1,CA | TSN_3
+http://ajstreamz.xyz:8080/Constance/constance/151353
+#EXTINF:-1,CA | TSN_3
 http://ultraplay.org:80/Abelkalive/8S4k45bB3r/75916
 #EXTINF:-1,CA | TSN_2
-http://ultraplay.org:80/Abelkalive/8S4k45bB3r/75917
+http://ajstreamz.xyz:8080/Matt1/matt2/151352
+#EXTINF:-1,CA | TSN_2
+http://ajstreamz.xyz:8080/Constance/constance/151352
 #EXTINF:-1,CA | TSN_1
-http://ultraplay.org:80/Abelkalive/8S4k45bB3r/75918
+http://ajstreamz.xyz:8080/Matt1/matt2/151346
 
 
 #EXTINF:-1,== English Channel======================
@@ -154,4 +143,3 @@ http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16814
 
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="" group-title="7 - English",CNN
 http://sonyiptv.net:8080/1122/1122/82437
-
