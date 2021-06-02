@@ -7,13 +7,17 @@
 #EXTINF:-1 tvg-id="RDI (News)" tvg-name="ICI RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="1 - Quebec Base",ICI RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|CA|FR| ICI RDI HD" tvg-logo="" group-title="CANADA FR",|CA|FR| ICI RDI HD
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/110092.ts
+http://cms.dvbprotv.com:88/Tomtree2021ex/a5Xfdrmk8phtJDhD/24863
 #EXTINF:-1 tvg-id="" tvg-name="|CA|FR| ICI RDI HD" tvg-logo="" group-title="CANADA FR",|CA|FR| ICI RDI HD
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/110068.ts
+http://66.206.39.25:8080/garry1/garry1/174634
 #EXTINF:-1 tvg-id="" tvg-name="|CA|FR| ICI RDI HD" tvg-logo="" group-title="CANADA FR",|CA|FR| ICI RDI HD
 http://iptvtree.net:8080/geniptv/4faed690fd/9257
 #EXTINF:-1 tvg-id="" tvg-name="|CA|FR| ICI RDI HD" tvg-logo="" group-title="CANADA FR",|CA|FR| ICI RDI HD
-http://cms.dvbprotv.com:88/Tomtree2021ex/a5Xfdrmk8phtJDhD/24863
+http://iptvtree.net:8080/geniptv/4faed690fd/9299
+#EXTINF:-1 tvg-id="" tvg-name="|CA|FR| ICI RDI HD" tvg-logo="" group-title="CANADA FR",|CA|FR| ICI RDI HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/110092.ts
+#EXTINF:-1 tvg-id="" tvg-name="|CA|FR| ICI RDI HD" tvg-logo="" group-title="CANADA FR",|CA|FR| ICI RDI HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/110068.ts
 
 
 #EXTINF:-1 tvg-ID="src-CBFT" tvg-name="CBFT" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI Montreal
