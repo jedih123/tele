@@ -1,10 +1,15 @@
 #EXTM3U
 
-
 #EXTINF:-1,== Base======================
 
 #EXTINF:-1 tvg-id="RDI (News)" tvg-name="ICI RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="1 - Quebec Base",ICI RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|CA|FR| ICI RDI HD" tvg-logo="" group-title="CANADA FR",|CA|FR| ICI RDI HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/110092.ts
+#EXTINF:-1 tvg-id="" tvg-name="|CA|FR| ICI RDI HD" tvg-logo="" group-title="CANADA FR",|CA|FR| ICI RDI HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/110068.ts
+#EXTINF:-1 tvg-id="" tvg-name="|CA|FR| ICI RDI HD" tvg-logo="" group-title="CANADA FR",|CA|FR| ICI RDI HD
+http://iptvtree.net:8080/geniptv/4faed690fd/9257
 #EXTINF:-1 tvg-id="" tvg-name="|CA|FR| ICI RDI HD" tvg-logo="" group-title="CANADA FR",|CA|FR| ICI RDI HD
 http://cms.dvbprotv.com:88/Tomtree2021ex/a5Xfdrmk8phtJDhD/24863
 #EXTINF:-1 tvg-id="" tvg-name="|CA|FR| ICI RDI HD" tvg-logo="" group-title="CANADA FR",|CA|FR| ICI RDI HD
@@ -12,9 +17,7 @@ http://185.71.64.167:80/8686607865/1287859652/83350
 
 #EXTINF:-1 tvg-ID="src-CBFT" tvg-name="CBFT" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI Montreal
 
-
 #EXTINF:-1 tvg-ID="TVA (CFTM) Montréal" tvg-name="CFMT" tvg-logo="https://s3.amazonaws.com/ok2logo/tva.png" group-title="1 - Quebec Base",TVA Montreal
-http://mytv.fun:8080/xdud9hgswo/ha69x2in69/53718
 
 #EXTINF:-1 tvg-ID="V (CFJP) Montreal, QC" tvg-name="V (CFJP) Montreal, QC" tvg-logo="https://s3.amazonaws.com/ok2logo/CANALV+TV+logo.png" group-title="1 - Quebec Base",V-Tele
 https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
@@ -35,10 +38,6 @@ http://185.71.64.167:80/8686607865/1287859652/83348
 
 #EXTINF:-1 tvg-ID="Z" tvg-name="Z" tvg-logo="https://s3.amazonaws.com/ok2logo/ztele.png" group-title="2 - Quebec Specialise",Z-Tele
 http://185.71.64.167:80/8686607865/1287859652/83370
-#EXTINF:-1 tvg-ID="Z" tvg-name="Z" tvg-logo="https://s3.amazonaws.com/ok2logo/ztele.png" group-title="2 - Quebec Specialise",Z-Tele
-http://mytv.fun:8080/xdud9hgswo/ha69x2in69/53699
-#EXTINF:-1 tvg-ID="Z" tvg-name="Z" tvg-logo="https://s3.amazonaws.com/ok2logo/ztele.png" group-title="2 - Quebec Specialise",Z-Tele
-http://185.71.64.167:80/8686607865/1287859652/81281
 
 
 #EXTINF:-1,== Kids======================
@@ -46,8 +45,6 @@ http://185.71.64.167:80/8686607865/1287859652/81281
 #EXTINF:-1 tvg-ID="TéléTOON - français" tvg-name="TELETOON FR" tvg-logo="https://s3.amazonaws.com/ok2logo/teletoon.png" group-title="3 - Kids",Teletoon FR
 http://185.71.64.167:80/8686607865/1287859652/81270
 
-#EXTINF:-1 tvg-id="" tvg-name="|CA|FR| ADDIKTV HD" tvg-logo="" group-title="CANADA FR",|CA|FR| ADDIKTV HD
-http://185.71.64.167:80/8686607865/1287859652/83376
 
 #EXTINF:-1,== Sport ======================
 
@@ -60,21 +57,7 @@ http://185.71.64.167:80/8686607865/1287859652/83267
 http://185.71.64.167:80/8686607865/1287859652/83237
 
 
-#EXTINF:-1 tvg-ID="RDS 2" tvg-name="RDS2" tvg-logo="https://s3.amazonaws.com/ok2logo/rds.png" group-title="4 - Sports FR",RDS2
-
 #EXTINF:-1 tvg-ID="TVA Sports" tvg-name="TVA Sports" tvg-logo="https://s3.amazonaws.com/ok2logo/tva1.png" group-title="4 - Sports FR",TVA Sports
-
-
-#EXTINF:-1,== Film======================
-
-#EXTINF:-1 tvg-ID="Super Ecran" tvg-name="Super Ecran" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran.png" group-title="5 - Film FR",Super Ecran
-
-#EXTINF:-1 tvg-ID="Super Ecran 2" tvg-name="Super Ecran2" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran2.png" group-title="5 - Film FR",Super Ecran 2
-
-#EXTINF:-1 tvg-ID="Super Ecran 3" tvg-name="Super Ecran3" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran3.png" group-title="5 - Film FR",Super Ecran 3
-
-#EXTINF:-1 tvg-ID="Super Ecran 4" tvg-name="Super Ecran4" tvg-logo="https://s3.amazonaws.com/ok2logo/superecran4.jpg" group-title="5 - Film FR",Super Ecran 4
-
 
 #EXTINF:-1,== SPORTS EN======================
 
@@ -83,8 +66,6 @@ http://mytv.fun:8080/xdud9hgswo/ha69x2in69/14329
 
 #EXTINF:-1 tvg-ID="F1" tvg-name="F1" group-title="6 - Sports EN",F1
 http://iptv-g.host:8880/K3/gx6pMYlwWj/2646434
-#EXTINF:-1 tvg-ID="F1" tvg-name="F1" group-title="6 - Sports EN",F1
-http://dreamtv.info:2086/GLOBSPAINS/ZNvMItC815/1128
 
 #EXTINF:-1,UK: Sky sport F1 HD
 http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/134
