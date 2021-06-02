@@ -6,8 +6,9 @@
 #EXTINF:-1 tvg-id="RDI (News)" tvg-name="ICI RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="1 - Quebec Base",ICI RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|CA|FR| ICI RDI HD" tvg-logo="" group-title="CANADA FR",|CA|FR| ICI RDI HD
+http://cms.dvbprotv.com:88/Tomtree2021ex/a5Xfdrmk8phtJDhD/24863
+#EXTINF:-1 tvg-id="" tvg-name="|CA|FR| ICI RDI HD" tvg-logo="" group-title="CANADA FR",|CA|FR| ICI RDI HD
 http://185.71.64.167:80/8686607865/1287859652/83350
-
 
 #EXTINF:-1 tvg-ID="src-CBFT" tvg-name="CBFT" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="1 - Quebec Base",ICI Montreal
 
