@@ -1,74 +1,68 @@
 #EXTM3U
 
-#EXTINF:-1,== Base======================
-
 #EXTINF:-1 tvg-id="RDI (News)" tvg-name="ICI RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="CANADA",ICI RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
 
 #EXTINF:-1 tvg-ID="src-CBFT" tvg-name="CBFT" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="CANADA",ICI Montreal
+https://list.iptvcat.com/my_list/s/f6e86b15bc358e5c08cb83109e0d0f02.m3u8
 
 #EXTINF:-1 tvg-ID="TVA (CFTM) Montréal" tvg-name="CFMT" tvg-logo="https://s3.amazonaws.com/ok2logo/tva.png" group-title="CANADA",TVA Montreal
+https://list.iptvcat.com/my_list/s/df84b6acb28f1361d504de06c14dafbc.m3u8
 
 #EXTINF:-1 tvg-ID="V (CFJP) Montreal, QC" tvg-name="V (CFJP) Montreal, QC" tvg-logo="https://s3.amazonaws.com/ok2logo/CANALV+TV+logo.png" group-title="CANADA",V-Tele
-https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
+https://list.iptvcat.com/my_list/s/b44554592854f293e9466c2213ab7d4d.m3u8
 
 #EXTINF:-1 tvg-ID="LCN" tvg-name="LCN" tvg-logo="https://s3.amazonaws.com/ok2logo/LCN.gif" group-title="CANADA",LCN
-http://iptvtree.net:8080/geniptv/4faed690fd/9300
-#EXTINF:-1 tvg-ID="LCN" tvg-name="LCN" tvg-logo="https://s3.amazonaws.com/ok2logo/LCN.gif" group-title="CANADA",LCN
-http://00322.xyz:8000/budalatino777/IBHxkUjGjH/127122
+https://list.iptvcat.com/my_list/s/fd0e1c7f6b03e33205436a5a9ad7afb1.m3u8
 
-#EXTINF:-1,== Special======================
 
 #EXTINF:-1 tvg-ID="Canal D" tvg-name="D" tvg-logo="https://s3.amazonaws.com/ok2logo/CANAL+D.png" group-title="CANADA" group-title="Quebec Specialise",CANAL D
-http://iptvtree.net:8080/geniptv/4faed690fd/486
+https://list.iptvcat.com/my_list/s/7548dee9c824dfa1d30ac92fe5b32886.m3u8
 
 #EXTINF:-1 tvg-ID="Z" tvg-name="Z" tvg-logo="https://s3.amazonaws.com/ok2logo/ztele.png" group-title="CANADA" group-title="Quebec Specialise",Z-Tele
+https://list.iptvcat.com/my_list/s/0129c319cc6f34c7605d587ce2ffecef.m3u8
 
-
-#EXTINF:-1,== Kids======================
 
 #EXTINF:-1 tvg-ID="TéléTOON - français" tvg-name="TELETOON FR" tvg-logo="https://s3.amazonaws.com/ok2logo/teletoon.png" group-title="CANADA" group-title="Kids",Teletoon FR
-http://iptvtree.net:8080/geniptv/4faed690fd/273999
-
-
-#EXTINF:-1,== Sport ======================
+https://list.iptvcat.com/my_list/s/f07b067c405752c896de3967dbd823a0.m3u8
 
 
 #EXTINF:-1 tvg-ID="RDS (Réseau des sports)" tvg-name="RDS" tvg-logo="https://s3.amazonaws.com/ok2logo/rds.png" group-title="CANADA" group-title="Sport",RDS
-http://iptvtree.net:8080/geniptv/4faed690fd/264458
+https://list.iptvcat.com/my_list/s/d39077a3f096dd879a35b2614ec55d7b.m3u8
 
 #EXTINF:-1 tvg-ID="TVA Sports" tvg-name="TVA Sports" tvg-logo="https://s3.amazonaws.com/ok2logo/tva1.png" group-title="CANADA" group-title="Sport",TVA Sports
-http://iptvtree.net:8080/geniptv/4faed690fd/500
+https://list.iptvcat.com/my_list/s/17a77987268b8436c2d2fde02ff4379e.m3u8
 
-#EXTINF:-1 tvg-ID="F1" tvg-name="F1" group-title="CANADA" group-title="Sport",F1
-http://iptv-g.host:8880/K3/gx6pMYlwWj/2646434
-#EXTINF:-1,US: Racing.com group-title="CANADA" group-title="Sport"
-http://iptvtree.net:8080/geniptv/4faed690fd/269132
 #EXTINF:-1,US: FOX SPORTS Racing HD group-title="CANADA" group-title="Sport"
-http://iptvtree.net:8080/geniptv/4faed690fd/2327
+https://list.iptvcat.com/my_list/s/93f45f3b445d72eff4d29af82cbd517a.m3u8
 
 #EXTINF:-1,UK: Sky Sports F1 HD group-title="CANADA" group-title="Sport"
-http://iptvtree.net:8080/geniptv/4faed690fd/265
+https://list.iptvcat.com/my_list/s/81e0b91a46587f66ad17f92a0cf9ffc9.m3u8
 
 #EXTINF:-1,CA: SportsNet 360 HD group-title="CANADA" group-title="Sport"
-http://iptvtree.net:8080/geniptv/4faed690fd/3377
+https://list.iptvcat.com/my_list/s/60060a058127fe6d826a96c3c9112f2f.m3u8
+
 #EXTINF:-1,CA: SportsNet HD group-title="CANADA" group-title="Sport"
-http://iptvtree.net:8080/geniptv/4faed690fd/1721
+https://list.iptvcat.com/my_list/s/aa200a303b3776e020bbee52b1f6227c.m3u8
+
 #EXTINF:-1,CA: SportsNet World FHD group-title="CANADA" group-title="Sport"
-http://iptvtree.net:8080/geniptv/4faed690fd/1720
+https://list.iptvcat.com/my_list/s/e46190bf751f57b3ac453da0de65e7b2.m3u8
 
 #EXTINF:-1,CA: TSN 1 HD group-title="CANADA" group-title="Sport"
-http://iptvtree.net:8080/geniptv/4faed690fd/770
-#EXTINF:-1,CA TSN 2 HD group-title="CANADA" group-title="Sport"
-http://iptvtree.net:8080/geniptv/4faed690fd/274905
-#EXTINF:-1,CA TSN 3 HD group-title="CANADA" group-title="Sport"
-http://iptvtree.net:8080/geniptv/4faed690fd/274906
-#EXTINF:-1,CA TSN 4 HD group-title="CANADA" group-title="Sport"
-http://iptvtree.net:8080/geniptv/4faed690fd/274907
-#EXTINF:-1,CA TSN 5 HD group-title="CANADA" group-title="Sport"
-http://iptvtree.net:8080/geniptv/4faed690fd/274908
+https://list.iptvcat.com/my_list/s/a88d7b0ca1f6acbc3f8d8f9ee0075de3.m3u8
 
+#EXTINF:-1,CA TSN 2 HD group-title="CANADA" group-title="Sport"
+https://list.iptvcat.com/my_list/s/f664cbba43e0825f411046a34351111f.m3u8
+
+#EXTINF:-1,CA TSN 3 HD group-title="CANADA" group-title="Sport"
+https://list.iptvcat.com/my_list/s/869bacd639f7d7a7eac3af80604915ed.m3u8
+
+#EXTINF:-1,CA TSN 4 HD group-title="CANADA" group-title="Sport"
+https://list.iptvcat.com/my_list/s/ff9b8a281fbb08281ea36e62029c44f4.m3u8
+
+#EXTINF:-1,CA TSN 5 HD group-title="CANADA" group-title="Sport"
+https://list.iptvcat.com/my_list/s/128c70547df097365c6a0292d3a9a4a7.m3u8
 
 
 #EXTINF:-1 tvg-ID="AMC - Canada" tvg-name="AMC - Canada" group-title="CANADA",AMC
-http://iptvtree.net:8080/geniptv/4faed690fd/503
+https://list.iptvcat.com/my_list/s/ebb7444045f13343f184f0265f2f20db.m3u8
