@@ -4,28 +4,25 @@
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
 
 #EXTINF:-1 tvg-ID="src-CBFT" tvg-name="CBFT" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="Canada",ICI Montreal
-https://list.iptvcat.com/my_list/s/f6e86b15bc358e5c08cb83109e0d0f02.m3u8
+https://list.iptvcat.com/my_list/s/d4a49ae5825711ed35b864950a2e35b2.m3u8
 
-#EXTINF:-1 tvg-ID="TVA (CFTM) Montréal" tvg-name="CFMT" tvg-logo="https://s3.amazonaws.com/ok2logo/tva.png" group-title="Canada",TVA Gatineau
-https://list.iptvcat.com/my_list/s/df84b6acb28f1361d504de06c14dafbc.m3u8
+#EXTINF:-1 tvg-ID="TVA (CFTM) Montréal" tvg-name="CFMT" tvg-logo="https://s3.amazonaws.com/ok2logo/tva.png" group-title="Canada",TVA Montreal
+https://list.iptvcat.com/my_list/s/5fbdc03c633f9a2715f067a5fe1b2178.m3u8
 
 #EXTINF:-1 tvg-ID="V (CFJP) Montreal, QC" tvg-name="V (CFJP) Montreal, QC" tvg-logo="https://s3.amazonaws.com/ok2logo/CANALV+TV+logo.png" group-title="Canada",V-Tele
-https://list.iptvcat.com/my_list/s/b44554592854f293e9466c2213ab7d4d.m3u8
+https://list.iptvcat.com/my_list/s/cb974e588204485d109b5cae8a1b0b97.m3u8
 
 #EXTINF:-1 tvg-ID="LCN" tvg-name="LCN" tvg-logo="https://s3.amazonaws.com/ok2logo/LCN.gif" group-title="Canada",LCN
-https://list.iptvcat.com/my_list/s/fd0e1c7f6b03e33205436a5a9ad7afb1.m3u8
-
+https://list.iptvcat.com/my_list/s/90d448ea93b69298361414bf13895aa4.m3u8
 
 #EXTINF:-1 tvg-ID="Canal D" tvg-name="D" tvg-logo="https://s3.amazonaws.com/ok2logo/CANAL+D.png" group-title="Canada",CANAL D
-https://list.iptvcat.com/my_list/s/7548dee9c824dfa1d30ac92fe5b32886.m3u8
+https://list.iptvcat.com/my_list/s/e7e1ff82d5ce2e8079de2c614b62b5a8.m3u8
 
 #EXTINF:-1 tvg-ID="Z" tvg-name="Z" tvg-logo="https://s3.amazonaws.com/ok2logo/ztele.png" group-title="Canada",Z-Tele
-https://list.iptvcat.com/my_list/s/0129c319cc6f34c7605d587ce2ffecef.m3u8
-
+https://list.iptvcat.com/my_list/s/57238f19c4db0c5951091c813ec2af53.m3u8
 
 #EXTINF:-1 tvg-ID="TéléTOON - français" tvg-name="TELETOON FR" tvg-logo="https://s3.amazonaws.com/ok2logo/teletoon.png" group-title="Canada",Teletoon FR
-https://list.iptvcat.com/my_list/s/f07b067c405752c896de3967dbd823a0.m3u8
-
+https://list.iptvcat.com/my_list/s/c156d1a836eb30a412b028d7f62f4b05.m3u8
 
 #EXTINF:-1 tvg-ID="RDS (Réseau des sports)" tvg-name="RDS" tvg-logo="https://s3.amazonaws.com/ok2logo/rds.png" group-title="Canada",RDS
 https://list.iptvcat.com/my_list/s/d39077a3f096dd879a35b2614ec55d7b.m3u8
