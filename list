@@ -9,7 +9,7 @@ https://list.iptvcat.com/my_list/s/d4a49ae5825711ed35b864950a2e35b2.m3u8
 #EXTINF:-1 tvg-ID="TVA (CFTM) Montréal" tvg-name="CFMT" tvg-logo="https://s3.amazonaws.com/ok2logo/tva.png" group-title="Canada",TVA Montreal
 https://list.iptvcat.com/my_list/s/e04d6566fa57d0eab36bc0087a7a97cc.m3u8
 
-#EXTINF:-1 tvg-ID="V (CFJP) Montreal" tvg-name="CFJP" tvg-logo="https://s3.amazonaws.com/ok2logo/CANALV+TV+logo.png" group-title="Canada",Noovo
+#EXTINF:-1 tvg-ID="V (CFJP) Montreal" tvg-name="CFJP" group-title="Canada",Noovo
 https://list.iptvcat.com/my_list/s/b44554592854f293e9466c2213ab7d4d.m3u8
 
 #EXTINF:-1 tvg-ID="LCN" tvg-name="LCN" tvg-logo="https://s3.amazonaws.com/ok2logo/LCN.gif" group-title="Canada",LCN
