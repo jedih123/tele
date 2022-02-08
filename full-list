@@ -1,19 +1,23 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="RDI (News)" tvg-name="ICI RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="Canada",ICI RDI
+http://encodercdn1.frontline.ca/encoder184/output/ICI_RDI_720p/playlist.m3u8	 
+#EXTINF:-1 tvg-id="RDI (News)" tvg-name="ICI RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="Canada",ICI RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 
 #EXTINF:-1 tvg-ID="src-CBFT" tvg-name="CBFT" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="Canada",ICI Montreal
-https://list.iptvcat.com/my_list/s/d4a49ae5825711ed35b864950a2e35b2.m3u8
+https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master.m3u8
+#EXTINF:-1 tvg-ID="src-CBFT" tvg-name="CBFT" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="Canada",ICI Montreal
+https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8	 
 
 #EXTINF:-1 tvg-ID="TVA (CFTM) Montréal" tvg-name="CFMT" tvg-logo="https://s3.amazonaws.com/ok2logo/tva.png" group-title="Canada",TVA Montreal
-https://list.iptvcat.com/my_list/s/e04d6566fa57d0eab36bc0087a7a97cc.m3u8
+https://tvalive-nondai.akamaized.net/Content/HLS/Live/channel(a7315e07-037c-12a8-bdc8-da7bd513da9d)/index.m3u8
 
 #EXTINF:-1 tvg-ID="V (CFJP) Montreal" tvg-name="CFJP" tvg-logo="https://s3.amazonaws.com/ok2logo/CANALV+TV+logo.png" group-title="Canada",Noovo
 https://list.iptvcat.com/my_list/s/b44554592854f293e9466c2213ab7d4d.m3u8
 
 #EXTINF:-1 tvg-ID="LCN" tvg-name="LCN" tvg-logo="https://s3.amazonaws.com/ok2logo/LCN.gif" group-title="Canada",LCN
-https://list.iptvcat.com/my_list/s/90d448ea93b69298361414bf13895aa4.m3u8
+https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
 
 #EXTINF:-1 tvg-ID="CBC" tvg-name="CBC" tvg-logo="https://s3.amazonaws.com/ok2logo/CBC.gif" group-title="Canada",CBC
 https://list.iptvcat.com/my_list/s/a173a883a74c69ce2ee682b093bdb345.m3u8
@@ -36,8 +40,19 @@ https://list.iptvcat.com/my_list/s/f2eb23c6883191b5425ce48a363fcd52.m3u8
 #EXTINF:-1 tvg-ID="AMC - Canada" tvg-name="Canada",AMC
 https://list.iptvcat.com/my_list/s/ebb7444045f13343f184f0265f2f20db.m3u8
 
-#EXTINF:-1 tvg-ID="MVTV" tvg-name="Sport",MAVTV
-https://list.iptvcat.com/my_list/s/beff67ab3004ab80f4814f59b924ab4e.m3u8
+#EXTINF:-1 tvg-ID="TSN1" tvg-name="Sport",TSN1
+http://encodercdn1.frontline.ca/encoder183/output/TSN1_720p/playlist.m3u8	 
+#EXTINF:-1 tvg-ID="TSN2" tvg-name="Sport",TSN2
+http://encodercdn1.frontline.ca/encoder182/output/TSN2_720p/playlist.m3u8	 
+#EXTINF:-1 tvg-ID="TSN3" tvg-name="Sport",TSN3
+http://encodercdn1.frontline.ca/encoder183/output/TSN3_720p/playlist.m3u8	 
+#EXTINF:-1 tvg-ID="TSN4" tvg-name="Sport",TSN4
+http://encodercdn1.frontline.ca/encoder183/output/TSN4_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-ID="RedBull TV" tvg-name="Sport",RedBull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-ID="RedBull TV" tvg-name="Sport",RedBull TV
+https://rbmn-live.akamaized.net/hls/live/622817/BoRB-US/master_928.m3u8
 
 #EXTINF:-1 tvg-ID="MVTV" tvg-name="Sport",MAVTV
 https://list.iptvcat.com/my_list/s/29abb0ec6f634de843c97ebf0b2979f0.m3u8
@@ -55,56 +70,65 @@ https://list.iptvcat.com/my_list/s/f6cee2f816925329eb85c99aef24db81.m3u8
 
 #EXTINF:-1,Brazzers (18+) US
 http://mytv.fun:8080/xdud9hgswo/ha69x2in69/13403
-#EXTINF:-1,BANG BROS
-http://mytv.fun:8080/xdud9hgswo/ha69x2in69/19670
-#EXTINF:-1,Blacked FHD (18+)
-http://mytv.fun:8080/xdud9hgswo/ha69x2in69/5495
-#EXTINF:-1,ButGo (18+)
-http://mytv.fun:8080/xdud9hgswo/ha69x2in69/19684
-#EXTINF:-1,Dusk (18+)
-http://mytv.fun:8080/xdud9hgswo/ha69x2in69/19678
-#EXTINF:-1,Hustler (18+) US
-http://mytv.fun:8080/xdud9hgswo/ha69x2in69/5525
-#EXTINF:-1,LEGAL PORNO
-http://mytv.fun:8080/xdud9hgswo/ha69x2in69/674063
-#EXTINF:-1,Penthouse Gold FHD (18+) US
-http://mytv.fun:8080/xdud9hgswo/ha69x2in69/13863
-#EXTINF:-1,Play Boy CA (+18)
-http://mytv.fun:8080/xdud9hgswo/ha69x2in69/17717
-#EXTINF:-1,PlayBoy TV (18+)
-http://mytv.fun:8080/xdud9hgswo/ha69x2in69/19673
-#EXTINF:-1,Vivid RED FHD (18+) US
-http://mytv.fun:8080/xdud9hgswo/ha69x2in69/13864
-#EXTINF:-1,Redlight FHD (18+)
-http://mytv.fun:8080/xdud9hgswo/ha69x2in69/674061
-#EXTINF:-1,Reality Kings (18+) US
-http://mytv.fun:8080/xdud9hgswo/ha69x2in69/13399
-#EXTINF:-1,Reality Sex (18+)
-http://mytv.fun:8080/xdud9hgswo/ha69x2in69/19670
-#EXTINF:-1,Vivid TV CA-FR (18+)
-http://mytv.fun:8080/xdud9hgswo/ha69x2in69/53706
+
 
 #EXTINF:-1,XXX: Bang U
 http://iptvtree.net:8080/geniptv/4faed690fd/3330
-#EXTINF:-1,XXX: BARELY LEGAL
-http://iptvtree.net:8080/geniptv/4faed690fd/92037
-#EXTINF:-1,XXX: BRAZZERS TV
-http://iptvtree.net:8080/geniptv/4faed690fd/79
-#EXTINF:-1,XXX: DUSK!
-http://iptvtree.net:8080/geniptv/4faed690fd/75
-#EXTINF:-1,XXX: PENTHOUSE GOLD FHD
-http://iptvtree.net:8080/geniptv/4faed690fd/32056
-#EXTINF:-1,XXX: PLAYBOY
-http://iptvtree.net:8080/geniptv/4faed690fd/14222
-#EXTINF:-1,XXX: PRIVATE HD
-http://iptvtree.net:8080/geniptv/4faed690fd/3281
-#EXTINF:-1,XXX: REALITY KINGS HD
-http://iptvtree.net:8080/geniptv/4faed690fd/383
-#EXTINF:-1,XXX: REDLIGHT FHD
-http://iptvtree.net:8080/geniptv/4faed690fd/85
-#EXTINF:-1,XXX: VENUS TV
-http://iptvtree.net:8080/geniptv/4faed690fd/3258
-#EXTINF:-1,XXX: VIVID RED HD
-http://iptvtree.net:8080/geniptv/4faed690fd/3989
 
+#EXTINF:-1,XXX: Anal
+http://cdn.adultiptv.net/anal.m3u8	 
+#EXTINF:-1,XXX: Big Ass
+http://cdn.adultiptv.net/bigass.m3u8
+#EXTINF:-1,XXX: Big Ass
+http://live.redtraffic.xyz/bigass.m3u8
+#EXTINF:-1,XXX: Big Dick
+http://cdn.adultiptv.net/bigdick.m3u8	 
+#EXTINF:-1,XXX: Big Dick
+http://live.redtraffic.xyz/bigdick.m3u8	 
+#EXTINF:-1,XXX: Big Tits
+http://cdn.adultiptv.net/bigtits.m3u8	 
+#EXTINF:-1,XXX: Big Tits
+http://live.redtraffic.xyz/bigtits.m3u8	 
+#EXTINF:-1,XXX: Blonde
+http://cdn.adultiptv.net/blonde.m3u8	 
+#EXTINF:-1,XXX: Blowjob
+http://cdn.adultiptv.net/blowjob.m3u8	 
+#EXTINF:-1,XXX: Blowjob
+http://live.redtraffic.xyz/blowjob.m3u8	 
+#EXTINF:-1,XXX: Blunette
+http://cdn.adultiptv.net/brunette.m3u8	 
+#EXTINF:-1,XXX: Compilation
+http://cdn.adultiptv.net/compilation.m3u8	 
+#EXTINF:-1,XXX: Cuckold
+http://cdn.adultiptv.net/cuckold.m3u8	 
+#EXTINF:-1,XXX: Cockold
+http://live.redtraffic.xyz/cuckold.m3u8	 
+#EXTINF:-1,XXX: Gangbang
+http://cdn.adultiptv.net/gangbang.m3u8	 
+#EXTINF:-1,XXX: Gangbang
+http://live.redtraffic.net/gangbang.m3u8	 
+#EXTINF:-1,XXX: Hardcore
+http://cdn.adultiptv.net/hardcore.m3u8	 
+#EXTINF:-1,XXX: Hardcore
+http://live.redtraffic.xyz/hardcore.m3u8	 
+#EXTINF:-1,XXX: Interracial
+http://cdn.adultiptv.net/interracial.m3u8	 
+#EXTINF:-1,XXX: Interracial
+http://live.redtraffic.xyz/interracial.m3u8	 
+#EXTINF:-1,XXX: MILF
+http://cdn.adultiptv.net/milf.m3u8	 
+#EXTINF:-1,XXX: MILF
+http://live.redtraffic.xyz/milf.m3u8	 
+#EXTINF:-1,XXX: Pornstar
+http://cdn.adultiptv.net/pornstar.m3u8	 
+#EXTINF:-1,XXX: Pornstar
+http://live.redtraffic.xyz/pornstar.m3u8	 
+#EXTINF:-1,XXX: POV
+http://cdn.adultiptv.net/pov.m3u8	 
+#EXTINF:-1,XXX: POV
+http://live.redtraffic.xyz/pov.m3u8	 
+#EXTINF:-1,XXX: Threesome
+http://cdn.adultiptv.net/threesome.m3u8	 
+#EXTINF:-1,XXX: Threesome
+http://live.redtraffic.xyz/threesome.m3u8	 
 
