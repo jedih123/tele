@@ -3,7 +3,9 @@
 #EXTINF:-1 tvg-id="RDI (News)" tvg-name="ICI RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="Canada",ICI RDI
 http://encodercdn1.frontline.ca/encoder184/output/ICI_RDI_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="RDI (News)" tvg-name="ICI RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="Canada",ICI RDI
-https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+https://list.iptvcat.com/my_list/s/a2f7028f59bbfaaf9b4b462746be0fe8.m3u8
+#EXTINF:-1 tvg-id="RDI (News)" tvg-name="ICI RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="Canada",ICI RDI
+https://list.iptvcat.com/my_list/s/04b7621f4fc17ace4e4d636eb8fdff9a.m3u8
 
 #EXTINF:-1 tvg-ID="src-CBFT" tvg-name="CBFT" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="Canada",ICI Montreal
 https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master.m3u8
