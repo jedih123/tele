@@ -1,6 +1,8 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="RDI (News)" tvg-name="ICI RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="Canada",ICI RDI
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/49018
+#EXTINF:-1 tvg-id="RDI (News)" tvg-name="ICI RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="Canada",ICI RDI
 http://encodercdn1.frontline.ca/encoder184/output/ICI_RDI_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="RDI (News)" tvg-name="ICI RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="Canada",ICI RDI
 https://list.iptvcat.com/my_list/s/a2f7028f59bbfaaf9b4b462746be0fe8.m3u8
