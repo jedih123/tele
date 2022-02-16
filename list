@@ -3,11 +3,7 @@
 #EXTINF:-1 tvg-id="RDI (News)" tvg-name="ICI RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="Canada",ICI RDI
 http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/49018
 #EXTINF:-1 tvg-id="RDI (News)" tvg-name="ICI RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="Canada",ICI RDI
-http://encodercdn1.frontline.ca/encoder184/output/ICI_RDI_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="RDI (News)" tvg-name="ICI RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="Canada",ICI RDI
-https://list.iptvcat.com/my_list/s/a2f7028f59bbfaaf9b4b462746be0fe8.m3u8
-#EXTINF:-1 tvg-id="RDI (News)" tvg-name="ICI RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="Canada",ICI RDI
-https://list.iptvcat.com/my_list/s/04b7621f4fc17ace4e4d636eb8fdff9a.m3u8
+https://list.iptvcat.com/my_list/s/a13984bfb5da7cf4a5fe06c0ca128677.m3u8
 
 #EXTINF:-1 tvg-ID="src-CBFT" tvg-name="CBFT" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="Canada",ICI Montreal
 https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master.m3u8
@@ -29,9 +25,6 @@ https://list.iptvcat.com/my_list/s/a173a883a74c69ce2ee682b093bdb345.m3u8
 #EXTINF:-1 tvg-ID="Canal D" tvg-name="D" tvg-logo="https://s3.amazonaws.com/ok2logo/CANAL+D.png" group-title="Canada",CANAL D
 https://list.iptvcat.com/my_list/s/c90c75ec73bdaebc7aa481405a8402f9.m3u8
 
-#EXTINF:-1 tvg-ID="Z" tvg-name="Z" tvg-logo="https://s3.amazonaws.com/ok2logo/ztele.png" group-title="Canada",Z-Tele
-https://list.iptvcat.com/my_list/s/c02e1749f6b614ca6689792965c3b9f6.m3u8
-
 #EXTINF:-1 tvg-ID="RDS (Réseau des sports)" tvg-name="RDS" tvg-logo="https://s3.amazonaws.com/ok2logo/rds.png" group-title="Canada",RDS
 https://list.iptvcat.com/my_list/s/0ce22edd6f550b38a5f9ae3e80efa3fc.m3u8
 
@@ -45,108 +38,13 @@ https://list.iptvcat.com/my_list/s/f2eb23c6883191b5425ce48a363fcd52.m3u8
 https://list.iptvcat.com/my_list/s/ebb7444045f13343f184f0265f2f20db.m3u8
 
 #EXTINF:-1 tvg-ID="TSN1" tvg-name="Sport",TSN1
-http://encodercdn1.frontline.ca/encoder183/output/TSN1_720p/playlist.m3u8
+
 #EXTINF:-1 tvg-ID="TSN2" tvg-name="Sport",TSN2
-http://encodercdn1.frontline.ca/encoder182/output/TSN2_720p/playlist.m3u8
+
 #EXTINF:-1 tvg-ID="TSN3" tvg-name="Sport",TSN3
-http://encodercdn1.frontline.ca/encoder183/output/TSN3_720p/playlist.m3u8
+
 #EXTINF:-1 tvg-ID="TSN4" tvg-name="Sport",TSN4
-http://encodercdn1.frontline.ca/encoder183/output/TSN4_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-ID="RedBull TV" tvg-name="Sport",RedBull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
 #EXTINF:-1 tvg-ID="RedBull TV" tvg-name="Sport",RedBull TV
-https://rbmn-live.akamaized.net/hls/live/622817/BoRB-US/master_928.m3u8
-
-#EXTINF:-1 tvg-ID="MVTV" tvg-name="Sport",MAVTV
-https://list.iptvcat.com/my_list/s/29abb0ec6f634de843c97ebf0b2979f0.m3u8
-
-#EXTINF:-1 tvg-ID="MVTV UK" tvg-name="Sport",MAVTV Uk
-https://list.iptvcat.com/my_list/s/29abb0ec6f634de843c97ebf0b2979f0.m3u8
-
-#EXTINF:-1 tvg-ID="F1 UK" tvg-name="Sport",F1 Uk
-https://list.iptvcat.com/my_list/s/173c368c2089240c4b7e80c449433cd9.m3u8
-
-#EXTINF:-1 tvg-ID="Fox Sports" tvg-name="Sport",Fox Sports
-https://list.iptvcat.com/my_list/s/f6cee2f816925329eb85c99aef24db81.m3u8
-
-#EXTINF:-1,CA:AMC
-http://smartestv.vip:2095/ABHVYOP/2387998104/4813
-#EXTINF:-1,CA:CBC
-http://smartestv.vip:2095/ABHVYOP/2387998104/4020
-#EXTINF:-1,CA:Crave-1-HD
-http://smartestv.vip:2095/ABHVYOP/2387998104/100443
-#EXTINF:-1,CA:Crave-2-HD
-http://smartestv.vip:2095/ABHVYOP/2387998104/100442
-#EXTINF:-1,CA:Crave-3-HD
-http://smartestv.vip:2095/ABHVYOP/2387998104/100441
-#EXTINF:-1,CA:Crave-4-HD
-http://smartestv.vip:2095/ABHVYOP/2387998104/100440
-#EXTINF:-1,CA:Fox_East
-http://smartestv.vip:2095/ABHVYOP/2387998104/4011
-#EXTINF:-1,CA:FX
-http://smartestv.vip:2095/ABHVYOP/2387998104/4811
-#EXTINF:-1,CA:FXX
-http://smartestv.vip:2095/ABHVYOP/2387998104/4818
-#EXTINF:-1,CA:Global
-http://smartestv.vip:2095/ABHVYOP/2387998104/4023
-#EXTINF:-1,CA:HBO_1
-http://smartestv.vip:2095/ABHVYOP/2387998104/4010
-#EXTINF:-1,CA:HBO_2
-http://smartestv.vip:2095/ABHVYOP/2387998104/4009
-#EXTINF:-1,CA:ICI_MONTREAL_FR
-http://smartestv.vip:2095/ABHVYOP/2387998104/21523
-#EXTINF:-1,CA:LCN_FR
-http://smartestv.vip:2095/ABHVYOP/2387998104/21521
-#EXTINF:-1,CA:RDI_FR
-http://smartestv.vip:2095/ABHVYOP/2387998104/21518
-#EXTINF:-1,CA:RDS_2
-http://smartestv.vip:2095/ABHVYOP/2387998104/4796
-#EXTINF:-1,CA:RDS_2_FR
-http://smartestv.vip:2095/ABHVYOP/2387998104/21516
-#EXTINF:-1,CA:RDS_FR
-http://smartestv.vip:2095/ABHVYOP/2387998104/21517
-#EXTINF:-1,CA:RDS_INFO_FR
-http://smartestv.vip:2095/ABHVYOP/2387998104/21515
-#EXTINF:-1,CA:SportsNet_360
-http://smartestv.vip:2095/ABHVYOP/2387998104/4798
-#EXTINF:-1,CA:SportsNet_East
-http://smartestv.vip:2095/ABHVYOP/2387998104/4797
-#EXTINF:-1,CA:SportsNet_One
-http://smartestv.vip:2095/ABHVYOP/2387998104/4800
-#EXTINF:-1,CA:SportsNet_Ontario
-http://smartestv.vip:2095/ABHVYOP/2387998104/4799
-#EXTINF:-1,CA:SportsNet_Pacific
-http://smartestv.vip:2095/ABHVYOP/2387998104/4805
-#EXTINF:-1,CA:SportsNet_West
-http://smartestv.vip:2095/ABHVYOP/2387998104/4801
-#EXTINF:-1,CA:SportsNet_World
-http://smartestv.vip:2095/ABHVYOP/2387998104/4802
-#EXTINF:-1,CA:SUPER_ECRAN_1
-http://smartestv.vip:2095/ABHVYOP/2387998104/31947
-#EXTINF:-1,CA:SUPER_ECRAN_2
-http://smartestv.vip:2095/ABHVYOP/2387998104/31946
-#EXTINF:-1,CA:SUPER_ECRAN_3
-http://smartestv.vip:2095/ABHVYOP/2387998104/31945
-#EXTINF:-1,CA:SUPER_ECRAN_4
-http://smartestv.vip:2095/ABHVYOP/2387998104/31944
-#EXTINF:-1,CA:Teletoon_HD
-http://smartestv.vip:2095/ABHVYOP/2387998104/3680
-#EXTINF:-1,CA:TELE_TOON_FR
-http://smartestv.vip:2095/ABHVYOP/2387998104/31942
-#EXTINF:-1,CA:TSN_1
-http://smartestv.vip:2095/ABHVYOP/2387998104/4791
-#EXTINF:-1,CA:TSN_2
-http://smartestv.vip:2095/ABHVYOP/2387998104/4792
-#EXTINF:-1,CA:TSN_3
-http://smartestv.vip:2095/ABHVYOP/2387998104/4793
-#EXTINF:-1,CA:TSN_4
-http://smartestv.vip:2095/ABHVYOP/2387998104/4794
-#EXTINF:-1,CA:TSN_5
-http://smartestv.vip:2095/ABHVYOP/2387998104/4795
-#EXTINF:-1,CA:TVA_SPORTS_FR
-http://smartestv.vip:2095/ABHVYOP/2387998104/21510
-#EXTINF:-1,CA:TVA-Montreal
-http://smartestv.vip:2095/ABHVYOP/2387998104/67331
-#EXTINF:-1,CA:V_MONTREAL_FR
-http://smartestv.vip:2095/ABHVYOP/2387998104/21509
