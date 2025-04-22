@@ -1,0 +1,24 @@
+<advancedsettings>
+    <videodatabase>
+    <type>mysql</type>
+    <host>192.168.69.110</host>
+    <port>3307</port>
+    <user>kodi</user>
+    <pass>nmt123</pass>
+	<name>myvideo</name>
+  </videodatabase> 
+  <videolibrary>
+    <importwatchedstate>true</importwatchedstate>
+    <importresumepoint>true</importresumepoint>
+  </videolibrary>
+  <pathsubstitution>
+  <substitute>
+    <from>special://masterprofile/Thumbnails/</from>
+    <to>smb://nmt:dia12man@192.168.69.111/Nas/Video/@@Kodi/Thumbnails/</to>
+  </substitute>
+  <substitute>
+    <from>special://profile/Thumbnails/</from>
+    <to>smb://nmt:dia12man@192.168.69.111/Nas/Video/@@Kodi/Thumbnails/</to>
+  </substitute>
+ </pathsubstitution>
+</advancedsettings>
